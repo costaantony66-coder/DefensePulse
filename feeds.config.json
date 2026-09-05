@@ -10,9 +10,9 @@
     "url": "https://www.forcesoperations.com/feed/"
   },
   {
-    "key": "eu",
-    "label": "EU Defense Policy",
-    "url": "https://www.defenseone.com/feed/"
+    "key": "eda_eu",
+    "label": "Agence Européenne de Défense (EN)",
+    "url": "https://eda.europa.eu/rss"
   },
   {
     "key": "geo",
