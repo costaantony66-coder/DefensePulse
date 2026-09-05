@@ -1,0 +1,54 @@
+name: Mise à jour des flux
+
+on:
+  # Fréquence de synchronisation automatique. GitHub n'exécute pas toujours
+  # pile à l'heure sous forte charge : comptez 15-30 min de marge en pratique.
+  # Voir le README pour l'arbitrage fréquence / minutes Actions consommées.
+  schedule:
+    - cron: '*/20 * * * *'
+  # Permet de déclencher une synchro manuelle depuis l'onglet "Actions" du repo.
+  workflow_dispatch:
+  # Relance aussi la synchro dès qu'on modifie la liste des sources.
+  push:
+    paths:
+      - 'feeds.config.json'
+      - 'scripts/fetch-feeds.mjs'
+
+# Nécessaire pour que le workflow puisse pousser (commit) le fichier de données.
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feeds
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupération du dépôt
+        uses: actions/checkout@v4
+
+      - name: Installation de Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Installation des dépendances
+        run: npm install
+
+      - name: Récupération des flux RSS
+        run: npm run fetch-feeds
+
+      - name: Publication si les données ont changé
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json
+          if git diff --cached --quiet; then
+            echo "Aucun nouvel article — rien à publier."
+          else
+            git commit -m "chore: mise à jour automatique des flux [skip ci]"
+            git push
+          fi
