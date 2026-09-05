@@ -1,10 +1,307 @@
 {
-  "generatedAt": null,
+  "generatedAt": "2026-09-05T16:07:11.335Z",
   "sources": [
-    { "key": "opex", "label": "Opex360", "url": "https://www.opex360.com/feed/" },
-    { "key": "fob", "label": "Forces Opérations", "url": "https://www.forcesoperations.com/feed/" },
-    { "key": "eu", "label": "EU Defense Policy", "url": "https://www.defenseone.com/feed/" },
-    { "key": "geo", "label": "Géopolitique & Défense", "url": "https://www.lemonde.fr/defense/rss_full.xml" }
+    {
+      "key": "opex",
+      "label": "Opex360",
+      "url": "https://www.opex360.com/feed/"
+    },
+    {
+      "key": "fob",
+      "label": "Forces Opérations",
+      "url": "https://www.forcesoperations.com/feed/"
+    },
+    {
+      "key": "eu",
+      "label": "EU Defense Policy",
+      "url": "https://www.defenseone.com/feed/"
+    },
+    {
+      "key": "geo",
+      "label": "Géopolitique & Défense",
+      "url": "https://www.lemonde.fr/defense/rss_full.xml"
+    }
   ],
-  "items": []
+  "items": [
+    {
+      "title": "Le français Safran va fournir un «volume important» de systèmes optroniques d’observation à l’armée allemande",
+      "link": "https://www.opex360.com/2026/09/05/le-francais-safran-va-fournir-un-volume-important-de-systemes-optroniques-dobservation-a-larmee-allemande/",
+      "pubDate": "2026-09-05T13:51:29.000Z",
+      "description": "Selon la dernière édition du rapport au Parlement sur les exportations d’armement de la France, le montant des commandes passées par le ministère allemand de la Défense auprès de l’industrie française de l’armement est en constante augmentation depuis trois ans. Presque anecdotique en 2016 [avec seulement 58,9 millions d’euros], celui-ci a presque doublé entre 2024...\nCet article Le français Safran va fournir un «volume important» de systèmes optroniques d’observation à l’armée allemande est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Pour économiser 30 millions de livres sterling, Londres suspend une partie des exercices de la British Army",
+      "link": "https://www.opex360.com/2026/09/05/pour-economiser-30-millions-de-livres-sterling-londres-suspend-une-partie-des-exercices-de-la-british-army/",
+      "pubDate": "2026-09-05T11:03:47.000Z",
+      "description": "L’adage est bien connu au sein des armées : la sueur épargne le sang. En d’autres termes, l’entraînement des forces est fondamental non seulement pour limiter les pertes mais aussi – et c’est le but final – pour prendre le dessus sur l’adversaire. Les récents débats sur l’actualisation de la Loi de programmation militaire [LPM]...\nCet article Pour économiser 30 millions de livres sterling, Londres suspend une partie des exercices de la British Army est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "L’Arabie saoudite veut acquérir des bombes et des moteurs de chars Abrams auprès des États-Unis pour 6 milliards de dollars",
+      "link": "https://www.opex360.com/2026/09/05/larabie-saoudite-veut-acquerir-des-bombes-et-des-moteurs-de-chars-abrams-aupres-des-etats-unis-pour-6-milliards-de-dollars/",
+      "pubDate": "2026-09-05T09:45:40.000Z",
+      "description": "En mai 2025, lors d’une visite du président américain, Donald Trump, à Riyad, l’Arabie saoudite avait exprimé l’intention de commander des équipements militaires auprès des États-Unis pour un montant total de 142 milliards de dollars. «Les ventes que nous avons l’intention de réaliser se répartissent en cinq grandes catégories, à savoir : le développement des...\nCet article L’Arabie saoudite veut acquérir des bombes et des moteurs de chars Abrams auprès des États-Unis pour 6 milliards de dollars est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "« Tout ne s’écrit pas à Paris » : la formule gagnante des pôles exploratoires de l’armée de Terre",
+      "link": "https://forcesoperations.com/tout-ne-secrit-pas-a-paris-la-formule-gagnante-des-poles-exploratoires-de-larmee-de-terre/",
+      "pubDate": "2026-09-05T08:51:49.000Z",
+      "description": "L'innovation se construit aussi en région pour l'armée de Terre. Ses pôles exploratoires y sont maintenant à pied d'oeuvre depuis un an, premiers résultats et premier bilan encourageant à la clef. \nThe post « Tout ne s’écrit pas à Paris » : la formule gagnante des pôles exploratoires de l’armée de Terre  appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "La Direction générale de l’armement a notifié les premiers contrats pour le développement du Rafale F5",
+      "link": "https://www.opex360.com/2026/09/04/la-direction-generale-de-larmement-a-notifie-les-premiers-contrats-pour-le-developpement-du-rafale-f5/",
+      "pubDate": "2026-09-04T17:36:32.000Z",
+      "description": "Selon la Loi de programmation militaire [LPM] 2024-30 actualisée, quarante-sept Rafale F5 devront avoir été livrés à l’armée de l’Air & de l’Espace – plus précisément aux Forces aériennes stratégiques [FAS] – d’ici 2035. Autant dire qu’il n’y a guère de temps à perdre pour concevoir, développer et tester ce nouveau standard… Lors de la...\nCet article La Direction générale de l’armement a notifié les premiers contrats pour le développement du Rafale F5 est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "La Croatie va commander dix-huit lance-roquettes multiples K239 Chunmoo auprès de la Corée du Sud",
+      "link": "https://www.opex360.com/2026/09/04/la-croatie-va-commander-dix-huit-lance-roquettes-multiples-k239-chunmoo-aupres-de-la-coree-du-sud/",
+      "pubDate": "2026-09-04T16:25:33.000Z",
+      "description": "En 2015, la Croatie avait manifesté auprès des États-Unis l’intention d’acquérir des lance-roquettes multiples [LRM] M270 MLRS ainsi que des missiles balistiques tactiques sol-sol MGM-140 ATACMS [Army TACtical Missile System] d’une portée de 300 km. «Ce sont des armes puissantes qui bouleversent complètement l’équilibre militaire dans la région», avait commenté le quotidien croate Jutarnji list,...\nCet article La Croatie va commander dix-huit lance-roquettes multiples K239 Chunmoo auprès de la Corée du Sud est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Le Service industriel de l’aéronautique va s’impliquer dans le maintien en condition opérationnelle des chars Leclerc",
+      "link": "https://www.opex360.com/2026/09/04/le-service-industriel-de-laeronautique-va-simpliquer-dans-le-maintien-en-condition-operationnelle-des-chars-leclerc/",
+      "pubDate": "2026-09-04T14:26:23.000Z",
+      "description": "En 2021, la maintenance des chars Leclerc fut de nouveau confiée à KNDS France dans le cadre du marché de soutien en service n° 2 [MSS2] notifié par la Structure intégrée du maintien en condition opérationnelle des matériels terrestres [SIMMT] pour un montant de 1 milliard d’euros sur dix ans. À l’époque, le ministère des...\nCet article Le Service industriel de l’aéronautique va s’impliquer dans le maintien en condition opérationnelle des chars Leclerc est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Opérations spéciales : L’Escadron de transport 3/61 Poitou troque ses C-130H Hercules contre des A400M Atlas",
+      "link": "https://www.opex360.com/2026/09/04/operations-speciales-lescadron-de-transport-3-61-poitou-troque-ses-c-130h-hercules-contre-des-a400m-atlas/",
+      "pubDate": "2026-09-04T10:45:14.000Z",
+      "description": "Publié en 2014, un rapport parlementaire s’était interrogé sur la capacité de l’avion de transport A400M «Atlas» à être engagé dans des opérations spéciales, d’autant plus qu’Airbus avait alors des difficultés pour développer certaines de ses fonctionnalités, comme le ravitaillement en vol des hélicoptères, le largage simultané de parachutistes par ses deux portières latérales, le...\nCet article Opérations spéciales : L’Escadron de transport 3/61 Poitou troque ses C-130H Hercules contre des A400M Atlas est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "La cavalerie française entre réécriture de MGCS et ébauche de char intermédiaire",
+      "link": "https://forcesoperations.com/la-cavalerie-francaise-entre-reecriture-de-mgcs-et-ebauche-de-char-intermediaire/",
+      "pubDate": "2026-09-04T08:15:18.000Z",
+      "description": "Le programme franco-allemand MGCS se recentre sur le combat collaboratif, tandis que la recherche d'un char intermédiaire pour relever le Leclerc se précise côté français. La poussière des annonces estivales désormais retombée, le point sur ces deux programmes officiellement imbriqués. Une capacité intermédiaire sur les rails « Ce dont je suis certain, c'est que, comme toutes […]\nThe post La cavalerie française entre réécriture de MGCS et ébauche de char intermédiaire appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "L’armée de Terre fait son mea culpa après l’abandon du drone tactique Patroller",
+      "link": "https://www.opex360.com/2026/09/03/larmee-de-terre-fait-son-mea-culpa-apres-labandon-du-drone-tactique-patroller/",
+      "pubDate": "2026-09-03T17:08:48.000Z",
+      "description": "Notifié à Safran Electronics & Defense par la Direction générale de l’armement [DGA] pour 330 millions d’euros en 2016, le programme «Système de drones tactiques» [SDT] prévoyait initialement de livrer quatorze drones Patroller à l’armée de Terre à partir de 2018. Mais des difficultés techniques, accrues par la perte d’un appareil due à la défaillance...\nCet article L’armée de Terre fait son mea culpa après l’abandon du drone tactique Patroller est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Le ministre estonien de la Défense a démissionné suite à un «scandale» lié à un marché public",
+      "link": "https://www.opex360.com/2026/09/03/le-ministre-estonien-de-la-defense-a-demissionne-suite-a-un-scandale-lie-a-un-marche-public/",
+      "pubDate": "2026-09-03T16:21:19.000Z",
+      "description": "Il faut toujours lire un document avant de le signer, même si l’on fait confiance à celui qui le présente. Le ministre estonien de la Défense, Hanno Pevkur, vient de l’apprendre à ses dépens. Et la leçon est d’autant plus rude qu’il a dû remettre sa démission, le 2 septembre. La cause ? Un rapport...\nCet article Le ministre estonien de la Défense a démissionné suite à un «scandale» lié à un marché public est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Le ministère sud-coréen de la Défense lance une étude pour développer un avion de combat de 6e génération",
+      "link": "https://www.opex360.com/2026/09/03/le-ministere-sud-coreen-de-la-defense-lance-une-etude-pour-developper-un-avion-de-combat-de-6e-generation/",
+      "pubDate": "2026-09-03T15:01:38.000Z",
+      "description": "En mai, l’agence du ministère sud-coréen dédiée aux programmes d’armement [DAPA – Defense Acquisition Program Administration] a fait savoir que l’avion de combat KF-21 «Boramae», conçu par Korean Aerospace Industries [KAI] avait «rempli tous les critères d’évaluation de son aptitude au combat». Et cela à peine quatre ans après le vol inaugural du premier prototype...\nCet article Le ministère sud-coréen de la Défense lance une étude pour développer un avion de combat de 6e génération est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "IA : le patron de Palantir, Alex Karp, met en garde la France au sujet de sa souveraineté numérique",
+      "link": "https://www.lemonde.fr/economie/article/2026/09/03/ia-le-patron-de-palantir-alex-karp-met-en-garde-la-france-au-sujet-de-sa-souverainete-numerique_6764606_3234.html",
+      "pubDate": "2026-09-02T23:13:57.000Z",
+      "description": "Le chef d’entreprise a estimé, mercredi, que la France se « fera du mal » avec une souveraineté en trompe-l’œil. L’Américain réagissait à la décision prise en juin par Paris de se passer des services de sa société pour son renseignement intérieur.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "La mise en oeuvre de France Munitions désormais espérée avant 2027",
+      "link": "https://forcesoperations.com/la-mise-en-oeuvre-de-france-munitions-desormais-esperee-avant-2027/",
+      "pubDate": "2026-09-02T12:22:45.000Z",
+      "description": "France Munitions se fait attendre. D'« imminente » en mars dernier, la mise en oeuvre de ce qui était alors présenté comme « un grossiste en munitions » est désormais espérée « au second semestre de cette année », indiquait le délégué général pour l'armement, Patrick Pailloux, avant l'été.  « Est-ce qu'on commande assez de munitions ? ». Visiblement, non. « Peut-on faire appel […]\nThe post La mise en oeuvre de France Munitions désormais espérée avant 2027 appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "La Suède signe un contrat de 4,3 milliards d’euros pour l’acquisition de quatre frégates françaises",
+      "link": "https://www.lemonde.fr/international/article/2026/08/31/la-suede-signe-un-contrat-de-4-3-milliards-d-euros-pour-l-acquisition-de-quatre-fregates-francaises_6762592_3210.html",
+      "pubDate": "2026-08-31T14:56:31.000Z",
+      "description": "Emmanuel Macron et le premier ministre suédois, Ulf Kristersson, ont renforcé lundi à Stockholm la coopération entre les deux pays en matière de défense, facilitée par l’adhésion du pays nordique à l’OTAN.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Décollage réussi aux États-Unis pour le dernier-né de Parrot",
+      "link": "https://forcesoperations.com/decollage-reussi-aux-etats-unis-pour-le-dernier-ne-de-parrot/",
+      "pubDate": "2026-08-29T08:12:45.000Z",
+      "description": "Au tour des forces spéciales de l'US Air Force de lorgner sur l'Anafi UKR de l'entreprise française Parrot, ce drone conçu en tirant partie des retours d'expérience du conflit russo-ukrainien et déjà adopté par plusieurs armées et administrations américaines.\nThe post Décollage réussi aux États-Unis pour le dernier-né de Parrot appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "Des liens resserrés entre dronistes français et suédois",
+      "link": "https://forcesoperations.com/des-liens-resserres-entre-dronistes-francais-et-suedois/",
+      "pubDate": "2026-08-27T13:33:01.000Z",
+      "description": "Après Airbus, MBDA et le droniste ukrainien General Cherry, au tour du suédois Frost Unmanned de se rapprocher de la startup française Alta Ares. Les deux entreprises viennent d'officialiser un accord visant au développement conjoint d'un nouveau drone multimission. \nThe post Des liens resserrés entre dronistes français et suédois appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "Donald Trump décrète l’état d’urgence sur le réseau électrique, une mesure qui vise la Chine sans la nommer",
+      "link": "https://www.lemonde.fr/international/article/2026/08/27/donald-trump-decrete-l-etat-d-urgence-sur-le-reseau-electrique-une-mesure-qui-vise-la-chine-sans-la-nommer_6757697_3210.html",
+      "pubDate": "2026-08-27T00:59:59.000Z",
+      "description": "Cette décision, annoncée mercredi 26 août, interdit l’achat et l’installation d’équipements de réseau provenant de pays sous embargo ou sanctions américaines sur le commerce des armes. Parmi les Etats figurant sur cette liste, seule la Chine exporte ce genre de matériel vers les Etats-Unis.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "En Allemagne, des commandes d’armements français en forte hausse en 2025",
+      "link": "https://forcesoperations.com/en-allemagne-des-commandes-darmements-francais-en-forte-hausse-en-2025/",
+      "pubDate": "2026-08-26T10:03:47.000Z",
+      "description": "Fâchées en matière de défense, la France et l'Allemagne ? Si les programmes de développement conjoints subissent des remous, les exportations d'armements français vers le voisin allemand ont plus que doublé l'an dernier, un pic auquel s'ajoute un autre en matière d'octrois de licences. \nThe post En Allemagne, des commandes d’armements français en forte hausse en 2025 appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "La BITD belge à nouveau mobilisée pour soutenir l’Ukraine",
+      "link": "https://forcesoperations.com/la-bitd-belge-a-nouveau-mobilisee-pour-soutenir-lukraine/",
+      "pubDate": "2026-08-24T13:27:00.000Z",
+      "description": "Plusieurs contrats ont été attribués dernièrement par la Défense belge pour armer, habiller et protéger les combattants ukrainiens. Un soutien pour lequel seules des entreprises belges seront mobilisées. \nThe post La BITD belge à nouveau mobilisée pour soutenir l’Ukraine appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "Une loi spéciale en 2027, potentiel coup d’arrêt pour l’effort de réarmement",
+      "link": "https://forcesoperations.com/une-loi-speciale-en-2027-potentiel-coup-darret-pour-leffort-de-rearmement/",
+      "pubDate": "2026-08-23T08:06:46.000Z",
+      "description": "Les programmes d'armement seront parmi les plus impactés en cas d'absence de vote d'un projet de loi de finances pour 2027 en temps et en heure, relève l'Inspection générale des finances dans un rapport publié cette semaine.  À peine proclamée, la nouvelle trajectoire financière de la loi de programmation militaire est déjà susceptible d’être bousculée. […]\nThe post Une loi spéciale en 2027, potentiel coup d’arrêt pour l’effort de réarmement appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "CaMo sort de terre dans le sud de la Belgique",
+      "link": "https://forcesoperations.com/camo-sort-de-terre-dans-le-sud-de-la-belgique/",
+      "pubDate": "2026-08-21T10:28:10.000Z",
+      "description": "Une première pierre a été posée hier matin au coeur d'un quartier militaire du sud de la Belgique, étape symbolique d'un autre pan du partenariat franco-belge CaMo : celui de la construction d'infrastructures dédiées au soutien des véhicules de nouvelle génération acquis au travers de la France. \nThe post CaMo sort de terre dans le sud de la Belgique appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "Défense : les exportations d’armes françaises encore à des sommets en 2025",
+      "link": "https://www.lemonde.fr/economie/article/2026/08/20/defense-les-exportations-d-armes-francaises-encore-a-des-sommets-en-2025_6750975_3234.html",
+      "pubDate": "2026-08-20T13:00:04.000Z",
+      "description": "Grâce notamment aux ventes de Rafale à l’Inde et de missiles, la France a exporté pour 21,2 milliards d’euros d’armements en 2025, soit autant qu’en 2024. Si elle reste le deuxième exportateur mondial d’armes, loin derrière les Etats-Unis, elle fait face à la concurrence de nouveaux pays.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Pas de sursaut en 2025 pour l’aide matérielle française à l’Ukraine",
+      "link": "https://forcesoperations.com/pas-de-sursaut-en-2025-pour-laide-materielle-francaise-a-lukraine/",
+      "pubDate": "2026-08-19T08:37:50.000Z",
+      "description": "Voilà plus de deux ans que la France ne détaille plus l'appui capacitaire qu'elle apporte à l'Ukraine. Seuls quelques rares annonces et le rapport au Parlement sur les exportations d'armement amènent un peu de clarté. Ce dernier vient de sortir, laissant à nouveau entrevoir les limites de l'appui matériel français.\nThe post Pas de sursaut en 2025 pour l’aide matérielle française à l’Ukraine appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "Catapultes américaines : « aucun risque » identifié pour le futur porte-avions français « France-Libre », selon le ministère des armées",
+      "link": "https://www.lemonde.fr/international/article/2026/08/15/catapultes-americaines-aucun-risque-identifie-pour-le-futur-porte-avions-francais-france-libre-selon-le-ministere-des-armees_6746660_3210.html",
+      "pubDate": "2026-08-15T10:34:43.000Z",
+      "description": "La décision de Donald Trump de renoncer aux catapultes électromagnétiques est supposée entrer en vigueur pour un porte-avions devant être livré en 2034. Or, les trois autres bâtiments de classe Ford antérieurs sont ou seront équipés de catapultes modernes, ce qui devrait suffire à garantir la filière, estime le ministère français.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Porte-avions américain « Abraham-Lincoln » : après plus de huit mois en mer, les conditions de vie à bord inquiètent",
+      "link": "https://www.lemonde.fr/international/article/2026/08/14/apres-plus-de-huit-mois-en-mer-les-conditions-de-vie-a-bord-du-porte-avions-abraham-lincoln-inquietent_6746108_3210.html",
+      "pubDate": "2026-08-14T03:30:41.000Z",
+      "description": "Des élus démocrates réclament des explications après des signalements de pénuries, de problèmes sanitaires et d’une dégradation de la santé mentale à bord du navire. Le média spécialisé « Navy Times » rapporte que deux marins auraient tenté de se suicider en se jetant par-dessus bord.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Frappes russes meurtrières en Ukraine et guerre hybride contre l’Europe : les alliés de Kiev entrent dans une phase accrue d’incertitude",
+      "link": "https://www.lemonde.fr/international/article/2026/08/13/guerre-en-ukraine-face-a-moscou-les-allies-de-kiev-sont-entres-dans-une-phase-accrue-d-incertitude_6745505_3210.html",
+      "pubDate": "2026-08-13T04:00:14.000Z",
+      "description": "La Russie intensifie ses frappes en profondeur sur le sol ukrainien et poursuit sa guerre indirecte contre les autres pays européens, au moment où le soutien des Etats-Unis s’essouffle. Washington alerte sur une possible agression russe pour tester les défenses occidentales.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "La Corée du Nord a tiré un missile balistique en direction de la mer du Japon, selon Séoul ; le deuxième en une semaine",
+      "link": "https://www.lemonde.fr/international/article/2026/08/12/la-coree-du-nord-a-tire-un-missile-balistique-en-direction-de-la-mer-du-japon-selon-seoul-son-deuxieme-en-une-semaine_6744396_3210.html",
+      "pubDate": "2026-08-11T23:37:09.000Z",
+      "description": "Cette démonstration de Pyongyang, mercredi 12 août, survient alors que la Corée du Sud et les Etats-Unis s’apprêtent à mener conjointement leurs exercices militaires annuels.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "L’Arabie saoudite, la Turquie et le Pakistan scellent à La Mecque une alliance de défense inédite",
+      "link": "https://www.lemonde.fr/international/article/2026/08/08/l-arabie-saoudite-la-turquie-et-le-pakistan-scellent-a-la-mecque-une-alliance-de-defense-inedite_6740783_3210.html",
+      "pubDate": "2026-08-08T04:00:20.000Z",
+      "description": "Riyad, Ankara et Islamabad ont signé, vendredi 7 août, un pacte prévoyant qu’une attaque contre l’un des trois Etats sera considérée comme une attaque contre les trois alliés. L’accord marque un tournant dans les équilibres sécuritaires du Moyen-Orient, sur fond de tensions avec l’Iran.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "La loi de programmation militaire validée par le Conseil constitutionnel, sans réserve",
+      "link": "https://www.lemonde.fr/societe/article/2026/08/06/la-loi-de-programmation-militaire-validee-par-le-conseil-constitutionnel-sans-reserve_6739833_3224.html",
+      "pubDate": "2026-08-06T09:21:54.000Z",
+      "description": "Saisie par les députés « insoumis », écologistes et communistes, notamment au sujet de la création d’un « état d’alerte de sécurité nationale », l’instance n’a censuré aucune mesure de ce texte qui augmente le budget des armées.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "La filière aéronautique veut renforcer sa cyberdéfense pour faire face à l’essor des menaces",
+      "link": "https://www.lemonde.fr/economie/article/2026/08/06/la-filiere-aeronautique-veut-renforcer-sa-cyberdefense-pour-faire-face-a-l-essor-des-menaces_6739727_3234.html",
+      "pubDate": "2026-08-06T08:00:08.000Z",
+      "description": "Cible de choix des cyberattaquants, le secteur lance un programme visant à augmenter les moyens de défense de 200 entreprises, principalement des PME-PMI.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Les équipementiers Valeo et Forvia confirment l’inflexion du secteur automobile vers la défense",
+      "link": "https://www.lemonde.fr/economie/article/2026/08/03/les-equipementiers-valeo-et-forvia-confirment-l-inflexion-du-secteur-automobile-vers-la-defense_6737330_3234.html",
+      "pubDate": "2026-08-03T04:00:02.000Z",
+      "description": "En pleine crise de leur secteur, les deux groupes français cherchent à diversifier leurs activités et à profiter de la hausse des budgets militaires en participant à la production de drones.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Des chameaux de Napoléon aux chiens parachutistes du Débarquement, ces animaux enrôlés dans la guerre au fil de l’histoire",
+      "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/03/des-chameaux-de-napoleon-aux-chiens-parachutistes-du-debarquement-ces-animaux-enroles-dans-la-guerre-au-fil-de-l-histoire_6737326_3451060.html",
+      "pubDate": "2026-08-03T03:30:08.000Z",
+      "description": "« Animaux-soldats » (1/6). « Le Monde » exhume tout un bestiaire oublié des champs de bataille, à l’image de Glen et son maître Emile. Tués ensemble en Normandie le 6 juin 1944, ils ont été enterrés côte à côte au cimetière militaire de Ranville.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Comment l’uranium congolais transite vers la Chine sous les radars",
+      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/07/30/comment-l-uranium-congolais-transite-vers-la-chine-sous-les-radars_6737048_4355770.html",
+      "pubDate": "2026-07-30T16:00:04.000Z",
+      "description": "Officiellement, la République démocratique du Congo ne produit pas d’uranium. Mais en vingt ans, 2 000 tonnes de ce minerai radioactif crucial pour l’industrie nucléaire auraient été exportées vers la Chine, selon une enquête de plusieurs journalistes et chercheurs partagée avec « Le Monde ».",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "« En trois ans, l’Ukraine a bâti l’un des complexes militaro-industriels les plus innovants au monde »",
+      "link": "https://www.lemonde.fr/idees/article/2026/07/28/en-trois-ans-l-ukraine-a-bati-l-un-des-complexes-militaro-industriels-les-plus-innovants-au-monde_6735330_3232.html",
+      "pubDate": "2026-07-28T16:30:08.000Z",
+      "description": "Longtemps dépendante d’une aide occidentale indispensable à sa survie face à la Russie, l’Ukraine est aujourd’hui un fournisseur de technologies militaires, en Europe comme au Moyen-Orient, relèvent Arthur de Liedekerke et Hector de Rivoire, deux spécialistes de sécurité internationale, dans une tribune au « Monde ».",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "A Toulouse, la guerre spatiale a déjà commencé : « La menace dans l’espace peut créer des dommages stratégiques »",
+      "link": "https://www.lemonde.fr/international/article/2026/07/24/a-toulouse-la-guerre-spatiale-a-deja-commence-la-menace-dans-l-espace-peut-creer-des-dommages-strategiques_6731490_3210.html",
+      "pubDate": "2026-07-24T10:08:07.000Z",
+      "description": "Alors que les moyens de surveillance et de transmission par satellite occupent une place de plus en plus importante dans les conflits actuels, « Le Monde » a pu exceptionnellement visiter la base spatiale française, inaugurée il y a un an à Toulouse, aux premières loges de ces nouveaux enjeux.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "« Les bases américaines au Moyen-Orient fournissent des capacités, mais elles constituent aussi des cibles »",
+      "link": "https://www.lemonde.fr/international/article/2026/07/20/les-bases-americaines-au-moyen-orient-fournissent-des-capacites-mais-elles-constituent-aussi-des-cibles_6727581_3210.html",
+      "pubDate": "2026-07-20T17:30:09.000Z",
+      "description": "Dans un entretien au « Monde », le chercheur Michael Stricof détaille le contexte de création des bases américaines au Moyen-Orient et analyse leur rôle stratégique dans le conflit actuel entre l’Iran et les Etats-Unis.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "L’Allemagne et la France relancent une coopération « réaliste » sur la défense",
+      "link": "https://www.lemonde.fr/international/article/2026/07/18/l-allemagne-et-la-france-relancent-une-cooperation-realiste-sur-la-defense_6724582_3210.html",
+      "pubDate": "2026-07-18T10:11:59.000Z",
+      "description": "Après l’échec du projet d’avion commun SCAF, Paris et Berlin ont annoncé, lors d’un conseil des ministres franco-allemand, une série d’initiatives pour entretenir la coopération sur des sujets stratégiques, dont la dissuasion nucléaire et le spatial.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Pourquoi la guerre hybride menée par la Russie pousse la France à hausser le ton",
+      "link": "https://www.lemonde.fr/international/article/2026/07/17/pourquoi-la-guerre-hybride-menee-par-la-russie-pousse-la-france-a-hausser-le-ton_6724233_3210.html",
+      "pubDate": "2026-07-17T18:03:43.000Z",
+      "description": "Entre sabotages et survols de drones, une vaste campagne de cyberespionnage a été attribuée au renseignement intérieur russe par les services français. En réponse, le chargé d’affaires de l’ambassade de Russie, à Paris, a été convoqué, vendredi 17 juillet, par le ministre des affaires étrangères.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Aux Etats-Unis, les ambitions de Donald Trump sur le budget de la défense freinées par les démocrates",
+      "link": "https://www.lemonde.fr/international/article/2026/07/15/aux-etats-unis-les-ambitions-de-donald-trump-sur-le-budget-de-la-defense-freinees-par-les-democrates_6723522_3210.html",
+      "pubDate": "2026-07-15T08:00:03.000Z",
+      "description": "L’opposition démocrate a bloqué, mardi, l’examen au Sénat de la loi d’autorisation de la défense nationale. Un geste présenté comme une riposte à la guerre contre l’Iran déclenchée en février par Donald Trump sans l’aval du Congrès.",
+      "sourceKey": "geo"
+    }
+  ]
 }
