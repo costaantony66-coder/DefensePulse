@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T17:05:54.051Z",
+  "generatedAt": "2026-09-05T17:25:21.942Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Le Pentagone a soumis des responsables militaires américains au détecteur de mensonge après des fuites, d’après le « New York Times »",
+      "link": "https://www.lemonde.fr/international/article/2026/09/05/le-pentagone-a-soumis-des-responsables-militaires-americains-au-detecteur-de-mensonge-apres-des-fuites-d-apres-le-new-york-times_6766366_3210.html",
+      "pubDate": "2026-09-05T17:17:10.000Z",
+      "description": "Une cinquantaine de membres de l’état-major ont été interrogés au polygraphe pour identifier la source d’une fuite sur une possible pénurie de munitions américaines.",
+      "sourceKey": "geo"
+    },
     {
       "title": "Le français Safran va fournir un «volume important» de systèmes optroniques d’observation à l’armée allemande",
       "link": "https://www.opex360.com/2026/09/05/le-francais-safran-va-fournir-un-volume-important-de-systemes-optroniques-dobservation-a-larmee-allemande/",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/07/17/pourquoi-la-guerre-hybride-menee-par-la-russie-pousse-la-france-a-hausser-le-ton_6724233_3210.html",
       "pubDate": "2026-07-17T18:03:43.000Z",
       "description": "Entre sabotages et survols de drones, une vaste campagne de cyberespionnage a été attribuée au renseignement intérieur russe par les services français. En réponse, le chargé d’affaires de l’ambassade de Russie, à Paris, a été convoqué, vendredi 17 juillet, par le ministre des affaires étrangères.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Aux Etats-Unis, les ambitions de Donald Trump sur le budget de la défense freinées par les démocrates",
-      "link": "https://www.lemonde.fr/international/article/2026/07/15/aux-etats-unis-les-ambitions-de-donald-trump-sur-le-budget-de-la-defense-freinees-par-les-democrates_6723522_3210.html",
-      "pubDate": "2026-07-15T08:00:03.000Z",
-      "description": "L’opposition démocrate a bloqué, mardi, l’examen au Sénat de la loi d’autorisation de la défense nationale. Un geste présenté comme une riposte à la guerre contre l’Iran déclenchée en février par Donald Trump sans l’aval du Congrès.",
       "sourceKey": "geo"
     }
   ]
