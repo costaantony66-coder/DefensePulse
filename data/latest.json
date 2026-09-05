@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T16:07:11.335Z",
+  "generatedAt": "2026-09-05T16:22:36.585Z",
   "sources": [
     {
       "key": "opex",
@@ -12,9 +12,9 @@
       "url": "https://www.forcesoperations.com/feed/"
     },
     {
-      "key": "eu",
-      "label": "EU Defense Policy",
-      "url": "https://www.defenseone.com/feed/"
+      "key": "eda_eu",
+      "label": "Agence Européenne de Défense (EN)",
+      "url": "https://eda.europa.eu/rss"
     },
     {
       "key": "geo",
