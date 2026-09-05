@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>DEFENSE PULSE — Intelligence Tactique</title>
+
+<!-- ============================= PWA ============================= -->
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#08090b">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="DefPulse">
+<link rel="apple-touch-icon" href="https://cdn-icons-png.flaticon.com/512/2592/2592223.png">
+
+<!-- Fonts: Inter (lecture) + JetBrains Mono (données/terminal) -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+
+<style>
+/* ==========================================================================
+   DESIGN TOKENS
+   Palette "terminal de guerre" : graphite/charbon + ambre (alerte/signal)
+   comme accent primaire, bleu acier comme accent secondaire (liens/actions).
+   ========================================================================== */
+:root{
+  --bg:        #08090b;
+  --bg-raised: #0d0f12;
+  --panel:     #121417;
+  --panel-2:   #181b1f;
+  --border:    #22262c;
+  --border-hi: #34393f;
+
+  --text:      #e9e7e2;
+  --text-dim:  #8b909a;
+  --text-faint:#565b64;
+
+  --amber:     #ffa726;
+  --amber-dim: rgba(255,167,38,.10);
+  --blue:      #5b9dff;
+  --blue-dim:  rgba(91,157,255,.10);
+  --green:     #3ddc84;
+  --red:       #ff5470;
+  --purple:    #c792ea;
+
+  --mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+  --sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --radius: 6px;
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+*{ margin:0; padding:0; box-sizing:border-box; -webkit-tap-highlight-color:transparent; }
+
+html{ background:var(--bg); }
+
+body{
+  background:var(--bg);
+  color:var(--text);
+  font-family:var(--sans);
+  padding-bottom:calc(96px + var(--safe-bottom));
+  overflow-x:hidden;
+  -webkit-font-smoothing:antialiased;
+}
+
+::selection{ background:var(--amber-dim); color:var(--amber); }
+
+button, input{ font-family:inherit; color:inherit; }
+
+:focus-visible{ outline:2px solid var(--blue); outline-offset:2px; }
+
+@media (prefers-reduced-motion: reduce){
+  *{ animation-duration:.001ms !important; animation-iteration-count:1 !important; transition-duration:.001ms !important; }
+}
+
+/* ==========================================================================
+   HEADER / STATUS BAR
+   ========================================================================== */
+header{
+  position:sticky; top:0; z-index:100;
+  padding-top:calc(var(--safe-top) + 12px);
+  background:rgba(8,9,11,.82);
+  backdrop-filter:blur(16px) saturate(140%);
+  -webkit-backdrop-filter:blur(16px) saturate(140%);
+  border-bottom:1px solid var(--border);
+}
+
+.status-row{
+  display:flex; align-items:center; justify-content:space-between;
+  padding:0 16px 10px;
+}
+
+.brand{ display:flex; align-items:center; gap:9px; }
+
+.pulse-dot{
+  width:7px; height:7px; border-radius:50%;
+  background:var(--green);
+  box-shadow:0 0 0 0 rgba(61,220,132,.6);
+  animation:pulse-live 2.2s infinite;
+}
+.pulse-dot.offline{ background:var(--red); animation:none; box-shadow:none; }
+@keyframes pulse-live{
+  0%{ box-shadow:0 0 0 0 rgba(61,220,132,.55); }
+  70%{ box-shadow:0 0 0 7px rgba(61,220,132,0); }
+  100%{ box-shadow:0 0 0 0 rgba(61,220,132,0); }
+}
+
+.brand-name{ font-size:.8rem; font-weight:800; letter-spacing:2.5px; }
+.brand-name b{ color:var(--amber); }
+
+.status-right{ display:flex; align-items:center; gap:10px; }
+
+.clock{ font-family:var(--mono); font-size:.72rem; color:var(--text-dim); letter-spacing:.5px; }
+
+.refresh-btn{
+  width:28px; height:28px; border-radius:50%;
+  background:var(--panel); border:1px solid var(--border);
+  display:flex; align-items:center; justify-content:center;
+  cursor:pointer; color:var(--text-dim); transition:transform .35s ease, color .2s;
+}
+.refresh-btn:active{ transform:rotate(180deg); color:var(--amber); }
+.refresh-btn svg{ width:14px; height:14px; }
+
+.sync-line{
+  padding:0 16px 10px; font-family:var(--mono); font-size:.62rem;
+  color:var(--text-faint); letter-spacing:.3px;
+}
+
+/* Search */
+.search-wrap{ padding:0 16px 10px; }
+.search-box{
+  display:flex; align-items:center; gap:8px;
+  background:var(--panel); border:1px solid var(--border); border-radius:var(--radius);
+  padding:9px 12px; transition:border-color .2s;
+}
+.search-box:focus-within{ border-color:var(--blue); }
+.search-box svg{ width:15px; height:15px; color:var(--text-faint); flex-shrink:0; }
+.search-box input{
+  background:none; border:none; outline:none; width:100%;
+  font-size:.85rem; color:var(--text);
+}
+.search-box input::placeholder{ color:var(--text-faint); }
+.clear-btn{ color:var(--text-faint); cursor:pointer; font-size:1rem; line-height:1; display:none; }
+.clear-btn.show{ display:block; }
+
+/* Source tabs */
+.tab-scroller{
+  display:flex; gap:8px; overflow-x:auto; padding:0 16px 12px;
+  scrollbar-width:none;
+}
+.tab-scroller::-webkit-scrollbar{ display:none; }
+
+.tab{
+  white-space:nowrap; flex-shrink:0;
+  background:var(--panel); border:1px solid var(--border); color:var(--text-dim);
+  padding:7px 14px; border-radius:20px; font-size:.7rem; font-weight:700;
+  cursor:pointer; transition:.2s; display:flex; align-items:center; gap:5px;
+}
+.tab .dot{ width:6px; height:6px; border-radius:50%; }
+.tab.active{ color:var(--bg); background:var(--text); border-color:var(--text); }
+.tab.fav-tab.active{ background:var(--amber); border-color:var(--amber); }
+
+/* Keyword chips (filtre thématique dynamique) */
+.chip-row{
+  display:flex; gap:7px; overflow-x:auto; padding:0 16px 14px; scrollbar-width:none;
+}
+.chip-row::-webkit-scrollbar{ display:none; }
+.chip-row.empty{ display:none; }
+.chip{
+  white-space:nowrap; flex-shrink:0; font-family:var(--mono);
+  font-size:.66rem; color:var(--blue); background:var(--blue-dim);
+  border:1px solid rgba(91,157,255,.25); padding:5px 10px; border-radius:4px;
+  cursor:pointer; transition:.15s;
+}
+.chip.active{ background:var(--blue); color:#fff; border-color:var(--blue); }
+
+/* ==========================================================================
+   FEED
+   ========================================================================== */
+.container{ max-width:640px; margin:0 auto; padding:14px 12px 0; }
+
+.result-count{
+  font-family:var(--mono); font-size:.65rem; color:var(--text-faint);
+  padding:2px 6px 12px; letter-spacing:.4px;
+}
+
+.news-card{
+  background:var(--panel); border:1px solid var(--border);
+  border-left:3px solid var(--src-color, var(--blue));
+  border-radius:var(--radius);
+  padding:14px 14px 12px; margin-bottom:11px;
+  cursor:pointer; position:relative;
+  animation:rise .4s ease backwards;
+  transition:border-color .2s, background .2s;
+}
+.news-card:active{ background:var(--panel-2); }
+@keyframes rise{ from{ opacity:0; transform:translateY(6px); } to{ opacity:1; transform:translateY(0); } }
+
+.card-top{ display:flex; justify-content:space-between; align-items:center; margin-bottom:8px; }
+
+.source-tag{
+  font-family:var(--mono); font-size:.6rem; font-weight:700; letter-spacing:.5px;
+  color:var(--src-color, var(--blue));
+}
+
+.card-actions{ display:flex; align-items:center; gap:10px; }
+
+.new-flag{
+  font-family:var(--mono); font-size:.55rem; color:var(--amber);
+  background:var(--amber-dim); padding:1px 6px; border-radius:3px; letter-spacing:.4px;
+}
+
+.fav-btn{ color:var(--text-faint); cursor:pointer; line-height:0; padding:2px; }
+.fav-btn svg{ width:15px; height:15px; transition:.15s; }
+.fav-btn.active svg{ fill:var(--amber); stroke:var(--amber); }
+
+.news-title{ font-size:1rem; font-weight:600; line-height:1.35; color:#fff; margin-bottom:6px; }
+
+.news-summary{
+  font-size:.8rem; color:var(--text-dim); line-height:1.45;
+  display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;
+  margin-bottom:10px;
+}
+
+.card-footer{ display:flex; justify-content:space-between; align-items:center; }
+.card-date{ font-family:var(--mono); font-size:.66rem; color:var(--text-faint); }
+.read-link{ font-size:.68rem; font-weight:700; color:var(--src-color, var(--blue)); }
+
+/* Skeleton */
+.skeleton-card{
+  height:104px; border-radius:var(--radius); margin-bottom:11px;
+  background:linear-gradient(90deg, var(--panel) 20%, var(--panel-2) 40%, var(--panel) 60%);
+  background-size:200% 100%; animation:shimmer 1.4s infinite linear;
+}
+@keyframes shimmer{ from{ background-position:200% 0; } to{ background-position:-200% 0; } }
+
+.empty-state{
+  text-align:center; padding:60px 20px; color:var(--text-dim);
+}
+.empty-state .big{ font-size:2rem; margin-bottom:10px; }
+.empty-state small{ display:block; margin-top:6px; color:var(--text-faint); font-family:var(--mono); font-size:.7rem; }
+
+/* ==========================================================================
+   FAB — briefing IA
+   ========================================================================== */
+#briefing-fab{
+  position:fixed; left:50%; transform:translateX(-50%);
+  bottom:calc(20px + var(--safe-bottom));
+  display:flex; align-items:center; gap:9px;
+  background:linear-gradient(135deg, #ffb144, #ff8c1a);
+  color:#1a1000; border:none; border-radius:30px;
+  padding:14px 26px; font-weight:800; font-size:.82rem; letter-spacing:.3px;
+  box-shadow:0 12px 30px rgba(255,140,26,.35), 0 2px 8px rgba(0,0,0,.4);
+  z-index:900; cursor:pointer;
+}
+#briefing-fab:active{ transform:translateX(-50%) scale(.96); }
+#briefing-fab svg{ width:16px; height:16px; }
+
+/* ==========================================================================
+   MODALS (reader + briefing) — glass full-screen sheets
+   ========================================================================== */
+.sheet{
+  position:fixed; inset:0; z-index:2000; display:none;
+  background:rgba(8,9,11,.97); backdrop-filter:blur(6px);
+  overflow-y:auto;
+}
+.sheet.open{ display:block; animation:fadeIn .2s ease; }
+@keyframes fadeIn{ from{ opacity:0; } to{ opacity:1; } }
+
+.sheet-inner{ max-width:640px; margin:0 auto; padding:calc(var(--safe-top) + 18px) 18px calc(40px + var(--safe-bottom)); }
+
+.sheet-header{
+  display:flex; justify-content:space-between; align-items:flex-start;
+  padding-bottom:16px; margin-bottom:18px; border-bottom:1px solid var(--border);
+}
+.sheet-eyebrow{ font-family:var(--mono); font-size:.65rem; color:var(--text-faint); letter-spacing:.4px; }
+.sheet-close{
+  width:30px; height:30px; border-radius:50%; background:var(--panel); border:1px solid var(--border);
+  color:var(--text-dim); display:flex; align-items:center; justify-content:center; cursor:pointer; flex-shrink:0;
+}
+
+/* Reader */
+#reader-source{ font-family:var(--mono); font-size:.68rem; font-weight:700; color:var(--blue); }
+#reader-date{ font-family:var(--mono); font-size:.68rem; color:var(--text-faint); margin-top:3px; }
+#reader-title{ font-size:1.35rem; font-weight:700; line-height:1.32; color:#fff; margin-bottom:18px; }
+#reader-body p{ font-size:.95rem; line-height:1.75; color:#d3d1cb; margin-bottom:14px; }
+.reader-actions{ display:flex; gap:10px; margin-top:24px; }
+.reader-btn{
+  flex:1; text-align:center; padding:13px; border-radius:var(--radius); font-weight:700; font-size:.8rem;
+  border:1px solid var(--border); cursor:pointer; text-decoration:none; display:block; color:var(--text);
+}
+.reader-btn.primary{ background:var(--blue); border-color:var(--blue); color:#fff; }
+.reader-btn.fav{ background:var(--panel); }
+.reader-btn.fav.active{ color:var(--amber); border-color:var(--amber); }
+
+/* Briefing */
+.brief-meta{ display:flex; gap:18px; margin-bottom:22px; flex-wrap:wrap; }
+.brief-stat{ font-family:var(--mono); }
+.brief-stat b{ display:block; font-size:1.2rem; color:var(--amber); }
+.brief-stat span{ font-size:.6rem; color:var(--text-faint); letter-spacing:.4px; }
+
+.theme-card{
+  background:var(--panel); border:1px solid var(--border); border-radius:var(--radius);
+  padding:16px; margin-bottom:12px;
+}
+.theme-head{ display:flex; justify-content:space-between; align-items:center; margin-bottom:9px; }
+.theme-rank{ font-family:var(--mono); font-size:.7rem; color:var(--text-faint); }
+.theme-name{ font-size:1rem; font-weight:700; color:#fff; text-transform:capitalize; }
+.theme-count{ font-family:var(--mono); font-size:.65rem; color:var(--amber); }
+.theme-bar{ height:3px; background:var(--border); border-radius:2px; overflow:hidden; margin-bottom:12px; }
+.theme-bar-fill{ height:100%; background:linear-gradient(90deg, var(--amber), #ff8c1a); border-radius:2px; }
+.theme-article{
+  padding:9px 0; border-top:1px solid var(--border); font-size:.83rem; color:var(--text-dim); cursor:pointer;
+}
+.theme-article:hover, .theme-article:active{ color:var(--text); }
+
+.brief-loading{ text-align:center; padding:60px 20px; }
+.brief-loading .spinner{
+  width:34px; height:34px; border-radius:50%; margin:0 auto 16px;
+  border:2px solid var(--border); border-top-color:var(--amber);
+  animation:spin .8s linear infinite;
+}
+@keyframes spin{ to{ transform:rotate(360deg); } }
+.brief-loading p{ font-family:var(--mono); font-size:.72rem; color:var(--text-dim); letter-spacing:.4px; }
+
+.brief-footer-note{
+  margin-top:20px; padding:12px; border:1px dashed var(--border-hi); border-radius:var(--radius);
+  text-align:center; font-family:var(--mono); font-size:.62rem; color:var(--text-faint); letter-spacing:.5px;
+}
+</style>
+</head>
+<body>
+
+<!-- ============================================================ HEADER ============================================================ -->
+<header>
+  <div class="status-row">
+    <div class="brand">
+      <span class="pulse-dot" id="live-dot"></span>
+      <span class="brand-name">DEFENSE <b>PULSE</b></span>
+    </div>
+    <div class="status-right">
+      <span class="clock" id="clock">--:--:--</span>
+      <button class="refresh-btn" id="refresh-btn" title="Actualiser" aria-label="Actualiser">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M21 12a9 9 0 1 1-3-6.7M21 4v5h-5"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <div class="sync-line" id="sync-line">CONNEXION EN COURS…</div>
+
+  <div class="search-wrap">
+    <div class="search-box">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input id="search-input" type="text" placeholder="Rechercher une dépêche, un mot-clé…" autocomplete="off">
+      <span class="clear-btn" id="clear-search">✕</span>
+    </div>
+  </div>
+
+  <div class="tab-scroller" id="tab-scroller"><!-- injecté par JS --></div>
+  <div class="chip-row" id="chip-row"><!-- mots-clés dynamiques --></div>
+</header>
+
+<!-- ============================================================ FEED ============================================================ -->
+<main class="container">
+  <div class="result-count" id="result-count"></div>
+  <div id="news-feed"></div>
+</main>
+
+<button id="briefing-fab" aria-label="Générer le briefing IA">
+  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M13 2 3 14h7l-1 8 10-12h-7l1-8z"/></svg>
+  <span>BRIEFING IA</span>
+</button>
+
+<!-- ============================================================ READER SHEET ============================================================ -->
+<div class="sheet" id="reader-sheet">
+  <div class="sheet-inner">
+    <div class="sheet-header">
+      <div>
+        <div id="reader-source"></div>
+        <div id="reader-date"></div>
+      </div>
+      <div class="sheet-close" id="reader-close">✕</div>
+    </div>
+    <h1 id="reader-title"></h1>
+    <div id="reader-body"></div>
+    <div class="reader-actions">
+      <div class="reader-btn fav" id="reader-fav-btn">★ Favori</div>
+      <a class="reader-btn primary" id="reader-open-link" href="#" target="_blank" rel="noopener">Ouvrir la source ↗</a>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================ BRIEFING SHEET ============================================================ -->
+<div class="sheet" id="briefing-sheet">
+  <div class="sheet-inner">
+    <div class="sheet-header">
+      <div>
+        <div class="sheet-eyebrow" id="briefing-timestamp">BRIEFING TACTIQUE</div>
+        <div style="font-size:1.1rem;font-weight:800;color:#fff;margin-top:4px;">Synthèse des tendances</div>
+      </div>
+      <div class="sheet-close" id="briefing-close">✕</div>
+    </div>
+    <div id="briefing-body"></div>
+  </div>
+</div>
+
+<script>
+/* ==========================================================================
+   CONFIG
+   ========================================================================== */
+// Les sources ne sont plus codées en dur ici : elles sont lues depuis
+// data/latest.json, généré côté serveur par une GitHub Action qui interroge
+// directement les flux RSS (voir feeds.config.json + scripts/fetch-feeds.mjs).
+// Pour ajouter/retirer une source, il suffit d'éditer feeds.config.json —
+// aucune modification de ce fichier n'est nécessaire.
+const DATA_URL = './data/latest.json';
+const COLOR_PALETTE = ['var(--blue)', 'var(--amber)', 'var(--green)', 'var(--purple)', '#ff5470', '#5be0c9'];
+let FEEDS = {}; // construit dynamiquement par buildFeedsMeta() une fois les données chargées
+
+const NEW_THRESHOLD_MS = 3 * 60 * 60 * 1000; // 3h → badge "NOUVEAU"
+
+/* Dictionnaire domaine défense : booste la pertinence des thèmes détectés */
+const DOMAIN_BOOST = new Set([
+  'ukraine','russie','drone','drones','missile','missiles','sous-marin','naval','marine','armée','arme','armes',
+  'défense','export','exportation','souveraineté','budget','lpm','otan','nato','cyber','spatial','satellite',
+  'rafale','scorpion','char','chars','artillerie','munitions','munition','industrie','industriel','contrat',
+  'livraison','forces','militaire','stratégie','stratégique','europe','européen','afrique','sahel','israël',
+  'gaza','chine','taïwan','indopacifique','renseignement','hypersonique','frégate','porte-avions','aviation',
+  'hélicoptère','blindé','blindés','dissuasion','nucléaire','opex','sénat','assemblée','ministre','otanienne'
+]);
+
+const STOPWORDS = new Set(('les des dans pour avec sur une un le la de du et est en au aux par ce cette ces que qui '
+  + 'sont sera seront plus son sa ses leur leurs nous vous ils elles été être avoir fait faire comme tout tous '
+  + 'toute toutes mais ou où donc car ni se sans sous entre vers depuis après avant lors selon ainsi alors cet '
+  + 'aussi très bien dont peut peuvent doit doivent autre autres deux trois plusieurs chaque celui celle ceux '
+  + 'celles notre nos votre vos mon ma mes ton ta tes cela cet non oui deja déjà encore ainsi quand comment '
+  + 'the and for with from that this its').split(' '));
+
+/* ==========================================================================
+   STATE
+   ========================================================================== */
+const state = {
+  category: 'all',
+  raw: null,           // payload complet de data/latest.json ({ generatedAt, sources, items })
+  pool: [],            // articles de la catégorie active
+  visible: [],         // pool filtré (recherche + mot-clé)
+  favorites: loadFavorites(),
+  activeKeyword: null,
+  searchTerm: '',
+  lastSync: null,
+};
+
+function buildFeedsMeta(sources = []){
+  FEEDS = {};
+  sources.forEach((s, i) => {
+    FEEDS[s.key] = { label: s.label, color: COLOR_PALETTE[i % COLOR_PALETTE.length] };
+  });
+}
+
+/* ==========================================================================
+   UTILS — sécurité (anti-injection) & formatage
+   ========================================================================== */
+function escapeHtml(str){
+  const div = document.createElement('div');
+  div.textContent = str ?? '';
+  return div.innerHTML;
+}
+
+function decodeEntities(str){
+  const ta = document.createElement('textarea');
+  ta.innerHTML = str ?? '';
+  return ta.value;
+}
+
+// data/latest.json fournit déjà un texte propre (nettoyé côté serveur par
+// scripts/fetch-feeds.mjs) : plus besoin de parser du HTML côté client.
+function textToParagraphs(text){
+  if(!text) return [];
+  return text.split(/\n+/).map(t => t.trim()).filter(Boolean);
+}
+
+function snippetFromText(text, max = 150){
+  const joined = textToParagraphs(text).join(' ');
+  return joined.length > max ? joined.slice(0, max).trim() + '…' : joined;
+}
+
+function tokenize(text){
+  return (text.toLowerCase().match(/[a-zàâäéèêëïîôöùûüçñ-]+/g) || [])
+    .filter(w => w.length >= 4 && !STOPWORDS.has(w));
+}
+
+function formatDate(pubDate){
+  const d = new Date(pubDate);
+  return d.toLocaleDateString('fr-FR', { day:'2-digit', month:'short' }) + ' · '
+       + d.toLocaleTimeString('fr-FR', { hour:'2-digit', minute:'2-digit' });
+}
+
+function isRecent(pubDate){
+  return (Date.now() - new Date(pubDate).getTime()) < NEW_THRESHOLD_MS;
+}
+
+function articleId(item){ return item.link; }
+
+/* ==========================================================================
+   FAVORIS — persistance localStorage
+   ========================================================================== */
+function loadFavorites(){
+  try{ return JSON.parse(localStorage.getItem('dp_favorites') || '[]'); }
+  catch(e){ return []; }
+}
+function saveFavorites(){
+  localStorage.setItem('dp_favorites', JSON.stringify(state.favorites));
+}
+function isFavorite(item){
+  return state.favorites.some(f => f.link === articleId(item));
+}
+function toggleFavorite(item){
+  const idx = state.favorites.findIndex(f => f.link === articleId(item));
+  if(idx >= 0){ state.favorites.splice(idx, 1); }
+  else{
+    state.favorites.unshift({
+      link: item.link, title: item.title, pubDate: item.pubDate,
+      sourceKey: item.sourceKey, snippet: item.snippet, description: item.description,
+    });
+  }
+  saveFavorites();
+}
+
+/* ==========================================================================
+   RÉSEAU — lecture des données pré-générées (data/latest.json)
+   Les flux RSS ne sont JAMAIS interrogés depuis le téléphone : c'est une
+   GitHub Action (voir .github/workflows/update-feeds.yml) qui les récupère
+   régulièrement côté serveur et publie un JSON statique. L'app se contente
+   de lire ce fichier — rapide, fiable, aucune clé d'API, et ça fonctionne
+   même si un flux source est temporairement en panne (l'Action garde alors
+   les derniers articles connus pour cette source).
+   ========================================================================== */
+async function loadData(forceRefresh = false){
+  const url = forceRefresh ? `${DATA_URL}?t=${Date.now()}` : DATA_URL;
+  const res = await fetch(url, { cache: forceRefresh ? 'no-store' : 'default' });
+  if(!res.ok) throw new Error('data fetch failed: ' + res.status);
+  return res.json();
+}
+
+function itemsForCategory(cat){
+  const items = (state.raw?.items || []).map(i => ({ ...i, snippet: snippetFromText(i.description) }));
+  return cat === 'all' ? items : items.filter(i => i.sourceKey === cat);
+}
+
+function refreshFromCache(){
+  const cat = state.category;
+  state.pool = cat === 'fav' ? [...state.favorites] : itemsForCategory(cat);
+  state.lastSync = state.raw?.generatedAt ? new Date(state.raw.generatedAt) : state.lastSync;
+  updateSyncLine();
+  applyFilters();
+  renderChips(extractKeywords(state.pool, 8).map(k => k.word));
+}
+
+async function loadCategory(cat){
+  state.category = cat;
+  state.activeKeyword = null;
+  renderTabs();
+  renderChips([]);
+
+  if(cat === 'fav'){
+    state.pool = [...state.favorites];
+    applyFilters();
+    return;
+  }
+
+  renderSkeleton();
+
+  if(!state.raw){
+    try{
+      state.raw = await loadData();
+      buildFeedsMeta(state.raw.sources);
+      renderTabs();
+    }catch(e){ state.raw = { generatedAt: null, sources: [], items: [] }; }
+  }
+
+  refreshFromCache();
+}
+
+async function refreshData(){
+  renderSkeleton();
+  try{
+    state.raw = await loadData(true);
+    buildFeedsMeta(state.raw.sources);
+    renderTabs();
+  }catch(e){ /* on garde les données déjà en mémoire, l'utilisateur reste hors-ligne */ }
+  refreshFromCache();
+}
+
+/* ==========================================================================
+   RECHERCHE + FILTRE MOTS-CLÉS
+   ========================================================================== */
+function applyFilters(){
+  let list = state.pool;
+
+  if(state.searchTerm){
+    const q = state.searchTerm.toLowerCase();
+    list = list.filter(a =>
+      a.title.toLowerCase().includes(q) || a.snippet.toLowerCase().includes(q)
+    );
+  }
+  if(state.activeKeyword){
+    const kw = state.activeKeyword;
+    list = list.filter(a =>
+      (a.title + ' ' + a.snippet).toLowerCase().includes(kw)
+    );
+  }
+  state.visible = list;
+  renderArticles();
+}
+
+/* ==========================================================================
+   RENDU — feed
+   ========================================================================== */
+function renderTabs(){
+  const scroller = document.getElementById('tab-scroller');
+  const cats = [
+    { key:'all', label:'Tous' },
+    ...Object.entries(FEEDS).map(([key, v]) => ({ key, label:v.label, color:v.color })),
+    { key:'fav', label:'★ Favoris', fav:true },
+  ];
+  scroller.innerHTML = cats.map(c => `
+    <button class="tab ${state.category === c.key ? 'active' : ''} ${c.fav ? 'fav-tab' : ''}" data-cat="${c.key}">
+      ${c.color ? `<span class="dot" style="background:${c.color}"></span>` : ''}${escapeHtml(c.label)}
+    </button>
+  `).join('');
+}
+
+function renderChips(words){
+  const row = document.getElementById('chip-row');
+  if(!words.length){ row.innerHTML = ''; row.classList.add('empty'); return; }
+  row.classList.remove('empty');
+  row.innerHTML = words.map(w => `
+    <span class="chip ${state.activeKeyword === w ? 'active' : ''}" data-kw="${escapeHtml(w)}">${escapeHtml(w)}</span>
+  `).join('');
+}
+
+function renderSkeleton(){
+  document.getElementById('result-count').textContent = '';
+  document.getElementById('news-feed').innerHTML =
+    '<div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div>';
+}
+
+function renderArticles(){
+  const feed = document.getElementById('news-feed');
+  const countEl = document.getElementById('result-count');
+
+  if(state.category === 'fav' && state.pool.length === 0){
+    feed.innerHTML = `<div class="empty-state"><div class="big">★</div>Aucun favori enregistré<small>Touchez l'étoile d'une dépêche pour la conserver ici</small></div>`;
+    countEl.textContent = '';
+    return;
+  }
+  if(state.visible.length === 0){
+    feed.innerHTML = `<div class="empty-state"><div class="big">◌</div>Aucun résultat<small>Ajustez votre recherche ou changez de source</small></div>`;
+    countEl.textContent = '';
+    return;
+  }
+
+  countEl.textContent = `${state.visible.length} DÉPÊCHE${state.visible.length > 1 ? 'S' : ''}`;
+
+  feed.innerHTML = state.visible.map((item, i) => {
+    const src = FEEDS[item.sourceKey];
+    const fav = isFavorite(item);
+    return `
+      <article class="news-card" style="--src-color:${src ? src.color : 'var(--blue)'}; animation-delay:${Math.min(i,6)*40}ms" data-idx="${i}">
+        <div class="card-top">
+          <span class="source-tag">${escapeHtml(src ? src.label : 'FAVORI')}</span>
+          <div class="card-actions">
+            ${isRecent(item.pubDate) ? '<span class="new-flag">NOUVEAU</span>' : ''}
+            <span class="fav-btn ${fav ? 'active' : ''}" data-fav="${i}" aria-label="Favori">
+              <svg viewBox="0 0 24 24" fill="${fav ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2"><path d="M12 3l2.6 5.8 6.4.6-4.8 4.3 1.4 6.3L12 16.9l-5.6 3.1 1.4-6.3-4.8-4.3 6.4-.6L12 3z"/></svg>
+            </span>
+          </div>
+        </div>
+        <h3 class="news-title">${escapeHtml(item.title)}</h3>
+        <p class="news-summary">${escapeHtml(item.snippet)}</p>
+        <div class="card-footer">
+          <span class="card-date">${formatDate(item.pubDate)}</span>
+          <span class="read-link">LIRE →</span>
+        </div>
+      </article>
+    `;
+  }).join('');
+}
+
+function updateSyncLine(){
+  const dot = document.getElementById('live-dot');
+  const line = document.getElementById('sync-line');
+  const online = navigator.onLine;
+  dot.classList.toggle('offline', !online);
+  const time = state.lastSync
+    ? state.lastSync.toLocaleTimeString('fr-FR', { hour:'2-digit', minute:'2-digit', second:'2-digit' })
+    : '—';
+  line.textContent = online
+    ? `EN LIGNE · DONNÉES GÉNÉRÉES ${time}`
+    : 'HORS LIGNE · DERNIÈRES DONNÉES EN CACHE';
+}
+
+/* ==========================================================================
+   MOTEUR DE BRIEFING IA
+   Analyse fréquentielle des titres/résumés chargés pour dégager les
+   thématiques dominantes, pondérées par un lexique métier défense.
+   ========================================================================== */
+function extractKeywords(pool, limit = 6){
+  const freq = new Map();
+  for(const item of pool){
+    const titleTokens = tokenize(item.title);
+    const bodyTokens = tokenize(item.snippet);
+    for(const t of titleTokens) freq.set(t, (freq.get(t) || 0) + 3);
+    for(const t of bodyTokens)  freq.set(t, (freq.get(t) || 0) + 1);
+  }
+  for(const [word, score] of freq){
+    if(DOMAIN_BOOST.has(word)) freq.set(word, score * 2.2);
+  }
+  return [...freq.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, limit)
+    .map(([word, score]) => ({ word, score }));
+}
+
+async function generateBriefing(){
+  const sheet = document.getElementById('briefing-sheet');
+  const body = document.getElementById('briefing-body');
+  const ts = document.getElementById('briefing-timestamp');
+  sheet.classList.add('open');
+  ts.textContent = 'GÉNÉRATION EN COURS…';
+  body.innerHTML = `<div class="brief-loading"><div class="spinner"></div><p>ANALYSE SÉMANTIQUE DES DÉPÊCHES…</p></div>`;
+
+  // Analyse sur l'ensemble des sources pour un signal plus robuste,
+  // même si l'utilisateur consulte un onglet spécifique.
+  let raw = state.raw;
+  if(!raw){
+    try{ raw = await loadData(); state.raw = raw; buildFeedsMeta(raw.sources); renderTabs(); }
+    catch(e){ raw = { items: [] }; }
+  }
+  const pool = raw.items.map(i => ({ ...i, snippet: snippetFromText(i.description) }));
+
+  if(pool.length === 0){
+    body.innerHTML = `<div class="empty-state">Impossible d'analyser les flux<small>Vérifiez votre connexion et réessayez</small></div>`;
+    return;
+  }
+
+  const themes = extractKeywords(pool, 6);
+  const maxScore = themes[0]?.score || 1;
+  const sources = new Set(pool.map(p => p.sourceKey));
+  const dates = pool.map(p => new Date(p.pubDate).getTime());
+  const oldest = new Date(Math.min(...dates));
+
+  ts.textContent = `BRIEFING TACTIQUE · ${new Date().toLocaleString('fr-FR')}`;
+
+  const themeCards = themes.map((t, i) => {
+    const related = pool
+      .filter(a => (a.title + ' ' + a.snippet).toLowerCase().includes(t.word))
+      .sort((a, b) => {
+        const aInTitle = a.title.toLowerCase().includes(t.word) ? 1 : 0;
+        const bInTitle = b.title.toLowerCase().includes(t.word) ? 1 : 0;
+        return bInTitle - aInTitle;
+      })
+      .slice(0, 3);
+
+    return `
+      <div class="theme-card">
+        <div class="theme-head">
+          <span class="theme-rank">#${i + 1}</span>
+          <span class="theme-name">${escapeHtml(t.word)}</span>
+          <span class="theme-count">${related.length} MENTION${related.length > 1 ? 'S' : ''}</span>
+        </div>
+        <div class="theme-bar"><div class="theme-bar-fill" style="width:${Math.round((t.score / maxScore) * 100)}%"></div></div>
+        ${related.map(a => `<div class="theme-article" data-link="${escapeHtml(a.link)}">${escapeHtml(a.title)}</div>`).join('')}
+      </div>
+    `;
+  }).join('');
+
+  body.innerHTML = `
+    <div class="brief-meta">
+      <div class="brief-stat"><b>${pool.length}</b><span>DÉPÊCHES ANALYSÉES</span></div>
+      <div class="brief-stat"><b>${sources.size}</b><span>SOURCES CROISÉES</span></div>
+      <div class="brief-stat"><b>${Math.max(1, Math.round((Date.now() - oldest) / 3600000))}h</b><span>FENÊTRE TEMPORELLE</span></div>
+    </div>
+    ${themeCards}
+    <div class="brief-footer-note">FIN DE TRANSMISSION — ANALYSE GÉNÉRÉE LOCALEMENT</div>
+  `;
+
+  // Ouvre le lecteur si l'utilisateur touche un article référencé dans le briefing.
+  body.querySelectorAll('.theme-article').forEach(el => {
+    el.addEventListener('click', () => {
+      const item = pool.find(a => a.link === el.dataset.link);
+      if(item) openReader(item);
+    });
+  });
+}
+
+/* ==========================================================================
+   MODE LECTURE — sans quitter l'application
+   ========================================================================== */
+function openReader(item){
+  const src = FEEDS[item.sourceKey];
+  document.getElementById('reader-source').textContent = src ? src.label.toUpperCase() : 'FAVORI';
+  document.getElementById('reader-date').textContent = formatDate(item.pubDate);
+  document.getElementById('reader-title').textContent = item.title;
+
+  const paras = textToParagraphs(item.description || item.content || item.snippet);
+  document.getElementById('reader-body').innerHTML =
+    (paras.length ? paras : [item.snippet]).map(p => `<p>${escapeHtml(p)}</p>`).join('');
+
+  const link = document.getElementById('reader-open-link');
+  link.href = item.link;
+
+  const favBtn = document.getElementById('reader-fav-btn');
+  favBtn.classList.toggle('active', isFavorite(item));
+  favBtn.onclick = () => {
+    toggleFavorite(item);
+    favBtn.classList.toggle('active', isFavorite(item));
+    renderArticles();
+  };
+
+  document.getElementById('reader-sheet').classList.add('open');
+}
+
+/* ==========================================================================
+   ÉVÉNEMENTS UI (délégation — code robuste face aux titres avec apostrophes/quotes)
+   ========================================================================== */
+document.getElementById('tab-scroller').addEventListener('click', e => {
+  const btn = e.target.closest('.tab');
+  if(!btn) return;
+  document.getElementById('search-input').value = '';
+  state.searchTerm = '';
+  document.getElementById('clear-search').classList.remove('show');
+  loadCategory(btn.dataset.cat);
+});
+
+document.getElementById('chip-row').addEventListener('click', e => {
+  const chip = e.target.closest('.chip');
+  if(!chip) return;
+  state.activeKeyword = state.activeKeyword === chip.dataset.kw ? null : chip.dataset.kw;
+  document.querySelectorAll('.chip').forEach(c => c.classList.toggle('active', c.dataset.kw === state.activeKeyword));
+  applyFilters();
+});
+
+document.getElementById('news-feed').addEventListener('click', e => {
+  const favEl = e.target.closest('[data-fav]');
+  if(favEl){
+    e.stopPropagation();
+    const item = state.visible[+favEl.dataset.fav];
+    toggleFavorite(item);
+    renderArticles();
+    return;
+  }
+  const card = e.target.closest('.news-card');
+  if(card) openReader(state.visible[+card.dataset.idx]);
+});
+
+const searchInput = document.getElementById('search-input');
+searchInput.addEventListener('input', () => {
+  state.searchTerm = searchInput.value.trim();
+  document.getElementById('clear-search').classList.toggle('show', !!state.searchTerm);
+  applyFilters();
+});
+document.getElementById('clear-search').addEventListener('click', () => {
+  searchInput.value = '';
+  state.searchTerm = '';
+  document.getElementById('clear-search').classList.remove('show');
+  applyFilters();
+});
+
+document.getElementById('refresh-btn').addEventListener('click', refreshData);
+document.getElementById('briefing-fab').addEventListener('click', generateBriefing);
+document.getElementById('reader-close').addEventListener('click', () => document.getElementById('reader-sheet').classList.remove('open'));
+document.getElementById('briefing-close').addEventListener('click', () => document.getElementById('briefing-sheet').classList.remove('open'));
+
+window.addEventListener('online', updateSyncLine);
+window.addEventListener('offline', updateSyncLine);
+
+/* ==========================================================================
+   HORLOGE + INIT
+   ========================================================================== */
+function tickClock(){
+  document.getElementById('clock').textContent = new Date().toLocaleTimeString('fr-FR');
+}
+setInterval(tickClock, 1000);
+tickClock();
+
+if('serviceWorker' in navigator){
+  navigator.serviceWorker.register('./service-worker.js').catch(() => {});
+}
+
+renderTabs();
+updateSyncLine();
+loadCategory('all');
+</script>
+</body>
+</html>

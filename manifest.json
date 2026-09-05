@@ -1,0 +1,18 @@
+{
+  "name": "Defense Pulse",
+  "short_name": "DefPulse",
+  "description": "Intelligence stratégique et industrielle en temps réel.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#08090b",
+  "theme_color": "#08090b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2592/2592223.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}

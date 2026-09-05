@@ -1,0 +1,10 @@
+{
+  "generatedAt": null,
+  "sources": [
+    { "key": "opex", "label": "Opex360", "url": "https://www.opex360.com/feed/" },
+    { "key": "fob", "label": "Forces Opérations", "url": "https://www.forcesoperations.com/feed/" },
+    { "key": "eu", "label": "EU Defense Policy", "url": "https://www.defenseone.com/feed/" },
+    { "key": "geo", "label": "Géopolitique & Défense", "url": "https://www.lemonde.fr/defense/rss_full.xml" }
+  ],
+  "items": []
+}
