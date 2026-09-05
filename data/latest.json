@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T16:22:36.585Z",
+  "generatedAt": "2026-09-05T16:32:38.889Z",
   "sources": [
     {
       "key": "opex",
@@ -12,9 +12,9 @@
       "url": "https://www.forcesoperations.com/feed/"
     },
     {
-      "key": "eda_eu",
-      "label": "Agence Européenne de Défense (EN)",
-      "url": "https://eda.europa.eu/rss"
+      "key": "armees_com",
+      "label": "Armées.com",
+      "url": "https://armees.com/feed/"
     },
     {
       "key": "geo",
@@ -52,6 +52,27 @@
       "sourceKey": "fob"
     },
     {
+      "title": "Pourquoi la Pologne vient de verrouiller son espace aérien en dessous de 1500 mètres, une décision que l’OTAN observe de très près",
+      "link": "https://armees.com/pourquoi-la-pologne-vient-de-verrouiller-son-espace-aerien-en-dessous-de-1500-metres-une-decision-que-lotan-observe-de-tres-pres/",
+      "pubDate": "2026-09-05T06:05:11.000Z",
+      "description": "Trois mois de ciel fermé, des F-16 en alerte permanente : la Pologne verrouille sa frontière face aux « provocations russes ». Que se passe-t-il vraiment à sa porte orientale ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Guerre en Ukraine : un robot terrestre aurait tué 20 soldats russes sans jamais se faire toucher",
+      "link": "https://armees.com/guerre-en-ukraine-un-robot-terrestre-aurait-tue-20-soldats-russes-sans-jamais-se-faire-toucher/",
+      "pubDate": "2026-09-05T05:35:16.000Z",
+      "description": "Un robot a tué 20 soldats russes sans qu'aucun Ukrainien ne risque sa vie. Comment cette machine a-t-elle décidé, seule, d'ouvrir le feu ? Le récit de cette opération inédite en dit long sur la guerre à venir.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "« Ils vont me pendre » : Vladimir Poutine inquiet pour sa sécurité ? Cette confidence glaçante confirmée par un proche",
+      "link": "https://armees.com/ils-vont-me-pendre-vladimir-poutine-inquiet-pour-sa-securite-cette-confidence-glacante-confirmee-par-un-proche/",
+      "pubDate": "2026-09-05T05:05:15.000Z",
+      "description": "Poutine hanté par la peur d'être pendu par les siens plutôt que par ses ennemis : téléphones bannis, entourage sur écoute, visage vieilli. Que cache vraiment cette paranoïa au sommet du Kremlin ?",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "La Direction générale de l’armement a notifié les premiers contrats pour le développement du Rafale F5",
       "link": "https://www.opex360.com/2026/09/04/la-direction-generale-de-larmement-a-notifie-les-premiers-contrats-pour-le-developpement-du-rafale-f5/",
       "pubDate": "2026-09-04T17:36:32.000Z",
@@ -73,6 +94,27 @@
       "sourceKey": "opex"
     },
     {
+      "title": "Ukraine : un drone russe frappe le siège du SBU à Kyiv (VIDEO)",
+      "link": "https://armees.com/ukraine-un-drone-russe-frappe-le-siege-du-sbu-a-kyiv/",
+      "pubDate": "2026-09-04T13:24:05.000Z",
+      "description": "D’après le chef de l’État ukrainien, l’appareil aurait visé directement le bureau du responsable du SBU dans le bâtiment.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Condé-sur-Sarthe : pourquoi le Conseil d’État désavoue l’administration pénitentiaire",
+      "link": "https://armees.com/prison-conde-sarthe-pourquoi-conseil-etat-desavoue-administration/",
+      "pubDate": "2026-09-04T11:40:57.000Z",
+      "description": "Le Conseil d'État a rejeté le 3 septembre 2026 le recours de Gérald Darmanin contre une ordonnance enjoignant de faire cesser les comportements contraires à la déontologie à la prison de Condé-sur-Sarthe. Cette décision valide les constats de maltraitances documentés dans le quartier de lutte contre la criminalité organisée et expose une défaillance du contrôle hiérarchique au sein de l'administration pénitentiaire.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Attaque du 7 octobre : Netanyahou accuse l’armée, l’opposition dénonce un complot",
+      "link": "https://armees.com/attaque-du-7-octobre-netanyahou-denonce-complot/",
+      "pubDate": "2026-09-04T10:58:37.000Z",
+      "description": "Trois ans après l'attaque du 7 octobre 2023, Benyamin Netanyahou accuse l'état-major d'avoir volontairement omis de le réveiller lors de l'offensive du Hamas. Une accusation explosive qui intervient à moins de deux mois des élections législatives et ravive le débat sur les responsabilités dans la pire défaillance sécuritaire de l'histoire israélienne.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Opérations spéciales : L’Escadron de transport 3/61 Poitou troque ses C-130H Hercules contre des A400M Atlas",
       "link": "https://www.opex360.com/2026/09/04/operations-speciales-lescadron-de-transport-3-61-poitou-troque-ses-c-130h-hercules-contre-des-a400m-atlas/",
       "pubDate": "2026-09-04T10:45:14.000Z",
@@ -80,11 +122,74 @@
       "sourceKey": "opex"
     },
     {
+      "title": "Défense : l’Égypte dispose d’un quartier général plus grand que le Pentagone",
+      "link": "https://armees.com/egypte-defense-dispose-quartier-general-grand-pentagone/",
+      "pubDate": "2026-09-04T10:02:52.000Z",
+      "description": "Le 4 juillet 2026, l'Égypte a inauguré l'Octogone, un complexe militaire de 92 km² dans la Nouvelle Capitale Administrative, surpassant le Pentagone américain. Le site regroupe le ministère de la Défense et les commandements des quatre branches de l'armée égyptienne, formant un système de commandement unifié. L'installation fonctionne comme une ville autonome dotée de logements, services et infrastructures dédiés au personnel militaire.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Armes chimiques : la Syrie commence à détruire l’arsenal de l’ère Assad",
+      "link": "https://armees.com/syrie-armes-chimiques-commence-detruire-arsenal-ere-assad/",
+      "pubDate": "2026-09-04T09:05:17.000Z",
+      "description": "La Syrie a entamé la destruction des vestiges du programme d'armes chimiques de l'ère Assad, avec la vérification par l'OPCW de l'élimination irréversible de 42 bombes aériennes. Première opération du genre depuis 2014, elle intervient après la découverte en mai 2026 de matériaux non déclarés, révélant l'ampleur sous-estimée de l'arsenal chimique syrien.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : Witkoff et Kushner à Kiev, signe d’un réengagement américain",
+      "link": "https://armees.com/ukraine-witkoff-kushner-kiev-signe-reengagement-americain/",
+      "pubDate": "2026-09-04T08:45:41.000Z",
+      "description": "Volodymyr Zelensky a confirmé le 3 septembre 2026 l'arrivée imminente à Kiev des émissaires américains Steve Witkoff et Jared Kushner, marquant leur première visite dans la capitale ukrainienne depuis le retour de Donald Trump à la Maison-Blanche. Ce déplacement, qui intervient après plusieurs rencontres à Moscou, signale un réengagement stratégique de Washington dans les négociations de paix, alors que le conflit en Ukraine entre dans sa cinquième année sans percée diplomatique significative.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Norvège : saisie d’un navire russe en Arctique, signal stratégique aux alliés",
+      "link": "https://armees.com/norvege-saisie-navire-russe-arctique-signal-strategique-allies/",
+      "pubDate": "2026-09-04T08:23:22.000Z",
+      "description": "Le 2 septembre 2026, la Norvège a saisi le navire russe Professor Molchanov à Barentsburg après 24 heures de bras de fer avec les garde-côtes russes. Cette opération, menée pour exécuter une sentence arbitrale de 4,22 milliards de dollars en faveur de l'Ukrainien Naftogaz, transforme l'Arctique en champ de bataille économique et teste la capacité des alliés occidentaux à neutraliser les actifs russes en zones stratégiques.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "La cavalerie française entre réécriture de MGCS et ébauche de char intermédiaire",
       "link": "https://forcesoperations.com/la-cavalerie-francaise-entre-reecriture-de-mgcs-et-ebauche-de-char-intermediaire/",
       "pubDate": "2026-09-04T08:15:18.000Z",
       "description": "Le programme franco-allemand MGCS se recentre sur le combat collaboratif, tandis que la recherche d'un char intermédiaire pour relever le Leclerc se précise côté français. La poussière des annonces estivales désormais retombée, le point sur ces deux programmes officiellement imbriqués. Une capacité intermédiaire sur les rails « Ce dont je suis certain, c'est que, comme toutes […]\nThe post La cavalerie française entre réécriture de MGCS et ébauche de char intermédiaire appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
+    },
+    {
+      "title": "Poutine reste flou face à une possible attaque contre les installations militaires au Royaume-Uni",
+      "link": "https://armees.com/poutine-reste-flou-face-a-une-possible-attaque-contre-les-installations-militaires-au-royaume-uni/",
+      "pubDate": "2026-09-04T06:05:00.000Z",
+      "description": "Un « secret militaire » qui glace le Royaume-Uni, des requins qui montrent les dents et des orques qui déchiquettent des ours polaires. Poutine mélange métaphores et menaces voilées. Que cache vraiment cette conférence de presse à Bichkek ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Le porte-avions USS Abraham Lincoln débarque en Thaïlande après plusieurs mois de combats au Moyen-Orient",
+      "link": "https://armees.com/le-porte-avions-uss-abraham-lincoln-debarque-en-thailande-apres-plusieurs-mois-de-combats-au-moyen-orient/",
+      "pubDate": "2026-09-04T05:35:38.000Z",
+      "description": "286 jours en mer, une coque rongée par la rouille, un marin tombé à l'eau : derrière l'accostage triomphal du Lincoln en Thaïlande se cache une réalité bien plus sombre pour son équipage.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ni prison classique ni bracelet électronique : l’Algérie choisit le désert brûlant pour enfermer ses trafiquants de drogue",
+      "link": "https://armees.com/ni-prison-classique-ni-bracelet-electronique-lalgerie-choisit-le-desert-brulant-pour-enfermer-ses-trafiquants-de-drogue/",
+      "pubDate": "2026-09-04T05:05:54.000Z",
+      "description": "50°C, isolement total, aucune évasion possible. L'Algérie mise sur le désert le plus hostile du Sahara pour enfermer ses barons de la drogue. Une stratégie radicale qui en dit long sur l'ampleur du fléau.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Piratage : 153 millions de documents volés, Hegseth parmi les victimes",
+      "link": "https://armees.com/piratage-153-millions-documents-voles-hegseth-parmi-victimes/",
+      "pubDate": "2026-09-04T04:46:56.000Z",
+      "description": "Le permis de conduire de Pete Hegseth, secrétaire à la Défense des États-Unis, figure parmi 153 millions de documents d'identité volés et mis en vente sur le dark web.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Qui est Adam Telle, le nouveau visage de l’Armée américaine ?",
+      "link": "https://armees.com/adam-telle-nouveau-visage-armee-americaine/",
+      "pubDate": "2026-09-04T04:27:35.000Z",
+      "description": "Jeudi 4 septembre 2026, Adam Telle devient secrétaire à l'Armée américaine par intérim, succédant à Dan Driscoll. Expert législatif fort de 20 ans d'expérience au Congrès, ce civil du Corps d'ingénieurs hérite d'un commandement fragilisé par des tensions internes et des départs successifs de généraux.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "L’armée de Terre fait son mea culpa après l’abandon du drone tactique Patroller",
@@ -106,6 +211,13 @@
       "pubDate": "2026-09-03T15:01:38.000Z",
       "description": "En mai, l’agence du ministère sud-coréen dédiée aux programmes d’armement [DAPA – Defense Acquisition Program Administration] a fait savoir que l’avion de combat KF-21 «Boramae», conçu par Korean Aerospace Industries [KAI] avait «rempli tous les critères d’évaluation de son aptitude au combat». Et cela à peine quatre ans après le vol inaugural du premier prototype...\nCet article Le ministère sud-coréen de la Défense lance une étude pour développer un avion de combat de 6e génération est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Russie : 3000 soldats manquants chaque mois malgré le déni de mobilisation",
+      "link": "https://armees.com/russie-3000-soldats-manquants-chaque-mois-malgre-deni-mobilisation/",
+      "pubDate": "2026-09-03T13:01:49.000Z",
+      "description": "L'armée russe enregistre 30 000 pertes mensuelles contre 27 000 nouveaux engagés, creusant un déficit structurel de 3 000 soldats chaque mois. Malgré les dénégations de Vladimir Poutine sur une mobilisation imminente, les chiffres du CSIS révèlent une équation militaire de plus en plus précaire pour Moscou, qui maintient ses opérations offensives à un coût humain croissant.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "IA : le patron de Palantir, Alex Karp, met en garde la France au sujet de sa souveraineté numérique",
