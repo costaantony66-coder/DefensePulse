@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T06:48:31.319Z",
+  "generatedAt": "2026-09-06T07:06:09.015Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "La Norvège saisit un navire russe en plein Arctique à la demande de Kiev : Poutine parle de « terrorisme d’État » et menace de représailles",
+      "link": "https://armees.com/la-norvege-saisit-un-navire-russe-en-plein-arctique-a-la-demande-de-kiev-poutine-parle-de-terrorisme-detat-et-menace-de-represailles/",
+      "pubDate": "2026-09-06T06:05:32.000Z",
+      "description": "Un navire russe bloqué en Arctique, un litige à 4,22 milliards de dollars, et le Kremlin qui crie au « terrorisme d'État ». L'affaire Naftogaz prend une tournure explosive au Svalbard.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "« Nous n’hésiterons pas » : l’armée américaine frappe trois pétroliers iraniens en pleine mer, Téhéran promet une riposte immédiate",
+      "link": "https://armees.com/nous-nhesiterons-pas-larmee-americaine-frappe-trois-petroliers-iraniens-en-pleine-mer-teheran-promet-une-riposte-immediate/",
+      "pubDate": "2026-09-06T05:35:39.000Z",
+      "description": "Trois pétroliers détruits, des menaces de représailles « plus dures que jamais »... Entre Washington et Téhéran, l'escalade franchit un nouveau cap dans le Golfe. Que va-t-il se passer ensuite ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un Rafale ravitaillé en vol par un avion chinois YY-20 pour la première fois : la manœuvre que personne n’attendait",
+      "link": "https://armees.com/un-rafale-ravitaille-en-vol-par-un-avion-chinois-yy-20-pour-la-premiere-fois-la-manoeuvre-que-personne-nattendait/",
+      "pubDate": "2026-09-06T05:05:22.000Z",
+      "description": "Un Rafale français ravitaillé par un avion-citerne chinois : la scène paraît improbable, pourtant elle s'est bien produite en Égypte. Que cache vraiment ce rapprochement inédit entre Paris et Pékin ?",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Le Pentagone a soumis des responsables militaires américains au détecteur de mensonge après des fuites, d’après le « New York Times »",
       "link": "https://www.lemonde.fr/international/article/2026/09/05/le-pentagone-a-soumis-des-responsables-militaires-americains-au-detecteur-de-mensonge-apres-des-fuites-d-apres-le-new-york-times_6766366_3210.html",
@@ -185,20 +206,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Piratage : 153 millions de documents volés, Hegseth parmi les victimes",
-      "link": "https://armees.com/piratage-153-millions-documents-voles-hegseth-parmi-victimes/",
-      "pubDate": "2026-09-04T04:46:56.000Z",
-      "description": "Le permis de conduire de Pete Hegseth, secrétaire à la Défense des États-Unis, figure parmi 153 millions de documents d'identité volés et mis en vente sur le dark web.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Qui est Adam Telle, le nouveau visage de l’Armée américaine ?",
-      "link": "https://armees.com/adam-telle-nouveau-visage-armee-americaine/",
-      "pubDate": "2026-09-04T04:27:35.000Z",
-      "description": "Jeudi 4 septembre 2026, Adam Telle devient secrétaire à l'Armée américaine par intérim, succédant à Dan Driscoll. Expert législatif fort de 20 ans d'expérience au Congrès, ce civil du Corps d'ingénieurs hérite d'un commandement fragilisé par des tensions internes et des départs successifs de généraux.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’armée de Terre fait son mea culpa après l’abandon du drone tactique Patroller",
       "link": "https://www.opex360.com/2026/09/03/larmee-de-terre-fait-son-mea-culpa-apres-labandon-du-drone-tactique-patroller/",
       "pubDate": "2026-09-03T17:08:48.000Z",
@@ -218,13 +225,6 @@
       "pubDate": "2026-09-03T15:01:38.000Z",
       "description": "En mai, l’agence du ministère sud-coréen dédiée aux programmes d’armement [DAPA – Defense Acquisition Program Administration] a fait savoir que l’avion de combat KF-21 «Boramae», conçu par Korean Aerospace Industries [KAI] avait «rempli tous les critères d’évaluation de son aptitude au combat». Et cela à peine quatre ans après le vol inaugural du premier prototype...\nCet article Le ministère sud-coréen de la Défense lance une étude pour développer un avion de combat de 6e génération est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Russie : 3000 soldats manquants chaque mois malgré le déni de mobilisation",
-      "link": "https://armees.com/russie-3000-soldats-manquants-chaque-mois-malgre-deni-mobilisation/",
-      "pubDate": "2026-09-03T13:01:49.000Z",
-      "description": "L'armée russe enregistre 30 000 pertes mensuelles contre 27 000 nouveaux engagés, creusant un déficit structurel de 3 000 soldats chaque mois. Malgré les dénégations de Vladimir Poutine sur une mobilisation imminente, les chiffres du CSIS révèlent une équation militaire de plus en plus précaire pour Moscou, qui maintient ses opérations offensives à un coût humain croissant.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "IA : le patron de Palantir, Alex Karp, met en garde la France au sujet de sa souveraineté numérique",
