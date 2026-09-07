@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T09:48:54.921Z",
+  "generatedAt": "2026-09-07T10:06:18.770Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Iran : vers une « zone interdite » près du détroit d’Ormuz ?",
+      "link": "https://armees.com/iran-vers-une-zone-interdite-pres-du-detroit-dormuz/",
+      "pubDate": "2026-09-07T09:27:47.000Z",
+      "description": "L’Iran prévoit une zone interdite près du détroit d’Ormuz et menace de sanctionner les navires qui y pénétreront sans son autorisation.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Un sommet spatial sans Space X et Blue Origin",
       "link": "https://armees.com/un-sommet-spatial-sans-space-x-et-blue-origin/",
@@ -182,13 +189,6 @@
       "link": "https://armees.com/pourquoi-la-pologne-vient-de-verrouiller-son-espace-aerien-en-dessous-de-1500-metres-une-decision-que-lotan-observe-de-tres-pres/",
       "pubDate": "2026-09-05T06:05:11.000Z",
       "description": "Trois mois de ciel fermé, des F-16 en alerte permanente : la Pologne verrouille sa frontière face aux « provocations russes ». Que se passe-t-il vraiment à sa porte orientale ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre en Ukraine : un robot terrestre aurait tué 20 soldats russes sans jamais se faire toucher",
-      "link": "https://armees.com/guerre-en-ukraine-un-robot-terrestre-aurait-tue-20-soldats-russes-sans-jamais-se-faire-toucher/",
-      "pubDate": "2026-09-05T05:35:16.000Z",
-      "description": "Un robot a tué 20 soldats russes sans qu'aucun Ukrainien ne risque sa vie. Comment cette machine a-t-elle décidé, seule, d'ouvrir le feu ? Le récit de cette opération inédite en dit long sur la guerre à venir.",
       "sourceKey": "armees_com"
     },
     {
