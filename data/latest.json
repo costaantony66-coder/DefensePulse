@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T16:06:04.915Z",
+  "generatedAt": "2026-09-07T16:29:35.049Z",
   "sources": [
     {
       "key": "opex",
@@ -29,6 +29,13 @@
       "pubDate": "2026-09-07T16:05:17.000Z",
       "description": "Pour la Suède, l’acquisition de capacités de frappe à longue portée – qu’elle n’a jamais possédées – est une priorité. Comme l’a expliqué le chef d’état-major de ses forces armées, le général Michael Claesson, il s’agit «d’avoir la possibilité non seulement de combattre sur notre propre territoire mais aussi d’exposer l’agresseur au risque de devoir...\nCet article La Suède va acquérir des lance-roquettes multiples M142 HIMARS américains pour 630 millions d’euros est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Guerre en Ukraine : l’ONU dénonce l’usage d’un drone autonome russe",
+      "link": "https://armees.com/guerre-ukraine-onu-denonce-usage-drone-autonome-russe/",
+      "pubDate": "2026-09-07T14:48:27.000Z",
+      "description": "Le 6 juillet 2026, un drone russe Molniya a tué trois Ukrainiens à Zaporijjia en sélectionnant sa cible de manière entièrement autonome, sans intervention humaine. L'ONU a exprimé son horreur face à ce franchissement d'un seuil technologique et éthique majeur, tandis que 128 pays tentent d'établir une régulation internationale malgré l'opposition des États-Unis, de la Russie, de l'Inde et d'Israël.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "L’Ukraine confirme la mise en service des deux avions d’alerte avancée Saab 340 AEW&C donnés par la Suède",
@@ -168,13 +175,6 @@
       "link": "https://armees.com/la-norvege-saisit-un-navire-russe-en-plein-arctique-a-la-demande-de-kiev-poutine-parle-de-terrorisme-detat-et-menace-de-represailles/",
       "pubDate": "2026-09-06T06:05:32.000Z",
       "description": "Un navire russe bloqué en Arctique, un litige à 4,22 milliards de dollars, et le Kremlin qui crie au « terrorisme d'État ». L'affaire Naftogaz prend une tournure explosive au Svalbard.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "« Nous n’hésiterons pas » : l’armée américaine frappe trois pétroliers iraniens en pleine mer, Téhéran promet une riposte immédiate",
-      "link": "https://armees.com/nous-nhesiterons-pas-larmee-americaine-frappe-trois-petroliers-iraniens-en-pleine-mer-teheran-promet-une-riposte-immediate/",
-      "pubDate": "2026-09-06T05:35:39.000Z",
-      "description": "Trois pétroliers détruits, des menaces de représailles « plus dures que jamais »... Entre Washington et Téhéran, l'escalade franchit un nouveau cap dans le Golfe. Que va-t-il se passer ensuite ?",
       "sourceKey": "armees_com"
     },
     {
