@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T05:28:40.842Z",
+  "generatedAt": "2026-09-07T05:47:25.627Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Un aéroport allemand visé par un drone, la Russie accusée : Trump choisit de défendre Poutine et déclenche un vif débat à Washington",
+      "link": "https://armees.com/un-aeroport-allemand-vise-par-un-drone-la-russie-accusee-trump-choisit-de-defendre-poutine-et-declenche-un-vif-debat-a-washington/",
+      "pubDate": "2026-09-07T05:35:47.000Z",
+      "description": "Un drone piégé à Leipzig, l'Allemagne pointe Moscou du doigt, mais Trump balaie l'accusation d'un revers de main. Pourquoi persiste-t-il à couvrir Poutine malgré les preuves qui s'accumulent ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’avion de détection précoce ASC 890 passé par la Suède accomplit des missions de combat en Ukraine selon Kyiv",
+      "link": "https://armees.com/lavion-de-detection-precoce-asc-890-passe-par-la-suede-accomplit-des-missions-de-combat-en-ukraine-selon-kyiv/",
+      "pubDate": "2026-09-07T05:05:54.000Z",
+      "description": "Un avion-radar suédois, un radar qui traque 1000 cibles à la fois, et des F-16 modifiés pour tout partager en temps réel. Comment l'Ukraine a transformé sa chasse en système digne de l'OTAN.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Avec le système ULYSSE, l’armée de Terre va renforcer la protection de ses blindés SCORPION",
       "link": "https://www.opex360.com/2026/09/06/avec-le-systeme-ulysse-larmee-de-terre-va-renforcer-la-protection-de-ses-blindes-scorpion/",
@@ -203,20 +217,6 @@
       "link": "https://armees.com/poutine-reste-flou-face-a-une-possible-attaque-contre-les-installations-militaires-au-royaume-uni/",
       "pubDate": "2026-09-04T06:05:00.000Z",
       "description": "Un « secret militaire » qui glace le Royaume-Uni, des requins qui montrent les dents et des orques qui déchiquettent des ours polaires. Poutine mélange métaphores et menaces voilées. Que cache vraiment cette conférence de presse à Bichkek ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Le porte-avions USS Abraham Lincoln débarque en Thaïlande après plusieurs mois de combats au Moyen-Orient",
-      "link": "https://armees.com/le-porte-avions-uss-abraham-lincoln-debarque-en-thailande-apres-plusieurs-mois-de-combats-au-moyen-orient/",
-      "pubDate": "2026-09-04T05:35:38.000Z",
-      "description": "286 jours en mer, une coque rongée par la rouille, un marin tombé à l'eau : derrière l'accostage triomphal du Lincoln en Thaïlande se cache une réalité bien plus sombre pour son équipage.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ni prison classique ni bracelet électronique : l’Algérie choisit le désert brûlant pour enfermer ses trafiquants de drogue",
-      "link": "https://armees.com/ni-prison-classique-ni-bracelet-electronique-lalgerie-choisit-le-desert-brulant-pour-enfermer-ses-trafiquants-de-drogue/",
-      "pubDate": "2026-09-04T05:05:54.000Z",
-      "description": "50°C, isolement total, aucune évasion possible. L'Algérie mise sur le désert le plus hostile du Sahara pour enfermer ses barons de la drogue. Une stratégie radicale qui en dit long sur l'ampleur du fléau.",
       "sourceKey": "armees_com"
     },
     {
