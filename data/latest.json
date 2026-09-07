@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T13:31:28.610Z",
+  "generatedAt": "2026-09-07T13:48:33.263Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Une usine Volkswagen va produire des systèmes de défense israéliens",
+      "link": "https://armees.com/volkswagen-usine-va-produire-systemes-defense-israeliens/",
+      "pubDate": "2026-09-07T12:01:41.000Z",
+      "description": "Volkswagen cède son usine d'Osnabrück au fonds israélien Aurelius Capital et au Land de Basse-Saxe pour la transformer en site de production d'équipements de défense aérienne, en partenariat avec Rafael Advanced Defense Systems, fabricant du Dôme de Fer. Cette reconversion, une première en Allemagne, vise à préserver environ 1 400 emplois sur 1 800 dans un contexte de crise automobile et de réarmement européen.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Unseenlabs et Airbus vont développer la future capacité spatiale de renseignement électronique des forces françaises",
       "link": "https://www.opex360.com/2026/09/07/unseenlabs-et-airbus-vont-developper-la-future-capacite-spatiale-de-renseignement-electronique-des-forces-francaises/",
@@ -154,13 +161,6 @@
       "link": "https://armees.com/nous-nhesiterons-pas-larmee-americaine-frappe-trois-petroliers-iraniens-en-pleine-mer-teheran-promet-une-riposte-immediate/",
       "pubDate": "2026-09-06T05:35:39.000Z",
       "description": "Trois pétroliers détruits, des menaces de représailles « plus dures que jamais »... Entre Washington et Téhéran, l'escalade franchit un nouveau cap dans le Golfe. Que va-t-il se passer ensuite ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un Rafale ravitaillé en vol par un avion chinois YY-20 pour la première fois : la manœuvre que personne n’attendait",
-      "link": "https://armees.com/un-rafale-ravitaille-en-vol-par-un-avion-chinois-yy-20-pour-la-premiere-fois-la-manoeuvre-que-personne-nattendait/",
-      "pubDate": "2026-09-06T05:05:22.000Z",
-      "description": "Un Rafale français ravitaillé par un avion-citerne chinois : la scène paraît improbable, pourtant elle s'est bien produite en Égypte. Que cache vraiment ce rapprochement inédit entre Paris et Pékin ?",
       "sourceKey": "armees_com"
     },
     {
