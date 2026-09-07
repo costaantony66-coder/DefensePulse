@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T20:06:40.430Z",
+  "generatedAt": "2026-09-07T20:29:21.264Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "En Colombie, le soldat de la Légion étrangère française pris en otage par une guérilla est « sain et sauf »",
+      "link": "https://www.lemonde.fr/international/article/2026/09/07/en-colombie-le-soldat-de-la-legion-etrangere-francaise-pris-en-otage-par-une-guerilla-est-sain-et-sauf_6767995_3210.html",
+      "pubDate": "2026-09-07T20:19:07.000Z",
+      "description": "Le soldat colombien de la Légion étrangère française, enlevé le 6 août par des guérilleros, a réussi à leur échapper, a annoncé lundi l’état-major français des armées.",
+      "sourceKey": "geo"
+    },
     {
       "title": "Le Pentagone ne veut plus publier les rapports d’évaluation sur ses programmes d’armement",
       "link": "https://www.opex360.com/2026/09/07/le-pentagone-ne-veut-plus-publier-les-rapports-devaluation-sur-ses-programmes-darmement/",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/07/18/l-allemagne-et-la-france-relancent-une-cooperation-realiste-sur-la-defense_6724582_3210.html",
       "pubDate": "2026-07-18T10:11:59.000Z",
       "description": "Après l’échec du projet d’avion commun SCAF, Paris et Berlin ont annoncé, lors d’un conseil des ministres franco-allemand, une série d’initiatives pour entretenir la coopération sur des sujets stratégiques, dont la dissuasion nucléaire et le spatial.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Pourquoi la guerre hybride menée par la Russie pousse la France à hausser le ton",
-      "link": "https://www.lemonde.fr/international/article/2026/07/17/pourquoi-la-guerre-hybride-menee-par-la-russie-pousse-la-france-a-hausser-le-ton_6724233_3210.html",
-      "pubDate": "2026-07-17T18:03:43.000Z",
-      "description": "Entre sabotages et survols de drones, une vaste campagne de cyberespionnage a été attribuée au renseignement intérieur russe par les services français. En réponse, le chargé d’affaires de l’ambassade de Russie, à Paris, a été convoqué, vendredi 17 juillet, par le ministre des affaires étrangères.",
       "sourceKey": "geo"
     }
   ]
