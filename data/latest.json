@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T11:29:58.561Z",
+  "generatedAt": "2026-09-07T11:47:02.630Z",
   "sources": [
     {
       "key": "opex",
@@ -29,6 +29,13 @@
       "pubDate": "2026-09-07T10:38:56.000Z",
       "description": "Confirmés par la Loi de programmation militaire [LPM] 2024-30, les programmes CÉLESTE [Capacité ÉLEctromagnétique SpaTiaLE] et IRIS [Instruments de Renseignement et d’Imagerie Spatiale] avaient pourtant failli être reportés. Du moins, c’est ce qu’avait affirmé le général Stéphane Mille, alors chef d’état-major de l’armée de l’Air & de l’Espace [AAE], lors de l’examen de ce texte...\nCet article Unseenlabs et Airbus vont développer la future capacité spatiale de renseignement électronique des forces françaises est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "L’ambassadeur américain estime que la sécurité des Palestiniens repose sur Israël",
+      "link": "https://armees.com/israel-ambassadeur-americain-securite-palestiniens/",
+      "pubDate": "2026-09-07T10:12:56.000Z",
+      "description": "Le 5 septembre 2026, Mike Huckabee, ambassadeur américain en Israël, s'est rendu à Turmus Ayya en Cisjordanie pour affirmer que le gouvernement israélien porte la responsabilité de la sécurité des Palestiniens. Cette déclaration intervient dans un contexte de violences croissantes perpétrées par des colons israéliens, souvent impunies, et de pressions internationales accrues sur Tel-Aviv après la guerre à Gaza.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Iran : vers une « zone interdite » près du détroit d’Ormuz ?",
@@ -190,13 +197,6 @@
       "pubDate": "2026-09-05T08:51:49.000Z",
       "description": "L'innovation se construit aussi en région pour l'armée de Terre. Ses pôles exploratoires y sont maintenant à pied d'oeuvre depuis un an, premiers résultats et premier bilan encourageant à la clef. \nThe post « Tout ne s’écrit pas à Paris » : la formule gagnante des pôles exploratoires de l’armée de Terre  appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Pourquoi la Pologne vient de verrouiller son espace aérien en dessous de 1500 mètres, une décision que l’OTAN observe de très près",
-      "link": "https://armees.com/pourquoi-la-pologne-vient-de-verrouiller-son-espace-aerien-en-dessous-de-1500-metres-une-decision-que-lotan-observe-de-tres-pres/",
-      "pubDate": "2026-09-05T06:05:11.000Z",
-      "description": "Trois mois de ciel fermé, des F-16 en alerte permanente : la Pologne verrouille sa frontière face aux « provocations russes ». Que se passe-t-il vraiment à sa porte orientale ?",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La Direction générale de l’armement a notifié les premiers contrats pour le développement du Rafale F5",
