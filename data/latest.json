@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T09:06:52.078Z",
+  "generatedAt": "2026-09-07T09:32:04.925Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Un sommet spatial sans Space X et Blue Origin",
+      "link": "https://armees.com/un-sommet-spatial-sans-space-x-et-blue-origin/",
+      "pubDate": "2026-09-07T09:18:40.000Z",
+      "description": "SpaceX, Blue Origin et deux autres entreprises américaines renoncent au sommet spatial de Paris des 9 et 10 septembre 2026, sur fond de tensions entre Washington et l’Europe.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Gaza : le déplacement forcé des Palestiniens déclenche une riposte diplomatique régionale",
+      "link": "https://armees.com/gaza-deplacement-force-palestiniens-declenche-riposte-diplomatique/",
+      "pubDate": "2026-09-07T09:12:53.000Z",
+      "description": "Le ministre israélien de la Défense Israel Katz a annoncé un plan de déplacement forcé des Palestiniens de Gaza « par mer, terre et air », provoquant une réaction diplomatique sans précédent. Huit États arabes et musulmans ont publié une déclaration conjointe le 6 septembre 2026, dénonçant une violation du droit international et une menace pour la stabilité régionale.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Iran : trois pétroliers envoyés par le fond par l’armée américaine",
+      "link": "https://armees.com/iran-trois-petroliers-envoyes-par-le-fond-par-larmee-americaine/",
+      "pubDate": "2026-09-07T09:09:55.000Z",
+      "description": "Les États-Unis ont frappé trois pétroliers liés à l’Iran après des attaques contre l’US Navy. Le détroit d’Ormuz redevient un foyer majeur de tensions.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Des drones V-BAT au décollage pour l’Ukraine grâce au soutien belge",
       "link": "https://forcesoperations.com/des-drones-v-bat-au-decollage-pour-lukraine-grace-au-soutien-belge/",
@@ -171,13 +192,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "« Ils vont me pendre » : Vladimir Poutine inquiet pour sa sécurité ? Cette confidence glaçante confirmée par un proche",
-      "link": "https://armees.com/ils-vont-me-pendre-vladimir-poutine-inquiet-pour-sa-securite-cette-confidence-glacante-confirmee-par-un-proche/",
-      "pubDate": "2026-09-05T05:05:15.000Z",
-      "description": "Poutine hanté par la peur d'être pendu par les siens plutôt que par ses ennemis : téléphones bannis, entourage sur écoute, visage vieilli. Que cache vraiment cette paranoïa au sommet du Kremlin ?",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La Direction générale de l’armement a notifié les premiers contrats pour le développement du Rafale F5",
       "link": "https://www.opex360.com/2026/09/04/la-direction-generale-de-larmement-a-notifie-les-premiers-contrats-pour-le-developpement-du-rafale-f5/",
       "pubDate": "2026-09-04T17:36:32.000Z",
@@ -197,20 +211,6 @@
       "pubDate": "2026-09-04T14:26:23.000Z",
       "description": "En 2021, la maintenance des chars Leclerc fut de nouveau confiée à KNDS France dans le cadre du marché de soutien en service n° 2 [MSS2] notifié par la Structure intégrée du maintien en condition opérationnelle des matériels terrestres [SIMMT] pour un montant de 1 milliard d’euros sur dix ans. À l’époque, le ministère des...\nCet article Le Service industriel de l’aéronautique va s’impliquer dans le maintien en condition opérationnelle des chars Leclerc est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Ukraine : un drone russe frappe le siège du SBU à Kyiv (VIDEO)",
-      "link": "https://armees.com/ukraine-un-drone-russe-frappe-le-siege-du-sbu-a-kyiv/",
-      "pubDate": "2026-09-04T13:24:05.000Z",
-      "description": "D’après le chef de l’État ukrainien, l’appareil aurait visé directement le bureau du responsable du SBU dans le bâtiment.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Condé-sur-Sarthe : pourquoi le Conseil d’État désavoue l’administration pénitentiaire",
-      "link": "https://armees.com/prison-conde-sarthe-pourquoi-conseil-etat-desavoue-administration/",
-      "pubDate": "2026-09-04T11:40:57.000Z",
-      "description": "Le Conseil d'État a rejeté le 3 septembre 2026 le recours de Gérald Darmanin contre une ordonnance enjoignant de faire cesser les comportements contraires à la déontologie à la prison de Condé-sur-Sarthe. Cette décision valide les constats de maltraitances documentés dans le quartier de lutte contre la criminalité organisée et expose une défaillance du contrôle hiérarchique au sein de l'administration pénitentiaire.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Opérations spéciales : L’Escadron de transport 3/61 Poitou troque ses C-130H Hercules contre des A400M Atlas",
