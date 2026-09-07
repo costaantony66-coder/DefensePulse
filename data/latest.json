@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T07:31:23.931Z",
+  "generatedAt": "2026-09-07T07:48:55.112Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Russie : comment l’or de Hong Kong finance la machine de guerre",
+      "link": "https://armees.com/russie-comment-hong-kong-finance-machine-guerre/",
+      "pubDate": "2026-09-07T06:51:44.000Z",
+      "description": "Avec 100 tonnes d'or transitant par Hong Kong en sept mois de 2026, la Russie exploite une faille majeure du système de sanctions occidental pour financer sa guerre en Ukraine. Malgré les sanctions américaines contre des intermédiaires spécifiques, le flux s'accélère : Hong Kong n'a jamais adopté l'interdiction sur l'or russe, transformant l'ancienne colonie britannique en plaque tournante stratégique générant les devises fortes indispensables à Moscou.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Les USA frappent un tanker iranien, le pétrole s’embrase à 97 dollars",
       "link": "https://armees.com/petrole-usa-frappent-tankers-iraniens-s-embrase-97-dollars/",
@@ -203,13 +210,6 @@
       "link": "https://armees.com/egypte-defense-dispose-quartier-general-grand-pentagone/",
       "pubDate": "2026-09-04T10:02:52.000Z",
       "description": "Le 4 juillet 2026, l'Égypte a inauguré l'Octogone, un complexe militaire de 92 km² dans la Nouvelle Capitale Administrative, surpassant le Pentagone américain. Le site regroupe le ministère de la Défense et les commandements des quatre branches de l'armée égyptienne, formant un système de commandement unifié. L'installation fonctionne comme une ville autonome dotée de logements, services et infrastructures dédiés au personnel militaire.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Armes chimiques : la Syrie commence à détruire l’arsenal de l’ère Assad",
-      "link": "https://armees.com/syrie-armes-chimiques-commence-detruire-arsenal-ere-assad/",
-      "pubDate": "2026-09-04T09:05:17.000Z",
-      "description": "La Syrie a entamé la destruction des vestiges du programme d'armes chimiques de l'ère Assad, avec la vérification par l'OPCW de l'élimination irréversible de 42 bombes aériennes. Première opération du genre depuis 2014, elle intervient après la découverte en mai 2026 de matériaux non déclarés, révélant l'ampleur sous-estimée de l'arsenal chimique syrien.",
       "sourceKey": "armees_com"
     },
     {
