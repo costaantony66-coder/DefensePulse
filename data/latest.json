@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T06:38:05.682Z",
+  "generatedAt": "2026-09-07T06:54:01.586Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Les USA frappent un tanker iranien, le pétrole s’embrase à 97 dollars",
+      "link": "https://armees.com/petrole-usa-frappent-tankers-iraniens-s-embrase-97-dollars/",
+      "pubDate": "2026-09-07T06:10:37.000Z",
+      "description": "Le week-end des 5-6 septembre a vu une escalade militaire entre les États-Unis et l'Iran : Washington a frappé un tanker iranien, Téhéran a riposté en attaquant trois navires dans le détroit d'Ormuz. Le pétrole Brent a gagné 0,6%, atteignant 97 dollars le baril. L'Iran annonce la création d'une zone restreinte, menaçant le transit de 20 à 30% du pétrole mondial.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La Croatie commande 18 lance-roquettes sud-coréens K239 Chunmoo pour 435,2 millions d’euros",
+      "link": "https://armees.com/la-croatie-commande-18-lance-roquettes-sud-coreens-k239-chunmoo-pour-4352-millions-deuros/",
+      "pubDate": "2026-09-07T06:05:32.000Z",
+      "description": "La Croatie débourse 435 millions d'euros pour des lance-roquettes sud-coréens, juste après avoir pointé du doigt la montée en puissance militaire de son voisin serbe. Course à l'armement dans les Balkans ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Immigration : l’accord Bardella-Farage met la France à l’épreuve",
+      "link": "https://armees.com/bardella-surveillance-maritime-accord-farage-met-france-epreuve/",
+      "pubDate": "2026-09-07T05:41:31.000Z",
+      "description": "L'accord signé le 4 septembre 2026 entre Jordan Bardella et Nigel Farage prévoit l'interception systématique des embarcations de migrants parties des côtes françaises.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Un aéroport allemand visé par un drone, la Russie accusée : Trump choisit de défendre Poutine et déclenche un vif débat à Washington",
       "link": "https://armees.com/un-aeroport-allemand-vise-par-un-drone-la-russie-accusee-trump-choisit-de-defendre-poutine-et-declenche-un-vif-debat-a-washington/",
@@ -192,32 +213,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Ukraine : Witkoff et Kushner à Kiev, signe d’un réengagement américain",
-      "link": "https://armees.com/ukraine-witkoff-kushner-kiev-signe-reengagement-americain/",
-      "pubDate": "2026-09-04T08:45:41.000Z",
-      "description": "Volodymyr Zelensky a confirmé le 3 septembre 2026 l'arrivée imminente à Kiev des émissaires américains Steve Witkoff et Jared Kushner, marquant leur première visite dans la capitale ukrainienne depuis le retour de Donald Trump à la Maison-Blanche. Ce déplacement, qui intervient après plusieurs rencontres à Moscou, signale un réengagement stratégique de Washington dans les négociations de paix, alors que le conflit en Ukraine entre dans sa cinquième année sans percée diplomatique significative.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Norvège : saisie d’un navire russe en Arctique, signal stratégique aux alliés",
-      "link": "https://armees.com/norvege-saisie-navire-russe-arctique-signal-strategique-allies/",
-      "pubDate": "2026-09-04T08:23:22.000Z",
-      "description": "Le 2 septembre 2026, la Norvège a saisi le navire russe Professor Molchanov à Barentsburg après 24 heures de bras de fer avec les garde-côtes russes. Cette opération, menée pour exécuter une sentence arbitrale de 4,22 milliards de dollars en faveur de l'Ukrainien Naftogaz, transforme l'Arctique en champ de bataille économique et teste la capacité des alliés occidentaux à neutraliser les actifs russes en zones stratégiques.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La cavalerie française entre réécriture de MGCS et ébauche de char intermédiaire",
       "link": "https://forcesoperations.com/la-cavalerie-francaise-entre-reecriture-de-mgcs-et-ebauche-de-char-intermediaire/",
       "pubDate": "2026-09-04T08:15:18.000Z",
       "description": "Le programme franco-allemand MGCS se recentre sur le combat collaboratif, tandis que la recherche d'un char intermédiaire pour relever le Leclerc se précise côté français. La poussière des annonces estivales désormais retombée, le point sur ces deux programmes officiellement imbriqués. Une capacité intermédiaire sur les rails « Ce dont je suis certain, c'est que, comme toutes […]\nThe post La cavalerie française entre réécriture de MGCS et ébauche de char intermédiaire appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Poutine reste flou face à une possible attaque contre les installations militaires au Royaume-Uni",
-      "link": "https://armees.com/poutine-reste-flou-face-a-une-possible-attaque-contre-les-installations-militaires-au-royaume-uni/",
-      "pubDate": "2026-09-04T06:05:00.000Z",
-      "description": "Un « secret militaire » qui glace le Royaume-Uni, des requins qui montrent les dents et des orques qui déchiquettent des ours polaires. Poutine mélange métaphores et menaces voilées. Que cache vraiment cette conférence de presse à Bichkek ?",
-      "sourceKey": "armees_com"
     },
     {
       "title": "L’armée de Terre fait son mea culpa après l’abandon du drone tactique Patroller",
