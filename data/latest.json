@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T10:29:59.101Z",
+  "generatedAt": "2026-09-07T10:47:14.231Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Unseenlabs et Airbus vont développer la future capacité spatiale de renseignement électronique des forces françaises",
+      "link": "https://www.opex360.com/2026/09/07/unseenlabs-et-airbus-vont-developper-la-future-capacite-spatiale-de-renseignement-electronique-des-forces-francaises/",
+      "pubDate": "2026-09-07T10:38:56.000Z",
+      "description": "Confirmés par la Loi de programmation militaire [LPM] 2024-30, les programmes CÉLESTE [Capacité ÉLEctromagnétique SpaTiaLE] et IRIS [Instruments de Renseignement et d’Imagerie Spatiale] avaient pourtant failli être reportés. Du moins, c’est ce qu’avait affirmé le général Stéphane Mille, alors chef d’état-major de l’armée de l’Air & de l’Espace [AAE], lors de l’examen de ce texte...\nCet article Unseenlabs et Airbus vont développer la future capacité spatiale de renseignement électronique des forces françaises est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
     {
       "title": "Iran : vers une « zone interdite » près du détroit d’Ormuz ?",
       "link": "https://armees.com/iran-vers-une-zone-interdite-pres-du-detroit-dormuz/",
@@ -225,13 +232,6 @@
       "pubDate": "2026-09-04T08:15:18.000Z",
       "description": "Le programme franco-allemand MGCS se recentre sur le combat collaboratif, tandis que la recherche d'un char intermédiaire pour relever le Leclerc se précise côté français. La poussière des annonces estivales désormais retombée, le point sur ces deux programmes officiellement imbriqués. Une capacité intermédiaire sur les rails « Ce dont je suis certain, c'est que, comme toutes […]\nThe post La cavalerie française entre réécriture de MGCS et ébauche de char intermédiaire appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "L’armée de Terre fait son mea culpa après l’abandon du drone tactique Patroller",
-      "link": "https://www.opex360.com/2026/09/03/larmee-de-terre-fait-son-mea-culpa-apres-labandon-du-drone-tactique-patroller/",
-      "pubDate": "2026-09-03T17:08:48.000Z",
-      "description": "Notifié à Safran Electronics & Defense par la Direction générale de l’armement [DGA] pour 330 millions d’euros en 2016, le programme «Système de drones tactiques» [SDT] prévoyait initialement de livrer quatorze drones Patroller à l’armée de Terre à partir de 2018. Mais des difficultés techniques, accrues par la perte d’un appareil due à la défaillance...\nCet article L’armée de Terre fait son mea culpa après l’abandon du drone tactique Patroller est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "IA : le patron de Palantir, Alex Karp, met en garde la France au sujet de sa souveraineté numérique",
