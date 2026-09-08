@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T08:07:02.517Z",
+  "generatedAt": "2026-09-08T08:31:34.222Z",
   "sources": [
     {
       "key": "opex",
@@ -29,6 +29,27 @@
       "pubDate": "2026-09-08T07:30:07.000Z",
       "description": "Les pays européens doivent s’organiser collectivement pour céder leurs missiles intercepteurs à Kiev, mais aussi coordonner et augmenter la production de ces missiles à l’échelle du continent dès que possible, presse un collectif de personnalités militaires et civiles dans une tribune au « Monde ».",
       "sourceKey": "geo"
+    },
+    {
+      "title": "Ukraine : la diplomatie américaine tente une relance avant un nouvel hiver de guerre",
+      "link": "https://armees.com/ukraine-la-diplomatie-americaine-tente-une-relance-avant-un-nouvel-hiver-de-guerre/",
+      "pubDate": "2026-09-08T07:09:06.000Z",
+      "description": "Une reprise des négociations sur l’Ukraine reste possible. Washington relance la médiation, mais les territoires et la sécurité divisent toujours les camps.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Escalade au Yémen : les Houthis visent des villes saoudiennes",
+      "link": "https://armees.com/houthis-escalade-yemen-visent-villes-saoudiennes/",
+      "pubDate": "2026-09-08T06:29:49.000Z",
+      "description": "Les Houthis du Yémen ont lancé des attaques massives contre le sud de l'Arabie Saoudite, blessant 73 civils et touchant des installations énergétiques stratégiques. Cette escalade marque la reprise d'un conflit qui menace la stabilité régionale et les routes maritimes vitales pour l'approvisionnement énergétique mondial.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Isar Aerospace vient de réussir l’impossible : cette start-up allemande est la première entreprise privée d’Europe continentale à envoyer une fusée en orbite",
+      "link": "https://armees.com/isar-aerospace-vient-de-reussir-limpossible-cette-start-up-allemande-est-la-premiere-entreprise-privee-deurope-continentale-a-envoyer-une-fusee-en-orbite/",
+      "pubDate": "2026-09-08T06:05:00.000Z",
+      "description": "Une fusée privée européenne a réussi là où l'Amérique dominait sans partage depuis des décennies. Après un échec cuisant en mars, l'Allemagne rebat les cartes du spatial et défie SpaceX sur son propre terrain.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Pourquoi Zelensky reste aussi pessimiste après sa rencontre avec Witkoff alors que Washington parlait déjà d’avancées majeures",
@@ -161,27 +182,6 @@
       "link": "https://armees.com/mercator-abandonnee-france-projection-cartographique/",
       "pubDate": "2026-09-07T08:25:03.000Z",
       "description": "La France abandonne officiellement la projection Mercator au profit d'Eckert IV, tandis que l'ONU encourage Equal Earth. Pourtant, aucune carte ne peut restituer fidèlement la planète.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Russie : comment l’or de Hong Kong finance la machine de guerre",
-      "link": "https://armees.com/russie-comment-hong-kong-finance-machine-guerre/",
-      "pubDate": "2026-09-07T06:51:44.000Z",
-      "description": "Avec 100 tonnes d'or transitant par Hong Kong en sept mois de 2026, la Russie exploite une faille majeure du système de sanctions occidental pour financer sa guerre en Ukraine. Malgré les sanctions américaines contre des intermédiaires spécifiques, le flux s'accélère : Hong Kong n'a jamais adopté l'interdiction sur l'or russe, transformant l'ancienne colonie britannique en plaque tournante stratégique générant les devises fortes indispensables à Moscou.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Les USA frappent un tanker iranien, le pétrole s’embrase à 97 dollars",
-      "link": "https://armees.com/petrole-usa-frappent-tankers-iraniens-s-embrase-97-dollars/",
-      "pubDate": "2026-09-07T06:10:37.000Z",
-      "description": "Le week-end des 5-6 septembre a vu une escalade militaire entre les États-Unis et l'Iran : Washington a frappé un tanker iranien, Téhéran a riposté en attaquant trois navires dans le détroit d'Ormuz. Le pétrole Brent a gagné 0,6%, atteignant 97 dollars le baril. L'Iran annonce la création d'une zone restreinte, menaçant le transit de 20 à 30% du pétrole mondial.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La Croatie commande 18 lance-roquettes sud-coréens K239 Chunmoo pour 435,2 millions d’euros",
-      "link": "https://armees.com/la-croatie-commande-18-lance-roquettes-sud-coreens-k239-chunmoo-pour-4352-millions-deuros/",
-      "pubDate": "2026-09-07T06:05:32.000Z",
-      "description": "La Croatie débourse 435 millions d'euros pour des lance-roquettes sud-coréens, juste après avoir pointé du doigt la montée en puissance militaire de son voisin serbe. Course à l'armement dans les Balkans ?",
       "sourceKey": "armees_com"
     },
     {
