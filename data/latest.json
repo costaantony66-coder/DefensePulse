@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T06:08:09.200Z",
+  "generatedAt": "2026-09-08T06:35:24.118Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Pourquoi Zelensky reste aussi pessimiste après sa rencontre avec Witkoff alors que Washington parlait déjà d’avancées majeures",
+      "link": "https://armees.com/pourquoi-zelensky-reste-aussi-pessimiste-apres-sa-rencontre-avec-witkoff-alors-que-washington-parlait-deja-davancees-majeures/",
+      "pubDate": "2026-09-08T05:35:39.000Z",
+      "description": "Trêve fragile, frappes qui continuent, territoires disputés : pendant que Trump évoque « une idée pour la paix », Zelensky redoute déjà un hiver de guerre. Poutine acceptera-t-il enfin de le rencontrer ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Zelenskyy révèle que 67 entreprises ukrainiennes produisent en masse des armes anti-drones",
+      "link": "https://armees.com/zelenskyy-revele-que-67-entreprises-ukrainiennes-produisent-en-masse-des-armes-anti-drones/",
+      "pubDate": "2026-09-08T05:05:43.000Z",
+      "description": "67 entreprises ukrainiennes traquent déjà les drones russes à réaction, ces engins ultra-rapides que les défenses classiques peinent à intercepter. Trois à cinq prototypes s'apprêtent à passer en production. Le fameux « Plan B » de Zelensky prend forme.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’AIEA perd l’accès aux installations nucléaires iraniennes",
+      "link": "https://armees.com/nucleaire-aiea-perd-acces-installations-nucleaires-iraniennes/",
+      "pubDate": "2026-09-08T04:37:24.000Z",
+      "description": "L'Agence internationale de l'énergie atomique tire la sonnette d'alarme : depuis plus d'un an, ses inspecteurs n'ont plus accès aux installations nucléaires iraniennes touchées par les frappes de juin 2025. Rafael Grossi dénonce une perte de continuité de connaissance sur les stocks d'uranium enrichi à 60%, créant un vide stratégique majeur dans le système de vérification international. Parallèlement, Téhéran menace de représailles contre les actifs énergétiques américains et établit une zone d'exclusion dans le détroit d'Ormuz, tandis que les puissances occidentales préparent un renvoi du dossier au Conseil de sécurité.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Guerre en Iran : Donald Trump reconnaît que les États-Unis n’ont pas encore gagné, après avoir affirmé le contraire",
+      "link": "https://armees.com/guerre-en-iran-donald-trump-reconnait-que-les-etats-unis-nont-pas-encore-gagne-apres-avoir-affirme-le-contraire/",
+      "pubDate": "2026-09-08T04:32:50.000Z",
+      "description": "Donald Trump affirme que les États-Unis doivent encore gagner la guerre contre l’Iran, alors qu’il avait précédemment annoncé à plusieurs reprises que le conflit était déjà gagné.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "En Colombie, le soldat de la Légion étrangère française pris en otage par une guérilla est « sain et sauf »",
       "link": "https://www.lemonde.fr/international/article/2026/09/07/en-colombie-le-soldat-de-la-legion-etrangere-francaise-pris-en-otage-par-une-guerilla-est-sain-et-sauf_6767995_3210.html",
@@ -150,27 +178,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Immigration : l’accord Bardella-Farage met la France à l’épreuve",
-      "link": "https://armees.com/bardella-surveillance-maritime-accord-farage-met-france-epreuve/",
-      "pubDate": "2026-09-07T05:41:31.000Z",
-      "description": "L'accord signé le 4 septembre 2026 entre Jordan Bardella et Nigel Farage prévoit l'interception systématique des embarcations de migrants parties des côtes françaises.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un aéroport allemand visé par un drone, la Russie accusée : Trump choisit de défendre Poutine et déclenche un vif débat à Washington",
-      "link": "https://armees.com/un-aeroport-allemand-vise-par-un-drone-la-russie-accusee-trump-choisit-de-defendre-poutine-et-declenche-un-vif-debat-a-washington/",
-      "pubDate": "2026-09-07T05:35:47.000Z",
-      "description": "Un drone piégé à Leipzig, l'Allemagne pointe Moscou du doigt, mais Trump balaie l'accusation d'un revers de main. Pourquoi persiste-t-il à couvrir Poutine malgré les preuves qui s'accumulent ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’avion de détection précoce ASC 890 passé par la Suède accomplit des missions de combat en Ukraine selon Kyiv",
-      "link": "https://armees.com/lavion-de-detection-precoce-asc-890-passe-par-la-suede-accomplit-des-missions-de-combat-en-ukraine-selon-kyiv/",
-      "pubDate": "2026-09-07T05:05:54.000Z",
-      "description": "Un avion-radar suédois, un radar qui traque 1000 cibles à la fois, et des F-16 modifiés pour tout partager en temps réel. Comment l'Ukraine a transformé sa chasse en système digne de l'OTAN.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Avec le système ULYSSE, l’armée de Terre va renforcer la protection de ses blindés SCORPION",
       "link": "https://www.opex360.com/2026/09/06/avec-le-systeme-ulysse-larmee-de-terre-va-renforcer-la-protection-de-ses-blindes-scorpion/",
       "pubDate": "2026-09-06T11:24:51.000Z",
@@ -183,13 +190,6 @@
       "pubDate": "2026-09-06T10:27:27.000Z",
       "description": "Au début de l’exercice fiscal 2026, l’US Air Force alignait 165 drones MALE [Moyenne Altitude Longue Endurance] MQ-9A Reaper alors qu’elle aurait dû en compter au minimum 189. Ce déficit s’expliquait par l’attrition de ces appareils lors de l’opération Rough Rider, menée par les forces américaines contre les rebelles houthistes du Yémen, en mars 2025....\nCet article L’US Air Force veut accélérer le remplacement de ses MQ-9A Reaper par des drones MALE beaucoup moins coûteux est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "La Norvège saisit un navire russe en plein Arctique à la demande de Kiev : Poutine parle de « terrorisme d’État » et menace de représailles",
-      "link": "https://armees.com/la-norvege-saisit-un-navire-russe-en-plein-arctique-a-la-demande-de-kiev-poutine-parle-de-terrorisme-detat-et-menace-de-represailles/",
-      "pubDate": "2026-09-06T06:05:32.000Z",
-      "description": "Un navire russe bloqué en Arctique, un litige à 4,22 milliards de dollars, et le Kremlin qui crie au « terrorisme d'État ». L'affaire Naftogaz prend une tournure explosive au Svalbard.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le Pentagone a soumis des responsables militaires américains au détecteur de mensonge après des fuites, d’après le « New York Times »",
