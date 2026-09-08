@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T17:07:08.151Z",
+  "generatedAt": "2026-09-08T17:29:00.750Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "En 15 ans, les huit hélicoptères NH90 de la force aérienne néo-zélandaise ont effectué plus de 20 000 heures de vol",
+      "link": "https://www.opex360.com/2026/09/08/en-15-ans-les-huit-helicopteres-nh90-de-la-force-aerienne-neo-zelandaise-ont-effectue-plus-de-20-000-heures-de-vol/",
+      "pubDate": "2026-09-08T17:27:48.000Z",
+      "description": "Ces dernières années, l’Australie, la Norvège, la Belgique et, plus récemment, la Suède, ont décidé de retirer, tout ou partie, leurs hélicoptères de manœuvre NH90 en déplorant leur faible taux de disponibilité ainsi que leurs coûts d’exploitations excessifs. Le ministère norvégien de la Défense exigea même leur remboursement auprès de leur constructeur, le consortium NHIndustries...\nCet article En 15 ans, les huit hélicoptères NH90 de la force aérienne néo-zélandaise ont effectué plus de 20 000 heures de vol est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
     {
       "title": "La Marine nationale a reçu ses deux premiers avions de surveillance maritime Falcon 2000 LXS «Albatros»",
       "link": "https://www.opex360.com/2026/09/08/la-marine-nationale-a-recu-ses-deux-premiers-avions-de-surveillance-maritime-falcon-2000-lxs-albatros/",
@@ -225,13 +232,6 @@
       "pubDate": "2026-09-05T17:17:10.000Z",
       "description": "Une cinquantaine de membres de l’état-major ont été interrogés au polygraphe pour identifier la source d’une fuite sur une possible pénurie de munitions américaines.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Le français Safran va fournir un «volume important» de systèmes optroniques d’observation à l’armée allemande",
-      "link": "https://www.opex360.com/2026/09/05/le-francais-safran-va-fournir-un-volume-important-de-systemes-optroniques-dobservation-a-larmee-allemande/",
-      "pubDate": "2026-09-05T13:51:29.000Z",
-      "description": "Selon la dernière édition du rapport au Parlement sur les exportations d’armement de la France, le montant des commandes passées par le ministère allemand de la Défense auprès de l’industrie française de l’armement est en constante augmentation depuis trois ans. Presque anecdotique en 2016 [avec seulement 58,9 millions d’euros], celui-ci a presque doublé entre 2024...\nCet article Le français Safran va fournir un «volume important» de systèmes optroniques d’observation à l’armée allemande est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "« Tout ne s’écrit pas à Paris » : la formule gagnante des pôles exploratoires de l’armée de Terre",
