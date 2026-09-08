@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T14:49:59.705Z",
+  "generatedAt": "2026-09-08T15:07:11.570Z",
   "sources": [
     {
       "key": "opex",
@@ -29,6 +29,20 @@
       "pubDate": "2026-09-08T13:48:51.000Z",
       "description": "Face à la prolifération des drones FPV [First Person View – à pilotage immersif], comme on le voit sur les champs de bataille ukrainien, la parade ne peut pas qu’être technologique dans la mesure où les dispositifs de brouillage électronique sont inefficaces quand ces appareils sont reliés à leurs opérateurs par fibre optique. Même si...\nCet article L’armée de Terre a reçu 400 fusils Benelli M4 AI de calibre 12 pour la lutte antidrone est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Douze pays occidentaux sanctionnent les colonies israéliennes",
+      "link": "https://armees.com/sanctions-israel-colonies-geopolitique-douze-pays-occidentaux-sanctionnent/",
+      "pubDate": "2026-09-08T12:57:32.000Z",
+      "description": "Douze pays occidentaux imposent des sanctions commerciales contre les colonies israéliennes en Cisjordanie le 8 septembre 2026, révélant une fracture géopolitique majeure entre l'Europe et les États-Unis trumpistes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’Espagne achète à MBDA des systèmes antimissiles qu’elle ne possédait pas",
+      "link": "https://armees.com/lespagne-achete-a-mbda-des-systemes-antimissiles-quelle-ne-possedait-pas/",
+      "pubDate": "2026-09-08T12:55:57.000Z",
+      "description": "La Marine espagnole vient de signer un contrat-cadre avec MBDA pour acquérir trois systèmes d'autodéfense SIMBAD RC.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Isar Aerospace lance avec succès la fusée Spectrum depuis la Norvège",
@@ -175,20 +189,6 @@
       "link": "https://armees.com/iran-vers-une-zone-interdite-pres-du-detroit-dormuz/",
       "pubDate": "2026-09-07T09:27:47.000Z",
       "description": "L’Iran prévoit une zone interdite près du détroit d’Ormuz et menace de sanctionner les navires qui y pénétreront sans son autorisation.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un sommet spatial sans Space X et Blue Origin",
-      "link": "https://armees.com/un-sommet-spatial-sans-space-x-et-blue-origin/",
-      "pubDate": "2026-09-07T09:18:40.000Z",
-      "description": "SpaceX, Blue Origin et deux autres entreprises américaines renoncent au sommet spatial de Paris des 9 et 10 septembre 2026, sur fond de tensions entre Washington et l’Europe.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Gaza : le déplacement forcé des Palestiniens déclenche une riposte diplomatique régionale",
-      "link": "https://armees.com/gaza-deplacement-force-palestiniens-declenche-riposte-diplomatique/",
-      "pubDate": "2026-09-07T09:12:53.000Z",
-      "description": "Le ministre israélien de la Défense Israel Katz a annoncé un plan de déplacement forcé des Palestiniens de Gaza « par mer, terre et air », provoquant une réaction diplomatique sans précédent. Huit États arabes et musulmans ont publié une déclaration conjointe le 6 septembre 2026, dénonçant une violation du droit international et une menace pour la stabilité régionale.",
       "sourceKey": "armees_com"
     },
     {
