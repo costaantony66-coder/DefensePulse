@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T11:47:20.197Z",
+  "generatedAt": "2026-09-08T12:08:38.647Z",
   "sources": [
     {
       "key": "opex",
@@ -29,6 +29,20 @@
       "pubDate": "2026-09-08T10:36:14.000Z",
       "description": "Depuis le retrait du Meroka, qui reposait sur douze canons Oerlikon de 20 mm pouvant tirer chacun 120 coups par minute [soit 1 440 coups par minutes au total] ainsi que sur le radar PVS2 Sharpshooter de Lockheed Martin, la marine espagnole [Armada española] ne dispose plus de système d’arme rapproché [CIWS] pour assurer la...\nCet article MBDA va fournir des systèmes antiaériens SIMBAD RC à la marine espagnole est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Ukraine : une fois les émissaires américains partis, une nouvelle attaque russe fait 2 morts",
+      "link": "https://armees.com/ukraine-fois-emissaires-americains-partis-nouvelle/",
+      "pubDate": "2026-09-08T10:27:36.000Z",
+      "description": "La Russie a bombardé Kiev dans la nuit du 7 au 8 septembre 2026, faisant au moins deux morts et mettant fin à une trêve de trois jours. L'attaque survient immédiatement après le départ des émissaires américains et révèle les limites de la défense antiaérienne ukrainienne face aux missiles balistiques.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Guerre en Ukraine : des « progrès » réalisés dans l’optique de la paix, selon les États-Unis",
+      "link": "https://armees.com/ukraine-guerre-progres-realises-optique-paix/",
+      "pubDate": "2026-09-08T10:16:58.000Z",
+      "description": "Les émissaires américains Steve Witkoff et Jared Kushner ont annoncé lundi des « progrès substantiels » après leurs visites à Moscou et Kiev. L'Élysée rapporte une « nouvelle disponibilité russe à négocier », ouvrant la voie à des pourparlers tripartites américano-russo-ukrainiens après les élections à la Douma russe prévues mi-septembre.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "« Chaque hésitation de l’Europe à armer l’Ukraine est lue par Moscou comme une faille »",
@@ -176,20 +190,6 @@
       "pubDate": "2026-09-07T08:53:20.000Z",
       "description": "Après les équipements NRBC, la protection et les armements individuels, le ministère de la Défense belge axe cette fois son aide militaire à l'Ukraine sur les drones. Un marché vient ainsi d'être attribué pour la fourniture de systèmes V-BAT.  La mécanique reste. . . Les trois premiers articles vont ont été offerts. Convaincu ? FOB […]\nThe post Des drones V-BAT au décollage pour l’Ukraine grâce au soutien belge appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Guerre en Ukraine : les émissaires américains rencontrent Moscou et Kiev",
-      "link": "https://armees.com/guerre-ukraine-emissaires/",
-      "pubDate": "2026-09-07T08:40:27.000Z",
-      "description": "Steve Witkoff et Jared Kushner ont rencontré Vladimir Poutine puis Volodymyr Zelensky les 5 et 6 septembre. Parallèlement, l'armée russe a lancé 108 drones et missiles, touchant 11 sites ukrainiens malgré la trêve décrétée sur les capitales. Les chiffres révèlent la poursuite de la guerre à pleine intensité tandis que les négociations achoppent sur la question territoriale de Donetsk.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Mercator abandonnée : la France adopte une nouvelle projection cartographique",
-      "link": "https://armees.com/mercator-abandonnee-france-projection-cartographique/",
-      "pubDate": "2026-09-07T08:25:03.000Z",
-      "description": "La France abandonne officiellement la projection Mercator au profit d'Eckert IV, tandis que l'ONU encourage Equal Earth. Pourtant, aucune carte ne peut restituer fidèlement la planète.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Avec le système ULYSSE, l’armée de Terre va renforcer la protection de ses blindés SCORPION",
