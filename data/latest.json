@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T10:30:33.024Z",
+  "generatedAt": "2026-09-08T10:47:30.174Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "MBDA va fournir des systèmes antiaériens SIMBAD RC à la marine espagnole",
+      "link": "https://www.opex360.com/2026/09/08/mbda-va-fournir-des-systemes-antiaeriens-simbad-rc-a-la-marine-espagnole/",
+      "pubDate": "2026-09-08T10:36:14.000Z",
+      "description": "Depuis le retrait du Meroka, qui reposait sur douze canons Oerlikon de 20 mm pouvant tirer chacun 120 coups par minute [soit 1 440 coups par minutes au total] ainsi que sur le radar PVS2 Sharpshooter de Lockheed Martin, la marine espagnole [Armada española] ne dispose plus de système d’arme rapproché [CIWS] pour assurer la...\nCet article MBDA va fournir des systèmes antiaériens SIMBAD RC à la marine espagnole est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
     {
       "title": "« Chaque hésitation de l’Europe à armer l’Ukraine est lue par Moscou comme une faille »",
       "link": "https://www.lemonde.fr/idees/article/2026/09/08/chaque-hesitation-de-l-europe-a-armer-l-ukraine-est-lue-par-moscou-comme-une-faille_6768128_3232.html",
@@ -232,13 +239,6 @@
       "pubDate": "2026-09-05T08:51:49.000Z",
       "description": "L'innovation se construit aussi en région pour l'armée de Terre. Ses pôles exploratoires y sont maintenant à pied d'oeuvre depuis un an, premiers résultats et premier bilan encourageant à la clef. \nThe post « Tout ne s’écrit pas à Paris » : la formule gagnante des pôles exploratoires de l’armée de Terre  appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "La Direction générale de l’armement a notifié les premiers contrats pour le développement du Rafale F5",
-      "link": "https://www.opex360.com/2026/09/04/la-direction-generale-de-larmement-a-notifie-les-premiers-contrats-pour-le-developpement-du-rafale-f5/",
-      "pubDate": "2026-09-04T17:36:32.000Z",
-      "description": "Selon la Loi de programmation militaire [LPM] 2024-30 actualisée, quarante-sept Rafale F5 devront avoir été livrés à l’armée de l’Air & de l’Espace – plus précisément aux Forces aériennes stratégiques [FAS] – d’ici 2035. Autant dire qu’il n’y a guère de temps à perdre pour concevoir, développer et tester ce nouveau standard… Lors de la...\nCet article La Direction générale de l’armement a notifié les premiers contrats pour le développement du Rafale F5 est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "La cavalerie française entre réécriture de MGCS et ébauche de char intermédiaire",
