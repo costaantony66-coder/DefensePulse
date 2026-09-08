@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T07:07:57.788Z",
+  "generatedAt": "2026-09-08T07:30:42.736Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "« Chaque hésitation de l’Europe à armer l’Ukraine est lue par Moscou comme une faille »",
+      "link": "https://www.lemonde.fr/idees/article/2026/09/08/chaque-hesitation-de-l-europe-a-armer-l-ukraine-est-lue-par-moscou-comme-une-faille_6768128_3232.html",
+      "pubDate": "2026-09-08T07:30:07.000Z",
+      "description": "Les pays européens doivent s’organiser collectivement pour céder leurs missiles intercepteurs à Kiev, mais aussi coordonner et augmenter la production de ces missiles à l’échelle du continent dès que possible, presse un collectif de personnalités militaires et civiles dans une tribune au « Monde ».",
+      "sourceKey": "geo"
+    },
     {
       "title": "Pourquoi Zelensky reste aussi pessimiste après sa rencontre avec Witkoff alors que Washington parlait déjà d’avancées majeures",
       "link": "https://armees.com/pourquoi-zelensky-reste-aussi-pessimiste-apres-sa-rencontre-avec-witkoff-alors-que-washington-parlait-deja-davancees-majeures/",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/07/20/les-bases-americaines-au-moyen-orient-fournissent-des-capacites-mais-elles-constituent-aussi-des-cibles_6727581_3210.html",
       "pubDate": "2026-07-20T17:30:09.000Z",
       "description": "Dans un entretien au « Monde », le chercheur Michael Stricof détaille le contexte de création des bases américaines au Moyen-Orient et analyse leur rôle stratégique dans le conflit actuel entre l’Iran et les Etats-Unis.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "L’Allemagne et la France relancent une coopération « réaliste » sur la défense",
-      "link": "https://www.lemonde.fr/international/article/2026/07/18/l-allemagne-et-la-france-relancent-une-cooperation-realiste-sur-la-defense_6724582_3210.html",
-      "pubDate": "2026-07-18T10:11:59.000Z",
-      "description": "Après l’échec du projet d’avion commun SCAF, Paris et Berlin ont annoncé, lors d’un conseil des ministres franco-allemand, une série d’initiatives pour entretenir la coopération sur des sujets stratégiques, dont la dissuasion nucléaire et le spatial.",
       "sourceKey": "geo"
     }
   ]
