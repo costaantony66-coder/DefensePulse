@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T12:08:38.647Z",
+  "generatedAt": "2026-09-08T12:36:25.799Z",
   "sources": [
     {
       "key": "opex",
@@ -24,10 +24,17 @@
   ],
   "items": [
     {
+      "title": "Isar Aerospace lance avec succès la fusée Spectrum depuis la Norvège",
+      "link": "https://armees.com/fusee-norvege-lancement/",
+      "pubDate": "2026-09-08T12:20:58.000Z",
+      "description": "Le 5 septembre 2026, la fusée Spectrum d'Isar Aerospace a réussi le premier lancement orbital privé depuis l'Europe continentale, marquant un tournant stratégique pour la défense européenne. Face à la domination de SpaceX et aux incertitudes géopolitiques liées à l'administration Trump, l'Europe se dote enfin d'une capacité de lancement indépendante pour ses satellites militaires de reconnaissance et de communication.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "MBDA va fournir des systèmes antiaériens SIMBAD RC à la marine espagnole",
       "link": "https://www.opex360.com/2026/09/08/mbda-va-fournir-des-systemes-antiaeriens-simbad-rc-a-la-marine-espagnole/",
       "pubDate": "2026-09-08T10:36:14.000Z",
-      "description": "Depuis le retrait du Meroka, qui reposait sur douze canons Oerlikon de 20 mm pouvant tirer chacun 120 coups par minute [soit 1 440 coups par minutes au total] ainsi que sur le radar PVS2 Sharpshooter de Lockheed Martin, la marine espagnole [Armada española] ne dispose plus de système d’arme rapproché [CIWS] pour assurer la...\nCet article MBDA va fournir des systèmes antiaériens SIMBAD RC à la marine espagnole est apparu en premier sur Zone Militaire.",
+      "description": "Depuis le retrait du Meroka, qui reposait sur douze canons Oerlikon de 20 mm pouvant tirer chacun 120 coups par minute [soit 1 440 coups par minute au total] ainsi que sur le radar PVS2 Sharpshooter de Lockheed Martin, la marine espagnole [Armada española] ne dispose plus de système d’arme rapproché [CIWS] pour assurer la...\nCet article MBDA va fournir des systèmes antiaériens SIMBAD RC à la marine espagnole est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -175,13 +182,6 @@
       "link": "https://armees.com/gaza-deplacement-force-palestiniens-declenche-riposte-diplomatique/",
       "pubDate": "2026-09-07T09:12:53.000Z",
       "description": "Le ministre israélien de la Défense Israel Katz a annoncé un plan de déplacement forcé des Palestiniens de Gaza « par mer, terre et air », provoquant une réaction diplomatique sans précédent. Huit États arabes et musulmans ont publié une déclaration conjointe le 6 septembre 2026, dénonçant une violation du droit international et une menace pour la stabilité régionale.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Iran : trois pétroliers envoyés par le fond par l’armée américaine",
-      "link": "https://armees.com/iran-trois-petroliers-envoyes-par-le-fond-par-larmee-americaine/",
-      "pubDate": "2026-09-07T09:09:55.000Z",
-      "description": "Les États-Unis ont frappé trois pétroliers liés à l’Iran après des attaques contre l’US Navy. Le détroit d’Ormuz redevient un foyer majeur de tensions.",
       "sourceKey": "armees_com"
     },
     {
