@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T13:07:19.449Z",
+  "generatedAt": "2026-09-09T13:32:07.785Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "La Russie affirme avoir abattu 596 drones ukrainiens en une seule nuit",
+      "link": "https://armees.com/ukraine-russie-affirme-abattu-596-drones-ukrainiens/",
+      "pubDate": "2026-09-09T13:10:50.000Z",
+      "description": "La Russie a annoncé mercredi 9 septembre 2026 avoir intercepté 596 drones ukrainiens durant la nuit du 8 au 9 septembre, provoquant quatre morts et 29 blessés, principalement à Novorossiïsk. Cette attaque massive survient alors que des efforts diplomatiques entre Moscou et Washington tentent de relancer les négociations.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Un rapport parlementaire dénonce des manquements lors de l’achat d’avions F-35A par la Suisse",
       "link": "https://www.opex360.com/2026/09/09/un-rapport-parlementaire-denonce-des-manquements-lors-de-lachat-davions-f-35a-par-la-suisse/",
@@ -168,13 +175,6 @@
       "link": "https://armees.com/ukraine-la-diplomatie-americaine-tente-une-relance-avant-un-nouvel-hiver-de-guerre/",
       "pubDate": "2026-09-08T07:09:06.000Z",
       "description": "Une reprise des négociations sur l’Ukraine reste possible. Washington relance la médiation, mais les territoires et la sécurité divisent toujours les camps.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Escalade au Yémen : les Houthis visent des villes saoudiennes",
-      "link": "https://armees.com/houthis-escalade-yemen-visent-villes-saoudiennes/",
-      "pubDate": "2026-09-08T06:29:49.000Z",
-      "description": "Les Houthis du Yémen ont lancé des attaques massives contre le sud de l'Arabie Saoudite, blessant 73 civils et touchant des installations énergétiques stratégiques. Cette escalade marque la reprise d'un conflit qui menace la stabilité régionale et les routes maritimes vitales pour l'approvisionnement énergétique mondial.",
       "sourceKey": "armees_com"
     },
     {
