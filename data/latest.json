@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T08:06:46.328Z",
+  "generatedAt": "2026-09-09T08:30:41.568Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "ANSSI : REACTIV, la riposte stratégique face aux cyberattaques d’État",
+      "link": "https://armees.com/anssi-reactiv-riposte-strategique-face-cyberattaques-etat/",
+      "pubDate": "2026-09-09T08:03:59.000Z",
+      "description": "Le 7 septembre 2026, l'ANSSI a officialisé REACTIV, un dispositif d'intervention rapide face aux cyberattaques d'État, après une progression de 170% des incidents détectés par la DGFiP en trois ans. Ce redéploiement de moyens confère à l'agence le pouvoir d'imposer aux ministères des mesures de protection dans des délais contraints, tout en centralisant la communication de crise.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Trump dévoile les nouvelles tenues de l’armée américaine : des historiens y voient une ressemblance troublante avec les uniformes nazis",
       "link": "https://armees.com/trump-devoile-les-nouvelles-tenues-de-larmee-americaine-des-historiens-y-voient-une-ressemblance-troublante-avec-les-uniformes-nazis/",
@@ -161,13 +168,6 @@
       "link": "https://armees.com/pourquoi-zelensky-reste-aussi-pessimiste-apres-sa-rencontre-avec-witkoff-alors-que-washington-parlait-deja-davancees-majeures/",
       "pubDate": "2026-09-08T05:35:39.000Z",
       "description": "Trêve fragile, frappes qui continuent, territoires disputés : pendant que Trump évoque « une idée pour la paix », Zelensky redoute déjà un hiver de guerre. Poutine acceptera-t-il enfin de le rencontrer ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Zelenskyy révèle que 67 entreprises ukrainiennes produisent en masse des armes anti-drones",
-      "link": "https://armees.com/zelenskyy-revele-que-67-entreprises-ukrainiennes-produisent-en-masse-des-armes-anti-drones/",
-      "pubDate": "2026-09-08T05:05:43.000Z",
-      "description": "67 entreprises ukrainiennes traquent déjà les drones russes à réaction, ces engins ultra-rapides que les défenses classiques peinent à intercepter. Trois à cinq prototypes s'apprêtent à passer en production. Le fameux « Plan B » de Zelensky prend forme.",
       "sourceKey": "armees_com"
     },
     {
