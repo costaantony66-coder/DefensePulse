@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T10:06:42.268Z",
+  "generatedAt": "2026-09-09T10:30:44.195Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Flottilles pour Gaza : la marine israélienne accusée de crimes de guerre",
+      "link": "https://armees.com/flotille-gaza-plainte-x/",
+      "pubDate": "2026-09-09T08:38:32.000Z",
+      "description": "Entre octobre 2025 et mai 2026, la marine israélienne a intercepté trois flottilles humanitaires en haute mer, arraisonnant 430 militants. Le 7 septembre 2026, 26 Français ont déposé plainte pour crimes de guerre et torture, interrogeant la légalité de ces opérations militaires en eaux internationales.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "ANSSI : REACTIV, la riposte stratégique face aux cyberattaques d’État",
       "link": "https://armees.com/anssi-reactiv-riposte-strategique-face-cyberattaques-etat/",
@@ -161,13 +168,6 @@
       "link": "https://armees.com/isar-aerospace-vient-de-reussir-limpossible-cette-start-up-allemande-est-la-premiere-entreprise-privee-deurope-continentale-a-envoyer-une-fusee-en-orbite/",
       "pubDate": "2026-09-08T06:05:00.000Z",
       "description": "Une fusée privée européenne a réussi là où l'Amérique dominait sans partage depuis des décennies. Après un échec cuisant en mars, l'Allemagne rebat les cartes du spatial et défie SpaceX sur son propre terrain.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Pourquoi Zelensky reste aussi pessimiste après sa rencontre avec Witkoff alors que Washington parlait déjà d’avancées majeures",
-      "link": "https://armees.com/pourquoi-zelensky-reste-aussi-pessimiste-apres-sa-rencontre-avec-witkoff-alors-que-washington-parlait-deja-davancees-majeures/",
-      "pubDate": "2026-09-08T05:35:39.000Z",
-      "description": "Trêve fragile, frappes qui continuent, territoires disputés : pendant que Trump évoque « une idée pour la paix », Zelensky redoute déjà un hiver de guerre. Poutine acceptera-t-il enfin de le rencontrer ?",
       "sourceKey": "armees_com"
     },
     {
