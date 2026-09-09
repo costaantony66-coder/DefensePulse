@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T07:07:46.673Z",
+  "generatedAt": "2026-09-09T07:31:01.628Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Trump dévoile les nouvelles tenues de l’armée américaine : des historiens y voient une ressemblance troublante avec les uniformes nazis",
+      "link": "https://armees.com/trump-devoile-les-nouvelles-tenues-de-larmee-americaine-des-historiens-y-voient-une-ressemblance-troublante-avec-les-uniformes-nazis/",
+      "pubDate": "2026-09-09T06:05:18.000Z",
+      "description": "Bottes de cuir, coupe stricte, teintes sombres : les nouveaux uniformes de la Space Force dévoilés par Trump font halluciner la Toile. Star Wars, nazisme, Starship Troopers... la comparaison qui dérange.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’Iran affirme avoir capturé « l’un des drones sous-marins les plus modernes de l’armée américaine » dans le détroit d’Ormuz",
+      "link": "https://armees.com/liran-affirme-avoir-capture-lun-des-drones-sous-marins-les-plus-modernes-de-larmee-americaine-dans-le-detroit-dormuz/",
+      "pubDate": "2026-09-09T05:35:12.000Z",
+      "description": "Un drone sous-marin américain « intelligent » aux mains des Gardiens iraniens dans le détroit d'Ormuz. Washington reste muet, Téhéran promet des images. Que cache vraiment cette capture stratégique en pleine tension maritime ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Primes de fonctionnaires en hausse : et la défense dans tout ça ?",
+      "link": "https://armees.com/primes-fonctionnaires-hausse-defense-ca/",
+      "pubDate": "2026-09-09T05:20:20.000Z",
+      "description": "+62 %. C’est la hausse des primes dans la fonction publique d’État sur les dix dernières années. Pendant ce temps, nos armées bataillent pour recruter, fidéliser, et moderniser leur équipement. ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : deux SU-35S russes seraient entrés en collision",
+      "link": "https://armees.com/ukraine-deux-su-35s-russes-seraient-entres-en-collision/",
+      "pubDate": "2026-09-09T05:18:15.000Z",
+      "description": "Deux Su-35 russes seraient entrés en collision près de l’Ukraine. Bilan humain, coût des appareils et circonstances : les informations disponibles.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Guerre en Ukraine : confrontée à une grave pénurie d’intercepteurs, l’UE valide l’achat de missiles Patriot pour l’armée ukrainienne grâce au prêt européen de 90 milliards d’euros",
       "link": "https://armees.com/guerre-en-ukraine-confrontee-a-une-grave-penurie-dintercepteurs-lue-valide-lachat-de-missiles-patriot-pour-larmee-ukrainienne-grace-au-pret-europeen-de-90-milliards-deuros/",
@@ -143,20 +171,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "L’AIEA perd l’accès aux installations nucléaires iraniennes",
-      "link": "https://armees.com/nucleaire-aiea-perd-acces-installations-nucleaires-iraniennes/",
-      "pubDate": "2026-09-08T04:37:24.000Z",
-      "description": "L'Agence internationale de l'énergie atomique tire la sonnette d'alarme : depuis plus d'un an, ses inspecteurs n'ont plus accès aux installations nucléaires iraniennes touchées par les frappes de juin 2025. Rafael Grossi dénonce une perte de continuité de connaissance sur les stocks d'uranium enrichi à 60%, créant un vide stratégique majeur dans le système de vérification international. Parallèlement, Téhéran menace de représailles contre les actifs énergétiques américains et établit une zone d'exclusion dans le détroit d'Ormuz, tandis que les puissances occidentales préparent un renvoi du dossier au Conseil de sécurité.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre en Iran : Donald Trump reconnaît que les États-Unis n’ont pas encore gagné, après avoir affirmé le contraire",
-      "link": "https://armees.com/guerre-en-iran-donald-trump-reconnait-que-les-etats-unis-nont-pas-encore-gagne-apres-avoir-affirme-le-contraire/",
-      "pubDate": "2026-09-08T04:32:50.000Z",
-      "description": "Donald Trump affirme que les États-Unis doivent encore gagner la guerre contre l’Iran, alors qu’il avait précédemment annoncé à plusieurs reprises que le conflit était déjà gagné.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "En Colombie, le soldat de la Légion étrangère française pris en otage par une guérilla est « sain et sauf »",
       "link": "https://www.lemonde.fr/international/article/2026/09/07/en-colombie-le-soldat-de-la-legion-etrangere-francaise-pris-en-otage-par-une-guerilla-est-sain-et-sauf_6767995_3210.html",
       "pubDate": "2026-09-07T20:19:05.000Z",
@@ -178,25 +192,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Guerre en Ukraine : l’ONU dénonce l’usage d’un drone autonome russe",
-      "link": "https://armees.com/guerre-ukraine-onu-denonce-usage-drone-autonome-russe/",
-      "pubDate": "2026-09-07T14:48:27.000Z",
-      "description": "Le 6 juillet 2026, un drone russe Molniya a tué trois Ukrainiens à Zaporijjia en sélectionnant sa cible de manière entièrement autonome, sans intervention humaine. L'ONU a exprimé son horreur face à ce franchissement d'un seuil technologique et éthique majeur, tandis que 128 pays tentent d'établir une régulation internationale malgré l'opposition des États-Unis, de la Russie, de l'Inde et d'Israël.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’Ukraine confirme la mise en service des deux avions d’alerte avancée Saab 340 AEW&C donnés par la Suède",
       "link": "https://www.opex360.com/2026/09/07/lukraine-confirme-la-mise-en-service-des-deux-avions-dalerte-avancee-saab-340-aewc-donnes-par-la-suede/",
       "pubDate": "2026-09-07T14:39:35.000Z",
       "description": "En mai 2024, la Suède fit savoir qu’elle céderait deux avions de détection et de commandement aéroportés Saab 340 AEW&C [appelés ASC 890 ou S100D Argus] à l’Ukraine, au titre d’un nouveau «paquet» d’aide militaire d’une valeur de 1,16 milliard d’euros. Et cela alors que ces deux appareils étaient encore en service au sein de...\nCet article L’Ukraine confirme la mise en service des deux avions d’alerte avancée Saab 340 AEW&C donnés par la Suède est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Une usine Volkswagen va produire des systèmes de défense israéliens",
-      "link": "https://armees.com/volkswagen-usine-va-produire-systemes-defense-israeliens/",
-      "pubDate": "2026-09-07T12:01:41.000Z",
-      "description": "Volkswagen cède son usine d'Osnabrück au fonds israélien Aurelius Capital et au Land de Basse-Saxe pour la transformer en site de production d'équipements de défense aérienne, en partenariat avec Rafael Advanced Defense Systems, fabricant du Dôme de Fer. Cette reconversion, une première en Allemagne, vise à préserver environ 1 400 emplois sur 1 800 dans un contexte de crise automobile et de réarmement européen.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Unseenlabs et Airbus vont développer la future capacité spatiale de renseignement électronique des forces françaises",
