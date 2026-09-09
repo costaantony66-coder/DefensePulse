@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T15:06:23.388Z",
+  "generatedAt": "2026-09-09T15:30:50.291Z",
   "sources": [
     {
       "key": "opex",
@@ -29,6 +29,13 @@
       "pubDate": "2026-09-09T14:07:21.000Z",
       "description": "Étant donné que, après le désarmement du Commandant Bouan et de l’Enseigne de vaisseau Jacoubet, la Marine nationale ne comptera plus qu’un seul patrouilleur de haute-mer [PHM ou aviso A69] appartenant à la classe d’Estienne d’Orves, en l’occurrence le Commandant Blaison, le programme des nouveaux patrouilleurs hauturiers ne doit souffrir d’aucun retard, d’autant plus qu’il...\nCet article Le ministère des Armées envisage de commander deux patrouilleurs hauturiers supplémentaires en 2027 est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Pompiers : une grève pendant 6 semaines après un été brulant",
+      "link": "https://armees.com/pompiers-greve-pendant-6-semaines-ete-brulant/",
+      "pubDate": "2026-09-09T13:33:12.000Z",
+      "description": "Neuf syndicats de pompiers lancent une grève de six semaines à partir du 8 septembre 2026, après un été marqué par des mégafeux meurtriers dans le Sud-Ouest. Les interventions ont augmenté de 30% depuis 2002, avec 87% désormais consacrées au secours d'urgence aux personnes. L'intersyndicale réclame 21 000 professionnels supplémentaires et dénonce un projet de loi de modernisation jugé insuffisant.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "La Russie affirme avoir abattu 596 drones ukrainiens en une seule nuit",
@@ -176,13 +183,6 @@
       "pubDate": "2026-09-08T07:30:07.000Z",
       "description": "Les pays européens doivent s’organiser collectivement pour céder leurs missiles intercepteurs à Kiev, mais aussi coordonner et augmenter la production de ces missiles à l’échelle du continent dès que possible, presse un collectif de personnalités militaires et civiles dans une tribune au « Monde ».",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Ukraine : la diplomatie américaine tente une relance avant un nouvel hiver de guerre",
-      "link": "https://armees.com/ukraine-la-diplomatie-americaine-tente-une-relance-avant-un-nouvel-hiver-de-guerre/",
-      "pubDate": "2026-09-08T07:09:06.000Z",
-      "description": "Une reprise des négociations sur l’Ukraine reste possible. Washington relance la médiation, mais les territoires et la sécurité divisent toujours les camps.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "En Colombie, le soldat de la Légion étrangère française pris en otage par une guérilla est « sain et sauf »",
