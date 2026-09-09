@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T17:05:47.011Z",
+  "generatedAt": "2026-09-09T17:28:56.828Z",
   "sources": [
     {
       "key": "opex",
@@ -31,11 +31,25 @@
       "sourceKey": "fob"
     },
     {
+      "title": "Ormuz, gaz et dette : la facture stratégique de notre impréparation",
+      "link": "https://armees.com/ormuz-gaz-dette-facture-strategique-notre-impreparation-2/",
+      "pubDate": "2026-09-09T16:20:43.000Z",
+      "description": "Le détroit d’Ormuz s’embrase, le prix du gaz européen s’envole et la France découvre un nouveau déficit dans ses comptes cet été. Trois signaux distincts, une seule leçon : quand ...",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "La Suède accélère le développement des futures capacités de son aviation de combat",
       "link": "https://www.opex360.com/2026/09/09/la-suede-accelere-le-developpement-des-futures-capacites-de-son-aviation-de-combat/",
       "pubDate": "2026-09-09T16:12:50.000Z",
       "description": "L’air de rien, ayant finalement décidé de ne pas se joindre au Royaume-Uni, à l’Italie et au Japon au sein du Global Combat Air Programme [GCAP], la Suède est train d’affiner sa propre vision du combat aérien du futur, via le projet Konceptprogram Framtida Stridsflygsystem [KFS], lancé en octobre 2024 via la notification de contrats...\nCet article La Suède accélère le développement des futures capacités de son aviation de combat est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Détroit d’Ormuz : l’Europe paye cash son impuissance militaire",
+      "link": "https://armees.com/detroit-ormuz-europe-paye-cash-impuissance-militaire/",
+      "pubDate": "2026-09-09T16:03:39.000Z",
+      "description": "Le gaz européen s’envole à 79 euros le mégawattheure pendant que des pétroliers brûlent en mer d’Oman. Ce n’est pas une coïncidence : c’est la facture de trente ans de ...",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Le ministère des Armées envisage de commander deux patrouilleurs hauturiers supplémentaires en 2027",
@@ -176,20 +190,6 @@
       "pubDate": "2026-09-08T10:36:14.000Z",
       "description": "Depuis le retrait du Meroka, qui reposait sur douze canons Oerlikon de 20 mm pouvant tirer chacun 120 coups par minute [soit 1 440 coups par minute au total] ainsi que sur le radar PVS2 Sharpshooter de Lockheed Martin, la marine espagnole [Armada española] ne dispose plus de système d’arme rapproché [CIWS] pour assurer la...\nCet article MBDA va fournir des systèmes antiaériens SIMBAD RC à la marine espagnole est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Ukraine : une fois les émissaires américains partis, une nouvelle attaque russe fait 2 morts",
-      "link": "https://armees.com/ukraine-fois-emissaires-americains-partis-nouvelle/",
-      "pubDate": "2026-09-08T10:27:36.000Z",
-      "description": "La Russie a bombardé Kiev dans la nuit du 7 au 8 septembre 2026, faisant au moins deux morts et mettant fin à une trêve de trois jours. L'attaque survient immédiatement après le départ des émissaires américains et révèle les limites de la défense antiaérienne ukrainienne face aux missiles balistiques.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre en Ukraine : des « progrès » réalisés dans l’optique de la paix, selon les États-Unis",
-      "link": "https://armees.com/ukraine-guerre-progres-realises-optique-paix/",
-      "pubDate": "2026-09-08T10:16:58.000Z",
-      "description": "Les émissaires américains Steve Witkoff et Jared Kushner ont annoncé lundi des « progrès substantiels » après leurs visites à Moscou et Kiev. L'Élysée rapporte une « nouvelle disponibilité russe à négocier », ouvrant la voie à des pourparlers tripartites américano-russo-ukrainiens après les élections à la Douma russe prévues mi-septembre.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "« Chaque hésitation de l’Europe à armer l’Ukraine est lue par Moscou comme une faille »",
