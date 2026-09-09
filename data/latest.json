@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T12:36:26.443Z",
+  "generatedAt": "2026-09-09T12:52:21.605Z",
   "sources": [
     {
       "key": "opex",
@@ -29,6 +29,13 @@
       "pubDate": "2026-09-09T10:40:33.000Z",
       "description": "En juin 2021, alors à la tête du département de la Défense, de la protection de la population et des sports [DDPS], Viola Amherd annonça que la Suisse allait commander trente-six chasseurs-bombardiers F-35A auprès de Lockheed Martin [via le gouvernement américain] pour 6 milliards de francs suisses, dans le cadre du programme Air 2030. Et...\nCet article Un rapport parlementaire dénonce des manquements lors de l’achat d’avions F-35A par la Suisse est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Attaques du 7 octobre : l’avertissement ignoré par les services de défense israéliens",
+      "link": "https://armees.com/attaques-du-7-octobre-avertissement-ignore/",
+      "pubDate": "2026-09-09T10:39:27.000Z",
+      "description": "Une enquête de Haaretz révèle que Benyamin Netanyahu a reçu un avertissement du président émirati Mohammed ben Zayed le 23 septembre 2023 sur une opération majeure du Hamas, 14 jours avant les attaques du 7 octobre. Le Premier ministre n'aurait transmis cette alerte ni au Shin Bet, ni au Mossad, ni à l'état-major israélien, créant une faille critique dans la chaîne de renseignement.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Flottilles pour Gaza : la marine israélienne accusée de crimes de guerre",
@@ -168,13 +175,6 @@
       "link": "https://armees.com/houthis-escalade-yemen-visent-villes-saoudiennes/",
       "pubDate": "2026-09-08T06:29:49.000Z",
       "description": "Les Houthis du Yémen ont lancé des attaques massives contre le sud de l'Arabie Saoudite, blessant 73 civils et touchant des installations énergétiques stratégiques. Cette escalade marque la reprise d'un conflit qui menace la stabilité régionale et les routes maritimes vitales pour l'approvisionnement énergétique mondial.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Isar Aerospace vient de réussir l’impossible : cette start-up allemande est la première entreprise privée d’Europe continentale à envoyer une fusée en orbite",
-      "link": "https://armees.com/isar-aerospace-vient-de-reussir-limpossible-cette-start-up-allemande-est-la-premiere-entreprise-privee-deurope-continentale-a-envoyer-une-fusee-en-orbite/",
-      "pubDate": "2026-09-08T06:05:00.000Z",
-      "description": "Une fusée privée européenne a réussi là où l'Amérique dominait sans partage depuis des décennies. Après un échec cuisant en mars, l'Allemagne rebat les cartes du spatial et défie SpaceX sur son propre terrain.",
       "sourceKey": "armees_com"
     },
     {
