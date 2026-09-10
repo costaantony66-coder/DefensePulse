@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T11:46:28.543Z",
+  "generatedAt": "2026-09-10T12:08:23.217Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Sommet de l’Espace : l’Europe vise l’autonomie stratégique face aux puissances dominantes",
+      "link": "https://armees.com/sommet-espace-europe-vise-autonomie-strategique-face-puissances-dominantes/",
+      "pubDate": "2026-09-10T11:11:20.000Z",
+      "description": "Emmanuel Macron a dévoilé au Sommet de l'Espace une stratégie d'autonomie défensive orbitale pour l'Europe. Constellation sécurisée Iris², lanceurs réutilisables, vols habités depuis Kourou d'ici 2036 : le Président français pose les jalons d'une puissance spatiale indépendante face aux États-Unis et à la Chine.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Union européenne et Canada : évolution stratégique en Arctique",
       "link": "https://armees.com/union-europeenne-et-canada-evolution-strategique/",
@@ -175,13 +182,6 @@
       "link": "https://armees.com/flotille-gaza-plainte-x/",
       "pubDate": "2026-09-09T08:38:32.000Z",
       "description": "Entre octobre 2025 et mai 2026, la marine israélienne a intercepté trois flottilles humanitaires en haute mer, arraisonnant 430 militants. Le 7 septembre 2026, 26 Français ont déposé plainte pour crimes de guerre et torture, interrogeant la légalité de ces opérations militaires en eaux internationales.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "ANSSI : REACTIV, la riposte stratégique face aux cyberattaques d’État",
-      "link": "https://armees.com/anssi-reactiv-riposte-strategique-face-cyberattaques-etat/",
-      "pubDate": "2026-09-09T08:03:59.000Z",
-      "description": "Le 7 septembre 2026, l'ANSSI a officialisé REACTIV, un dispositif d'intervention rapide face aux cyberattaques d'État, après une progression de 170% des incidents détectés par la DGFiP en trois ans. Ce redéploiement de moyens confère à l'agence le pouvoir d'imposer aux ministères des mesures de protection dans des délais contraints, tout en centralisant la communication de crise.",
       "sourceKey": "armees_com"
     },
     {
