@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T09:30:31.335Z",
+  "generatedAt": "2026-09-10T09:48:00.728Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Ukraine : Moscou n’exclut pas une reprise des négociations tripartites",
+      "link": "https://armees.com/ukraine-moscou-reprise-negociations-tripartites/",
+      "pubDate": "2026-09-10T09:15:00.000Z",
+      "description": "Le Kremlin annonce ne pas exclure une reprise des pourparlers tripartites avec Kiev et Washington après la visite des émissaires Trump à Moscou et Kiev. Derrière la formule prudente de Dmitri Peskov se cache un calcul géopolitique : attendre les élections à la Douma du 18 au 20 septembre avant d'entamer des négociations sur des bases militaires restructurées. L'impasse territoriale et les garanties de sécurité restent les véritables lignes rouges du conflit.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : la Russie aussi enrôle des étrangers dans ses rangs, avec de fausses offres d’emploi",
+      "link": "https://armees.com/ukraine-la-russie-aussi-enrole-des-etrangers-dans-ses-rangs-avec-de-fausses-offres-demploi/",
+      "pubDate": "2026-09-10T09:12:21.000Z",
+      "description": "La Russie recrute des étrangers pour la guerre en Ukraine par de fausses offres d’emploi et des pressions sur les migrants, selon plusieurs ONG.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Ukraine : frappe record à 3 000 km, les drones Deep Strike redéfinissent la guerre",
       "link": "https://armees.com/ukraine-frappe-record-3-000-km-drones-deep-strike-redefinissent-guerre/",
@@ -161,20 +175,6 @@
       "link": "https://armees.com/liran-affirme-avoir-capture-lun-des-drones-sous-marins-les-plus-modernes-de-larmee-americaine-dans-le-detroit-dormuz/",
       "pubDate": "2026-09-09T05:35:12.000Z",
       "description": "Un drone sous-marin américain « intelligent » aux mains des Gardiens iraniens dans le détroit d'Ormuz. Washington reste muet, Téhéran promet des images. Que cache vraiment cette capture stratégique en pleine tension maritime ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Primes de fonctionnaires en hausse : et la défense dans tout ça ?",
-      "link": "https://armees.com/primes-fonctionnaires-hausse-defense-ca/",
-      "pubDate": "2026-09-09T05:20:20.000Z",
-      "description": "+62 %. C’est la hausse des primes dans la fonction publique d’État sur les dix dernières années. Pendant ce temps, nos armées bataillent pour recruter, fidéliser, et moderniser leur équipement. ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : deux SU-35S russes seraient entrés en collision",
-      "link": "https://armees.com/ukraine-deux-su-35s-russes-seraient-entres-en-collision/",
-      "pubDate": "2026-09-09T05:18:15.000Z",
-      "description": "Deux Su-35 russes seraient entrés en collision près de l’Ukraine. Bilan humain, coût des appareils et circonstances : les informations disponibles.",
       "sourceKey": "armees_com"
     },
     {
