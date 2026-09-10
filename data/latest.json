@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T05:05:56.233Z",
+  "generatedAt": "2026-09-10T05:28:15.715Z",
   "sources": [
     {
       "key": "opex",
@@ -24,6 +24,13 @@
   ],
   "items": [
     {
+      "title": "Guerre au Moyen-Orient : les frappes reprennent entre les Etats-Unis et l’Iran, le conflit est loin d’être résolu",
+      "link": "https://armees.com/guerre-au-moyen-orient-les-frappes-reprennent-entre-les-etats-unis-et-liran-le-conflit-est-loin-detre-resolu/",
+      "pubDate": "2026-09-10T05:05:16.000Z",
+      "description": "Treize missiles sur la Jordanie, des pétroliers touchés, le Brent qui s'envole à 95 dollars : en 72 heures, le conflit Iran-États-Unis a basculé. Le détroit d'Ormuz tient l'économie mondiale en otage.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "L’américain Covenant Industries veut produire des missiles de croisière à longue portée en Allemagne",
       "link": "https://www.opex360.com/2026/09/09/lamericain-covenant-industries-veut-produire-des-missiles-de-croisiere-a-longue-portee-en-allemagne/",
       "pubDate": "2026-09-09T17:30:19.000Z",
@@ -34,7 +41,7 @@
       "title": "TARGAS : KNDS dégaine à son tour son écosystème anti-drones",
       "link": "https://forcesoperations.com/targas-knds-degaine-a-son-tour-son-ecosysteme-anti-drones/",
       "pubDate": "2026-09-09T16:54:58.000Z",
-      "description": "Au tour de KNDS de structurer son offre anti-drones. Dévoilé durant Eurosatory, son bouclier s'appuiera sur un arsenal « maison » progressivement renforcé avec les technologies matures venues d’ailleurs.  Chez KNDS France, la lutte anti-drones est désormais rassemblée sous une unique bannière : TARGAS, pour « Tactical Advanced Response for Ground, Air and Surface threats ». De la détection […]\nThe post TARGAS : KNDS dégaine à son tour son écosystème anti-drones appeared first on FOB - Forces Operations Blog.",
+      "description": "Au tour de KNDS de structurer son offre anti-drones. Dévoilé durant Eurosatory, son bouclier s'appuiera sur un arsenal « maison » progressivement renforcé avec les technologies matures venues d'ailleurs.  Chez KNDS France, la lutte anti-drones est désormais rassemblée sous une unique bannière : TARGAS, pour « Tactical Advanced Response for Ground, Air and Surface threats ». De la détection […]\nThe post TARGAS : KNDS dégaine à son tour son écosystème anti-drones appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
     },
     {
@@ -182,13 +189,6 @@
       "link": "https://armees.com/lespagne-achete-a-mbda-des-systemes-antimissiles-quelle-ne-possedait-pas/",
       "pubDate": "2026-09-08T12:55:57.000Z",
       "description": "La Marine espagnole vient de signer un contrat-cadre avec MBDA pour acquérir trois systèmes d'autodéfense SIMBAD RC.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Isar Aerospace lance avec succès la fusée Spectrum depuis la Norvège",
-      "link": "https://armees.com/fusee-norvege-lancement/",
-      "pubDate": "2026-09-08T12:20:58.000Z",
-      "description": "Le 5 septembre 2026, la fusée Spectrum d'Isar Aerospace a réussi le premier lancement orbital privé depuis l'Europe continentale, marquant un tournant stratégique pour la défense européenne. Face à la domination de SpaceX et aux incertitudes géopolitiques liées à l'administration Trump, l'Europe se dote enfin d'une capacité de lancement indépendante pour ses satellites militaires de reconnaissance et de communication.",
       "sourceKey": "armees_com"
     },
     {
