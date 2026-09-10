@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T07:07:50.153Z",
+  "generatedAt": "2026-09-10T07:30:39.854Z",
   "sources": [
     {
       "key": "opex",
@@ -29,6 +29,20 @@
       "pubDate": "2026-09-10T06:38:46.000Z",
       "description": "Pas de batteries de défense sol-air VL MICA supplémentaires pour les militaires danois, mais une mise à niveau des systèmes acquis et un renforcement du stock de missiles au travers d'un contrat attribué il y a peu à MBDA. \nThe post Mise à jour et missiles supplémentaires pour les VL MICA danois appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
+    },
+    {
+      "title": "Un drone a failli percuter l’avion de Zelensky en route vers Oslo, les services de sécurité ukrainiens révèlent ce qui s’est passé",
+      "link": "https://armees.com/un-drone-a-failli-percuter-lavion-de-zelensky-en-route-vers-oslo-les-services-de-securite-ukrainiens-revelent-ce-qui-sest-passe/",
+      "pubDate": "2026-09-10T06:05:15.000Z",
+      "description": "Un drone frôlant l'avion de Zelensky, une alerte en Moldavie, et déjà deux versions qui s'opposent. Que s'est-il vraiment passé au décollage ? Les détails de cet épisode troublant vous attendent.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La Russie propose son Su-57 à trois pays et déclenche une course silencieuse : d’autres nations frappent déjà à la porte",
+      "link": "https://armees.com/la-russie-propose-son-su-57-a-trois-pays-et-declenche-une-course-silencieuse-dautres-nations-frappent-deja-a-la-porte/",
+      "pubDate": "2026-09-10T05:35:27.000Z",
+      "description": "Algérie, Iran, Kazakhstan, Inde... Trois contrats signés, des clients tenus secrets. Moscou dévoile aussi un mystérieux système d'armes furtif S-71 jamais montré auparavant. Qui sera le prochain sur la liste ?",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Guerre au Moyen-Orient : les frappes reprennent entre les Etats-Unis et l’Iran, le conflit est loin d’être résolu",
@@ -183,20 +197,6 @@
       "pubDate": "2026-09-08T13:48:51.000Z",
       "description": "Face à la prolifération des drones FPV [First Person View – à pilotage immersif], comme on le voit sur les champs de bataille ukrainien, la parade ne peut pas qu’être technologique dans la mesure où les dispositifs de brouillage électronique sont inefficaces quand ces appareils sont reliés à leurs opérateurs par fibre optique. Même si...\nCet article L’armée de Terre a reçu 400 fusils Benelli M4 AI de calibre 12 pour la lutte antidrone est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Douze pays occidentaux sanctionnent les colonies israéliennes",
-      "link": "https://armees.com/sanctions-israel-colonies-geopolitique-douze-pays-occidentaux-sanctionnent/",
-      "pubDate": "2026-09-08T12:57:32.000Z",
-      "description": "Douze pays occidentaux imposent des sanctions commerciales contre les colonies israéliennes en Cisjordanie le 8 septembre 2026, révélant une fracture géopolitique majeure entre l'Europe et les États-Unis trumpistes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’Espagne achète à MBDA des systèmes antimissiles qu’elle ne possédait pas",
-      "link": "https://armees.com/lespagne-achete-a-mbda-des-systemes-antimissiles-quelle-ne-possedait-pas/",
-      "pubDate": "2026-09-08T12:55:57.000Z",
-      "description": "La Marine espagnole vient de signer un contrat-cadre avec MBDA pour acquérir trois systèmes d'autodéfense SIMBAD RC.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "MBDA va fournir des systèmes antiaériens SIMBAD RC à la marine espagnole",
