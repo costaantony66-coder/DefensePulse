@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T08:31:46.544Z",
+  "generatedAt": "2026-09-10T08:48:42.279Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Un drone Shahed dévoile les lacunes de la défense aérienne moldave",
+      "link": "https://armees.com/drone-shahed-devoile-lacunes-defense-aerienne-moldave/",
+      "pubDate": "2026-09-10T07:37:10.000Z",
+      "description": "Le 8 septembre 2026, un drone Shahed russe a traversé la Moldavie durant le décollage de Volodymyr Zelensky vers Oslo, révélant l'absence de défense antiaérienne opérationnelle dans ce pays frontalier de l'Ukraine. L'incident expose les failles critiques de la surveillance aérienne régionale et accélère les discussions sur l'extension du bouclier défensif européen.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Mise à jour et missiles supplémentaires pour les VL MICA danois",
       "link": "https://forcesoperations.com/mise-a-jour-et-missiles-supplementaires-pour-les-vl-mica-danois/",
@@ -168,13 +175,6 @@
       "link": "https://armees.com/guerre-en-ukraine-confrontee-a-une-grave-penurie-dintercepteurs-lue-valide-lachat-de-missiles-patriot-pour-larmee-ukrainienne-grace-au-pret-europeen-de-90-milliards-deuros/",
       "pubDate": "2026-09-09T05:05:04.000Z",
       "description": "Jusqu'à 580 missiles Patriot pour l'Ukraine : Bruxelles vient de débloquer des milliards pour percer le mur antiaérien russe. Un tournant décisif avant l'hiver, alors que Kyiv réclame 5% de la production américaine.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Les USA coulent 5 pétroliers iraniens, l’Iran répond, le pétrole s’emballe",
-      "link": "https://armees.com/iran-usa-coulent-5-petroliers-iraniens-repond-petrole-s-emballe/",
-      "pubDate": "2026-09-09T04:01:00.000Z",
-      "description": "Dans la nuit du 8 au 9 septembre 2026, les forces américaines ont détruit cinq pétroliers iraniens dans le golfe d'Oman et le golfe Persique, en représailles à des tirs de missiles contre un navire de guerre américain.",
       "sourceKey": "armees_com"
     },
     {
