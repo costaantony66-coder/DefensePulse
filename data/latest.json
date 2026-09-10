@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T12:08:23.217Z",
+  "generatedAt": "2026-09-10T12:36:13.933Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "L’Ukraine dévoile deux nouveaux véhicules blindés",
+      "link": "https://armees.com/ukraine-devoile-deux-nouveaux-vehicules-blindes/",
+      "pubDate": "2026-09-10T12:18:24.000Z",
+      "description": "Ukrainian Armor a dévoilé le 8 septembre 2026 à MSPO-2026 deux nouveaux véhicules blindés ukrainiens : le Saigak-1 et le Varta-3, tous deux certifiés aux normes NATO de protection balistique et anti-mines. Le Saigak-1 offre une protection PZSA 3 et STANAG Level 1, tandis que le Varta-3, développé sur châssis Mercedes-Benz Unimog, atteint les niveaux PZSA 6 et STANAG 3a/3b, avec des options d'armement modulaires.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ariane 6 : Amazon Leo signe pour 6 lancements supplémentaires",
+      "link": "https://armees.com/ariane-6-amazon-leo-signe-6-lancements-supplementaires/",
+      "pubDate": "2026-09-10T12:07:25.000Z",
+      "description": "Amazon Leo a annoncé le 9 septembre 2026 six lancements supplémentaires avec Ariane 6, portant le total à 24 missions. Cette extension du contrat confirme la viabilité stratégique du lanceur européen et renforce la position de l'Europe dans la compétition spatiale mondiale, face aux capacités américaines dominantes.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Sommet de l’Espace : l’Europe vise l’autonomie stratégique face aux puissances dominantes",
       "link": "https://armees.com/sommet-espace-europe-vise-autonomie-strategique-face-puissances-dominantes/",
@@ -169,20 +183,6 @@
       "pubDate": "2026-09-09T10:40:33.000Z",
       "description": "En juin 2021, alors à la tête du département de la Défense, de la protection de la population et des sports [DDPS], Viola Amherd annonça que la Suisse allait commander trente-six chasseurs-bombardiers F-35A auprès de Lockheed Martin [via le gouvernement américain] pour 6 milliards de francs suisses, dans le cadre du programme Air 2030. Et...\nCet article Un rapport parlementaire dénonce des manquements lors de l’achat d’avions F-35A par la Suisse est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Attaques du 7 octobre : l’avertissement ignoré par les services de défense israéliens",
-      "link": "https://armees.com/attaques-du-7-octobre-avertissement-ignore/",
-      "pubDate": "2026-09-09T10:39:27.000Z",
-      "description": "Une enquête de Haaretz révèle que Benyamin Netanyahu a reçu un avertissement du président émirati Mohammed ben Zayed le 23 septembre 2023 sur une opération majeure du Hamas, 14 jours avant les attaques du 7 octobre. Le Premier ministre n'aurait transmis cette alerte ni au Shin Bet, ni au Mossad, ni à l'état-major israélien, créant une faille critique dans la chaîne de renseignement.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Flottilles pour Gaza : la marine israélienne accusée de crimes de guerre",
-      "link": "https://armees.com/flotille-gaza-plainte-x/",
-      "pubDate": "2026-09-09T08:38:32.000Z",
-      "description": "Entre octobre 2025 et mai 2026, la marine israélienne a intercepté trois flottilles humanitaires en haute mer, arraisonnant 430 militants. Le 7 septembre 2026, 26 Français ont déposé plainte pour crimes de guerre et torture, interrogeant la légalité de ces opérations militaires en eaux internationales.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "En 15 ans, les huit hélicoptères NH90 de la force aérienne néo-zélandaise ont effectué plus de 20 000 heures de vol",
