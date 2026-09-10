@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T09:06:22.897Z",
+  "generatedAt": "2026-09-10T09:30:31.335Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Ukraine : frappe record à 3 000 km, les drones Deep Strike redéfinissent la guerre",
+      "link": "https://armees.com/ukraine-frappe-record-3-000-km-drones-deep-strike-redefinissent-guerre/",
+      "pubDate": "2026-09-10T08:42:43.000Z",
+      "description": "Le 9 septembre 2026, l'Ukraine a frappé deux usines de traitement du condensat gazeux russes situées à plus de 3 000 kilomètres de sa frontière, établissant un nouveau record de portée pour ses drones Deep Strike. Cette opération sans précédent remet en question la sécurité de l'arrière-garde russe et démontre une montée en puissance technologique rapide des forces spéciales ukrainiennes.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Un drone Shahed dévoile les lacunes de la défense aérienne moldave",
       "link": "https://armees.com/drone-shahed-devoile-lacunes-defense-aerienne-moldave/",
@@ -168,13 +175,6 @@
       "link": "https://armees.com/ukraine-deux-su-35s-russes-seraient-entres-en-collision/",
       "pubDate": "2026-09-09T05:18:15.000Z",
       "description": "Deux Su-35 russes seraient entrés en collision près de l’Ukraine. Bilan humain, coût des appareils et circonstances : les informations disponibles.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre en Ukraine : confrontée à une grave pénurie d’intercepteurs, l’UE valide l’achat de missiles Patriot pour l’armée ukrainienne grâce au prêt européen de 90 milliards d’euros",
-      "link": "https://armees.com/guerre-en-ukraine-confrontee-a-une-grave-penurie-dintercepteurs-lue-valide-lachat-de-missiles-patriot-pour-larmee-ukrainienne-grace-au-pret-europeen-de-90-milliards-deuros/",
-      "pubDate": "2026-09-09T05:05:04.000Z",
-      "description": "Jusqu'à 580 missiles Patriot pour l'Ukraine : Bruxelles vient de débloquer des milliards pour percer le mur antiaérien russe. Un tournant décisif avant l'hiver, alors que Kyiv réclame 5% de la production américaine.",
       "sourceKey": "armees_com"
     },
     {
