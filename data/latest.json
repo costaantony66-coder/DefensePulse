@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T10:47:17.877Z",
+  "generatedAt": "2026-09-10T11:06:21.761Z",
   "sources": [
     {
       "key": "opex",
@@ -24,11 +24,25 @@
   ],
   "items": [
     {
+      "title": "Union européenne et Canada : évolution stratégique en Arctique",
+      "link": "https://armees.com/union-europeenne-et-canada-evolution-strategique/",
+      "pubDate": "2026-09-10T10:54:01.000Z",
+      "description": "Depuis juin 2025, le Canada intègre le mécanisme SAFE avant le Royaume-Uni, devenant le premier État non-européen associé à l'architecture de sécurité européenne. Cette adhésion se concrétise par des exercices arctiques conjoints avec la Pologne et une présence industrielle massive aux salons de défense européens. Le sommet UE-Canada d'octobre 2026 doit officialiser une refonte complète de la coopération militaire transatlantique.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Les Pays-Bas veulent acquérir un avion d’alerte avancée Saab GlobalEye auprès de la Suède",
       "link": "https://www.opex360.com/2026/09/10/les-pays-bas-veulent-acquerir-un-avion-dalerte-avancee-saab-globaleye-aupres-de-la-suede/",
       "pubDate": "2026-09-10T10:25:46.000Z",
       "description": "Actuellement, la force aérienne royale néerlandaise [Koninklijke Luchtmacht – KLu] ne dispose pas d’avion de détection et de commandement aéroportés. D’ailleurs, elle n’a jamais exprimé le besoin d’en posséder étant donné qu’elle participe à la Force aéroportée de détection lointaine et de contrôle de l’Otan [NAEW&C], équipée de quatorze E-3A Sentry [ou AWACS] livrés par...\nCet article Les Pays-Bas veulent acquérir un avion d’alerte avancée Saab GlobalEye auprès de la Suède est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Un avion des Etats-Unis A-10 perd une aile après une attaque iranienne en Jordanie",
+      "link": "https://armees.com/etats-unis-10-perd-aile-attaque-iranienne-jordanie/",
+      "pubDate": "2026-09-10T09:45:37.000Z",
+      "description": "Dans la nuit du 8 au 9 septembre, l'Iran a frappé la base américaine de Muwaffaq Salti en Jordanie avec 20 missiles balistiques. Bilan : un A-10 Thunderbolt II a perdu une aile, huit F-15 ont subi des dégâts mineurs, et 18 missiles ont été interceptés par les systèmes Patriot. Au-delà des chiffres, cette attaque révèle les vulnérabilités de la défense aérienne américaine face à des frappes coordonnées et précises.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Ukraine : Moscou n’exclut pas une reprise des négociations tripartites",
@@ -168,20 +182,6 @@
       "link": "https://armees.com/anssi-reactiv-riposte-strategique-face-cyberattaques-etat/",
       "pubDate": "2026-09-09T08:03:59.000Z",
       "description": "Le 7 septembre 2026, l'ANSSI a officialisé REACTIV, un dispositif d'intervention rapide face aux cyberattaques d'État, après une progression de 170% des incidents détectés par la DGFiP en trois ans. Ce redéploiement de moyens confère à l'agence le pouvoir d'imposer aux ministères des mesures de protection dans des délais contraints, tout en centralisant la communication de crise.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Trump dévoile les nouvelles tenues de l’armée américaine : des historiens y voient une ressemblance troublante avec les uniformes nazis",
-      "link": "https://armees.com/trump-devoile-les-nouvelles-tenues-de-larmee-americaine-des-historiens-y-voient-une-ressemblance-troublante-avec-les-uniformes-nazis/",
-      "pubDate": "2026-09-09T06:05:18.000Z",
-      "description": "Bottes de cuir, coupe stricte, teintes sombres : les nouveaux uniformes de la Space Force dévoilés par Trump font halluciner la Toile. Star Wars, nazisme, Starship Troopers... la comparaison qui dérange.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’Iran affirme avoir capturé « l’un des drones sous-marins les plus modernes de l’armée américaine » dans le détroit d’Ormuz",
-      "link": "https://armees.com/liran-affirme-avoir-capture-lun-des-drones-sous-marins-les-plus-modernes-de-larmee-americaine-dans-le-detroit-dormuz/",
-      "pubDate": "2026-09-09T05:35:12.000Z",
-      "description": "Un drone sous-marin américain « intelligent » aux mains des Gardiens iraniens dans le détroit d'Ormuz. Washington reste muet, Téhéran promet des images. Que cache vraiment cette capture stratégique en pleine tension maritime ?",
       "sourceKey": "armees_com"
     },
     {
