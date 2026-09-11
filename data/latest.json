@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T06:07:52.843Z",
+  "generatedAt": "2026-09-11T06:35:14.754Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Les forces britanniques et américaines stoppent un complot de Moscou visant à lancer une nouvelle arme secrète",
+      "link": "https://armees.com/les-forces-britanniques-et-americaines-stoppent-un-complot-de-moscou-visant-a-lancer-une-nouvelle-arme-secrete/",
+      "pubDate": "2026-09-11T06:05:00.000Z",
+      "description": "Une arme secrète russe capable de couper des câbles sous-marins sans laisser de traces : des sous-marins ont été surpris en pleine simulation dans l'Arctique. L'OTAN a réagi, Moscou a été averti. Récit d'une confrontation restée secrète jusqu'ici.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Yémen : la prise de Mocha fait bondir le brut au-dessus de 100 dollars",
+      "link": "https://armees.com/petrole-yemen-prise-mocha-bondir-brut-dessus-100-dollars/",
+      "pubDate": "2026-09-11T06:02:42.000Z",
+      "description": "La prise de Mocha par les Houthis achève de paralyser les exportations pétrolières saoudiennes via Bab el-Mandeb.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Trump promet 5000 dollars à chaque adulte américain en cas de victoire mais d’où vient cet argent ?",
+      "link": "https://armees.com/trump-promet-5000-dollars-a-chaque-adulte-americain-en-cas-de-victoire-mais-dou-vient-cet-argent/",
+      "pubDate": "2026-09-11T05:35:30.000Z",
+      "description": "5 000 dollars par adulte américain si les républicains raflent la mise au Congrès : promesse électorale ou coup de bluff financier ? Entre légalité douteuse et Maine sous tension, la course aux midterms s'annonce électrique.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Début 2025, la Russie larguait plus de 100 bombes planantes par jour sur l’Ukraine : les défenses anti-aériennes ne suivaient plus",
+      "link": "https://armees.com/debut-2025-la-russie-larguait-plus-de-100-bombes-planantes-par-jour-sur-lukraine-les-defenses-anti-aeriennes-ne-suivaient-plus/",
+      "pubDate": "2026-09-11T05:05:36.000Z",
+      "description": "Plus de 100 bombes planantes russes larguées chaque jour, à 50 km du front, quasi indétectables. Une arme à 20 000 dollars capable de mettre en échec les défenses les plus sophistiquées. Comment l'Ukraine tente-t-elle de contrer cette menace ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cette opération russe en Arctique aurait pu plonger l’Occident dans le noir",
+      "link": "https://armees.com/sabotage-operation-russe-arctique-aurait-pu-plonger-occident-noir/",
+      "pubDate": "2026-09-11T04:54:15.000Z",
+      "description": "Au printemps 2026, une opération conjointe de l'OTAN a déjoué une tentative russe de sabotage de câbles sous-marins dans l'Arctique. Des sous-marins de la direction GUGI ont été interceptés alors qu'ils s'entraînaient à déployer une arme secrète capable de neutraliser ces infrastructures critiques sans laisser de traces. Cette confrontation sous-marine révèle l'escalade de la guerre hybride menée par Moscou contre les installations stratégiques occidentales.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Comment la Corée du Nord accélère sa course à l’arme nucléaire",
+      "link": "https://armees.com/coree-nord-comment-accelere-course-arme-nucleaire/",
+      "pubDate": "2026-09-11T04:35:59.000Z",
+      "description": "L'AIEA révèle dans son rapport d'août 2026 que la Corée du Nord a construit une nouvelle installation d'enrichissement d'uranium à Yongbyon capable d'accueillir 28 cascades de centrifugeuses, tandis que l'annexe de Kangson est entrée en production.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "La France et la Suède vont renforcer leur coopération militaire dans le domaine spatial",
       "link": "https://www.opex360.com/2026/09/10/la-france-et-la-suede-vont-renforcer-leur-cooperation-militaire-dans-le-domaine-spatial/",
@@ -129,20 +171,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "La Russie propose son Su-57 à trois pays et déclenche une course silencieuse : d’autres nations frappent déjà à la porte",
-      "link": "https://armees.com/la-russie-propose-son-su-57-a-trois-pays-et-declenche-une-course-silencieuse-dautres-nations-frappent-deja-a-la-porte/",
-      "pubDate": "2026-09-10T05:35:27.000Z",
-      "description": "Algérie, Iran, Kazakhstan, Inde... Trois contrats signés, des clients tenus secrets. Moscou dévoile aussi un mystérieux système d'armes furtif S-71 jamais montré auparavant. Qui sera le prochain sur la liste ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : les frappes reprennent entre les Etats-Unis et l’Iran, le conflit est loin d’être résolu",
-      "link": "https://armees.com/guerre-au-moyen-orient-les-frappes-reprennent-entre-les-etats-unis-et-liran-le-conflit-est-loin-detre-resolu/",
-      "pubDate": "2026-09-10T05:05:16.000Z",
-      "description": "Treize missiles sur la Jordanie, des pétroliers touchés, le Brent qui s'envole à 95 dollars : en 72 heures, le conflit Iran-États-Unis a basculé. Le détroit d'Ormuz tient l'économie mondiale en otage.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’américain Covenant Industries veut produire des missiles de croisière à longue portée en Allemagne",
       "link": "https://www.opex360.com/2026/09/09/lamericain-covenant-industries-veut-produire-des-missiles-de-croisiere-a-longue-portee-en-allemagne/",
       "pubDate": "2026-09-09T17:30:19.000Z",
@@ -157,13 +185,6 @@
       "sourceKey": "fob"
     },
     {
-      "title": "Ormuz, gaz et dette : la facture stratégique de notre impréparation",
-      "link": "https://armees.com/ormuz-gaz-dette-facture-strategique-notre-impreparation-2/",
-      "pubDate": "2026-09-09T16:20:43.000Z",
-      "description": "Le détroit d’Ormuz s’embrase, le prix du gaz européen s’envole et la France découvre un nouveau déficit dans ses comptes cet été. Trois signaux distincts, une seule leçon : quand ...",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La Suède accélère le développement des futures capacités de son aviation de combat",
       "link": "https://www.opex360.com/2026/09/09/la-suede-accelere-le-developpement-des-futures-capacites-de-son-aviation-de-combat/",
       "pubDate": "2026-09-09T16:12:50.000Z",
@@ -171,32 +192,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Détroit d’Ormuz : l’Europe paye cash son impuissance militaire",
-      "link": "https://armees.com/detroit-ormuz-europe-paye-cash-impuissance-militaire/",
-      "pubDate": "2026-09-09T16:03:39.000Z",
-      "description": "Le gaz européen s’envole à 79 euros le mégawattheure pendant que des pétroliers brûlent en mer d’Oman. Ce n’est pas une coïncidence : c’est la facture de trente ans de ...",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le ministère des Armées envisage de commander deux patrouilleurs hauturiers supplémentaires en 2027",
       "link": "https://www.opex360.com/2026/09/09/le-ministere-des-armees-envisage-de-commander-deux-patrouilleurs-hauturiers-supplementaires/",
       "pubDate": "2026-09-09T14:07:21.000Z",
       "description": "Étant donné que, après le désarmement du Commandant Bouan et de l’Enseigne de vaisseau Jacoubet, la Marine nationale ne comptera plus qu’un seul patrouilleur de haute-mer [PHM ou aviso A69] appartenant à la classe d’Estienne d’Orves, en l’occurrence le Commandant Blaison, le programme des nouveaux patrouilleurs hauturiers ne doit souffrir d’aucun retard, d’autant plus qu’il...\nCet article Le ministère des Armées envisage de commander deux patrouilleurs hauturiers supplémentaires en 2027 est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Pompiers : une grève pendant 6 semaines après un été brulant",
-      "link": "https://armees.com/pompiers-greve-pendant-6-semaines-ete-brulant/",
-      "pubDate": "2026-09-09T13:33:12.000Z",
-      "description": "Neuf syndicats de pompiers lancent une grève de six semaines à partir du 8 septembre 2026, après un été marqué par des mégafeux meurtriers dans le Sud-Ouest. Les interventions ont augmenté de 30% depuis 2002, avec 87% désormais consacrées au secours d'urgence aux personnes. L'intersyndicale réclame 21 000 professionnels supplémentaires et dénonce un projet de loi de modernisation jugé insuffisant.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La Russie affirme avoir abattu 596 drones ukrainiens en une seule nuit",
-      "link": "https://armees.com/ukraine-russie-affirme-abattu-596-drones-ukrainiens/",
-      "pubDate": "2026-09-09T13:10:50.000Z",
-      "description": "La Russie a annoncé mercredi 9 septembre 2026 avoir intercepté 596 drones ukrainiens durant la nuit du 8 au 9 septembre, provoquant quatre morts et 29 blessés, principalement à Novorossiïsk. Cette attaque massive survient alors que des efforts diplomatiques entre Moscou et Washington tentent de relancer les négociations.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Un rapport parlementaire dénonce des manquements lors de l’achat d’avions F-35A par la Suisse",
