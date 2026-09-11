@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T10:29:40.231Z",
+  "generatedAt": "2026-09-11T10:47:03.685Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Ukraine : pour continuer la lutte,Kiev réclame 27 milliards de plus",
+      "link": "https://armees.com/ukraine-pour-continuer-la-luttekiev-reclame-27-milliards-de-plus/",
+      "pubDate": "2026-09-11T08:37:31.000Z",
+      "description": "L’Ukraine réclame 27 milliards de dollars supplémentaires pour sa Défense en 2026. L’Europe examine ce besoin et les moyens d’y répondre.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’UE a payé 7,3 milliards d’euros de GNL russe en huit mois",
+      "link": "https://armees.com/lue-a-paye-73-milliards-deuros-de-gnl-russe-en-huit-mois/",
+      "pubDate": "2026-09-11T08:35:25.000Z",
+      "description": "Entre janvier et début septembre 2026, l'Union européenne a versé 7,3 milliards d'euros pour du gaz naturel liquéfié provenant du projet arctique russe Yamal LNG, dépassant le total de l'année 2025. Les volumes importés ont augmenté de 10 % sur un an, alors que les exportations mondiales du projet reculaient. Ces chiffres, publiés à la veille du Sommet européen sur l'Arctique, illustrent la dépendance persistante de l'Europe au gaz russe malgré les sanctions.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Intelligence artificielle : Anthropic bloque des utilisations malveillantesv sur Claude",
+      "link": "https://armees.com/intelligence-artificielle-anthropic-bloque-des-utilisations-malveillantesv-sur-claude/",
+      "pubDate": "2026-09-11T08:30:22.000Z",
+      "description": "Anthropic révèle des usages détournés de Claude dans des cyberattaques et des recherches biologiques sensibles, et renforce ses protections.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Israël détruit 20 ans d’infrastructure du Hezbollah avec une frappe massive",
       "link": "https://armees.com/israel-detruit-20-ans-infrastructure-hezbollah-frappe-massive/",
@@ -140,27 +161,6 @@
       "link": "https://armees.com/ukraine-moscou-reprise-negociations-tripartites/",
       "pubDate": "2026-09-10T09:15:00.000Z",
       "description": "Le Kremlin annonce ne pas exclure une reprise des pourparlers tripartites avec Kiev et Washington après la visite des émissaires Trump à Moscou et Kiev. Derrière la formule prudente de Dmitri Peskov se cache un calcul géopolitique : attendre les élections à la Douma du 18 au 20 septembre avant d'entamer des négociations sur des bases militaires restructurées. L'impasse territoriale et les garanties de sécurité restent les véritables lignes rouges du conflit.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : la Russie aussi enrôle des étrangers dans ses rangs, avec de fausses offres d’emploi",
-      "link": "https://armees.com/ukraine-la-russie-aussi-enrole-des-etrangers-dans-ses-rangs-avec-de-fausses-offres-demploi/",
-      "pubDate": "2026-09-10T09:12:21.000Z",
-      "description": "La Russie recrute des étrangers pour la guerre en Ukraine par de fausses offres d’emploi et des pressions sur les migrants, selon plusieurs ONG.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : frappe record à 3 000 km, les drones Deep Strike redéfinissent la guerre",
-      "link": "https://armees.com/ukraine-frappe-record-3-000-km-drones-deep-strike-redefinissent-guerre/",
-      "pubDate": "2026-09-10T08:42:43.000Z",
-      "description": "Le 9 septembre 2026, l'Ukraine a frappé deux usines de traitement du condensat gazeux russes situées à plus de 3 000 kilomètres de sa frontière, établissant un nouveau record de portée pour ses drones Deep Strike. Cette opération sans précédent remet en question la sécurité de l'arrière-garde russe et démontre une montée en puissance technologique rapide des forces spéciales ukrainiennes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un drone Shahed dévoile les lacunes de la défense aérienne moldave",
-      "link": "https://armees.com/drone-shahed-devoile-lacunes-defense-aerienne-moldave/",
-      "pubDate": "2026-09-10T07:37:10.000Z",
-      "description": "Le 8 septembre 2026, un drone Shahed russe a traversé la Moldavie durant le décollage de Volodymyr Zelensky vers Oslo, révélant l'absence de défense antiaérienne opérationnelle dans ce pays frontalier de l'Ukraine. L'incident expose les failles critiques de la surveillance aérienne régionale et accélère les discussions sur l'extension du bouclier défensif européen.",
       "sourceKey": "armees_com"
     },
     {
