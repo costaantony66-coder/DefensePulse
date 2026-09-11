@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T11:06:13.296Z",
+  "generatedAt": "2026-09-11T11:28:25.228Z",
   "sources": [
     {
       "key": "opex",
@@ -29,6 +29,13 @@
       "pubDate": "2026-09-11T11:02:12.000Z",
       "description": "Le 5 septembre, après avoir subi un échec en 2025, l’allemand Isar Aerospace est devenu le premier acteur privé européen à placer une charge utile en orbite basse, après que son lanceur Spectrum a décollé du spatioport d’Andøya, en Norvège. Créée il y a huit ans, Isar Aerospace fait partie des entreprises du «New Space»...\nCet article Le ministère des Armées va soutenir le premier tir du lanceur privé «Baguette One», conçu par HyPrSpace est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Anthropic révèle l’utilisation de Claude par les Houthis et la Russie pour le développement de missiles et drones autonomes",
+      "link": "https://armees.com/anthropic-revele-utilisation-claude-houthis-russie-developpement-missiles/",
+      "pubDate": "2026-09-11T10:56:07.000Z",
+      "description": "Anthropic a publié le 10 septembre 2026 un rapport de 161 pages révélant comment les rebelles houthis ont utilisé Claude pour concevoir un missile balistique de plus de 2 000 km de portée, comment des développeurs russes ont programmé des essaims de drones autonomes, et comment des acteurs chinois ont siphonné des millions d'échanges pour entraîner leurs propres modèles. L'entreprise reconnaît que ses modèles les plus puissants posent désormais des risques stratégiques majeurs, exploitant l'absence de régulation fédérale américaine.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Ukraine : pour continuer la lutte,Kiev réclame 27 milliards de plus",
@@ -161,13 +168,6 @@
       "link": "https://armees.com/etats-unis-10-perd-aile-attaque-iranienne-jordanie/",
       "pubDate": "2026-09-10T09:45:37.000Z",
       "description": "Dans la nuit du 8 au 9 septembre, l'Iran a frappé la base américaine de Muwaffaq Salti en Jordanie avec 20 missiles balistiques. Bilan : un A-10 Thunderbolt II a perdu une aile, huit F-15 ont subi des dégâts mineurs, et 18 missiles ont été interceptés par les systèmes Patriot. Au-delà des chiffres, cette attaque révèle les vulnérabilités de la défense aérienne américaine face à des frappes coordonnées et précises.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : Moscou n’exclut pas une reprise des négociations tripartites",
-      "link": "https://armees.com/ukraine-moscou-reprise-negociations-tripartites/",
-      "pubDate": "2026-09-10T09:15:00.000Z",
-      "description": "Le Kremlin annonce ne pas exclure une reprise des pourparlers tripartites avec Kiev et Washington après la visite des émissaires Trump à Moscou et Kiev. Derrière la formule prudente de Dmitri Peskov se cache un calcul géopolitique : attendre les élections à la Douma du 18 au 20 septembre avant d'entamer des négociations sur des bases militaires restructurées. L'impasse territoriale et les garanties de sécurité restent les véritables lignes rouges du conflit.",
       "sourceKey": "armees_com"
     },
     {
