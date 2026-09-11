@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T13:06:03.045Z",
+  "generatedAt": "2026-09-11T13:29:51.936Z",
   "sources": [
     {
       "key": "opex",
@@ -29,6 +29,13 @@
       "pubDate": "2026-09-11T13:01:44.000Z",
       "description": "Le ministère des Armées va consacrer davantage de moyens au ruissellement de l'innovation. Chaque armée recevra dès l'an prochain une nouvelle enveloppe de subsidiarité pour accélérer dans la captation, l'acquisition et l'expérimentation des bonnes idées venues d'un peu partout. \nThe post De nouvelles enveloppes de subsidiarité pour les armées appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
+    },
+    {
+      "title": "Piratage du fisc : une brèche majeure dans le Réseau interministériel de l’État",
+      "link": "https://armees.com/piratage-du-fisc-breche-majeure-reseau-etat/",
+      "pubDate": "2026-09-11T11:13:01.000Z",
+      "description": "Le piratage du fisc révèle une compromission majeure du Réseau interministériel de l'État. Entre juin et août 2026, des attaquants ont infiltré le RIE via des identifiants volés, dérobant les données de 700 000 contribuables. La CNIL annonce un contrôle imminent de la DGFiP tandis que le Sénat pointe des fragilités structurelles alarmantes dans la défense informatique française.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Le ministère des Armées va soutenir le premier tir du lanceur privé «Baguette One», conçu par HyPrSpace",
@@ -169,13 +176,6 @@
       "pubDate": "2026-09-10T10:25:46.000Z",
       "description": "Actuellement, la force aérienne royale néerlandaise [Koninklijke Luchtmacht – KLu] ne dispose pas d’avion de détection et de commandement aéroportés. D’ailleurs, elle n’a jamais exprimé le besoin d’en posséder étant donné qu’elle participe à la Force aéroportée de détection lointaine et de contrôle de l’Otan [NAEW&C], équipée de quatorze E-3A Sentry [ou AWACS] livrés par...\nCet article Les Pays-Bas veulent acquérir un avion d’alerte avancée Saab GlobalEye auprès de la Suède est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Un avion des Etats-Unis A-10 perd une aile après une attaque iranienne en Jordanie",
-      "link": "https://armees.com/etats-unis-10-perd-aile-attaque-iranienne-jordanie/",
-      "pubDate": "2026-09-10T09:45:37.000Z",
-      "description": "Dans la nuit du 8 au 9 septembre, l'Iran a frappé la base américaine de Muwaffaq Salti en Jordanie avec 20 missiles balistiques. Bilan : un A-10 Thunderbolt II a perdu une aile, huit F-15 ont subi des dégâts mineurs, et 18 missiles ont été interceptés par les systèmes Patriot. Au-delà des chiffres, cette attaque révèle les vulnérabilités de la défense aérienne américaine face à des frappes coordonnées et précises.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Mise à jour et missiles supplémentaires pour les VL MICA danois",
