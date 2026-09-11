@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T08:06:34.184Z",
+  "generatedAt": "2026-09-11T08:31:11.805Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Israël détruit 20 ans d’infrastructure du Hezbollah avec une frappe massive",
+      "link": "https://armees.com/israel-detruit-20-ans-infrastructure-hezbollah-frappe-massive/",
+      "pubDate": "2026-09-11T08:05:58.000Z",
+      "description": "Le 10 septembre 2026, Israël a déployé plus de 1.100 tonnes d'explosifs pour détruire un complexe souterrain du Hezbollah sur la crête d'Ali Taher au Liban, générant une secousse sismique de magnitude 4,1. Cette opération révèle l'ampleur des infrastructures construites pendant vingt ans et la capacité de Tsahal à les neutraliser en une seule frappe coordonnée.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Les forces britanniques et américaines stoppent un complot de Moscou visant à lancer une nouvelle arme secrète",
       "link": "https://armees.com/les-forces-britanniques-et-americaines-stoppent-un-complot-de-moscou-visant-a-lancer-une-nouvelle-arme-secrete/",
@@ -162,13 +169,6 @@
       "pubDate": "2026-09-10T06:38:46.000Z",
       "description": "Pas de batteries de défense sol-air VL MICA supplémentaires pour les militaires danois, mais une mise à niveau des systèmes acquis et un renforcement du stock de missiles au travers d'un contrat attribué il y a peu à MBDA. \nThe post Mise à jour et missiles supplémentaires pour les VL MICA danois appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Un drone a failli percuter l’avion de Zelensky en route vers Oslo, les services de sécurité ukrainiens révèlent ce qui s’est passé",
-      "link": "https://armees.com/un-drone-a-failli-percuter-lavion-de-zelensky-en-route-vers-oslo-les-services-de-securite-ukrainiens-revelent-ce-qui-sest-passe/",
-      "pubDate": "2026-09-10T06:05:15.000Z",
-      "description": "Un drone frôlant l'avion de Zelensky, une alerte en Moldavie, et déjà deux versions qui s'opposent. Que s'est-il vraiment passé au décollage ? Les détails de cet épisode troublant vous attendent.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "L’américain Covenant Industries veut produire des missiles de croisière à longue portée en Allemagne",
