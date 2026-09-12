@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T10:26:55.555Z",
+  "generatedAt": "2026-09-12T10:44:15.999Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "L’armée de l’Air & de l’Espace envisage d’utiliser des ballons captifs pour protéger ses bases contre les drones",
+      "link": "https://www.opex360.com/2026/09/12/larmee-de-lair-de-lespace-envisage-dutiliser-des-ballons-captifs-pour-proteger-ses-bases-contre-les-drones/",
+      "pubDate": "2026-09-12T10:30:14.000Z",
+      "description": "Le 1er juin 2025, le service de renseignement ukrainien [SBU] parvint à endommager et à détruire plusieurs bombardiers stratégiques russes en utilisant des essaims de drones FPV [à pilotage immersif] mis en œuvre depuis des camions positionnés au plus près de leurs cibles respectives. Cette opération audacieuse, appelée «Toile d’araignée», démontra qu’il était possible de...\nCet article L’armée de l’Air & de l’Espace envisage d’utiliser des ballons captifs pour protéger ses bases contre les drones est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
     {
       "title": "Des géologues analysent le sable d’Omaha Beach 80 ans après le Débarquement : 4 % des grains sont encore des éclats d’obus",
       "link": "https://armees.com/des-geologues-analysent-le-sable-domaha-beach-80-ans-apres-le-debarquement-4-des-grains-sont-encore-des-eclats-dobus/",
@@ -218,13 +225,6 @@
       "pubDate": "2026-09-09T16:54:58.000Z",
       "description": "Au tour de KNDS de structurer son offre anti-drones. Dévoilé durant Eurosatory, son bouclier s'appuiera sur un arsenal « maison » progressivement renforcé avec les technologies matures venues d'ailleurs.  Chez KNDS France, la lutte anti-drones est désormais rassemblée sous une unique bannière : TARGAS, pour « Tactical Advanced Response for Ground, Air and Surface threats ». De la détection […]\nThe post TARGAS : KNDS dégaine à son tour son écosystème anti-drones appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "La Suède accélère le développement des futures capacités de son aviation de combat",
-      "link": "https://www.opex360.com/2026/09/09/la-suede-accelere-le-developpement-des-futures-capacites-de-son-aviation-de-combat/",
-      "pubDate": "2026-09-09T16:12:50.000Z",
-      "description": "L’air de rien, ayant finalement décidé de ne pas se joindre au Royaume-Uni, à l’Italie et au Japon au sein du Global Combat Air Programme [GCAP], la Suède est en train d’affiner sa propre vision du combat aérien du futur, via le projet Konceptprogram Framtida Stridsflygsystem [KFS], lancé en octobre 2024 via la notification de...\nCet article La Suède accélère le développement des futures capacités de son aviation de combat est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "« Chaque hésitation de l’Europe à armer l’Ukraine est lue par Moscou comme une faille »",
