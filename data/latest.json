@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T07:26:24.081Z",
+  "generatedAt": "2026-09-12T07:44:21.044Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Des géologues analysent le sable d’Omaha Beach 80 ans après le Débarquement : 4 % des grains sont encore des éclats d’obus",
+      "link": "https://armees.com/des-geologues-analysent-le-sable-domaha-beach-80-ans-apres-le-debarquement-4-des-grains-sont-encore-des-eclats-dobus/",
+      "pubDate": "2026-09-12T06:05:11.000Z",
+      "description": "Sous vos pieds, à Omaha Beach, se cachent encore des éclats d'obus de 1944. Une trace du Débarquement invisible à l'œil nu, mais bien réelle... et qui pourrait disparaître dans un siècle.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "114 Rafale pour 33 milliards d’euros, l’Inde pose une condition jamais acceptée auparavant par la France",
       "link": "https://armees.com/114-rafale-pour-33-milliards-deuros-linde-pose-une-condition-jamais-acceptee-auparavant-par-la-france/",
@@ -183,13 +190,6 @@
       "pubDate": "2026-09-10T15:01:14.000Z",
       "description": "Si l’on s’en tient à la trajectoire financière prévue par la Loi de programmation militaire [LPM] 2024-30 actualisée, le ministère des Armées devrait bénéficier d’un budget en hausse de près de 11 % en 2027, son montant devant passer de 57,1 à 63,3 milliards d’euros. Du moins, sous réserve que le projet de loi de...\nCet article L’Allemagne va porter ses dépenses militaires à 140 milliards d’euros en 2027 est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "L’Ukraine dévoile deux nouveaux véhicules blindés",
-      "link": "https://armees.com/ukraine-devoile-deux-nouveaux-vehicules-blindes/",
-      "pubDate": "2026-09-10T12:18:24.000Z",
-      "description": "Ukrainian Armor a dévoilé le 8 septembre 2026 à MSPO-2026 deux nouveaux véhicules blindés ukrainiens : le Saigak-1 et le Varta-3, tous deux certifiés aux normes NATO de protection balistique et anti-mines. Le Saigak-1 offre une protection PZSA 3 et STANAG Level 1, tandis que le Varta-3, développé sur châssis Mercedes-Benz Unimog, atteint les niveaux PZSA 6 et STANAG 3a/3b, avec des options d'armement modulaires.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Les Pays-Bas veulent acquérir un avion d’alerte avancée Saab GlobalEye auprès de la Suède",
