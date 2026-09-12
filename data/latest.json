@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T05:27:17.758Z",
+  "generatedAt": "2026-09-12T05:44:39.625Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "114 Rafale pour 33 milliards d’euros, l’Inde pose une condition jamais acceptée auparavant par la France",
+      "link": "https://armees.com/114-rafale-pour-33-milliards-deuros-linde-pose-une-condition-jamais-acceptee-auparavant-par-la-france/",
+      "pubDate": "2026-09-12T05:35:31.000Z",
+      "description": "33 milliards d'euros, 114 Rafale, des exigences industrielles jamais vues jusqu'ici. L'Inde pose ses conditions à Paris, la France a deux mois pour répondre. Un contrat qui pourrait redessiner l'avenir de Dassault Aviation.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pourquoi l’armée de Terre favorise-t-elle maintenant les commandos blindés alors que la majorité des armées européennes optent pour le contraire",
+      "link": "https://armees.com/pourquoi-larmee-de-terre-favorise-t-elle-maintenant-les-commandos-blindes-alors-que-la-majorite-des-armees-europeennes-optent-pour-le-contraire/",
+      "pubDate": "2026-09-12T05:05:37.000Z",
+      "description": "30 km derrière les lignes ennemies, 48 heures d'autonomie : pendant que l'Europe abandonne le concept, l'armée française mise tout sur son nouveau groupement commando blindé. Un pari risqué ou visionnaire ?",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Le ministère des Armées a commandé des drones tactiques légers Capa-X pour la Marine nationale et l’armée de Terre",
       "link": "https://www.opex360.com/2026/09/11/le-ministere-des-armees-a-commande-des-drones-tactiques-legers-capa-x-pour-la-marine-nationale-et-larmee-de-terre/",
@@ -175,20 +189,6 @@
       "link": "https://armees.com/ukraine-devoile-deux-nouveaux-vehicules-blindes/",
       "pubDate": "2026-09-10T12:18:24.000Z",
       "description": "Ukrainian Armor a dévoilé le 8 septembre 2026 à MSPO-2026 deux nouveaux véhicules blindés ukrainiens : le Saigak-1 et le Varta-3, tous deux certifiés aux normes NATO de protection balistique et anti-mines. Le Saigak-1 offre une protection PZSA 3 et STANAG Level 1, tandis que le Varta-3, développé sur châssis Mercedes-Benz Unimog, atteint les niveaux PZSA 6 et STANAG 3a/3b, avec des options d'armement modulaires.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ariane 6 : Amazon Leo signe pour 6 lancements supplémentaires",
-      "link": "https://armees.com/ariane-6-amazon-leo-signe-6-lancements-supplementaires/",
-      "pubDate": "2026-09-10T12:07:25.000Z",
-      "description": "Amazon Leo a annoncé le 9 septembre 2026 six lancements supplémentaires avec Ariane 6, portant le total à 24 missions. Cette extension du contrat confirme la viabilité stratégique du lanceur européen et renforce la position de l'Europe dans la compétition spatiale mondiale, face aux capacités américaines dominantes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Sommet de l’Espace : l’Europe vise l’autonomie stratégique face aux puissances dominantes",
-      "link": "https://armees.com/sommet-espace-europe-vise-autonomie-strategique-face-puissances-dominantes/",
-      "pubDate": "2026-09-10T11:11:20.000Z",
-      "description": "Emmanuel Macron a dévoilé au Sommet de l'Espace une stratégie d'autonomie défensive orbitale pour l'Europe. Constellation sécurisée Iris², lanceurs réutilisables, vols habités depuis Kourou d'ici 2036 : le Président français pose les jalons d'une puissance spatiale indépendante face aux États-Unis et à la Chine.",
       "sourceKey": "armees_com"
     },
     {
