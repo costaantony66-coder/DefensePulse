@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T05:27:06.221Z",
+  "generatedAt": "2026-09-13T05:44:53.894Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Un sous-marin australien de 850 millions de dollars a « coulé » un porte-avions Nimitz américain de 5,5 milliards de dollars",
+      "link": "https://armees.com/un-sous-marin-australien-de-850-millions-de-dollars-a-coule-un-porte-avions-nimitz-americain-de-55-milliards-de-dollars/",
+      "pubDate": "2026-09-13T05:35:28.000Z",
+      "description": "Un sous-marin australien de 850 millions de dollars a piégé, sans être détecté, un porte-avions nucléaire américain valant 5,5 milliards. Comment ce petit Collins a-t-il déjoué toute une flotte internationale ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Au centre d’une nouvelle tension sur les Malouines, la Royal Navy prépare l’un de ses SSBN Vanguard pour une mission de patrouille",
+      "link": "https://armees.com/au-centre-dune-nouvelle-tension-sur-les-malouines-la-royal-navy-prepare-lun-de-ses-ssbn-vanguard-pour-une-mission-de-patrouille/",
+      "pubDate": "2026-09-13T05:05:24.000Z",
+      "description": "Un sous-marin nucléaire britannique file vers les Malouines, en pleine escalade avec l'Argentine. Routine ou message de dissuasion assumé ? Les experts s'interrogent, tandis que Milei durcit déjà le ton.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "La hausse du budget des armées met les effectifs de la Direction générale de l’armement sous tension",
       "link": "https://www.opex360.com/2026/09/12/la-hausse-du-budget-des-armees-met-les-effectifs-de-la-direction-generale-de-larmement-sous-tension/",
@@ -175,20 +189,6 @@
       "link": "https://armees.com/debut-2025-la-russie-larguait-plus-de-100-bombes-planantes-par-jour-sur-lukraine-les-defenses-anti-aeriennes-ne-suivaient-plus/",
       "pubDate": "2026-09-11T05:05:36.000Z",
       "description": "Plus de 100 bombes planantes russes larguées chaque jour, à 50 km du front, quasi indétectables. Une arme à 20 000 dollars capable de mettre en échec les défenses les plus sophistiquées. Comment l'Ukraine tente-t-elle de contrer cette menace ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cette opération russe en Arctique aurait pu plonger l’Occident dans le noir",
-      "link": "https://armees.com/sabotage-operation-russe-arctique-aurait-pu-plonger-occident-noir/",
-      "pubDate": "2026-09-11T04:54:15.000Z",
-      "description": "Au printemps 2026, une opération conjointe de l'OTAN a déjoué une tentative russe de sabotage de câbles sous-marins dans l'Arctique. Des sous-marins de la direction GUGI ont été interceptés alors qu'ils s'entraînaient à déployer une arme secrète capable de neutraliser ces infrastructures critiques sans laisser de traces. Cette confrontation sous-marine révèle l'escalade de la guerre hybride menée par Moscou contre les installations stratégiques occidentales.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Comment la Corée du Nord accélère sa course à l’arme nucléaire",
-      "link": "https://armees.com/coree-nord-comment-accelere-course-arme-nucleaire/",
-      "pubDate": "2026-09-11T04:35:59.000Z",
-      "description": "L'AIEA révèle dans son rapport d'août 2026 que la Corée du Nord a construit une nouvelle installation d'enrichissement d'uranium à Yongbyon capable d'accueillir 28 cascades de centrifugeuses, tandis que l'annexe de Kangson est entrée en production.",
       "sourceKey": "armees_com"
     },
     {
