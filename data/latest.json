@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T07:45:27.609Z",
+  "generatedAt": "2026-09-13T08:06:09.969Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Le budget 2026 des armées légèrement raboté",
+      "link": "https://forcesoperations.com/le-budget-2026-des-armees-legerement-rabote/",
+      "pubDate": "2026-09-13T07:49:26.000Z",
+      "description": "Cette fois, le budget des armées ne passera pas entre les mailles de l'austérité. Le coup de rabot est intervenu ce vendredi afin de financer de nouvelles mesures d’urgence au profit du secteur agricole.\nThe post Le budget 2026 des armées légèrement raboté appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
     {
       "title": "Le Japon intercepte un navire de pêche chinois dans sa zone économique au cœur du conflit avec Pékin",
       "link": "https://armees.com/le-japon-intercepte-un-navire-de-peche-chinois-dans-sa-zone-economique-au-coeur-du-conflit-avec-pekin/",
@@ -309,13 +316,6 @@
       "pubDate": "2026-08-27T00:59:59.000Z",
       "description": "Cette décision, annoncée mercredi 26 août, interdit l’achat et l’installation d’équipements de réseau provenant de pays sous embargo ou sanctions américaines sur le commerce des armes. Parmi les Etats figurant sur cette liste, seule la Chine exporte ce genre de matériel vers les Etats-Unis.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "En Allemagne, des commandes d’armements français en forte hausse en 2025",
-      "link": "https://forcesoperations.com/en-allemagne-des-commandes-darmements-francais-en-forte-hausse-en-2025/",
-      "pubDate": "2026-08-26T10:03:47.000Z",
-      "description": "Fâchées en matière de défense, la France et l'Allemagne ? Si les programmes de développement conjoints subissent des remous, les exportations d'armements français vers le voisin allemand ont plus que doublé l'an dernier, un pic auquel s'ajoute un autre en matière d'octrois de licences. \nThe post En Allemagne, des commandes d’armements français en forte hausse en 2025 appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
     },
     {
       "title": "Défense : les exportations d’armes françaises encore à des sommets en 2025",
