@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T07:27:01.912Z",
+  "generatedAt": "2026-09-13T07:45:27.609Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Le Japon intercepte un navire de pêche chinois dans sa zone économique au cœur du conflit avec Pékin",
+      "link": "https://armees.com/le-japon-intercepte-un-navire-de-peche-chinois-dans-sa-zone-economique-au-coeur-du-conflit-avec-pekin/",
+      "pubDate": "2026-09-13T06:05:11.000Z",
+      "description": "Des milliers de navires chinois repérés en formation serrée près des eaux japonaises, un capitaine arrêté après une course-poursuite en mer. Tension maximale entre Tokyo et Pékin, sur fond de crise autour de Taïwan.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Un sous-marin australien de 850 millions de dollars a « coulé » un porte-avions Nimitz américain de 5,5 milliards de dollars",
       "link": "https://armees.com/un-sous-marin-australien-de-850-millions-de-dollars-a-coule-un-porte-avions-nimitz-americain-de-55-milliards-de-dollars/",
@@ -182,13 +189,6 @@
       "link": "https://armees.com/trump-promet-5000-dollars-a-chaque-adulte-americain-en-cas-de-victoire-mais-dou-vient-cet-argent/",
       "pubDate": "2026-09-11T05:35:30.000Z",
       "description": "5 000 dollars par adulte américain si les républicains raflent la mise au Congrès : promesse électorale ou coup de bluff financier ? Entre légalité douteuse et Maine sous tension, la course aux midterms s'annonce électrique.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Début 2025, la Russie larguait plus de 100 bombes planantes par jour sur l’Ukraine : les défenses anti-aériennes ne suivaient plus",
-      "link": "https://armees.com/debut-2025-la-russie-larguait-plus-de-100-bombes-planantes-par-jour-sur-lukraine-les-defenses-anti-aeriennes-ne-suivaient-plus/",
-      "pubDate": "2026-09-11T05:05:36.000Z",
-      "description": "Plus de 100 bombes planantes russes larguées chaque jour, à 50 km du front, quasi indétectables. Une arme à 20 000 dollars capable de mettre en échec les défenses les plus sophistiquées. Comment l'Ukraine tente-t-elle de contrer cette menace ?",
       "sourceKey": "armees_com"
     },
     {
