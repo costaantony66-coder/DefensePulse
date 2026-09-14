@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T05:46:53.631Z",
+  "generatedAt": "2026-09-14T06:08:43.541Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Des avions militaires auraient provoqué la panne géante du contrôle aérien britannique",
+      "link": "https://armees.com/des-avions-militaires-auraient-provoque-la-panne-geante-du-controle-aerien-britannique/",
+      "pubDate": "2026-09-14T05:35:12.000Z",
+      "description": "Un simple plan de vol militaire aurait suffi à paralyser tout le trafic aérien britannique pendant quatre heures, sans aucune sauvegarde disponible. O'Leary réclame déjà une tête. Les vraies causes restent à éclaircir.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Convoqués pendant la Guerre des Malouines, ils ont attendu 40 ans pour être reconnus comme vétérans : la Justice vient de leur dire non",
+      "link": "https://armees.com/convoques-pendant-la-guerre-des-malouines-ils-ont-attendu-40-ans-pour-etre-reconnus-comme-veterans-la-justice-vient-de-leur-dire-non/",
+      "pubDate": "2026-09-14T05:05:19.000Z",
+      "description": "Des militaires mobilisés en 1982 réclament le statut de vétéran, mais la justice argentine tranche net. Simple mobilisation ou véritable exposition au danger ? La frontière juridique change tout pour eux.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Le français Kership a mis à l’eau le «Petar Njegos I», le premier des deux patrouilleurs destinés au Monténégro",
       "link": "https://www.opex360.com/2026/09/13/le-francais-kership-a-mis-a-leau-le-petar-njegos-i-le-premier-des-deux-patrouilleurs-destines-au-montenegro/",
@@ -196,20 +210,6 @@
       "link": "https://armees.com/les-forces-britanniques-et-americaines-stoppent-un-complot-de-moscou-visant-a-lancer-une-nouvelle-arme-secrete/",
       "pubDate": "2026-09-11T06:05:00.000Z",
       "description": "Une arme secrète russe capable de couper des câbles sous-marins sans laisser de traces : des sous-marins ont été surpris en pleine simulation dans l'Arctique. L'OTAN a réagi, Moscou a été averti. Récit d'une confrontation restée secrète jusqu'ici.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Yémen : la prise de Mocha fait bondir le brut au-dessus de 100 dollars",
-      "link": "https://armees.com/petrole-yemen-prise-mocha-bondir-brut-dessus-100-dollars/",
-      "pubDate": "2026-09-11T06:02:42.000Z",
-      "description": "La prise de Mocha par les Houthis achève de paralyser les exportations pétrolières saoudiennes via Bab el-Mandeb.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Trump promet 5000 dollars à chaque adulte américain en cas de victoire mais d’où vient cet argent ?",
-      "link": "https://armees.com/trump-promet-5000-dollars-a-chaque-adulte-americain-en-cas-de-victoire-mais-dou-vient-cet-argent/",
-      "pubDate": "2026-09-11T05:35:30.000Z",
-      "description": "5 000 dollars par adulte américain si les républicains raflent la mise au Congrès : promesse électorale ou coup de bluff financier ? Entre légalité douteuse et Maine sous tension, la course aux midterms s'annonce électrique.",
       "sourceKey": "armees_com"
     },
     {
