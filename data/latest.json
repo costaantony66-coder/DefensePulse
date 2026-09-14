@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T07:07:45.199Z",
+  "generatedAt": "2026-09-14T07:31:19.470Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Un drone ukrainien évite le tir d’un hélicoptère russe et frappe un pétrolier au large de Sotchi",
+      "link": "https://armees.com/un-drone-ukrainien-evite-le-tir-dun-helicoptere-russe-et-frappe-un-petrolier-au-large-de-sotchi/",
+      "pubDate": "2026-09-14T06:05:10.000Z",
+      "description": "Un drone ukrainien échappe à un hélicoptère russe et coule un pétrolier sanctionné près de Sotchi. Comment Kiev parvient-il à paralyser toute une flotte fantôme en pleine mer Noire ?",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Des avions militaires auraient provoqué la panne géante du contrôle aérien britannique",
       "link": "https://armees.com/des-avions-militaires-auraient-provoque-la-panne-geante-du-controle-aerien-britannique/",
@@ -203,13 +210,6 @@
       "link": "https://armees.com/israel-detruit-20-ans-infrastructure-hezbollah-frappe-massive/",
       "pubDate": "2026-09-11T08:05:58.000Z",
       "description": "Le 10 septembre 2026, Israël a déployé plus de 1.100 tonnes d'explosifs pour détruire un complexe souterrain du Hezbollah sur la crête d'Ali Taher au Liban, générant une secousse sismique de magnitude 4,1. Cette opération révèle l'ampleur des infrastructures construites pendant vingt ans et la capacité de Tsahal à les neutraliser en une seule frappe coordonnée.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Les forces britanniques et américaines stoppent un complot de Moscou visant à lancer une nouvelle arme secrète",
-      "link": "https://armees.com/les-forces-britanniques-et-americaines-stoppent-un-complot-de-moscou-visant-a-lancer-une-nouvelle-arme-secrete/",
-      "pubDate": "2026-09-11T06:05:00.000Z",
-      "description": "Une arme secrète russe capable de couper des câbles sous-marins sans laisser de traces : des sous-marins ont été surpris en pleine simulation dans l'Arctique. L'OTAN a réagi, Moscou a été averti. Récit d'une confrontation restée secrète jusqu'ici.",
       "sourceKey": "armees_com"
     },
     {
