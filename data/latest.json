@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T08:32:23.932Z",
+  "generatedAt": "2026-09-14T08:49:09.295Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Pologne : la frappe russe sur le train Kiev-Varsovie révèle une stratégie d’attrition des flux OTAN",
+      "link": "https://armees.com/pologne-frappe-russe-train-kiev-varsovie-strategie/",
+      "pubDate": "2026-09-14T08:30:00.000Z",
+      "description": "Le 13 septembre 2026, un drone russe a frappé un train Kiev-Varsovie transportant 206 passagers à 2 kilomètres de la frontière polonaise. Cette attaque révèle une stratégie russe d'attrition systématique des corridors logistiques OTAN approvisionnant l'Ukraine.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Liban : Israël détruit une base stratégique du Hezbollah",
+      "link": "https://armees.com/liban-israel-detruit-une-base-strategique-du-hezbollah/",
+      "pubDate": "2026-09-14T08:09:06.000Z",
+      "description": "Israël a détruit un important réseau souterrain du Hezbollah au Liban. La perte d’Ali Taher fragilise le mouvement, mais ne signifie pas sa défaite militaire.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : Trump demande à Kiev d’épargner les raffineries russes face à la flambée du diesel",
+      "link": "https://armees.com/ukraine-trump-demande-a-kiev-depargner-les-raffineries-russes-face-a-la-flambee-du-diesel/",
+      "pubDate": "2026-09-14T07:47:31.000Z",
+      "description": "Donald Trump demande à Volodymyr Zelensky de cesser les frappes de l’Ukraine contre les raffineries russes, alors que le marché mondial du diesel connaît de fortes tensions.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Ukraine : la pénurie de missiles Patriot devient critique avant l’hiver",
       "link": "https://armees.com/ukraine-la-penurie-de-missiles-patriot-devient-critique-avant-lhiver/",
@@ -190,27 +211,6 @@
       "pubDate": "2026-09-11T11:02:12.000Z",
       "description": "Le 5 septembre, après avoir subi un échec en 2025, l’allemand Isar Aerospace est devenu le premier acteur privé européen à placer une charge utile en orbite basse, après que son lanceur Spectrum a décollé du spatioport d’Andøya, en Norvège. Créée il y a huit ans, Isar Aerospace fait partie des entreprises du «New Space»...\nCet article Le ministère des Armées va soutenir le premier tir du lanceur privé «Baguette One», conçu par HyPrSpace est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Anthropic révèle l’utilisation de Claude par les Houthis et la Russie pour le développement de missiles et drones autonomes",
-      "link": "https://armees.com/anthropic-revele-utilisation-claude-houthis-russie-developpement-missiles/",
-      "pubDate": "2026-09-11T10:56:07.000Z",
-      "description": "Anthropic a publié le 10 septembre 2026 un rapport de 161 pages révélant comment les rebelles houthis ont utilisé Claude pour concevoir un missile balistique de plus de 2 000 km de portée, comment des développeurs russes ont programmé des essaims de drones autonomes, et comment des acteurs chinois ont siphonné des millions d'échanges pour entraîner leurs propres modèles. L'entreprise reconnaît que ses modèles les plus puissants posent désormais des risques stratégiques majeurs, exploitant l'absence de régulation fédérale américaine.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : pour continuer la lutte,Kiev réclame 27 milliards de plus",
-      "link": "https://armees.com/ukraine-pour-continuer-la-luttekiev-reclame-27-milliards-de-plus/",
-      "pubDate": "2026-09-11T08:37:31.000Z",
-      "description": "L’Ukraine réclame 27 milliards de dollars supplémentaires pour sa Défense en 2026. L’Europe examine ce besoin et les moyens d’y répondre.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’UE a payé 7,3 milliards d’euros de GNL russe en huit mois",
-      "link": "https://armees.com/lue-a-paye-73-milliards-deuros-de-gnl-russe-en-huit-mois/",
-      "pubDate": "2026-09-11T08:35:25.000Z",
-      "description": "Entre janvier et début septembre 2026, l'Union européenne a versé 7,3 milliards d'euros pour du gaz naturel liquéfié provenant du projet arctique russe Yamal LNG, dépassant le total de l'année 2025. Les volumes importés ont augmenté de 10 % sur un an, alors que les exportations mondiales du projet reculaient. Ces chiffres, publiés à la veille du Sommet européen sur l'Arctique, illustrent la dépendance persistante de l'Europe au gaz russe malgré les sanctions.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La France et la Suède vont renforcer leur coopération militaire dans le domaine spatial",
