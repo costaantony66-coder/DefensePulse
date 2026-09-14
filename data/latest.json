@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T10:30:13.168Z",
+  "generatedAt": "2026-09-14T10:48:33.894Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Donald Trump appelle Zelensky à stopper les frappes sur les raffineries russes",
+      "link": "https://armees.com/donald-trump-appelle-zelensky-stopper/",
+      "pubDate": "2026-09-14T08:55:53.000Z",
+      "description": "Le 13 septembre 2026, Donald Trump a exigé publiquement que Volodymyr Zelensky cesse les frappes ukrainiennes contre les raffineries de diesel russes, invoquant la pénurie de carburant aux États-Unis. Cette déclaration intervient alors que le prix du diesel dépasse 6 dollars le gallon, alimenté par la guerre au Moyen-Orient et les attaques ukrainiennes sur les infrastructures pétrolières russes.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Pologne : la frappe russe sur le train Kiev-Varsovie révèle une stratégie d’attrition des flux OTAN",
       "link": "https://armees.com/pologne-frappe-russe-train-kiev-varsovie-strategie/",
@@ -197,13 +204,6 @@
       "pubDate": "2026-09-11T13:01:44.000Z",
       "description": "Le ministère des Armées va consacrer davantage de moyens au ruissellement de l'innovation. Chaque armée recevra dès l'an prochain une nouvelle enveloppe de subsidiarité pour accélérer dans la captation, l'acquisition et l'expérimentation des bonnes idées venues d'un peu partout. \nThe post De nouvelles enveloppes de subsidiarité pour les armées appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Piratage du fisc : une brèche majeure dans le Réseau interministériel de l’État",
-      "link": "https://armees.com/piratage-du-fisc-breche-majeure-reseau-etat/",
-      "pubDate": "2026-09-11T11:13:01.000Z",
-      "description": "Le piratage du fisc révèle une compromission majeure du Réseau interministériel de l'État. Entre juin et août 2026, des attaquants ont infiltré le RIE via des identifiants volés, dérobant les données de 700 000 contribuables. La CNIL annonce un contrôle imminent de la DGFiP tandis que le Sénat pointe des fragilités structurelles alarmantes dans la défense informatique française.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le ministère des Armées va soutenir le premier tir du lanceur privé «Baguette One», conçu par HyPrSpace",
