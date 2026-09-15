@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T14:06:27.084Z",
+  "generatedAt": "2026-09-15T14:29:29.448Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Guerre en Ukraine : Wildberries commande 478 000 m² de grillage métallique anti-drones",
+      "link": "https://armees.com/guerre-ukraine-wildberries-russie/",
+      "pubDate": "2026-09-15T14:03:55.000Z",
+      "description": "Depuis juillet 2026, les frappes de drones ukrainiens ont détruit 43% des capacités de stockage de Wildberries, le géant russe de l'e-commerce. En réponse, l'entreprise commande 478 000 m² de grillage métallique galvanisé pour huit régions, révélant l'adaptation défensive russe face à une guerre économique par drones. Cette stratégie low-tech interroge l'efficacité des protections passives face à l'évolution des capacités offensives ukrainiennes.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Pays-Bas : un sabotage perturbe le trafic ferroviaire",
       "link": "https://armees.com/pays-bas-sabotage-perturbe-trafic-ferroviaire/",
@@ -175,13 +182,6 @@
       "link": "https://armees.com/des-avions-militaires-auraient-provoque-la-panne-geante-du-controle-aerien-britannique/",
       "pubDate": "2026-09-14T05:35:12.000Z",
       "description": "Un simple plan de vol militaire aurait suffi à paralyser tout le trafic aérien britannique pendant quatre heures, sans aucune sauvegarde disponible. O'Leary réclame déjà une tête. Les vraies causes restent à éclaircir.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Convoqués pendant la Guerre des Malouines, ils ont attendu 40 ans pour être reconnus comme vétérans : la Justice vient de leur dire non",
-      "link": "https://armees.com/convoques-pendant-la-guerre-des-malouines-ils-ont-attendu-40-ans-pour-etre-reconnus-comme-veterans-la-justice-vient-de-leur-dire-non/",
-      "pubDate": "2026-09-14T05:05:19.000Z",
-      "description": "Des militaires mobilisés en 1982 réclament le statut de vétéran, mais la justice argentine tranche net. Simple mobilisation ou véritable exposition au danger ? La frontière juridique change tout pour eux.",
       "sourceKey": "armees_com"
     },
     {
