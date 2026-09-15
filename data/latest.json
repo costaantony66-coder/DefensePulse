@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T21:06:17.822Z",
+  "generatedAt": "2026-09-15T21:27:03.009Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Défense : la France vise 100.000 recrutements dans l’industrie d’ici 2030",
+      "link": "https://armees.com/defense-la-france-vise-100-000-recrutements-dans-lindustrie-dici-2030/",
+      "pubDate": "2026-09-15T19:16:48.000Z",
+      "description": "La Défense prépare 100 000 recrutements d’ici 2030. Un plan qui accompagne le réarmement européen et les reconversions de l’automobile.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Drones contre oléoduc : l’Europe plongée dans la crise pétrolière",
       "link": "https://armees.com/crise-petrole-drones-contre-oleoduc-europe-plongee-petroliere/",
@@ -203,13 +210,6 @@
       "link": "https://armees.com/ukraine-la-penurie-de-missiles-patriot-devient-critique-avant-lhiver/",
       "pubDate": "2026-09-14T07:38:37.000Z",
       "description": "L’Ukraine réclame davantage de missiles Patriot pour protéger ses villes et ses infrastructures énergétiques contre les frappes russes durant l’hiver.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Russie : 453 drones en une nuit, un exploit de défense aérienne",
-      "link": "https://armees.com/russie-453-drones-nuit-exploit-defense-aerienne/",
-      "pubDate": "2026-09-14T07:28:05.000Z",
-      "description": "La Russie a lancé 453 drones sur l'Ukraine dans la nuit du 13 septembre 2026. Les forces armées ukrainiennes ont neutralisé 409 vecteurs, affichant un taux d'interception de 90%. Seuls 13 sites ont été touchés, révélant la robustesse de la défense aérienne ukrainienne face à une stratégie de saturation.",
       "sourceKey": "armees_com"
     },
     {
