@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T13:30:37.261Z",
+  "generatedAt": "2026-09-15T13:48:35.515Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Pays-Bas : un sabotage perturbe le trafic ferroviaire",
+      "link": "https://armees.com/pays-bas-sabotage-perturbe-trafic-ferroviaire/",
+      "pubDate": "2026-09-15T13:03:02.000Z",
+      "description": "Le 15 septembre 2026, les Pays-Bas ont subi un sabotage coordonné sans précédent : environ 30 sites ferroviaires stratégiques ont été simultanément visés par le placement délibéré de tubes sur les voies, paralysant le trafic dans le centre et le nord du pays. L'attaque révèle une vulnérabilité critique des infrastructures de transport et mobilise police, renseignement et ProRail dans une enquête d'ampleur.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Le Pentagone annonce « une pénurie » de munitions à cause de la guerre en Iran",
       "link": "https://armees.com/etats-unis-pentagone-annonce-penurie/",
@@ -197,13 +204,6 @@
       "pubDate": "2026-09-13T07:49:26.000Z",
       "description": "Cette fois, le budget des armées ne passera pas entre les mailles de l'austérité. Le coup de rabot est intervenu ce vendredi afin de financer de nouvelles mesures d’urgence au profit du secteur agricole.\nThe post Le budget 2026 des armées légèrement raboté appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Le Japon intercepte un navire de pêche chinois dans sa zone économique au cœur du conflit avec Pékin",
-      "link": "https://armees.com/le-japon-intercepte-un-navire-de-peche-chinois-dans-sa-zone-economique-au-coeur-du-conflit-avec-pekin/",
-      "pubDate": "2026-09-13T06:05:11.000Z",
-      "description": "Des milliers de navires chinois repérés en formation serrée près des eaux japonaises, un capitaine arrêté après une course-poursuite en mer. Tension maximale entre Tokyo et Pékin, sur fond de crise autour de Taïwan.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La hausse du budget des armées met les effectifs de la Direction générale de l’armement sous tension",
