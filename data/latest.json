@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T18:07:02.605Z",
+  "generatedAt": "2026-09-15T18:30:29.192Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Drones contre oléoduc : l’Europe plongée dans la crise pétrolière",
+      "link": "https://armees.com/crise-petrole-drones-contre-oleoduc-europe-plongee-petroliere/",
+      "pubDate": "2026-09-15T18:20:41.000Z",
+      "description": "La crise pétrole s'aggrave en Europe : l'Arabie saoudite a suspendu ses exportations vers le Vieux Continent après des attaques de drones ayant endommagé son oléoduc Est-Ouest. Les prix dépassent 120 dollars le baril tandis que la Pologne cherche en urgence des alternatives. Les stocks de Yanbu ne permettront de tenir qu'une semaine.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Face aux drones, la composition des pelotons de chars Leclerc va évoluer",
       "link": "https://www.opex360.com/2026/09/15/face-aux-drones-la-composition-des-pelotons-de-chars-leclerc-va-evoluer/",
@@ -203,13 +210,6 @@
       "link": "https://armees.com/russie-453-drones-nuit-exploit-defense-aerienne/",
       "pubDate": "2026-09-14T07:28:05.000Z",
       "description": "La Russie a lancé 453 drones sur l'Ukraine dans la nuit du 13 septembre 2026. Les forces armées ukrainiennes ont neutralisé 409 vecteurs, affichant un taux d'interception de 90%. Seuls 13 sites ont été touchés, révélant la robustesse de la défense aérienne ukrainienne face à une stratégie de saturation.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un drone ukrainien évite le tir d’un hélicoptère russe et frappe un pétrolier au large de Sotchi",
-      "link": "https://armees.com/un-drone-ukrainien-evite-le-tir-dun-helicoptere-russe-et-frappe-un-petrolier-au-large-de-sotchi/",
-      "pubDate": "2026-09-14T06:05:10.000Z",
-      "description": "Un drone ukrainien échappe à un hélicoptère russe et coule un pétrolier sanctionné près de Sotchi. Comment Kiev parvient-il à paralyser toute une flotte fantôme en pleine mer Noire ?",
       "sourceKey": "armees_com"
     },
     {
