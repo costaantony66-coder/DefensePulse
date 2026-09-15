@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T16:06:38.523Z",
+  "generatedAt": "2026-09-15T16:29:58.280Z",
   "sources": [
     {
       "key": "opex",
@@ -24,11 +24,25 @@
   ],
   "items": [
     {
+      "title": "La marine allemande veut se doter d’un quatrième navire dédié au renseignement électronique",
+      "link": "https://www.opex360.com/2026/09/15/la-marine-allemande-veut-se-doter-dun-quatrieme-navire-dedie-au-renseignement-electronique/",
+      "pubDate": "2026-09-15T16:29:16.000Z",
+      "description": "Actuellement, comme son appellation ne le suggère pas, le 1er escadron de sous-marins [1. Ubootgeschwader] de la Deutsche Marine met en œuvre trois «navires auxiliaires» de type 423 [ou classe «Oste] dont la mission est de collecter du renseignement d’origine électromagnétique [ROEM]. Affichant un déplacement de 3 200 tonnes pour une longueur de 83,5 mètres,...\nCet article La marine allemande veut se doter d’un quatrième navire dédié au renseignement électronique est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
       "title": "Les États-Unis admettent avoir mis des armes spatiales en orbite",
       "link": "https://www.opex360.com/2026/09/15/les-etats-unis-admettent-avoir-mis-des-armes-spatiales-en-orbite/",
       "pubDate": "2026-09-15T14:46:08.000Z",
       "description": "En janvier 2022, l’engin spatial chinois SJ-21 s’est approché d’un satellite hors service de la constellation Beidou pour le déplacer sur une orbite dite «cimetière», c’est-à-dire à plusieurs kilomètres de la position qu’il occupait à environ 36 000 km d’altitude. À première vue, une telle opération passe pour être inoffensive puisqu’elle a consisté à désencombrer...\nCet article Les États-Unis admettent avoir mis des armes spatiales en orbite est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Danemark : une frégate russe tire sur un hélicoptère en mer Baltique",
+      "link": "https://armees.com/danemark-fregate-russe-tire-helicoptere-mer-baltique/",
+      "pubDate": "2026-09-15T14:22:00.000Z",
+      "description": "Le 14 septembre 2026, une frégate russe a tiré deux fusées éclairantes sur un hélicoptère Fennec danois en mission de routine en mer Baltique. L'une des fusées est passée à proximité immédiate de l'appareil. Copenhague dénonce une violation des protocoles de sécurité aérienne, tandis que Moscou accuse l'hélicoptère de manœuvres provocatrices.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Guerre en Ukraine : Wildberries commande 478 000 m² de grillage métallique anti-drones",
@@ -185,13 +199,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Des avions militaires auraient provoqué la panne géante du contrôle aérien britannique",
-      "link": "https://armees.com/des-avions-militaires-auraient-provoque-la-panne-geante-du-controle-aerien-britannique/",
-      "pubDate": "2026-09-14T05:35:12.000Z",
-      "description": "Un simple plan de vol militaire aurait suffi à paralyser tout le trafic aérien britannique pendant quatre heures, sans aucune sauvegarde disponible. O'Leary réclame déjà une tête. Les vraies causes restent à éclaircir.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le français Kership a mis à l’eau le «Petar Njegos I», le premier des deux patrouilleurs destinés au Monténégro",
       "link": "https://www.opex360.com/2026/09/13/le-francais-kership-a-mis-a-leau-le-petar-njegos-i-le-premier-des-deux-patrouilleurs-destines-au-montenegro/",
       "pubDate": "2026-09-13T11:13:12.000Z",
@@ -217,13 +224,6 @@
       "link": "https://www.opex360.com/2026/09/12/la-hausse-du-budget-des-armees-met-les-effectifs-de-la-direction-generale-de-larmement-sous-tension/",
       "pubDate": "2026-09-12T14:14:13.000Z",
       "description": "Dans les années 2000, la Direction générale de l’armement [DGA] comptait entre 13 000 et 14 000 agents, civils et militaires, alors que le budget des armées était loin du niveau qu’il a atteint aujourd’hui. D’ailleurs, sous l’effet de la Révision générale des politiques publiques [RGPP], initiée en 2008, ses effectifs ont été significativement réduits...\nCet article La hausse du budget des armées met les effectifs de la Direction générale de l’armement sous tension est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Le ministère des Armées va lancer de nouvelles études sur un moteur d’avion de combat de 6e génération",
-      "link": "https://www.opex360.com/2026/09/12/le-ministere-des-armees-va-lancer-de-nouvelles-etudes-sur-un-moteur-davion-de-combat-de-6e-generation/",
-      "pubDate": "2026-09-12T13:05:02.000Z",
-      "description": "Cette semaine, la Direction générale de l’armement [DGA] a confirmé la notification de cinq contrats «en anticipation du lancement de la réalisation» du Rafale F5, lequel doit être opérationnel en 2033 au plus tôt. «Le standard F5 intègre des améliorations nécessaires pour faire face à l’évolution des menaces opérationnelles et prendre au plus vite le...\nCet article Le ministère des Armées va lancer de nouvelles études sur un moteur d’avion de combat de 6e génération est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
