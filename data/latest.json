@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T11:06:32.617Z",
+  "generatedAt": "2026-09-15T11:28:44.204Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Nouveau service militaire : Emmanuel Macron annonce que la première promotion portera le nom d’Henri Fertet, résistant fusillé à 16 ans",
+      "link": "https://www.lemonde.fr/international/article/2026/09/15/la-premiere-promotion-du-nouveau-service-militaire-portera-le-nom-d-henri-fertet-resistant-fusille-a-16-ans_6774413_3210.html",
+      "pubDate": "2026-09-15T11:09:09.000Z",
+      "description": "Le service militaire volontaire, appelé « service national », a été lancé en novembre 2025 par Emmanuel Macron avec l’objectif de « consolider le lien entre les armées et la nation ».",
+      "sourceKey": "geo"
+    },
     {
       "title": "Un hélicoptère militaire danois a été visé par des fusées éclairantes tirées par une frégate russe",
       "link": "https://www.opex360.com/2026/09/15/un-helicoptere-militaire-danois-a-ete-vise-par-des-fusees-eclairantes-tirees-par-une-fregate-russe/",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/07/24/a-toulouse-la-guerre-spatiale-a-deja-commence-la-menace-dans-l-espace-peut-creer-des-dommages-strategiques_6731490_3210.html",
       "pubDate": "2026-07-24T10:08:07.000Z",
       "description": "Alors que les moyens de surveillance et de transmission par satellite occupent une place de plus en plus importante dans les conflits actuels, « Le Monde » a pu exceptionnellement visiter la base spatiale française, inaugurée il y a un an à Toulouse, aux premières loges de ces nouveaux enjeux.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "« Les bases américaines au Moyen-Orient fournissent des capacités, mais elles constituent aussi des cibles »",
-      "link": "https://www.lemonde.fr/international/article/2026/07/20/les-bases-americaines-au-moyen-orient-fournissent-des-capacites-mais-elles-constituent-aussi-des-cibles_6727581_3210.html",
-      "pubDate": "2026-07-20T17:30:09.000Z",
-      "description": "Dans un entretien au « Monde », le chercheur Michael Stricof détaille le contexte de création des bases américaines au Moyen-Orient et analyse leur rôle stratégique dans le conflit actuel entre l’Iran et les Etats-Unis.",
       "sourceKey": "geo"
     }
   ]
