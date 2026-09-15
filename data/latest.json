@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T12:51:13.716Z",
+  "generatedAt": "2026-09-15T13:07:11.493Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Le Pentagone annonce « une pénurie » de munitions à cause de la guerre en Iran",
+      "link": "https://armees.com/etats-unis-pentagone-annonce-penurie/",
+      "pubDate": "2026-09-15T12:02:52.000Z",
+      "description": "Le Pentagone a officiellement reconnu le 14 septembre 2026 une pénurie de munitions provoquée par l'opération « Fureur épique » menée contre l'Iran entre février et juin 2026. Cette campagne a consommé 22,3 milliards de dollars de munitions en quatre mois, révélant des goulots d'étranglement critiques dans les capacités de production industrielle américaines et forçant le rationnement des systèmes d'armes les plus sophistiqués.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Drone abattu en Lituanie : l’OTAN intercepte une intrusion venue de Biélorussie",
+      "link": "https://armees.com/drone-abattu-lituanie-otan-intercepte-intrusion/",
+      "pubDate": "2026-09-15T11:57:26.000Z",
+      "description": "Dans la nuit du 14 au 15 septembre 2026, des chasseurs de l'OTAN ont abattu un drone ayant pénétré l'espace aérien lituanien depuis la Biélorussie. L'appareil s'est écrasé près du lac de Kaunas sans faire de victimes. Cet incident, le troisième en quatre mois dans les pays baltes, révèle une vulnérabilité croissante des frontières orientales de l'Alliance atlantique face aux intrusions aériennes répétées.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Nouveau service militaire : Emmanuel Macron annonce que la première promotion portera le nom d’Henri Fertet, résistant fusillé à 16 ans",
       "link": "https://www.lemonde.fr/international/article/2026/09/15/la-premiere-promotion-du-nouveau-service-militaire-portera-le-nom-d-henri-fertet-resistant-fusille-a-16-ans_6774413_3210.html",
@@ -189,20 +203,6 @@
       "link": "https://armees.com/le-japon-intercepte-un-navire-de-peche-chinois-dans-sa-zone-economique-au-coeur-du-conflit-avec-pekin/",
       "pubDate": "2026-09-13T06:05:11.000Z",
       "description": "Des milliers de navires chinois repérés en formation serrée près des eaux japonaises, un capitaine arrêté après une course-poursuite en mer. Tension maximale entre Tokyo et Pékin, sur fond de crise autour de Taïwan.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un sous-marin australien de 850 millions de dollars a « coulé » un porte-avions Nimitz américain de 5,5 milliards de dollars",
-      "link": "https://armees.com/un-sous-marin-australien-de-850-millions-de-dollars-a-coule-un-porte-avions-nimitz-americain-de-55-milliards-de-dollars/",
-      "pubDate": "2026-09-13T05:35:28.000Z",
-      "description": "Un sous-marin australien de 850 millions de dollars a piégé, sans être détecté, un porte-avions nucléaire américain valant 5,5 milliards. Comment ce petit Collins a-t-il déjoué toute une flotte internationale ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Au centre d’une nouvelle tension sur les Malouines, la Royal Navy prépare l’un de ses SSBN Vanguard pour une mission de patrouille",
-      "link": "https://armees.com/au-centre-dune-nouvelle-tension-sur-les-malouines-la-royal-navy-prepare-lun-de-ses-ssbn-vanguard-pour-une-mission-de-patrouille/",
-      "pubDate": "2026-09-13T05:05:24.000Z",
-      "description": "Un sous-marin nucléaire britannique file vers les Malouines, en pleine escalade avec l'Argentine. Routine ou message de dissuasion assumé ? Les experts s'interrogent, tandis que Milei durcit déjà le ton.",
       "sourceKey": "armees_com"
     },
     {
