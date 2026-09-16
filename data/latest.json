@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T08:06:55.038Z",
+  "generatedAt": "2026-09-16T08:31:13.300Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "États-Unis : 40 000 bombes pour Israël, une mutation des capacités de frappe",
+      "link": "https://armees.com/etats-unis-40-000-bombes-israel-mutation-capacites-frappe/",
+      "pubDate": "2026-09-16T08:17:31.000Z",
+      "description": "Les États-Unis approuvent la vente de 40 000 bombes à Israël pour 2,8 milliards de dollars, dont 20 000 MK-84 d'une tonne. Cette livraison massive modifie substantiellement les capacités de frappe israéliennes avec des munitions dont le rayon létal atteint 370 mètres et la pénétration 15 mètres de profondeur.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "États-Unis : l’US Space Force révèle ses armes orbitales face à la Chine",
+      "link": "https://armees.com/etats-unis-us-space-force-revele-armes-orbitales-face-chine/",
+      "pubDate": "2026-09-16T07:52:10.000Z",
+      "description": "Le 14 septembre 2026, l'US Space Force a officialisé pour la première fois le déploiement d'armes en orbite terrestre, abandonnant des décennies d'ambiguïté stratégique. Cette reconnaissance publique par le secrétaire de l'Air Force Troy Meink marque un tournant dans la militarisation de l'espace et provoque des condamnations immédiates de Pékin et Moscou, qui dénoncent une escalade dangereuse.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Guerre en Iran : 38 milliards de dollars dépensés et stocks de munitions en péril",
       "link": "https://armees.com/guerre-iran-38-milliards-dollars-depenses-stocks-munitions-peril/",
@@ -164,13 +178,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Après l’abandon du Scaf, Dassault accélère sur le « super Rafale » : les pilotes de l’armée de l’Air découvrent ce que l’avion pourra faire",
-      "link": "https://armees.com/apres-labandon-du-scaf-dassault-accelere-sur-le-super-rafale-les-pilotes-de-larmee-de-lair-decouvrent-ce-que-lavion-pourra-faire/",
-      "pubDate": "2026-09-15T05:05:02.000Z",
-      "description": "Puissance +20%, radar surboosté, IA au cœur du cockpit : le Rafale F5 promet une rupture totale. Trappier confirme 2033-2035, sans compromis capitalistique avec l'étranger. Voici ce qui change vraiment.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "À son tour, la Finlande rejoint le concept de dissuasion avancée proposée par la France",
       "link": "https://www.opex360.com/2026/09/14/a-son-tour-la-finlande-rejoint-le-concept-de-dissuasion-avancee-proposee-par-la-france/",
       "pubDate": "2026-09-14T17:29:48.000Z",
@@ -183,13 +190,6 @@
       "pubDate": "2026-09-14T16:12:27.000Z",
       "description": "L’Agence de l’innovation de défense a été bien avisée en sollicitant des auteurs de science-fiction pour créer la «Red Team», une cellule chargée d’imaginer les menaces et les conflits futurs à l’horizon 2060. En effet, certaines œuvres des maîtres du genre [pourtant «snobé» en France], de Jules Verne à Philip K. Dick en passant par...\nCet article La marine ukrainienne dit avoir remporté le premier combat naval entre drones de l’histoire est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Missiles, drones, lance-roquette : la Corée du Nord fait la démonstration de ses capacités militaires",
-      "link": "https://armees.com/coree-nord-missiles-drones/",
-      "pubDate": "2026-09-14T15:01:19.000Z",
-      "description": "Le 12 septembre 2026, la Corée du Nord a mené un exercice militaire mobilisant drones d'attaque, missiles balistiques tactiques, missiles de croisière et lance-roquettes thermobariques. L'opération démontre une capacité de coordination interarmes à tous les niveaux de l'Armée populaire, avec des tirs détectés depuis Wonsan à 5h20 locales. Pyongyang répond ainsi aux manœuvres conjointes « Freedom Edge » menées par la Corée du Sud, les États-Unis et le Japon du 9 au 13 septembre, signalant une maturité opérationnelle croissante et redéfinissant l'équilibre régional des forces.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Oledcomm, de la NSA aux camps de Champagne",
