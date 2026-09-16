@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T07:30:29.581Z",
+  "generatedAt": "2026-09-16T07:47:44.804Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Guerre en Iran : 38 milliards de dollars dépensés et stocks de munitions en péril",
+      "link": "https://armees.com/guerre-iran-38-milliards-dollars-depenses-stocks-munitions-peril/",
+      "pubDate": "2026-09-16T07:26:52.000Z",
+      "description": "La guerre en Iran a déjà coûté 38 milliards de dollars aux États-Unis depuis son déclenchement le 28 février, selon le Bureau du Congrès pour le budget. Cette facture vertigineuse, qui continue de s'alourdir de deux à trois milliards mensuels, révèle un épuisement critique des stocks de munitions et des capacités opérationnelles américaines, avec des répercussions inflationnistes mesurables sur l'économie mondiale.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Dissuasion nucléaire : la Finlande rejoint le dispositif français, et c’est le signal que redoutait Moscou",
       "link": "https://armees.com/dissuasion-nucleaire-la-finlande-rejoint-le-dispositif-francais-et-cest-le-signal-que-redoutait-moscou/",
@@ -204,13 +211,6 @@
       "pubDate": "2026-09-14T10:54:20.000Z",
       "description": "Pour le moment, excepté le domaine particulier de la guerre des mines avec le programme SLAM-F, la Marine nationale met essentiellement en œuvre des drones aériens, comme le Schiebel S100 [ou Serval] et l’Aliaca. Bientôt, elle recevra des VSR-700 pour équiper ses Bâtiments ravitailleurs de forces, ainsi que des Capa-X, commandés par la Direction de...\nCet article La Marine nationale va acquérir des drones de surface «d’endurance» pour escorter ses porte-hélicoptères est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Donald Trump appelle Zelensky à stopper les frappes sur les raffineries russes",
-      "link": "https://armees.com/donald-trump-appelle-zelensky-stopper/",
-      "pubDate": "2026-09-14T08:55:53.000Z",
-      "description": "Le 13 septembre 2026, Donald Trump a exigé publiquement que Volodymyr Zelensky cesse les frappes ukrainiennes contre les raffineries de diesel russes, invoquant la pénurie de carburant aux États-Unis. Cette déclaration intervient alors que le prix du diesel dépasse 6 dollars le gallon, alimenté par la guerre au Moyen-Orient et les attaques ukrainiennes sur les infrastructures pétrolières russes.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le français Kership a mis à l’eau le «Petar Njegos I», le premier des deux patrouilleurs destinés au Monténégro",
