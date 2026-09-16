@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T09:06:29.423Z",
+  "generatedAt": "2026-09-16T09:29:39.361Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Bab el-Mandeb : prise de contrôle stratégique par les Houthis",
+      "link": "https://armees.com/bab-el-mandeb-prise-controle-strategique-houthis/",
+      "pubDate": "2026-09-16T08:34:22.000Z",
+      "description": "Les Houthis ont pris le contrôle du détroit de Bab el-Mandeb en trois semaines, conquérant Perim, les îles Hanish et le port de Mokha. Le Qatar avertit que cette avancée militaire, soutenue par l'Iran, menace 12% du commerce mondial et 5,4 millions de barils de pétrole quotidiens, créant un double verrouillage avec Ormuz.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "États-Unis : 40 000 bombes pour Israël, une mutation des capacités de frappe",
       "link": "https://armees.com/etats-unis-40-000-bombes-israel-mutation-capacites-frappe/",
@@ -168,13 +175,6 @@
       "link": "https://armees.com/les-forces-ukrainiennes-detruisent-des-repeteurs-russes-en-pleine-nuit-et-paralysent-leur-adversaire/",
       "pubDate": "2026-09-15T06:05:45.000Z",
       "description": "En une seule nuit, l'Ukraine a visé radars, stocks d'armes et répéteurs de drones russes, de Donetsk à la Crimée jusqu'en Russie. Quelles cibles précises ont été touchées et pourquoi maintenant ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un drone russe frappe un train Kiev-Varsovie en plein trajet : il y avait 206 passagers à bord",
-      "link": "https://armees.com/un-drone-russe-frappe-un-train-kiev-varsovie-en-plein-trajet-il-y-avait-206-passagers-a-bord/",
-      "pubDate": "2026-09-15T05:35:26.000Z",
-      "description": "Un train de diplomates parti quelques minutes plus tôt, un drone qui frappe la locomotive suivante : la cible réelle intriguait Kiev. Explications sur cette frappe qui embrase la frontière polonaise.",
       "sourceKey": "armees_com"
     },
     {
