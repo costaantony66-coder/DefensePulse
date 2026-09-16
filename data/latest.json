@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T07:07:27.078Z",
+  "generatedAt": "2026-09-16T07:30:29.581Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Dissuasion nucléaire : la Finlande rejoint le dispositif français, et c’est le signal que redoutait Moscou",
+      "link": "https://armees.com/dissuasion-nucleaire-la-finlande-rejoint-le-dispositif-francais-et-cest-le-signal-que-redoutait-moscou/",
+      "pubDate": "2026-09-16T06:05:26.000Z",
+      "description": "La Finlande dit oui à la dissuasion nucléaire française, un dixième pays européen franchit le pas. Moscou, lui, semble déjà chercher ses mots face à cette nouvelle donne stratégique inattendue.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "D’après un ex-chercheur de Google, l’IA peut “nous tuer tous”",
+      "link": "https://armees.com/dapres-un-ex-chercheur-de-google-lia-peut-nous-tuer-tous/",
+      "pubDate": "2026-09-16T05:58:56.000Z",
+      "description": "Un ancien chercheur de Google DeepMind alerte sur les risques liés à l’IA. Les récents incidents impliquant des agents autonomes relancent le débat sur leur contrôle.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "La marine ukrainienne déclare avoir gagné le premier combat naval piloté par des drones de l’histoire",
       "link": "https://armees.com/la-marine-ukrainienne-declare-avoir-gagne-le-premier-combat-naval-pilote-par-des-drones-de-lhistoire/",
@@ -196,20 +210,6 @@
       "link": "https://armees.com/donald-trump-appelle-zelensky-stopper/",
       "pubDate": "2026-09-14T08:55:53.000Z",
       "description": "Le 13 septembre 2026, Donald Trump a exigé publiquement que Volodymyr Zelensky cesse les frappes ukrainiennes contre les raffineries de diesel russes, invoquant la pénurie de carburant aux États-Unis. Cette déclaration intervient alors que le prix du diesel dépasse 6 dollars le gallon, alimenté par la guerre au Moyen-Orient et les attaques ukrainiennes sur les infrastructures pétrolières russes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Pologne : la frappe russe sur le train Kiev-Varsovie révèle une stratégie d’attrition des flux OTAN",
-      "link": "https://armees.com/pologne-frappe-russe-train-kiev-varsovie-strategie/",
-      "pubDate": "2026-09-14T08:30:00.000Z",
-      "description": "Le 13 septembre 2026, un drone russe a frappé un train Kiev-Varsovie transportant 206 passagers à 2 kilomètres de la frontière polonaise. Cette attaque révèle une stratégie russe d'attrition systématique des corridors logistiques OTAN approvisionnant l'Ukraine.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Liban : Israël détruit une base stratégique du Hezbollah",
-      "link": "https://armees.com/liban-israel-detruit-une-base-strategique-du-hezbollah/",
-      "pubDate": "2026-09-14T08:09:06.000Z",
-      "description": "Israël a détruit un important réseau souterrain du Hezbollah au Liban. La perte d’Ali Taher fragilise le mouvement, mais ne signifie pas sa défaite militaire.",
       "sourceKey": "armees_com"
     },
     {
