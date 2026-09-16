@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T05:05:52.293Z",
+  "generatedAt": "2026-09-16T05:29:08.405Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "La France promet ses missiles Aster et son bouclier SAMP/T NG à l’Ukraine : pourquoi ces armes changent tout pour Kiev face aux frappes russes",
+      "link": "https://armees.com/la-france-promet-ses-missiles-aster-et-son-bouclier-samp-t-ng-a-lukraine-pourquoi-ces-armes-changent-tout-pour-kiev-face-aux-frappes-russes/",
+      "pubDate": "2026-09-16T05:05:40.000Z",
+      "description": "300 missiles Patriot manquants, un hiver qui s'annonce glacial pour Kiev sous les frappes russes. Alice Rufo promet des Rafale, des Scalp et des SAMP/T NG. La France tiendra-t-elle ses engagements à temps ?",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Défense : la France vise 100.000 recrutements dans l’industrie d’ici 2030",
       "link": "https://armees.com/defense-la-france-vise-100-000-recrutements-dans-lindustrie-dici-2030/",
@@ -203,13 +210,6 @@
       "link": "https://armees.com/ukraine-trump-demande-a-kiev-depargner-les-raffineries-russes-face-a-la-flambee-du-diesel/",
       "pubDate": "2026-09-14T07:47:31.000Z",
       "description": "Donald Trump demande à Volodymyr Zelensky de cesser les frappes de l’Ukraine contre les raffineries russes, alors que le marché mondial du diesel connaît de fortes tensions.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : la pénurie de missiles Patriot devient critique avant l’hiver",
-      "link": "https://armees.com/ukraine-la-penurie-de-missiles-patriot-devient-critique-avant-lhiver/",
-      "pubDate": "2026-09-14T07:38:37.000Z",
-      "description": "L’Ukraine réclame davantage de missiles Patriot pour protéger ses villes et ses infrastructures énergétiques contre les frappes russes durant l’hiver.",
       "sourceKey": "armees_com"
     },
     {
