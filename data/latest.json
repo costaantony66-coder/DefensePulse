@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T05:47:14.311Z",
+  "generatedAt": "2026-09-17T06:08:15.364Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "La militarisation de l’espace franchit un nouveau cap après que les Etats-Unis ont affirmé qu’ils disposaient « d’armes » en orbite",
+      "link": "https://www.lemonde.fr/international/article/2026/09/17/la-militarisation-de-l-espace-franchit-un-nouveau-cap-apres-que-les-etats-unis-ont-affirme-qu-ils-disposaient-d-armes-en-orbite_6776048_3210.html",
+      "pubDate": "2026-09-17T05:59:13.000Z",
+      "description": "Washington a confirmé, lundi 14 septembre, disposer d’« armes de contrôle spatial » en orbite. La Russie et la Chine ont vivement réagi, tandis que la France, cinquième puissance spatiale, est restée silencieuse.",
+      "sourceKey": "geo"
+    },
     {
       "title": "Les Forces Armées confirment : en octobre, les jeunes de 19 à 24 ans effectueront un service militaire d’un an avec un salaire minimum",
       "link": "https://armees.com/les-forces-armees-confirment-en-octobre-les-jeunes-de-19-a-24-ans-effectueront-un-service-militaire-dun-an-avec-un-salaire-minimum/",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/03/des-chameaux-de-napoleon-aux-chiens-parachutistes-du-debarquement-ces-animaux-enroles-dans-la-guerre-au-fil-de-l-histoire_6737326_3451060.html",
       "pubDate": "2026-08-03T03:30:08.000Z",
       "description": "« Animaux-soldats » (1/6). « Le Monde » exhume tout un bestiaire oublié des champs de bataille, à l’image de Glen et son maître Emile. Tués ensemble en Normandie le 6 juin 1944, ils ont été enterrés côte à côte au cimetière militaire de Ranville.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Comment l’uranium congolais transite vers la Chine sous les radars",
-      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/07/30/comment-l-uranium-congolais-transite-vers-la-chine-sous-les-radars_6737048_4355770.html",
-      "pubDate": "2026-07-30T16:00:04.000Z",
-      "description": "Officiellement, la République démocratique du Congo ne produit pas d’uranium. Mais en vingt ans, 2 000 tonnes de ce minerai radioactif crucial pour l’industrie nucléaire auraient été exportées vers la Chine, selon une enquête de plusieurs journalistes et chercheurs partagée avec « Le Monde ».",
       "sourceKey": "geo"
     }
   ]
