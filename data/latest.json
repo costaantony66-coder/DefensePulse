@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T05:28:41.055Z",
+  "generatedAt": "2026-09-17T05:47:14.311Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Les Forces Armées confirment : en octobre, les jeunes de 19 à 24 ans effectueront un service militaire d’un an avec un salaire minimum",
+      "link": "https://armees.com/les-forces-armees-confirment-en-octobre-les-jeunes-de-19-a-24-ans-effectueront-un-service-militaire-dun-an-avec-un-salaire-minimum/",
+      "pubDate": "2026-09-17T05:35:17.000Z",
+      "description": "Un mois pour changer de vie : dès octobre, des milliers de jeunes Colombiens pourront s'engager, salaire garanti et primes à la clé. Qui sera concerné et comment postuler ? La réponse en détail.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Le Pentagone reconnaît que les frappes iraniennes ont endommagé et détruit des centaines de bâtiments sur les bases américaines au Moyen-Orient",
+      "link": "https://armees.com/le-pentagone-reconnait-que-les-frappes-iraniennes-ont-endommage-et-detruit-des-centaines-de-batiments-sur-les-bases-americaines-au-moyen-orient/",
+      "pubDate": "2026-09-17T05:05:24.000Z",
+      "description": "30 drones détruits, 33,4 milliards dépensés, des stocks de munitions en berne... Le Pentagone lève enfin le voile sur le vrai coût de la guerre contre l'Iran. Les chiffres officiels contredisent Trump.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Mutuelle militaire et mutuelle classique : quelles différences depuis la réforme de 2026 ?",
+      "link": "https://armees.com/difference-mutuelle-militaire-mutuelle-grand-public/",
+      "pubDate": "2026-09-17T04:51:07.000Z",
+      "description": "Depuis le 1er janvier 2026, tout militaire peut souscrire une prévoyance complémentaire subventionnée par le ministère des Armées à hauteur de sept euros par mois. Et jusqu’au 31 décembre 2026, ...",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Cyberattaques contre des sites sensibles français : « L’Etat russe apparaît comme le commanditaire ou le bénéficiaire de toutes ces données »",
       "link": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/16/cyberattaques-contre-des-sites-sensibles-francais-l-etat-russe-apparait-comme-le-commanditaire-ou-le-beneficiaire-de-toutes-ces-donnees_6775453_6065879.html",
@@ -176,27 +197,6 @@
       "pubDate": "2026-09-15T14:46:08.000Z",
       "description": "En janvier 2022, l’engin spatial chinois SJ-21 s’est approché d’un satellite hors service de la constellation Beidou pour le déplacer sur une orbite dite «cimetière», c’est-à-dire à plusieurs kilomètres de la position qu’il occupait à environ 36 000 km d’altitude. À première vue, une telle opération passe pour être inoffensive puisqu’elle a consisté à désencombrer...\nCet article Les États-Unis admettent avoir mis des armes spatiales en orbite est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Danemark : une frégate russe tire sur un hélicoptère en mer Baltique",
-      "link": "https://armees.com/danemark-fregate-russe-tire-helicoptere-mer-baltique/",
-      "pubDate": "2026-09-15T14:22:00.000Z",
-      "description": "Le 14 septembre 2026, une frégate russe a tiré deux fusées éclairantes sur un hélicoptère Fennec danois en mission de routine en mer Baltique. L'une des fusées est passée à proximité immédiate de l'appareil. Copenhague dénonce une violation des protocoles de sécurité aérienne, tandis que Moscou accuse l'hélicoptère de manœuvres provocatrices.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre en Ukraine : Wildberries commande 478 000 m² de grillage métallique anti-drones",
-      "link": "https://armees.com/guerre-ukraine-wildberries-russie/",
-      "pubDate": "2026-09-15T14:03:55.000Z",
-      "description": "Depuis juillet 2026, les frappes de drones ukrainiens ont détruit 43% des capacités de stockage de Wildberries, le géant russe de l'e-commerce. En réponse, l'entreprise commande 478 000 m² de grillage métallique galvanisé pour huit régions, révélant l'adaptation défensive russe face à une guerre économique par drones. Cette stratégie low-tech interroge l'efficacité des protections passives face à l'évolution des capacités offensives ukrainiennes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Pays-Bas : un sabotage perturbe le trafic ferroviaire",
-      "link": "https://armees.com/pays-bas-sabotage-perturbe-trafic-ferroviaire/",
-      "pubDate": "2026-09-15T13:03:02.000Z",
-      "description": "Le 15 septembre 2026, les Pays-Bas ont subi un sabotage coordonné sans précédent : environ 30 sites ferroviaires stratégiques ont été simultanément visés par le placement délibéré de tubes sur les voies, paralysant le trafic dans le centre et le nord du pays. L'attaque révèle une vulnérabilité critique des infrastructures de transport et mobilise police, renseignement et ProRail dans une enquête d'ampleur.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Nouveau service militaire : Emmanuel Macron annonce que la première promotion portera le nom d’Henri Fertet, résistant fusillé à 16 ans",
