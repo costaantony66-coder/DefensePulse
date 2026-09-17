@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T09:06:27.585Z",
+  "generatedAt": "2026-09-17T09:30:15.754Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Corée du Nord : Kim Yo Jong critique sévèrement les partisans de la dénucléarisation",
+      "link": "https://armees.com/coree-du-nord-kim-yo-jong-critique-severement/",
+      "pubDate": "2026-09-17T07:54:02.000Z",
+      "description": "Kim Yo Jong, sœur de Kim Jong Un et figure majeure du régime nord-coréen, a qualifié jeudi d'« imbéciles » les partisans de la dénucléarisation lors de l'assemblée générale de l'AIEA à Vienne. Elle réaffirme que le statut nucléaire de la Corée du Nord, inscrit dans la constitution depuis 2023, est « absolu » et « irréversible », enterrant tout espoir de négociation.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "États-Unis : le Congrès adopte de nouvelles sanctions contre la Russie",
+      "link": "https://armees.com/russie-etats-unis-congres-adopte-nouvelles-sanctions/",
+      "pubDate": "2026-09-17T07:36:42.000Z",
+      "description": "Le 16 septembre 2026, la Chambre des représentants américaine a adopté par 262 voix contre 159 un projet de loi ciblant le secteur de défense russe et ses alliés dans la guerre en Ukraine. Ce texte, déjà approuvé par le Sénat en août (86 voix contre 11), marque la première action législative majeure contre la Russie depuis le retour au pouvoir de Donald Trump.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "La simulation au centre d’un nouveau partenariat d’innovation",
       "link": "https://forcesoperations.com/la-simulation-au-centre-dun-nouveau-partenariat-dinnovation/",
@@ -168,20 +182,6 @@
       "link": "https://armees.com/dissuasion-nucleaire-la-finlande-rejoint-le-dispositif-francais-et-cest-le-signal-que-redoutait-moscou/",
       "pubDate": "2026-09-16T06:05:26.000Z",
       "description": "La Finlande dit oui à la dissuasion nucléaire française, un dixième pays européen franchit le pas. Moscou, lui, semble déjà chercher ses mots face à cette nouvelle donne stratégique inattendue.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "D’après un ex-chercheur de Google, l’IA peut “nous tuer tous”",
-      "link": "https://armees.com/dapres-un-ex-chercheur-de-google-lia-peut-nous-tuer-tous/",
-      "pubDate": "2026-09-16T05:58:56.000Z",
-      "description": "Un ancien chercheur de Google DeepMind alerte sur les risques liés à l’IA. Les récents incidents impliquant des agents autonomes relancent le débat sur leur contrôle.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La marine ukrainienne déclare avoir gagné le premier combat naval piloté par des drones de l’histoire",
-      "link": "https://armees.com/la-marine-ukrainienne-declare-avoir-gagne-le-premier-combat-naval-pilote-par-des-drones-de-lhistoire/",
-      "pubDate": "2026-09-16T05:35:21.000Z",
-      "description": "Un drone contre un drone, en pleine mer Noire. La marine ukrainienne annonce une première mondiale et publie la vidéo du combat. Coque percée, antennes visées, l'affrontement naval entre bient dans une nouvelle ère.",
       "sourceKey": "armees_com"
     },
     {
