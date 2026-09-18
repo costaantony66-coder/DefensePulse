@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T12:07:43.822Z",
+  "generatedAt": "2026-09-18T12:34:05.091Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Thales HexaForce : une avancée majeure pour le traitement des cibles",
+      "link": "https://armees.com/thales-hexaforce-avancee-majeure-traitement-cibles/",
+      "pubDate": "2026-09-18T12:22:09.000Z",
+      "description": "Thales a présenté le 17 septembre 2026 HexaForce, un système de commandement et de contrôle multi-domaine capable de traiter 1.000 cibles par jour contre 100 actuellement. Validé lors de l'exercice OTAN CWIX 2026 réunissant 3.500 spécialistes de 41 pays, ce système dopé à l'IA fusionne en quelques secondes des données issues de six domaines opérationnels : terre, mer, air, espace, cyber et guerre électronique.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Dernière ligne droite pour le duel HYDEF-HYDIS",
       "link": "https://forcesoperations.com/derniere-ligne-droite-pour-le-duel-hydef-hydis/",
@@ -132,7 +139,7 @@
       "title": "KNDS France va équiper 126 hélicoptères d’attaque légers indiens Prachand avec sa tourelle THL20 de 20 mm",
       "link": "https://www.opex360.com/2026/09/17/knds-france-va-equiper-126-helicopteres-dattaque-legers-indiens-prachand-avec-sa-tourelle-thl20-de-20-mm/",
       "pubDate": "2026-09-17T10:46:18.000Z",
-      "description": "Développé, non sans difficultés, par Hindustan Aeronautic Limited [HAL] sur la base des retours d’expérience [RETEX] de la «guerre des glaciers» menée contre le Pakistan au Kargil, en 1999, l’hélicoptère d’attaque léger LCH Prachand a été déclaré bon pour le service en 2022, soit douze ans après son vol inaugural. L’an passé, le ministère indien...\nCet article KNDS France va équiper 126 hélicoptères d’attaque légers indiens Prachand avec sa tourelle THL20 de 20 mm est apparu en premier sur Zone Militaire.",
+      "description": "Développé, non sans difficultés, par Hindustan Aeronautics Limited [HAL] sur la base des retours d’expérience [RETEX] de la «guerre des glaciers» menée contre le Pakistan au Kargil, en 1999, l’hélicoptère d’attaque léger LCH Prachand a été déclaré bon pour le service en 2022, soit douze ans après son vol inaugural. L’an passé, le ministère indien...\nCet article KNDS France va équiper 126 hélicoptères d’attaque légers indiens Prachand avec sa tourelle THL20 de 20 mm est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -197,13 +204,6 @@
       "pubDate": "2026-09-17T05:59:12.000Z",
       "description": "Washington a confirmé, lundi 14 septembre, disposer d’« armes de contrôle spatial » en orbite. La Russie et la Chine ont vivement réagi, tandis que la France, cinquième puissance spatiale, est restée silencieuse.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Les Forces Armées confirment : en octobre, les jeunes de 19 à 24 ans effectueront un service militaire d’un an avec un salaire minimum",
-      "link": "https://armees.com/les-forces-armees-confirment-en-octobre-les-jeunes-de-19-a-24-ans-effectueront-un-service-militaire-dun-an-avec-un-salaire-minimum/",
-      "pubDate": "2026-09-17T05:35:17.000Z",
-      "description": "Un mois pour changer de vie : dès octobre, des milliers de jeunes Colombiens pourront s'engager, salaire garanti et primes à la clé. Qui sera concerné et comment postuler ? La réponse en détail.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Cyberattaques contre des sites sensibles français : « Pour une puissance étrangère hostile, ces bases de données deviennent des outils d’influence »",
