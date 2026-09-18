@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T07:28:40.753Z",
+  "generatedAt": "2026-09-18T07:46:26.171Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Iran : attaque du pétrolier Trend dans le détroit d’Ormuz, une démonstration de force",
+      "link": "https://armees.com/iran-attaque-petrolier-trend-detroit-ormuz-demonstration-force/",
+      "pubDate": "2026-09-18T07:20:24.000Z",
+      "description": "Les Gardiens de la Révolution iraniens ont revendiqué vendredi 18 septembre la frappe du pétrolier Trend dans le détroit d'Ormuz, provoquant un incendie à bord. L'incident révèle une capacité opérationnelle à neutraliser des navires civils malgré les escortes militaires américaines, dans un contexte de chute drastique du trafic maritime : seulement trois navires ont transité le 16 septembre, contre 100 à 140 en conditions normales.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Le prix des avions de combat F-35 continue de grimper : 80 millions d’euros pour le plus petit modèle",
+      "link": "https://armees.com/le-prix-des-avions-de-combat-f-35-continue-de-grimper-80-millions-deuros-pour-le-plus-petit-modele/",
+      "pubDate": "2026-09-18T06:05:00.000Z",
+      "description": "394 millions accordés, 30 avions au lieu de 36, un rapport qualifié de « fiasco »... Entre dérapages budgétaires et défense aérienne fragilisée, le dossier F-35 réserve encore bien des rebondissements pour la Suisse.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Deux bombardiers russes armés de missiles Kh-101 interceptés près de la Norvège : une interception sous haute tension",
+      "link": "https://armees.com/deux-bombardiers-russes-armes-de-missiles-kh-101-interceptes-pres-de-la-norvege-une-interception-sous-haute-tension/",
+      "pubDate": "2026-09-18T05:35:00.000Z",
+      "description": "Deux bombardiers russes armés de missiles Kh-101 frôlent la Norvège, des F-35 décollent aussitôt. Pendant ce temps, la Russie multiplie les essais d'armes inquiétants près du cercle arctique.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Pourquoi une guerre contre l’Iran coûterait 38 milliards aux États-Unis : les militaires préviennent que les stocks de munitions ne tiendraient pas longtemps",
       "link": "https://armees.com/pourquoi-une-guerre-contre-liran-couterait-38-milliards-aux-etats-unis-les-militaires-previennent-que-les-stocks-de-munitions-ne-tiendraient-pas-longtemps/",
@@ -203,27 +224,6 @@
       "link": "https://armees.com/arabie-saoudite-accuse-houthis-attaque-mecque/",
       "pubDate": "2026-09-16T10:12:34.000Z",
       "description": "La coalition militaire dirigée par l'Arabie Saoudite annonce avoir intercepté le 15 septembre 2026 un drone houthiste au sud de La Mecque, marquant la première alerte aérienne pour la ville sainte. Les rebelles yéménites démentent avoir ciblé ce site religieux majeur, affirmant viser uniquement des installations militaires et pétrolières.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La Chine accuse les États-Unis de préparer la guerre dans l’Espace",
-      "link": "https://armees.com/espace-chine-accuse-etats-unis-preparer-guerre/",
-      "pubDate": "2026-09-16T10:09:01.000Z",
-      "description": "Le 14 septembre 2026, les États-Unis ont confirmé pour la première fois le déploiement d'armes de contrôle spatial en orbite. Cette annonce, justifiée par les menaces chinoises et russes, a provoqué des réactions diplomatiques immédiates de Pékin et Moscou, qui dénoncent une militarisation dangereuse de l'espace.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Pétrole : après une attaque sur un oléoduc, l’Arabie Saoudite arrête ses livraisons en Europe",
-      "link": "https://armees.com/petrole-attaque-oleoduc-arabie-saoudite/",
-      "pubDate": "2026-09-16T09:57:01.000Z",
-      "description": "L'Arabie saoudite a fermé son oléoduc Est-Ouest après des attaques de drones attribuées à une milice irakienne dans la nuit du 10 au 11 septembre 2026, annulant ses livraisons de pétrole vers l'Europe. Cette perturbation intervient alors que le détroit d'Ormuz reste fermé depuis six mois et que les Houthis maintiennent un blocus en mer Rouge, créant un étau stratégique sur les exportations saoudiennes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Bab el-Mandeb : prise de contrôle stratégique par les Houthis",
-      "link": "https://armees.com/bab-el-mandeb-prise-controle-strategique-houthis/",
-      "pubDate": "2026-09-16T08:34:22.000Z",
-      "description": "Les Houthis ont pris le contrôle du détroit de Bab el-Mandeb en trois semaines, conquérant Perim, les îles Hanish et le port de Mokha. Le Qatar avertit que cette avancée militaire, soutenue par l'Iran, menace 12% du commerce mondial et 5,4 millions de barils de pétrole quotidiens, créant un double verrouillage avec Ormuz.",
       "sourceKey": "armees_com"
     },
     {
