@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T03:06:06.362Z",
+  "generatedAt": "2026-09-18T03:28:32.271Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Washington prêt à vendre 48 avions furtifs F-35 à l’Arabie saoudite, en plein conflit au Moyen-Orient",
+      "link": "https://www.lemonde.fr/international/article/2026/09/18/washington-pret-a-vendre-48-avions-furtifs-f-35-a-l-arabie-saoudite-en-plein-conflit-au-moyen-orient_6776659_3210.html",
+      "pubDate": "2026-09-18T03:21:53.000Z",
+      "description": "Ce contrat à 24,3 milliards de dollars doit encore être approuvé par le Congrès, mais des observateurs redoutent que la Chine puisse acquérir cette technologie grâce à ses partenariats avec Ryiad.",
+      "sourceKey": "geo"
+    },
     {
       "title": "Le ton monte entre l’Inde et le Pakistan, après une collision entre une corvette et un destroyer en mer d’Arabie",
       "link": "https://www.opex360.com/2026/09/17/le-ton-monte-entre-linde-et-le-pakistan-apres-une-collision-entre-une-corvette-et-un-destroyer-en-mer-darabie/",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/economie/article/2026/08/03/les-equipementiers-valeo-et-forvia-confirment-l-inflexion-du-secteur-automobile-vers-la-defense_6737330_3234.html",
       "pubDate": "2026-08-03T04:00:02.000Z",
       "description": "En pleine crise de leur secteur, les deux groupes français cherchent à diversifier leurs activités et à profiter de la hausse des budgets militaires en participant à la production de drones.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Des chameaux de Napoléon aux chiens parachutistes du Débarquement, ces animaux enrôlés dans la guerre au fil de l’histoire",
-      "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/03/des-chameaux-de-napoleon-aux-chiens-parachutistes-du-debarquement-ces-animaux-enroles-dans-la-guerre-au-fil-de-l-histoire_6737326_3451060.html",
-      "pubDate": "2026-08-03T03:30:08.000Z",
-      "description": "« Animaux-soldats » (1/6). « Le Monde » exhume tout un bestiaire oublié des champs de bataille, à l’image de Glen et son maître Emile. Tués ensemble en Normandie le 6 juin 1944, ils ont été enterrés côte à côte au cimetière militaire de Ranville.",
       "sourceKey": "geo"
     }
   ]
