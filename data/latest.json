@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T08:47:11.894Z",
+  "generatedAt": "2026-09-18T09:06:03.506Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Bromo : 6,5 milliards pour briser la dépendance spatiale de l’Europe",
+      "link": "https://armees.com/bromo-65-milliards-pour-briser-dependance-spatiale/",
+      "pubDate": "2026-09-18T08:02:54.000Z",
+      "description": "Le projet Bromo, fusion spatiale de 6,5 milliards d'euros entre Airbus, Thales et Leonardo, reçoit le soutien public d'Ursula von der Leyen malgré l'absence de notification formelle à Bruxelles. Cette consolidation stratégique vise à combler les failles révélées par la guerre en Ukraine en matière de capacités spatiales militaires, mais soulève des tensions entre ambition industrielle et examen antitrust.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Iran : attaque du pétrolier Trend dans le détroit d’Ormuz, une démonstration de force",
       "link": "https://armees.com/iran-attaque-petrolier-trend-detroit-ormuz-demonstration-force/",
@@ -218,13 +225,6 @@
       "pubDate": "2026-09-16T10:25:44.000Z",
       "description": "Alors que les instruments financiers élaborés par la Commission européenne pour aider les États membres à renforcer leurs capacités militaires comportent des mesures visant à limiter les achats d’armes auprès de pays tiers, comme les États-Unis, Israël ou la Corée du Sud, plusieurs accords [ou protocoles d’accord] ont récemment été signés entre des industriels allemands...\nCet article L’Allemagne et les États-Unis vont renforcer leur coopération dans le domaine de l’industrie de l’armement est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "L’Arabie Saoudite accuse les Houthis d’avoir attaqué la Mecque",
-      "link": "https://armees.com/arabie-saoudite-accuse-houthis-attaque-mecque/",
-      "pubDate": "2026-09-16T10:12:34.000Z",
-      "description": "La coalition militaire dirigée par l'Arabie Saoudite annonce avoir intercepté le 15 septembre 2026 un drone houthiste au sud de La Mecque, marquant la première alerte aérienne pour la ville sainte. Les rebelles yéménites démentent avoir ciblé ce site religieux majeur, affirmant viser uniquement des installations militaires et pétrolières.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Face aux drones, la composition des pelotons de chars Leclerc va évoluer",
