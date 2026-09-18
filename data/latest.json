@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T09:06:03.506Z",
+  "generatedAt": "2026-09-18T09:28:48.607Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Crash d’un F16 aux Etats-Unis : le pilote s’éjecte avant l’impact",
+      "link": "https://armees.com/crash-dun-f16-aux-etats-unis-le-pilote-sejecte-avant-limpact/",
+      "pubDate": "2026-09-18T09:01:46.000Z",
+      "description": "Un F16 de la Texas Air National Guard s’est écrasé dans le Michigan lors d’un entraînement. Le pilote a pu s’éjecter et l’accident fait désormais l’objet d’une enquête.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Bromo : 6,5 milliards pour briser la dépendance spatiale de l’Europe",
       "link": "https://armees.com/bromo-65-milliards-pour-briser-dependance-spatiale/",
@@ -182,13 +189,6 @@
       "link": "https://armees.com/le-pentagone-reconnait-que-les-frappes-iraniennes-ont-endommage-et-detruit-des-centaines-de-batiments-sur-les-bases-americaines-au-moyen-orient/",
       "pubDate": "2026-09-17T05:05:24.000Z",
       "description": "30 drones détruits, 33,4 milliards dépensés, des stocks de munitions en berne... Le Pentagone lève enfin le voile sur le vrai coût de la guerre contre l'Iran. Les chiffres officiels contredisent Trump.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Mutuelle militaire et mutuelle classique : quelles différences depuis la réforme de 2026 ?",
-      "link": "https://armees.com/difference-mutuelle-militaire-mutuelle-grand-public/",
-      "pubDate": "2026-09-17T04:51:07.000Z",
-      "description": "Depuis le 1er janvier 2026, tout militaire peut souscrire une prévoyance complémentaire subventionnée par le ministère des Armées à hauteur de sept euros par mois. Et jusqu’au 31 décembre 2026, ...",
       "sourceKey": "armees_com"
     },
     {
