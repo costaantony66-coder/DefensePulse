@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T14:29:04.094Z",
+  "generatedAt": "2026-09-18T14:47:36.893Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Thales défie l’américain Palantir en proposant son logiciel de commandement basé sur l’IA «HexaForce» à l’Otan",
+      "link": "https://www.opex360.com/2026/09/18/thales-defie-lamericain-palantir-en-proposant-son-logiciel-de-commandement-base-sur-lia-hexaforce-a-lotan/",
+      "pubDate": "2026-09-18T14:30:01.000Z",
+      "description": "En août 2025, le Grand Quartier général des puissances alliées en Europe [SHAPE] fit savoir que des «militaires de l’Otan» venaient de commencer une formation pour s’approprier le système MSS NATO [pour Maven Smart System NATO], un logiciel de commandement et de contrôle [C2] utilisant l’intelligence artificielle [IA], développé par le groupe américain Palantir. Et...\nCet article Thales défie l’américain Palantir en proposant son logiciel de commandement basé sur l’IA «HexaForce» à l’Otan est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Drones Sonora : la Grande-Bretagne double sa force de frappe d’ici 2027",
+      "link": "https://armees.com/drones-sonora-grande-bretagne-double-force-frappe-ici-2027/",
+      "pubDate": "2026-09-18T12:35:54.000Z",
+      "description": "L'armée britannique alloue 485 millions d'euros pour doubler sa force de frappe terrestre d'ici 2027 via le projet Rapstone. Au cœur du dispositif, 110 drones Sonora du français Harmattan AI formeront massivement les troupes, tandis que les AR5 de Tekever équiperont les commandants. Un calendrier serré qui impose une montée en puissance rapide.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Thales HexaForce : une avancée majeure pour le traitement des cibles",
       "link": "https://armees.com/thales-hexaforce-avancee-majeure-traitement-cibles/",
@@ -192,13 +206,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Pilote américain crashé en Iran pendant la guerre, il relate ses 50 heures de traque et de survie",
-      "link": "https://armees.com/pilote-americain-crashe-en-iran-pendant-la-guerre-il-relate-ses-50-heures-de-traque-et-de-survie/",
-      "pubDate": "2026-09-17T06:05:37.000Z",
-      "description": "Colonne vertébrale brisée, aucune eau, des hommes armés à quelques mètres. Pendant 50 heures, ce pilote américain a survécu seul dans les montagnes iraniennes. Son témoignage, glaçant, révèle enfin les coulisses d'un sauvetage hors normes.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La militarisation de l’espace franchit un nouveau cap après que les Etats-Unis ont affirmé qu’ils disposaient d’« armes » en orbite",
       "link": "https://www.lemonde.fr/international/article/2026/09/17/la-militarisation-de-l-espace-franchit-un-nouveau-cap-apres-que-les-etats-unis-ont-affirme-qu-ils-disposaient-d-armes-en-orbite_6776048_3210.html",
       "pubDate": "2026-09-17T05:59:12.000Z",
@@ -238,13 +245,6 @@
       "link": "https://www.opex360.com/2026/09/16/lallemagne-et-les-etats-unis-vont-renforcer-leur-cooperation-dans-le-domaine-de-lindustrie-de-larmement/",
       "pubDate": "2026-09-16T10:25:44.000Z",
       "description": "Alors que les instruments financiers élaborés par la Commission européenne pour aider les États membres à renforcer leurs capacités militaires comportent des mesures visant à limiter les achats d’armes auprès de pays tiers, comme les États-Unis, Israël ou la Corée du Sud, plusieurs accords [ou protocoles d’accord] ont récemment été signés entre des industriels allemands...\nCet article L’Allemagne et les États-Unis vont renforcer leur coopération dans le domaine de l’industrie de l’armement est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Face aux drones, la composition des pelotons de chars Leclerc va évoluer",
-      "link": "https://www.opex360.com/2026/09/15/face-aux-drones-la-composition-des-pelotons-de-chars-leclerc-va-evoluer/",
-      "pubDate": "2026-09-15T17:33:12.000Z",
-      "description": "Comme on l’a vu en Ukraine, un char de 60 tonnes peut être mis hors de combat par une munition téléopérée [MTO] d’une dizaine de kilogrammes. Et la transparence du champ de bataille fait qu’il est devenu compliqué pour une unité de blindés de manœuvrer dans une frange de vingt ou trente kilomètres de part...\nCet article Face aux drones, la composition des pelotons de chars Leclerc va évoluer est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
