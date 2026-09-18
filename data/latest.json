@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T05:27:15.036Z",
+  "generatedAt": "2026-09-18T05:46:02.703Z",
   "sources": [
     {
       "key": "opex",
@@ -24,7 +24,14 @@
   ],
   "items": [
     {
-      "title": "Washington prêt à vendre 48 avions furtifs F-35 à l’Arabie saoudite, en plein conflit au Moyen-Orient",
+      "title": "Pourquoi une guerre contre l’Iran coûterait 38 milliards aux États-Unis : les militaires préviennent que les stocks de munitions ne tiendraient pas longtemps",
+      "link": "https://armees.com/pourquoi-une-guerre-contre-liran-couterait-38-milliards-aux-etats-unis-les-militaires-previennent-que-les-stocks-de-munitions-ne-tiendraient-pas-longtemps/",
+      "pubDate": "2026-09-18T05:05:25.000Z",
+      "description": "38 milliards de dollars envolés en cinq mois, des stocks de missiles à moitié vides, et une facture qui grimpe chaque jour. Jusqu'où les États-Unis sont-ils prêts à aller face à l'Iran ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Les Etats-Unis approuvent la vente de 48 avions furtifs F-35 à l’Arabie saoudite, en pleine guerre au Moyen-Orient",
       "link": "https://www.lemonde.fr/international/article/2026/09/18/washington-pret-a-vendre-48-avions-furtifs-f-35-a-l-arabie-saoudite-en-plein-conflit-au-moyen-orient_6776659_3210.html",
       "pubDate": "2026-09-18T03:21:53.000Z",
       "description": "Ce contrat à 24,3 milliards de dollars doit encore être approuvé par le Congrès, mais des observateurs redoutent que la Chine puisse acquérir cette technologie grâce à ses partenariats avec Ryiad.",
@@ -217,13 +224,6 @@
       "link": "https://armees.com/bab-el-mandeb-prise-controle-strategique-houthis/",
       "pubDate": "2026-09-16T08:34:22.000Z",
       "description": "Les Houthis ont pris le contrôle du détroit de Bab el-Mandeb en trois semaines, conquérant Perim, les îles Hanish et le port de Mokha. Le Qatar avertit que cette avancée militaire, soutenue par l'Iran, menace 12% du commerce mondial et 5,4 millions de barils de pétrole quotidiens, créant un double verrouillage avec Ormuz.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "États-Unis : 40 000 bombes pour Israël, une mutation des capacités de frappe",
-      "link": "https://armees.com/etats-unis-40-000-bombes-israel-mutation-capacites-frappe/",
-      "pubDate": "2026-09-16T08:17:31.000Z",
-      "description": "Les États-Unis approuvent la vente de 40 000 bombes à Israël pour 2,8 milliards de dollars, dont 20 000 MK-84 d'une tonne. Cette livraison massive modifie substantiellement les capacités de frappe israéliennes avec des munitions dont le rayon létal atteint 370 mètres et la pénétration 15 mètres de profondeur.",
       "sourceKey": "armees_com"
     },
     {
