@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T11:06:05.294Z",
+  "generatedAt": "2026-09-18T11:27:17.005Z",
   "sources": [
     {
       "key": "opex",
@@ -36,6 +36,13 @@
       "pubDate": "2026-09-18T10:05:10.000Z",
       "description": "En novembre 2020, la Defense Security Cooperation Agency [DSCA], qui s’occupait alors des exportations d’équipements militaires américains via le dispositif FMS [Foreign Military Sales] publia un avis recommandant au Congrès d’autoriser la vente potentielle de cinquante chasseurs-bombardiers F-35A pour un montant estimé à 10,4 milliards de dollars. Mais aucune commande ne fut passée par Abou...\nCet article Les États-Unis proposent 48 chasseurs-bombardiers F-35A à l’Arabie saoudite… à un prix dissuasif est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Guinée : France 24 coupée du pays après un tacle sur Mamadi Doumbouya",
+      "link": "https://armees.com/guinee-france-24-coupee-du-pays-apres-un-tacle-sur-mamadi-doumbouya/",
+      "pubDate": "2026-09-18T09:08:57.000Z",
+      "description": "La Guinée a interdit la diffusion de France 24 après l'emploi du terme « président putschiste » pour Mamadi Doumbouya. La HAC a également retiré les accréditations des journalistes de la chaîne.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Crash d’un F16 aux Etats-Unis : le pilote s’éjecte avant l’impact",
@@ -196,13 +203,6 @@
       "link": "https://armees.com/les-forces-armees-confirment-en-octobre-les-jeunes-de-19-a-24-ans-effectueront-un-service-militaire-dun-an-avec-un-salaire-minimum/",
       "pubDate": "2026-09-17T05:35:17.000Z",
       "description": "Un mois pour changer de vie : dès octobre, des milliers de jeunes Colombiens pourront s'engager, salaire garanti et primes à la clé. Qui sera concerné et comment postuler ? La réponse en détail.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Le Pentagone reconnaît que les frappes iraniennes ont endommagé et détruit des centaines de bâtiments sur les bases américaines au Moyen-Orient",
-      "link": "https://armees.com/le-pentagone-reconnait-que-les-frappes-iraniennes-ont-endommage-et-detruit-des-centaines-de-batiments-sur-les-bases-americaines-au-moyen-orient/",
-      "pubDate": "2026-09-17T05:05:24.000Z",
-      "description": "30 drones détruits, 33,4 milliards dépensés, des stocks de munitions en berne... Le Pentagone lève enfin le voile sur le vrai coût de la guerre contre l'Iran. Les chiffres officiels contredisent Trump.",
       "sourceKey": "armees_com"
     },
     {
