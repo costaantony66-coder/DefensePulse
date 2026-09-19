@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T07:44:42.337Z",
+  "generatedAt": "2026-09-19T08:06:34.103Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Des liens resserrés entre KNDS France et les artilleurs lituaniens",
+      "link": "https://forcesoperations.com/des-liens-resserres-entre-knds-france-et-les-artilleurs-lituaniens/",
+      "pubDate": "2026-09-19T07:48:34.000Z",
+      "description": "Top départ pour la construction par KNDS France d'une capacité de soutien des futurs CAESAR Mk II lituaniens. Annoncé en décembre, le projet a officiellement été engagé cette semaine par le ministère de la Défense lituanien.  C'était l'un des engagements du contrat signé fin 2025 par la Lituanie pour 30 CAESAR Mk II supplémentaires : […]\nThe post Des liens resserrés entre KNDS France et les artilleurs lituaniens appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
     {
       "title": "Guerre au Moyen-Orient, après lui avoir livré des Shahed, l’Iran a réclamé à la Russie des drones Geran-4 et Geran-5 améliorés pour les utiliser contre les États-Unis",
       "link": "https://armees.com/guerre-au-moyen-orient-apres-lui-avoir-livre-des-shahed-liran-a-reclame-a-la-russie-des-drones-geran-4-et-geran-5-ameliores-pour-les-utiliser-contre-les-etats-unis/",
@@ -323,13 +330,6 @@
       "pubDate": "2026-09-05T17:17:10.000Z",
       "description": "Une cinquantaine de membres de l’état-major ont été interrogés au polygraphe pour identifier la source d’une fuite sur une possible pénurie de munitions américaines.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "« Tout ne s’écrit pas à Paris » : la formule gagnante des pôles exploratoires de l’armée de Terre",
-      "link": "https://forcesoperations.com/tout-ne-secrit-pas-a-paris-la-formule-gagnante-des-poles-exploratoires-de-larmee-de-terre/",
-      "pubDate": "2026-09-05T08:51:49.000Z",
-      "description": "L'innovation se construit aussi en région pour l'armée de Terre. Ses pôles exploratoires y sont maintenant à pied d'oeuvre depuis un an, premiers résultats et premier bilan encourageant à la clef. \nThe post « Tout ne s’écrit pas à Paris » : la formule gagnante des pôles exploratoires de l’armée de Terre  appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
     },
     {
       "title": "IA : le patron de Palantir, Alex Karp, met en garde la France au sujet de sa souveraineté numérique",
