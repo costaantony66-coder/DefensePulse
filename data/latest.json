@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T06:32:36.003Z",
+  "generatedAt": "2026-09-19T06:48:06.204Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Guerre au Moyen-Orient, après lui avoir livré des Shahed, l’Iran a réclamé à la Russie des drones Geran-4 et Geran-5 améliorés pour les utiliser contre les États-Unis",
+      "link": "https://armees.com/guerre-au-moyen-orient-apres-lui-avoir-livre-des-shahed-liran-a-reclame-a-la-russie-des-drones-geran-4-et-geran-5-ameliores-pour-les-utiliser-contre-les-etats-unis/",
+      "pubDate": "2026-09-19T06:05:20.000Z",
+      "description": "L'Iran réclame à la Russie ses drones les plus redoutables, quatre fois plus puissants et deux fois plus rapides. Un basculement stratégique qui inquiète déjà l'Ukraine, seuls 60 % de ces engins sont interceptés.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Des navires russes chargés de chars émergent au sud de la Sicile, un avion italien décolle en réaction",
+      "link": "https://armees.com/des-navires-russes-charges-de-chars-emergent-au-sud-de-la-sicile-un-avion-italien-decolle-en-reaction/",
+      "pubDate": "2026-09-19T05:35:22.000Z",
+      "description": "Trois navires russes, l'AIS coupé, une cargaison mystère débarquée à Tobrouk. Six bases militaires en construction en Libye. Pourquoi l'Italie surveille-t-elle chaque mouvement de près ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Les États-Unis vont livrer à Israël des bombes, y compris les ogives les plus puissantes de l’arsenal américain, pour plusieurs milliards de dollars",
+      "link": "https://armees.com/les-etats-unis-vont-livrer-a-israel-des-bombes-y-compris-les-ogives-les-plus-puissantes-de-larsenal-americain-pour-plusieurs-milliards-de-dollars/",
+      "pubDate": "2026-09-19T05:05:34.000Z",
+      "description": "40 000 bombes, 2,8 milliards de dollars, un cessez-le-feu déjà fragile : Washington s'apprête à franchir un cap qui pourrait tout changer. Les détails de cette livraison controversée risquent de vous surprendre.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Russie : des Nord-Coréens mobilisés pour produire des drones à Alabuga",
       "link": "https://armees.com/assemblage-drones-russie-alabuga-travailleurs-nord-coreens/",
@@ -192,32 +213,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Corée du Nord : Kim Yo Jong critique sévèrement les partisans de la dénucléarisation",
-      "link": "https://armees.com/coree-du-nord-kim-yo-jong-critique-severement/",
-      "pubDate": "2026-09-17T07:54:02.000Z",
-      "description": "Kim Yo Jong, sœur de Kim Jong Un et figure majeure du régime nord-coréen, a qualifié jeudi d'« imbéciles » les partisans de la dénucléarisation lors de l'assemblée générale de l'AIEA à Vienne. Elle réaffirme que le statut nucléaire de la Corée du Nord, inscrit dans la constitution depuis 2023, est « absolu » et « irréversible », enterrant tout espoir de négociation.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "États-Unis : le Congrès adopte de nouvelles sanctions contre la Russie",
-      "link": "https://armees.com/russie-etats-unis-congres-adopte-nouvelles-sanctions/",
-      "pubDate": "2026-09-17T07:36:42.000Z",
-      "description": "Le 16 septembre 2026, la Chambre des représentants américaine a adopté par 262 voix contre 159 un projet de loi ciblant le secteur de défense russe et ses alliés dans la guerre en Ukraine. Ce texte, déjà approuvé par le Sénat en août (86 voix contre 11), marque la première action législative majeure contre la Russie depuis le retour au pouvoir de Donald Trump.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La simulation au centre d’un nouveau partenariat d’innovation",
       "link": "https://forcesoperations.com/la-simulation-au-centre-dun-nouveau-partenariat-dinnovation/",
       "pubDate": "2026-09-17T07:19:40.000Z",
       "description": "Après ELISA, FLPT et d'autres efforts dépourvus d'acronyme, place à ATHENA. Cet autre partenariat d'innovation entend cette fois doter l'armée de Terre de nouveaux moyens d'entraînement, à l'heure où celle-ci cherche à durcir sa préparation opérationnelle. \nThe post La simulation au centre d’un nouveau partenariat d’innovation appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Une sonde de la Nasa découvre un nouveau cratère sur la Lune",
-      "link": "https://armees.com/une-sonde-de-la-nasa-decouvre-un-nouveau-cratere-sur-la-lune/",
-      "pubDate": "2026-09-17T07:12:06.000Z",
-      "description": "Un cratère de 222 mètres formé récemment sur la Lune a été identifié grâce à la sonde LRO de la Nasa. Un événement estimé à une fois tous les 132 ans.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La militarisation de l’espace franchit un nouveau cap après que les Etats-Unis ont affirmé qu’ils disposaient d’« armes » en orbite",
