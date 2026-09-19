@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T04:28:15.111Z",
+  "generatedAt": "2026-09-19T04:45:31.401Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Russie : des Nord-Coréens mobilisés pour produire des drones à Alabuga",
+      "link": "https://armees.com/assemblage-drones-russie-alabuga-travailleurs-nord-coreens/",
+      "pubDate": "2026-09-19T04:09:34.000Z",
+      "description": "Des travailleurs nord-coréens participent désormais à la production de drones militaires en Russie, apprend-on d'un rapport international publié cette semaine. Derrière le système de visas étudiants décrit par les enquêteurs apparaît une nouvelle dimension de l’alliance entre Moscou et Pyongyang : après les munitions et les soldats, la coopération s’étend directement à l’appareil industriel qui alimente la guerre contre l’Ukraine.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Un avion de combat italien Eurofighter F2000 a été touché lors d’une attaque des rebelles houthistes en Arabie saoudite",
       "link": "https://www.opex360.com/2026/09/18/un-avion-de-combat-italien-eurofighter-f2000-a-ete-touche-lors-dune-attaque-des-rebelles-houthistes-en-arabie-saoudite/",
@@ -210,13 +217,6 @@
       "link": "https://armees.com/une-sonde-de-la-nasa-decouvre-un-nouveau-cratere-sur-la-lune/",
       "pubDate": "2026-09-17T07:12:06.000Z",
       "description": "Un cratère de 222 mètres formé récemment sur la Lune a été identifié grâce à la sonde LRO de la Nasa. Un événement estimé à une fois tous les 132 ans.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Israël renforce ses moyens ISR pour contrer les Houthis en mer Rouge",
-      "link": "https://armees.com/israel-renforce-moyens-isr-contrer-houthis-mer-rouge/",
-      "pubDate": "2026-09-17T06:12:34.000Z",
-      "description": "Israël et l'Arabie saoudite engagent une coopération militaire discrète centrée sur le renseignement ISR pour contrer la menace houthiste en mer Rouge. Via le CENTCOM américain, Jérusalem partage des données sur les positions, mouvements et préparatifs des rebelles yéménites, comblant les lacunes des alliances régionales traditionnelles.",
       "sourceKey": "armees_com"
     },
     {
