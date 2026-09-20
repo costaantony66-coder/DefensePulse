@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T06:33:01.639Z",
+  "generatedAt": "2026-09-20T06:48:40.822Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "La marine chinoise a-t-elle tiré un missile anti-navire YJ-18A qui absorbe les radars lors d’un essai en mer ?",
+      "link": "https://armees.com/la-marine-chinoise-a-t-elle-tire-un-missile-anti-navire-yj-18a-qui-absorbe-les-radars-lors-dun-essai-en-mer/",
+      "pubDate": "2026-09-20T06:05:57.000Z",
+      "description": "Un missile noir qui trompe radars et regards en filant au ras des flots : la Chine vient-elle de dévoiler sa nouvelle arme furtive antinavire ? Les détails intriguent déjà les experts militaires.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Arabie Saoudite : des missiles DF-15A chinois d’une portée de 900 km achetés discrètement, employés contre les Houthis",
+      "link": "https://armees.com/arabie-saoudite-des-missiles-df-15a-chinois-dune-portee-de-900-km-achetes-discretement-employes-contre-les-houthis/",
+      "pubDate": "2026-09-20T05:35:17.000Z",
+      "description": "Un numéro de série filmé à la lumière des téléphones portables lève le voile sur un secret militaire vieux de plusieurs décennies. Riyad aurait franchi une ligne rouge face aux Houthis, avec des conséquences qui dépassent largement le Yémen.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un drone russe armé d’une ogive repêché en mer Baltique par des pêcheurs polonais : « on a cru que c’était un débris banal »",
+      "link": "https://armees.com/un-drone-russe-arme-dune-ogive-repeche-en-mer-baltique-par-des-pecheurs-polonais-on-a-cru-que-cetait-un-debris-banal/",
+      "pubDate": "2026-09-20T05:05:18.000Z",
+      "description": "Un drone russe armé repêché sur les plages polonaises. Ogive confirmée, enquête en cours, autorités silencieuses sur la suite. Que cache vraiment cette découverte sur la côte baltique ?",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "L’armée de Terre a reçu la dernière version de l’Engin blindé de reconnaissance et de combat Jaguar",
       "link": "https://www.opex360.com/2026/09/19/larmee-de-terre-a-recu-la-derniere-version-de-lengin-blinde-de-reconnaissance-et-de-combat-jaguar/",
@@ -199,13 +220,6 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Budget 2027 : les 54 milliards d’économies annoncé par Sébastien Lecornu mettent en péril l’effort de Défense français",
-      "link": "https://armees.com/budget-54-milliards-economies-effort-defense/",
-      "pubDate": "2026-09-17T15:51:34.000Z",
-      "description": "Le Premier ministre Sébastien Lecornu annonce un budget 2027 comportant 54 milliards d'euros d'efforts budgétaires, une contrainte majeure pour les forces armées françaises. Entre hausse du coût de la dette (10 milliards), vieillissement démographique (22 milliards de dépenses sociales) et tensions géopolitiques croissantes, l'équation budgétaire devient insoluble pour maintenir les capacités opérationnelles militaires.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La Direction générale de l’armement qualifie l’intégration de la nacelle optronique TALIOS sur Mirage 2000D RMV",
       "link": "https://www.opex360.com/2026/09/17/la-direction-generale-de-larmement-qualifie-lintegration-de-la-nacelle-optronique-talios-sur-mirage-2000d-rmv/",
       "pubDate": "2026-09-17T14:33:41.000Z",
@@ -213,25 +227,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Bolivie et Paraguay concluent 88 ans de négociations frontalières",
-      "link": "https://armees.com/bolivie-paraguay-concluent-negociations-frontalieres/",
-      "pubDate": "2026-09-17T13:41:44.000Z",
-      "description": "Après 88 années de négociations techniques et diplomatiques, la Bolivie et le Paraguay ont officialisé le 16 septembre 2026 le tracé complet de leur frontière commune de 755 kilomètres. Héritée de la guerre du Chaco (1932-1935), cette résolution fait des deux nations les seuls pays sud-américains aux frontières entièrement délimitées, redéfinissant les équilibres de sécurité régionale.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Un drone « Made in France » atterrit dans l’armée britannique",
       "link": "https://forcesoperations.com/un-drone-made-in-france-atterrit-dans-larmee-britannique/",
       "pubDate": "2026-09-17T09:54:27.000Z",
       "description": "Le ministère de la Défense britannique vient d'allouer près d'un demi-milliard d'euros pour accélérer la dronisaton de ses forces terrestres. Parmi les quatre solutions retenues hier, l'une vient de France.  Entre le petit drone quadricoptère et l'AR5 de 7 m d'envergure, plus de 485 M€ ont été contractualisés pour muscler les capacités de renseignement et […]\nThe post Un drone « Made in France » atterrit dans l’armée britannique appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Défense : 100 000 recrutements pour muscler la BITD française d’ici 2030",
-      "link": "https://armees.com/defense-100-000-recrutements-pour-muscler-la-bitd-francaise-dici-2030/",
-      "pubDate": "2026-09-17T09:44:02.000Z",
-      "description": "Le gouvernement français lance un plan de recrutement de 100 000 salariés dans l'industrie de défense d'ici 2030. Annoncé le 15 septembre 2026 par Jean-Pierre Farandou, ministre du Travail, ce dispositif vise à compenser 70 000 départs à la retraite et à créer 30 000 postes supplémentaires pour accompagner la montée en puissance des capacités militaires françaises face aux tensions géopolitiques.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La simulation au centre d’un nouveau partenariat d’innovation",
