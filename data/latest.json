@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T11:46:57.128Z",
+  "generatedAt": "2026-09-21T12:07:19.147Z",
   "sources": [
     {
       "key": "opex",
@@ -29,6 +29,13 @@
       "pubDate": "2026-09-21T10:46:22.000Z",
       "description": "L’Otan tan compte deux commandements dits stratégiques, à savoir l’ACO [pour Commandement Allié Opérations], traditionnellement dirigé par un général américain qui est aussi le Commandement suprême des forces alliées en Europe [SACEUR], et l’ACT [Commandement Allié Opérations], qui revient à officier général français depuis 2008. Or, l’un et l’autre reçoivent leurs directives de la part...\nCet article Le général allemand Carsten Breuer a été élu président du Comité militaire de l’Otan est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "RMC Découverte montre un Rafale lâchant une bombe nucléaire sur Tel Aviv",
+      "link": "https://armees.com/rmc-decouverte-montre-un-rafale-lachant-une-bombe-nucleaire-sur-tel-aviv/",
+      "pubDate": "2026-09-21T10:05:35.000Z",
+      "description": "RMC Découverte a retiré un documentaire sur le Rafale après la diffusion d’une simulation utilisant une image réelle de Tel-Aviv. Une version corrigée est annoncée.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "L’Iran poste ses conditions pour rouvrir le détroit d’Ormuz",
@@ -210,13 +217,6 @@
       "link": "https://armees.com/crash-dun-f16-aux-etats-unis-le-pilote-sejecte-avant-limpact/",
       "pubDate": "2026-09-18T09:01:46.000Z",
       "description": "Un F16 de la Texas Air National Guard s’est écrasé dans le Michigan lors d’un entraînement. Le pilote a pu s’éjecter et l’accident fait désormais l’objet d’une enquête.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Bromo : 6,5 milliards pour briser la dépendance spatiale de l’Europe",
-      "link": "https://armees.com/bromo-65-milliards-pour-briser-dependance-spatiale/",
-      "pubDate": "2026-09-18T08:02:54.000Z",
-      "description": "Le projet Bromo, fusion spatiale de 6,5 milliards d'euros entre Airbus, Thales et Leonardo, reçoit le soutien public d'Ursula von der Leyen malgré l'absence de notification formelle à Bruxelles. Cette consolidation stratégique vise à combler les failles révélées par la guerre en Ukraine en matière de capacités spatiales militaires, mais soulève des tensions entre ambition industrielle et examen antitrust.",
       "sourceKey": "armees_com"
     },
     {
