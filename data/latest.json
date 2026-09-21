@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T06:38:05.738Z",
+  "generatedAt": "2026-09-21T06:53:39.891Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "L’exercice UNITAS 2026 a démarré au Pérou, avec 25 navires, 20 aéronefs, trois sous-marins et plus de 5 300 personnels mobilisés",
+      "link": "https://armees.com/lexercice-unitas-2026-a-demarre-au-perou-avec-25-navires-20-aeronefs-trois-sous-marins-et-plus-de-5-300-personnels-mobilises/",
+      "pubDate": "2026-09-21T05:35:39.000Z",
+      "description": "24 pays, 5 300 militaires, trois sous-marins et un destroyer argentin armé d'Exocet : Unitas 2026 rassemble une flotte impressionnante au Pérou. Quels moyens chaque nation engage-t-elle réellement dans ce dispositif hors norme ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Des images satellites révèlent que la Chine édifie des rampes de lancement près de ses silos de missiles nucléaires",
+      "link": "https://armees.com/des-images-satellites-revelent-que-la-chine-edifie-des-rampes-de-lancement-pres-de-ses-silos-de-missiles-nucleaires/",
+      "pubDate": "2026-09-21T05:05:19.000Z",
+      "description": "Un désert chinois, deux octogones géants, plus de 80 plateformes mystérieuses. Reuters lève le voile sur un réseau militaire jamais révélé, à quelques kilomètres des silos nucléaires du Xinjiang. Que cache réellement Pékin ?",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "L’Irlande a confirmé la commande de cinq radars de surveillance aérienne auprès de la France",
       "link": "https://www.opex360.com/2026/09/20/lirlande-a-confirme-la-commande-de-cinq-radars-de-surveillance-aerienne-aupres-de-la-france/",
@@ -196,20 +210,6 @@
       "link": "https://armees.com/le-prix-des-avions-de-combat-f-35-continue-de-grimper-80-millions-deuros-pour-le-plus-petit-modele/",
       "pubDate": "2026-09-18T06:05:00.000Z",
       "description": "394 millions accordés, 30 avions au lieu de 36, un rapport qualifié de « fiasco »... Entre dérapages budgétaires et défense aérienne fragilisée, le dossier F-35 réserve encore bien des rebondissements pour la Suisse.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Deux bombardiers russes armés de missiles Kh-101 interceptés près de la Norvège : une interception sous haute tension",
-      "link": "https://armees.com/deux-bombardiers-russes-armes-de-missiles-kh-101-interceptes-pres-de-la-norvege-une-interception-sous-haute-tension/",
-      "pubDate": "2026-09-18T05:35:00.000Z",
-      "description": "Deux bombardiers russes armés de missiles Kh-101 frôlent la Norvège, des F-35 décollent aussitôt. Pendant ce temps, la Russie multiplie les essais d'armes inquiétants près du cercle arctique.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Pourquoi une guerre contre l’Iran coûterait 38 milliards aux États-Unis : les militaires préviennent que les stocks de munitions ne tiendraient pas longtemps",
-      "link": "https://armees.com/pourquoi-une-guerre-contre-liran-couterait-38-milliards-aux-etats-unis-les-militaires-previennent-que-les-stocks-de-munitions-ne-tiendraient-pas-longtemps/",
-      "pubDate": "2026-09-18T05:05:25.000Z",
-      "description": "38 milliards de dollars envolés en cinq mois, des stocks de missiles à moitié vides, et une facture qui grimpe chaque jour. Jusqu'où les États-Unis sont-ils prêts à aller face à l'Iran ?",
       "sourceKey": "armees_com"
     },
     {
