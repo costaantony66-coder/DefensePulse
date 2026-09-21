@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T14:06:13.006Z",
+  "generatedAt": "2026-09-21T14:29:55.731Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Groenland : accord de sécurité signé entre Washington et Copenhague",
+      "link": "https://armees.com/groenland-accord-securite-signe-washington-copenhague/",
+      "pubDate": "2026-09-21T13:33:50.000Z",
+      "description": "Le 21 septembre 2026, les États-Unis, le Danemark et le Groenland ont conclu un accord de sécurité majeur renforçant la présence militaire américaine en Arctique. Le texte interdit les bases militaires non-OTAN et instaure un contrôle des investissements sensibles, barrant la route à la Chine et à la Russie dans une région stratégique en pleine transformation.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Frontière sino-pakistanaise : New Delhi rejette la commission conjointe",
+      "link": "https://armees.com/frontiere-sino-pakistanaise-new-delhi-rejette-commission-conjointe/",
+      "pubDate": "2026-09-21T12:16:42.000Z",
+      "description": "Le Pakistan et la Chine ont activé le 17 septembre 2026 la Pakistan-China Boundary Joint Commission, un mécanisme de gestion conjointe de leur frontière himalayenne. New Delhi rejette immédiatement cet accord, le qualifiant de dépourvu de base juridique et concernant des territoires indiens illégalement occupés. La formalisation institutionnalise une alliance stratégique sino-pakistanaise qui ravive les craintes indiennes d'un encerclement militaire en Asie du Sud.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "« Quand plus rien n’est sacré, la guerre devient raisonnable » : Omar Harfouch alerte sur la banalisation des conflits",
+      "link": "https://armees.com/rien-sacre-guerre-raisonnable-omar-harfouch-conflits/",
+      "pubDate": "2026-09-21T12:13:14.000Z",
+      "description": "Dans une tribune publiée par Entrevue à l’occasion de la Journée internationale de la paix, ce 21 septembre 2026, Omar Harfouch s’interroge sur la place croissante du vocabulaire guerrier dans le débat public. Sans nier les menaces qui pèsent sur l’Europe ni la nécessité de se défendre, il appelle à ne pas laisser la perspective d’une guerre devenir une évidence collective.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Le général allemand Carsten Breuer a été élu président du Comité militaire de l’Otan",
       "link": "https://www.opex360.com/2026/09/21/le-general-allemand-carsten-breuer-a-ete-elu-president-du-comite-militaire-de-lotan/",
@@ -185,13 +206,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Thales HexaForce : une avancée majeure pour le traitement des cibles",
-      "link": "https://armees.com/thales-hexaforce-avancee-majeure-traitement-cibles/",
-      "pubDate": "2026-09-18T12:22:09.000Z",
-      "description": "Thales a présenté le 17 septembre 2026 HexaForce, un système de commandement et de contrôle multi-domaine capable de traiter 1.000 cibles par jour contre 100 actuellement. Validé lors de l'exercice OTAN CWIX 2026 réunissant 3.500 spécialistes de 41 pays, ce système dopé à l'IA fusionne en quelques secondes des données issues de six domaines opérationnels : terre, mer, air, espace, cyber et guerre électronique.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Dernière ligne droite pour le duel HYDEF-HYDIS",
       "link": "https://forcesoperations.com/derniere-ligne-droite-pour-le-duel-hydef-hydis/",
       "pubDate": "2026-09-18T10:24:28.000Z",
@@ -204,20 +218,6 @@
       "pubDate": "2026-09-18T10:05:10.000Z",
       "description": "En novembre 2020, la Defense Security Cooperation Agency [DSCA], qui s’occupait alors des exportations d’équipements militaires américains via le dispositif FMS [Foreign Military Sales], publia un avis recommandant au Congrès d’autoriser la vente potentielle de cinquante chasseurs-bombardiers F-35A aux Émirats arabes unis pour un montant estimé à 10,4 milliards de dollars. Mais aucune commande ne...\nCet article Les États-Unis proposent 48 chasseurs-bombardiers F-35A à l’Arabie saoudite… à un prix dissuasif est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Guinée : France 24 coupée du pays après un tacle sur Mamadi Doumbouya",
-      "link": "https://armees.com/guinee-france-24-coupee-du-pays-apres-un-tacle-sur-mamadi-doumbouya/",
-      "pubDate": "2026-09-18T09:08:57.000Z",
-      "description": "La Guinée a interdit la diffusion de France 24 après l'emploi du terme « président putschiste » pour Mamadi Doumbouya. La HAC a également retiré les accréditations des journalistes de la chaîne.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Crash d’un F16 aux Etats-Unis : le pilote s’éjecte avant l’impact",
-      "link": "https://armees.com/crash-dun-f16-aux-etats-unis-le-pilote-sejecte-avant-limpact/",
-      "pubDate": "2026-09-18T09:01:46.000Z",
-      "description": "Un F16 de la Texas Air National Guard s’est écrasé dans le Michigan lors d’un entraînement. Le pilote a pu s’éjecter et l’accident fait désormais l’objet d’une enquête.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Les Etats-Unis approuvent la vente de 48 avions furtifs F-35 à l’Arabie saoudite, en pleine guerre au Moyen-Orient",
