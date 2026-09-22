@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T09:46:36.350Z",
+  "generatedAt": "2026-09-22T10:07:17.484Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "L’armée peut-elle faire face au réchauffement climatique ?",
+      "link": "https://www.lemonde.fr/podcasts/article/2026/09/22/l-armee-peut-elle-faire-face-au-rechauffement-climatique_6780081_5463015.html",
+      "pubDate": "2026-09-22T09:54:31.000Z",
+      "description": "Les militaires sont en première ligne face aux effets du changement climatique, explique la chercheuse Julia Tasse dans cet épisode du podcast « Chaleur humaine ».",
+      "sourceKey": "geo"
+    },
     {
       "title": "Pour éviter le dérapage de l’IA, les Etats-Unis et la Chine mettent en place une ligne d’urgence",
       "link": "https://armees.com/pour-eviter-le-derapage-de-lia-les-etats-unis-et-la-chine-mettent-en-place-une-ligne-durgence/",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/08/08/l-arabie-saoudite-la-turquie-et-le-pakistan-scellent-a-la-mecque-une-alliance-de-defense-inedite_6740783_3210.html",
       "pubDate": "2026-08-08T04:00:20.000Z",
       "description": "Riyad, Ankara et Islamabad ont signé, vendredi 7 août, un pacte prévoyant qu’une attaque contre l’un des trois Etats sera considérée comme une attaque contre les trois alliés. L’accord marque un tournant dans les équilibres sécuritaires du Moyen-Orient, sur fond de tensions avec l’Iran.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "La loi de programmation militaire validée par le Conseil constitutionnel, sans réserve",
-      "link": "https://www.lemonde.fr/societe/article/2026/08/06/la-loi-de-programmation-militaire-validee-par-le-conseil-constitutionnel-sans-reserve_6739833_3224.html",
-      "pubDate": "2026-08-06T09:21:54.000Z",
-      "description": "Saisie par les députés « insoumis », écologistes et communistes, notamment au sujet de la création d’un « état d’alerte de sécurité nationale », l’instance n’a censuré aucune mesure de ce texte qui augmente le budget des armées.",
       "sourceKey": "geo"
     }
   ]
