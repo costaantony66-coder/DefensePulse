@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T05:28:01.826Z",
+  "generatedAt": "2026-09-22T05:46:12.748Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Dans la défense, l’incroyable succès d’Exail Technologies, un spécialiste de la navigation sans GPS que vient de rafler Thales",
+      "link": "https://www.lemonde.fr/economie/article/2026/09/22/dans-la-defense-l-incroyable-succes-d-exail-technologies-un-specialiste-de-la-navigation-sans-gps-que-vient-de-rafler-thales_6779829_3234.html",
+      "pubDate": "2026-09-22T05:30:10.000Z",
+      "description": "L’entreprise, dont la production de centrales inertielles a triplé depuis 2022, prépare un nouveau doublement de celle-ci en deux ans, portée par la demande militaire. Thales a déboursé 3,9 milliards d’euros pour s’emparer de cette technologie critique et contrer Safran, également sur les rangs pour acheter Exail.",
+      "sourceKey": "geo"
+    },
     {
       "title": "La marine allemande confirme son intention de doter ses avions de patrouille maritime de missiles antinavires JSM",
       "link": "https://www.opex360.com/2026/09/21/la-marine-allemande-confirme-son-intention-de-doter-ses-avions-de-patrouille-maritime-de-missiles-antinavires-jsm/",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/economie/article/2026/08/06/la-filiere-aeronautique-veut-renforcer-sa-cyberdefense-pour-faire-face-a-l-essor-des-menaces_6739727_3234.html",
       "pubDate": "2026-08-06T08:00:08.000Z",
       "description": "Cible de choix des cyberattaquants, le secteur lance un programme visant à augmenter les moyens de défense de 200 entreprises, principalement des PME-PMI.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Les équipementiers Valeo et Forvia confirment l’inflexion du secteur automobile vers la défense",
-      "link": "https://www.lemonde.fr/economie/article/2026/08/03/les-equipementiers-valeo-et-forvia-confirment-l-inflexion-du-secteur-automobile-vers-la-defense_6737330_3234.html",
-      "pubDate": "2026-08-03T04:00:02.000Z",
-      "description": "En pleine crise de leur secteur, les deux groupes français cherchent à diversifier leurs activités et à profiter de la hausse des budgets militaires en participant à la production de drones.",
       "sourceKey": "geo"
     }
   ]
