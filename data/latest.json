@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T08:48:01.967Z",
+  "generatedAt": "2026-09-22T09:06:00.479Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Pour éviter le dérapage de l’IA, les Etats-Unis et la Chine mettent en place une ligne d’urgence",
+      "link": "https://armees.com/pour-eviter-le-derapage-de-lia-les-etats-unis-et-la-chine-mettent-en-place-une-ligne-durgence/",
+      "pubDate": "2026-09-22T06:58:11.000Z",
+      "description": "Les États-Unis et la Chine envisagent un canal d’alerte sur les incidents liés à l’IA afin d’éviter une escalade militaire ou cyber incontrôlée.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Dans la défense, les acquisitions et les levées de fonds atteignent des niveaux record",
       "link": "https://www.lemonde.fr/economie/article/2026/09/22/dans-la-defense-les-acquisitions-et-les-levees-de-fonds-atteignent-des-niveaux-record_6779832_3234.html",
@@ -217,13 +224,6 @@
       "link": "https://armees.com/des-navires-russes-charges-de-chars-emergent-au-sud-de-la-sicile-un-avion-italien-decolle-en-reaction/",
       "pubDate": "2026-09-19T05:35:22.000Z",
       "description": "Trois navires russes, l'AIS coupé, une cargaison mystère débarquée à Tobrouk. Six bases militaires en construction en Libye. Pourquoi l'Italie surveille-t-elle chaque mouvement de près ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Les États-Unis vont livrer à Israël des bombes, y compris les ogives les plus puissantes de l’arsenal américain, pour plusieurs milliards de dollars",
-      "link": "https://armees.com/les-etats-unis-vont-livrer-a-israel-des-bombes-y-compris-les-ogives-les-plus-puissantes-de-larsenal-americain-pour-plusieurs-milliards-de-dollars/",
-      "pubDate": "2026-09-19T05:05:34.000Z",
-      "description": "40 000 bombes, 2,8 milliards de dollars, un cessez-le-feu déjà fragile : Washington s'apprête à franchir un cap qui pourrait tout changer. Les détails de cette livraison controversée risquent de vous surprendre.",
       "sourceKey": "armees_com"
     },
     {
