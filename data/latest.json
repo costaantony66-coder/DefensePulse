@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T06:08:25.077Z",
+  "generatedAt": "2026-09-22T06:34:41.727Z",
   "sources": [
     {
       "key": "opex",
@@ -31,10 +31,17 @@
       "sourceKey": "geo"
     },
     {
+      "title": "L’Ukraine engage l’une de ses offensives les plus importantes depuis le début du conflit",
+      "link": "https://armees.com/lukraine-engage-lune-de-ses-offensives-les-plus-importantes-depuis-le-debut-du-conflit/",
+      "pubDate": "2026-09-22T05:35:33.000Z",
+      "description": "600 drones, six morts, des débris de drones en Roumanie et en Lettonie... Cette nuit d'offensive révèle une escalade inquiétante aux portes de l'OTAN. Les détails de cette nuit meurtrière méritent votre attention.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Dans la défense, l’incroyable succès d’Exail Technologies, un spécialiste de la navigation sans GPS que vient de rafler Thales",
       "link": "https://www.lemonde.fr/economie/article/2026/09/22/dans-la-defense-l-incroyable-succes-d-exail-technologies-un-specialiste-de-la-navigation-sans-gps-que-vient-de-rafler-thales_6779829_3234.html",
-      "pubDate": "2026-09-22T05:30:10.000Z",
-      "description": "L’entreprise, dont la production de centrales inertielles a triplé depuis 2022, prépare un nouveau doublement de celle-ci en deux ans, portée par la demande militaire. Thales a déboursé 3,9 milliards d’euros pour s’emparer de cette technologie critique et contrer Safran, également sur les rangs pour acheter Exail.",
+      "pubDate": "2026-09-22T05:30:08.000Z",
+      "description": "L’entreprise, dont la production de centrales inertielles a triplé depuis 2022, prépare un nouveau doublement de celle-ci en deux ans, portée par la demande militaire. Thales a déboursé 3,9 milliards d’euros pour s’emparer de cette technologie critique et contrer Safran, également sur les rangs pour acheter Exail.",
       "sourceKey": "geo"
     },
     {
@@ -129,6 +136,13 @@
       "sourceKey": "armees_com"
     },
     {
+      "title": "Briefing sur la guerre en Ukraine, un drone élimine un commandant russe fraîchement décoré après une fausse annonce de victoire",
+      "link": "https://armees.com/briefing-sur-la-guerre-en-ukraine-un-drone-elimine-un-commandant-russe-fraichement-decore-apres-une-fausse-annonce-de-victoire/",
+      "pubDate": "2026-09-21T05:05:14.000Z",
+      "description": "Sept commandants russes déjà éliminés par les drones ukrainiens. Kyiv et Odessa de nouveau sous les frappes, un officier britannique tué, un drone piégé retrouvé près des côtes polonaises. La guerre s'intensifie sur tous les fronts.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "L’Irlande a confirmé la commande de cinq radars de surveillance aérienne auprès de la France",
       "link": "https://www.opex360.com/2026/09/20/lirlande-a-confirme-la-commande-de-cinq-radars-de-surveillance-aerienne-aupres-de-la-france/",
       "pubDate": "2026-09-20T10:59:00.000Z",
@@ -213,25 +227,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Russie : des Nord-Coréens mobilisés pour produire des drones à Alabuga",
-      "link": "https://armees.com/assemblage-drones-russie-alabuga-travailleurs-nord-coreens/",
-      "pubDate": "2026-09-19T04:09:34.000Z",
-      "description": "Des travailleurs nord-coréens participent désormais à la production de drones militaires en Russie, apprend-on d'un rapport international publié cette semaine. Derrière le système de visas étudiants décrit par les enquêteurs apparaît une nouvelle dimension de l’alliance entre Moscou et Pyongyang : après les munitions et les soldats, la coopération s’étend directement à l’appareil industriel qui alimente la guerre contre l’Ukraine.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Un avion de combat italien Eurofighter F2000 a été touché lors d’une attaque des rebelles houthistes en Arabie saoudite",
       "link": "https://www.opex360.com/2026/09/18/un-avion-de-combat-italien-eurofighter-f2000-a-ete-touche-lors-dune-attaque-des-rebelles-houthistes-en-arabie-saoudite/",
       "pubDate": "2026-09-18T17:11:47.000Z",
       "description": "En mars, l’Italie a déployé le détachement «Task Force Air – Saudi» sur la base aérienne «Roi Fahd» de Taïf, située dans la province de la Mecque [Arabie saoudite]. Il y encore peu, sa composition était inconnue du grand public. Mais, sous la pression politique , le ministère italien de la Défense a fini par...\nCet article Un avion de combat italien Eurofighter F2000 a été touché lors d’une attaque des rebelles houthistes en Arabie saoudite est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Drones Sonora : la Grande-Bretagne double sa force de frappe d’ici 2027",
-      "link": "https://armees.com/drones-sonora-grande-bretagne-double-force-frappe-ici-2027/",
-      "pubDate": "2026-09-18T12:35:54.000Z",
-      "description": "L'armée britannique alloue 485 millions d'euros pour doubler sa force de frappe terrestre d'ici 2027 via le projet Rapstone. Au cœur du dispositif, 110 drones Sonora du français Harmattan AI formeront massivement les troupes, tandis que les AR5 de Tekever équiperont les commandants. Un calendrier serré qui impose une montée en puissance rapide.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Dernière ligne droite pour le duel HYDEF-HYDIS",
