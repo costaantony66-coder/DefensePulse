@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T16:06:31.829Z",
+  "generatedAt": "2026-09-22T16:30:28.311Z",
   "sources": [
     {
       "key": "opex",
@@ -29,6 +29,27 @@
       "pubDate": "2026-09-22T15:24:40.000Z",
       "description": "S’il y a un pays, outre l’Arabie saoudite, qui doit s’inquiéter du contrôle total de la côte yéménite par les rebelles houthistes, soutenus par l’Iran, c’est bien l’Égypte. En effet, un blocus du détroit de Bab el-Mandeb impliquerait, de facto, celui du Canal de Suez. Et donc une perte financière sèche pour Le Caire. Pour...\nCet article Mer Rouge : Londres accorde un soutien militaire à Riyad tandis que l’Union européenne veut renforcer l’opération Aspides est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Groenland : Washington rétablit deux bases après 70 ans d’absence",
+      "link": "https://armees.com/groenland-washington-bases-militaires/",
+      "pubDate": "2026-09-22T14:55:47.000Z",
+      "description": "Ce 22 septembre 2026, les États-Unis, le Danemark et le Groenland ont signé un accord tripartite rétablissant deux bases militaires américaines au Groenland : Narsarsuaq et Mestersvig. Après trois décennies de réduction drastique (de 17 installations et 10 000 militaires à une seule base avec 150 personnels), Washington inverse sa stratégie arctique face aux ambitions russes et chinoises.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pape Léon XIV : l’armée française transforme la visite en test opérationnel",
+      "link": "https://armees.com/pape-leon-xiv-armee-francaise-transforme-test/",
+      "pubDate": "2026-09-22T14:45:00.000Z",
+      "description": "L'armée de l'Air et de l'Espace transforme la visite du pape Léon XIV en test opérationnel grandeur nature pour ses systèmes anti-drones. 130 spécialistes déploient des mini-drones intercepteurs, des caméras de détection et des brouilleurs magnétiques, mobilisant des capacités jusqu'alors réservées aux opérations extérieures.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La fintech russe A7 a transféré 6,9 milliards via des banques tierces",
+      "link": "https://armees.com/societe-fintech-russe-transfert-fonds/",
+      "pubDate": "2026-09-22T14:31:14.000Z",
+      "description": "La société russe A7 a transféré 6,9 milliards de dollars via des banques internationales malgré les sanctions, utilisant 100 sociétés écrans réparties aux Émirats, Hong Kong et Chine. Standard Chartered et First Abu Dhabi Bank ont traité respectivement 1,1 et 1,8 milliard de dollars avant que l'UE et les États-Unis ne sanctionnent la fintech en juillet-août 2025. L'affaire révèle l'inefficacité des régimes de sanctions occidentaux face à une stratégie russe d'adaptation asymétrique sophistiquée.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "La Pologne déploie un dispositif militaire d’envergure face aux menaces russes hybrides",
@@ -197,27 +218,6 @@
       "pubDate": "2026-09-20T10:27:40.000Z",
       "description": "Sans avion de transport hors gabarit, il est compliqué de «projeter» des forces sur un théâtre extérieur. Pour cela, la France a recours au contrat SALIS [Solution intérimaire pour le transport aérien stratégique], attribué par l’Otan à la compagnie privée ukrainienne Antonov Logistics Salis, affrète des Antonov AN-124-100, capables de transporter 120 tonnes, dans le...\nCet article Transport stratégique : L’Agence européenne de défense évoque une modernisation «en profondeur» des Antonov AN-124 est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "La marine chinoise a-t-elle tiré un missile anti-navire YJ-18A qui absorbe les radars lors d’un essai en mer ?",
-      "link": "https://armees.com/la-marine-chinoise-a-t-elle-tire-un-missile-anti-navire-yj-18a-qui-absorbe-les-radars-lors-dun-essai-en-mer/",
-      "pubDate": "2026-09-20T06:05:57.000Z",
-      "description": "Un missile noir qui trompe radars et regards en filant au ras des flots : la Chine vient-elle de dévoiler sa nouvelle arme furtive antinavire ? Les détails intriguent déjà les experts militaires.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Arabie Saoudite : des missiles DF-15A chinois d’une portée de 900 km achetés discrètement, employés contre les Houthis",
-      "link": "https://armees.com/arabie-saoudite-des-missiles-df-15a-chinois-dune-portee-de-900-km-achetes-discretement-employes-contre-les-houthis/",
-      "pubDate": "2026-09-20T05:35:17.000Z",
-      "description": "Un numéro de série filmé à la lumière des téléphones portables lève le voile sur un secret militaire vieux de plusieurs décennies. Riyad aurait franchi une ligne rouge face aux Houthis, avec des conséquences qui dépassent largement le Yémen.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un drone russe armé d’une ogive repêché en mer Baltique par des pêcheurs polonais : « on a cru que c’était un débris banal »",
-      "link": "https://armees.com/un-drone-russe-arme-dune-ogive-repeche-en-mer-baltique-par-des-pecheurs-polonais-on-a-cru-que-cetait-un-debris-banal/",
-      "pubDate": "2026-09-20T05:05:18.000Z",
-      "description": "Un drone russe armé repêché sur les plages polonaises. Ogive confirmée, enquête en cours, autorités silencieuses sur la suite. Que cache vraiment cette découverte sur la côte baltique ?",
-      "sourceKey": "armees_com"
     },
     {
       "title": "L’armée de Terre a reçu la dernière version de l’Engin blindé de reconnaissance et de combat Jaguar",
