@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T19:45:28.851Z",
+  "generatedAt": "2026-09-22T20:05:59.577Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Dissuasion nucléaire française : la Lettonie annonce qu’Emmanuel Macron a accepté d’ouvrir des discussions",
+      "link": "https://www.lemonde.fr/international/article/2026/09/22/dissuasion-nucleaire-francaise-la-lettonie-annonce-qu-emmanuel-macron-a-accepte-d-ouvrir-des-discussions_6780295_3210.html",
+      "pubDate": "2026-09-22T20:02:01.000Z",
+      "description": "Le président français avait annoncé, en mars, son initiative de dissuasion « avancée » visant à y associer les Etats européens volontaires, sans aucun partage de la décision d’emploi de l’arme nucléaire.",
+      "sourceKey": "geo"
+    },
     {
       "title": "Dassault Aviation a intégré deux nouvelles fonctions basées sur l’intelligence artificielle à bord du Rafale",
       "link": "https://www.opex360.com/2026/09/22/dassault-aviation-a-integre-deux-nouvelles-fonctions-basees-sur-lintelligence-artificielle-a-bord-du-rafale/",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/08/12/la-coree-du-nord-a-tire-un-missile-balistique-en-direction-de-la-mer-du-japon-selon-seoul-son-deuxieme-en-une-semaine_6744396_3210.html",
       "pubDate": "2026-08-11T23:37:09.000Z",
       "description": "Cette démonstration de Pyongyang, mercredi 12 août, survient alors que la Corée du Sud et les Etats-Unis s’apprêtent à mener conjointement leurs exercices militaires annuels.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "L’Arabie saoudite, la Turquie et le Pakistan scellent à La Mecque une alliance de défense inédite",
-      "link": "https://www.lemonde.fr/international/article/2026/08/08/l-arabie-saoudite-la-turquie-et-le-pakistan-scellent-a-la-mecque-une-alliance-de-defense-inedite_6740783_3210.html",
-      "pubDate": "2026-08-08T04:00:20.000Z",
-      "description": "Riyad, Ankara et Islamabad ont signé, vendredi 7 août, un pacte prévoyant qu’une attaque contre l’un des trois Etats sera considérée comme une attaque contre les trois alliés. L’accord marque un tournant dans les équilibres sécuritaires du Moyen-Orient, sur fond de tensions avec l’Iran.",
       "sourceKey": "geo"
     }
   ]
