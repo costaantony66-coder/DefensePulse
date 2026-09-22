@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T05:46:12.748Z",
+  "generatedAt": "2026-09-22T06:08:25.077Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Dans la défense, les acquisitions et les levées de fonds atteignent des niveaux record",
+      "link": "https://www.lemonde.fr/economie/article/2026/09/22/dans-la-defense-les-acquisitions-et-les-levees-de-fonds-atteignent-des-niveaux-record_6779832_3234.html",
+      "pubDate": "2026-09-22T06:00:12.000Z",
+      "description": "A l’initiative des industriels et, plus récemment, des fonds d’investissement, les opérations financières se multiplient dans le secteur, au moment où de nombreuses PME ont besoin de capitaux pour augmenter leur cadence de production.",
+      "sourceKey": "geo"
+    },
     {
       "title": "Dans la défense, l’incroyable succès d’Exail Technologies, un spécialiste de la navigation sans GPS que vient de rafler Thales",
       "link": "https://www.lemonde.fr/economie/article/2026/09/22/dans-la-defense-l-incroyable-succes-d-exail-technologies-un-specialiste-de-la-navigation-sans-gps-que-vient-de-rafler-thales_6779829_3234.html",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/societe/article/2026/08/06/la-loi-de-programmation-militaire-validee-par-le-conseil-constitutionnel-sans-reserve_6739833_3224.html",
       "pubDate": "2026-08-06T09:21:54.000Z",
       "description": "Saisie par les députés « insoumis », écologistes et communistes, notamment au sujet de la création d’un « état d’alerte de sécurité nationale », l’instance n’a censuré aucune mesure de ce texte qui augmente le budget des armées.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "La filière aéronautique veut renforcer sa cyberdéfense pour faire face à l’essor des menaces",
-      "link": "https://www.lemonde.fr/economie/article/2026/08/06/la-filiere-aeronautique-veut-renforcer-sa-cyberdefense-pour-faire-face-a-l-essor-des-menaces_6739727_3234.html",
-      "pubDate": "2026-08-06T08:00:08.000Z",
-      "description": "Cible de choix des cyberattaquants, le secteur lance un programme visant à augmenter les moyens de défense de 200 entreprises, principalement des PME-PMI.",
       "sourceKey": "geo"
     }
   ]
