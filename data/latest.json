@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T10:47:08.224Z",
+  "generatedAt": "2026-09-22T11:05:57.983Z",
   "sources": [
     {
       "key": "opex",
@@ -36,6 +36,13 @@
       "pubDate": "2026-09-22T09:54:31.000Z",
       "description": "Les militaires sont en première ligne face aux effets du changement climatique, explique la chercheuse Julia Tasse dans cet épisode du podcast « Chaleur humaine ».",
       "sourceKey": "geo"
+    },
+    {
+      "title": "La Corée du Nord affirme avoir testé une nouvelle arme hypersonique",
+      "link": "https://armees.com/coree-du-nord-affirme-teste-nouvelle-arme-hypersonique/",
+      "pubDate": "2026-09-22T09:03:35.000Z",
+      "description": "La Corée du Nord affirme avoir testé dimanche le missile hypersonique Hwasong-11Ma, atteignant Mach 6,3 et 908,2 km de portée selon Pyongyang. Mais Séoul n'a détecté que 450 et 600 kilomètres, soulevant des doutes sur la fiabilité des performances revendiquées. Analyse technique d'une arme entre propagande et menace réelle.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Pour éviter le dérapage de l’IA, les Etats-Unis et la Chine mettent en place une ligne d’urgence",
@@ -231,13 +238,6 @@
       "link": "https://armees.com/guerre-au-moyen-orient-apres-lui-avoir-livre-des-shahed-liran-a-reclame-a-la-russie-des-drones-geran-4-et-geran-5-ameliores-pour-les-utiliser-contre-les-etats-unis/",
       "pubDate": "2026-09-19T06:05:20.000Z",
       "description": "L'Iran réclame à la Russie ses drones les plus redoutables, quatre fois plus puissants et deux fois plus rapides. Un basculement stratégique qui inquiète déjà l'Ukraine, seuls 60 % de ces engins sont interceptés.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Des navires russes chargés de chars émergent au sud de la Sicile, un avion italien décolle en réaction",
-      "link": "https://armees.com/des-navires-russes-charges-de-chars-emergent-au-sud-de-la-sicile-un-avion-italien-decolle-en-reaction/",
-      "pubDate": "2026-09-19T05:35:22.000Z",
-      "description": "Trois navires russes, l'AIS coupé, une cargaison mystère débarquée à Tobrouk. Six bases militaires en construction en Libye. Pourquoi l'Italie surveille-t-elle chaque mouvement de près ?",
       "sourceKey": "armees_com"
     },
     {
