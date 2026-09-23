@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T05:28:16.504Z",
+  "generatedAt": "2026-09-23T05:46:27.121Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Guerre au Moyen-Orient : l’escalade s’intensifie, Trump retourne précipitamment à Washington",
+      "link": "https://armees.com/guerre-au-moyen-orient-lescalade-sintensifie-trump-retourne-precipitamment-a-washington/",
+      "pubDate": "2026-09-23T05:35:08.000Z",
+      "description": "Deux explosions au cœur de Riyad, du jamais-vu depuis juillet. Trump écourte son week-end à Camp David, Washington craint le pire. Le pétrole flambe déjà au-dessus des 100 dollars, jusqu'où ira cette escalade ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Poutine menace d’attaquer les alliés de l’Ukraine avec des « drones et des missiles » : l’avertissement lancé par Donald Tusk",
+      "link": "https://armees.com/poutine-menace-dattaquer-les-allies-de-lukraine-avec-des-drones-et-des-missiles-lavertissement-lance-par-donald-tusk/",
+      "pubDate": "2026-09-23T05:05:00.000Z",
+      "description": "Un drone qui « s'écrase par accident » pourrait suffire à paralyser l'OTAN. Donald Tusk révèle le plan russe qui viserait à contourner l'article 5 sans déclencher de riposte collective. Explications.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Dissuasion nucléaire française : la Lettonie annonce qu’Emmanuel Macron a accepté d’ouvrir des discussions",
       "link": "https://www.lemonde.fr/international/article/2026/09/22/dissuasion-nucleaire-francaise-la-lettonie-annonce-qu-emmanuel-macron-a-accepte-d-ouvrir-des-discussions_6780295_3210.html",
@@ -210,20 +224,6 @@
       "link": "https://armees.com/lexercice-unitas-2026-a-demarre-au-perou-avec-25-navires-20-aeronefs-trois-sous-marins-et-plus-de-5-300-personnels-mobilises/",
       "pubDate": "2026-09-21T05:35:39.000Z",
       "description": "24 pays, 5 300 militaires, trois sous-marins et un destroyer argentin armé d'Exocet : Unitas 2026 rassemble une flotte impressionnante au Pérou. Quels moyens chaque nation engage-t-elle réellement dans ce dispositif hors norme ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Des images satellites révèlent que la Chine édifie des rampes de lancement près de ses silos de missiles nucléaires",
-      "link": "https://armees.com/des-images-satellites-revelent-que-la-chine-edifie-des-rampes-de-lancement-pres-de-ses-silos-de-missiles-nucleaires/",
-      "pubDate": "2026-09-21T05:05:19.000Z",
-      "description": "Un désert chinois, deux octogones géants, plus de 80 plateformes mystérieuses. Reuters lève le voile sur un réseau militaire jamais révélé, à quelques kilomètres des silos nucléaires du Xinjiang. Que cache réellement Pékin ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Briefing sur la guerre en Ukraine, un drone élimine un commandant russe fraîchement décoré après une fausse annonce de victoire",
-      "link": "https://armees.com/briefing-sur-la-guerre-en-ukraine-un-drone-elimine-un-commandant-russe-fraichement-decore-apres-une-fausse-annonce-de-victoire/",
-      "pubDate": "2026-09-21T05:05:14.000Z",
-      "description": "Sept commandants russes déjà éliminés par les drones ukrainiens. Kyiv et Odessa de nouveau sous les frappes, un officier britannique tué, un drone piégé retrouvé près des côtes polonaises. La guerre s'intensifie sur tous les fronts.",
       "sourceKey": "armees_com"
     },
     {
