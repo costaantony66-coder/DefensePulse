@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T11:46:58.495Z",
+  "generatedAt": "2026-09-23T12:08:13.541Z",
   "sources": [
     {
       "key": "opex",
@@ -29,6 +29,13 @@
       "pubDate": "2026-09-23T10:34:41.000Z",
       "description": "Le 1er septembre, le «commandement aérien», c’est-à-dire le quartier général de la Royal Air Force [RAF] est devenu le «commandement aérien et spatial», ce qui reflète l’importance croissante de l’espace non seulement pour les opérations militaires mais aussi pour la sécurité nationale britannique. «L’espace est essentiel à la défense, à la sécurité, à la prospérité...\nCet article Espace : La Royal Air Force crée un nouvel escadron pour assurer la défense des satellites britanniques est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "ONU : Macron et Netanyahu s’affrontent sur la menace du Hamas en Cisjordanie",
+      "link": "https://armees.com/onu-macron-netanyahu-s-affrontent-menace-hamas-cisjordanie/",
+      "pubDate": "2026-09-23T09:49:35.000Z",
+      "description": "Le meurtre d'un colon franco-israélien le 21 septembre et les propos d'Emmanuel Macron à l'ONU sur l'absence du Hamas en Cisjordanie déclenchent une crise diplomatique avec Israël. Au-delà de la polémique, ce débat révèle deux lectures opposées de la menace sécuritaire dans un territoire où les Nations Unies recensent 6 incidents violents quotidiens.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Intercepteur Sting S : l’arme ukrainienne qui neutralise les drones russes",
@@ -217,13 +224,6 @@
       "link": "https://armees.com/groenland-accord-securite-signe-washington-copenhague/",
       "pubDate": "2026-09-21T13:33:50.000Z",
       "description": "Le 21 septembre 2026, les États-Unis, le Danemark et le Groenland ont conclu un accord de sécurité majeur renforçant la présence militaire américaine en Arctique. Le texte interdit les bases militaires non-OTAN et instaure un contrôle des investissements sensibles, barrant la route à la Chine et à la Russie dans une région stratégique en pleine transformation.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Frontière sino-pakistanaise : New Delhi rejette la commission conjointe",
-      "link": "https://armees.com/frontiere-sino-pakistanaise-new-delhi-rejette-commission-conjointe/",
-      "pubDate": "2026-09-21T12:16:42.000Z",
-      "description": "Le Pakistan et la Chine ont activé le 17 septembre 2026 la Pakistan-China Boundary Joint Commission, un mécanisme de gestion conjointe de leur frontière himalayenne. New Delhi rejette immédiatement cet accord, le qualifiant de dépourvu de base juridique et concernant des territoires indiens illégalement occupés. La formalisation institutionnalise une alliance stratégique sino-pakistanaise qui ravive les craintes indiennes d'un encerclement militaire en Asie du Sud.",
       "sourceKey": "armees_com"
     },
     {
