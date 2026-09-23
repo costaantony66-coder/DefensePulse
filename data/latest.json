@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T09:29:26.403Z",
+  "generatedAt": "2026-09-23T09:47:20.265Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Intercepteur Sting S : l’arme ukrainienne qui neutralise les drones russes",
+      "link": "https://armees.com/intercepteur-sting-s-arme-ukrainienne-neutralise-drones-russes/",
+      "pubDate": "2026-09-23T09:36:03.000Z",
+      "description": "Wild Hornets annonce que son intercepteur Sting S a abattu une douzaine de drones russes Geran-4 et plusieurs mini-missiles Geran-5 lors de tests en conditions réelles. Avec un taux de réussite de 80 à 100%, ce quadricoptère ultrarapide pourrait transformer la défense aérienne ukrainienne dès le lancement de sa production en série.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Face aux crises internationales, Emmanuel Macron invité sur TF1 et France 2",
+      "link": "https://armees.com/emmanuel-macron-face-crises-internationales/",
+      "pubDate": "2026-09-23T09:14:20.000Z",
+      "description": "Emmanuel Macron sera interviewé jeudi 24 septembre à 20h sur TF1 et France 2 par Gilles Bouleau et Caroline Roux. Le président alertera sur les menaces hybrides russes et leurs conséquences sur la sécurité nationale, après avoir demandé au gouvernement un plan de protection des infrastructures critiques.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Rafale F4 : l’IA souveraine renforce la supériorité aérienne",
       "link": "https://armees.com/rafale-f4-ia-souveraine-renforce-superiorite-aerienne/",
@@ -206,25 +220,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "« Quand plus rien n’est sacré, la guerre devient raisonnable » : Omar Harfouch alerte sur la banalisation des conflits",
-      "link": "https://armees.com/rien-sacre-guerre-raisonnable-omar-harfouch-conflits/",
-      "pubDate": "2026-09-21T12:13:14.000Z",
-      "description": "Dans une tribune publiée par Entrevue à l’occasion de la Journée internationale de la paix, ce 21 septembre 2026, Omar Harfouch s’interroge sur la place croissante du vocabulaire guerrier dans le débat public. Sans nier les menaces qui pèsent sur l’Europe ni la nécessité de se défendre, il appelle à ne pas laisser la perspective d’une guerre devenir une évidence collective.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le général allemand Carsten Breuer a été élu président du Comité militaire de l’Otan",
       "link": "https://www.opex360.com/2026/09/21/le-general-allemand-carsten-breuer-a-ete-elu-president-du-comite-militaire-de-lotan/",
       "pubDate": "2026-09-21T10:46:22.000Z",
       "description": "L’Otan compte deux commandements dits stratégiques, à savoir l’ACO [pour Commandement Allié Opérations], traditionnellement dirigé par un général américain qui est aussi le Commandement suprême des forces alliées en Europe [SACEUR], et l’ACT [Commandement Allié Transformation], qui revient à un officier général français depuis 2008. Or, l’un et l’autre reçoivent leurs directives de la part...\nCet article Le général allemand Carsten Breuer a été élu président du Comité militaire de l’Otan est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "RMC Découverte montre un Rafale lâchant une bombe nucléaire sur Tel Aviv",
-      "link": "https://armees.com/rmc-decouverte-montre-un-rafale-lachant-une-bombe-nucleaire-sur-tel-aviv/",
-      "pubDate": "2026-09-21T10:05:35.000Z",
-      "description": "RMC Découverte a retiré un documentaire sur le Rafale après la diffusion d’une simulation utilisant une image réelle de Tel-Aviv. Une version corrigée est annoncée.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "L’Irlande a confirmé la commande de cinq radars de surveillance aérienne auprès de la France",
