@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T07:06:55.050Z",
+  "generatedAt": "2026-09-23T07:29:57.027Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Notices argents : comment Interpol traque l’argent des criminels",
+      "link": "https://armees.com/notices-argents-comment-interpol-traque-largent-des-criminels/",
+      "pubDate": "2026-09-23T05:41:05.000Z",
+      "description": "Depuis 2025, les notices argent d’Interpol aident les enquêteurs à retrouver des avoirs cachés à l’étranger. Premiers résultats et limites du dispositif.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Guerre au Moyen-Orient : l’escalade s’intensifie, Trump retourne précipitamment à Washington",
       "link": "https://armees.com/guerre-au-moyen-orient-lescalade-sintensifie-trump-retourne-precipitamment-a-washington/",
@@ -217,13 +224,6 @@
       "link": "https://armees.com/drones-ukrainiens-frappes-russie/",
       "pubDate": "2026-09-21T09:23:01.000Z",
       "description": "Le 20 septembre 2026, l'Ukraine a lancé sa plus grande opération de drones coordonnés contre Moscou : environ 450 appareils ont ciblé la capitale russe, frappant notamment la raffinerie de Kapotnya qui fournit un tiers du carburant de la région. La guerre en Ukraine franchit un nouveau seuil dans l'usage massif de drones pour dégrader les capacités logistiques adverses.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’exercice UNITAS 2026 a démarré au Pérou, avec 25 navires, 20 aéronefs, trois sous-marins et plus de 5 300 personnels mobilisés",
-      "link": "https://armees.com/lexercice-unitas-2026-a-demarre-au-perou-avec-25-navires-20-aeronefs-trois-sous-marins-et-plus-de-5-300-personnels-mobilises/",
-      "pubDate": "2026-09-21T05:35:39.000Z",
-      "description": "24 pays, 5 300 militaires, trois sous-marins et un destroyer argentin armé d'Exocet : Unitas 2026 rassemble une flotte impressionnante au Pérou. Quels moyens chaque nation engage-t-elle réellement dans ce dispositif hors norme ?",
       "sourceKey": "armees_com"
     },
     {
