@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T05:46:52.756Z",
+  "generatedAt": "2026-09-24T06:08:02.998Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "L’armée américaine signe un contrat de 10,6 millions de dollars pour des drones de surveillance à longue portée ukrainiens",
+      "link": "https://armees.com/larmee-americaine-signe-un-contrat-de-106-millions-de-dollars-pour-des-drones-de-surveillance-a-longue-portee-ukrainiens/",
+      "pubDate": "2026-09-24T05:35:14.000Z",
+      "description": "350 000 heures de vol en zone de guerre, une autonomie record de 24 heures : voilà pourquoi le Pentagone mise gros sur ce drone ukrainien plutôt que sur ses modèles habituels.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’Iran avertit de « représailles douloureuses » si les États-Unis frappent de nouveau, Trump parle de « grandes choses »",
+      "link": "https://armees.com/liran-avertit-de-represailles-douloureuses-si-les-etats-unis-frappent-de-nouveau-trump-parle-de-grandes-choses/",
+      "pubDate": "2026-09-24T05:05:00.000Z",
+      "description": "Iran promet des représailles « sans limitation ni ménagement », Trump hésite entre accord et frappes contre Téhéran. Pertes américaines sous-estimées, blocus naval, sept conditions secrètes : la tension monte dangereusement au Moyen-Orient.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Avec la livraison d’un EC225LP Caracal à l’Escadron 1/44 Solenzara, la fin de l’hélicoptère SA330 Puma approche",
       "link": "https://www.opex360.com/2026/09/23/avec-la-livraison-dun-ec225lp-caracal-a-lescadron-1-44-solenzara-la-fin-de-lhelicoptere-sa330-puma-approche/",
@@ -206,13 +220,6 @@
       "sourceKey": "geo"
     },
     {
-      "title": "L’Ukraine engage l’une de ses offensives les plus importantes depuis le début du conflit",
-      "link": "https://armees.com/lukraine-engage-lune-de-ses-offensives-les-plus-importantes-depuis-le-debut-du-conflit/",
-      "pubDate": "2026-09-22T05:35:33.000Z",
-      "description": "600 drones, six morts, des débris de drones en Roumanie et en Lettonie... Cette nuit d'offensive révèle une escalade inquiétante aux portes de l'OTAN. Les détails de cette nuit meurtrière méritent votre attention.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’incroyable succès d’Exail Technologies, un spécialiste de la navigation sans GPS que vient de rafler Thales",
       "link": "https://www.lemonde.fr/economie/article/2026/09/22/dans-la-defense-l-incroyable-succes-d-exail-technologies-un-specialiste-de-la-navigation-sans-gps-que-vient-de-rafler-thales_6779829_3234.html",
       "pubDate": "2026-09-22T05:30:08.000Z",
@@ -239,13 +246,6 @@
       "pubDate": "2026-09-21T15:01:27.000Z",
       "description": "Le processus de reconstruction d'une capacité de défense sol-air suit son cours en Belgique. Place à l'acquisition de systèmes NASAMS, Skyranger 30 et radars GM200 au travers du mécanisme d'achat mis en place par les Pays-Bas. \nThe post Contractualisations en vue pour la défense sol-air belge appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Groenland : accord de sécurité signé entre Washington et Copenhague",
-      "link": "https://armees.com/groenland-accord-securite-signe-washington-copenhague/",
-      "pubDate": "2026-09-21T13:33:50.000Z",
-      "description": "Le 21 septembre 2026, les États-Unis, le Danemark et le Groenland ont conclu un accord de sécurité majeur renforçant la présence militaire américaine en Arctique. Le texte interdit les bases militaires non-OTAN et instaure un contrôle des investissements sensibles, barrant la route à la Chine et à la Russie dans une région stratégique en pleine transformation.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Des liens resserrés entre KNDS France et les artilleurs lituaniens",
