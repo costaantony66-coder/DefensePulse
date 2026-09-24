@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T08:31:30.146Z",
+  "generatedAt": "2026-09-24T08:48:38.102Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Ukraine : la France prépare le renforcement militaire après un éventuel cessez-le-feu",
+      "link": "https://armees.com/ukraine-la-france-prepare-le-renforcement-militaire-apres-un-eventuel-cessez-le-feu/",
+      "pubDate": "2026-09-24T07:21:23.000Z",
+      "description": "En cas de cessez-le-feu en Ukraine, une force multinationale pourrait aider à former et rééquiper l’armée ukrainienne. Le déploiement reste conditionnel.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "ONU : Washington rejette la régulation mondiale de l’IA, Paris et Pékin en profitent",
       "link": "https://armees.com/onu-washington-rejette-regulation-mondiale-ia-paris-pekin-profitent/",
@@ -189,13 +196,6 @@
       "link": "https://armees.com/societe-fintech-russe-transfert-fonds/",
       "pubDate": "2026-09-22T14:31:14.000Z",
       "description": "La société russe A7 a transféré 6,9 milliards de dollars via des banques internationales malgré les sanctions, utilisant 100 sociétés écrans réparties aux Émirats, Hong Kong et Chine. Standard Chartered et First Abu Dhabi Bank ont traité respectivement 1,1 et 1,8 milliard de dollars avant que l'UE et les États-Unis ne sanctionnent la fintech en juillet-août 2025. L'affaire révèle l'inefficacité des régimes de sanctions occidentaux face à une stratégie russe d'adaptation asymétrique sophistiquée.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La Pologne déploie un dispositif militaire d’envergure face aux menaces russes hybrides",
-      "link": "https://armees.com/pologne-dispositif-militaire-envergure-menaces-russes/",
-      "pubDate": "2026-09-22T14:06:18.000Z",
-      "description": "Face aux menaces russes hybrides documentées par les renseignements américains, la Pologne déploie un dispositif militaire d'ampleur : opérations aériennes préventives, construction d'un bouclier frontalier de 10 milliards d'euros, et accueil programmé de 15 000 soldats américains d'ici 2039.",
       "sourceKey": "armees_com"
     },
     {
