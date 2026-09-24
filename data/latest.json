@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T06:08:02.998Z",
+  "generatedAt": "2026-09-24T06:35:25.747Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "FBI piraté : 5000 agents exposés, une aubaine pour la Chine et la Russie",
+      "link": "https://armees.com/fbi-pirate-5000-agents-exposes-aubaine-chine-russie/",
+      "pubDate": "2026-09-24T06:11:48.000Z",
+      "description": "Le 22 septembre 2026, ShinyHunters revendique le piratage du FBI et le vol de données de plus de 5000 agents, incluant leurs affectations sur le contre-espionnage visant la Chine et la Russie. Exploitant une faille zero-day dans Oracle PeopleSoft, les hackers auraient accédé à l'infrastructure AWS GovCloud, exposant potentiellement des officiers travaillant sur des dossiers sensibles. Si les allégations se confirment, Washington fait face à une compromission stratégique majeure offrant aux services de renseignement adverses une cartographie inédite de son appareil de sécurité intérieure.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "L’armée américaine signe un contrat de 10,6 millions de dollars pour des drones de surveillance à longue portée ukrainiens",
       "link": "https://armees.com/larmee-americaine-signe-un-contrat-de-106-millions-de-dollars-pour-des-drones-de-surveillance-a-longue-portee-ukrainiens/",
@@ -203,13 +210,6 @@
       "link": "https://armees.com/coree-du-nord-affirme-teste-nouvelle-arme-hypersonique/",
       "pubDate": "2026-09-22T09:03:35.000Z",
       "description": "La Corée du Nord affirme avoir testé dimanche le missile hypersonique Hwasong-11Ma, atteignant Mach 6,3 et 908,2 km de portée selon Pyongyang. Mais Séoul n'a détecté que 450 et 600 kilomètres, soulevant des doutes sur la fiabilité des performances revendiquées. Analyse technique d'une arme entre propagande et menace réelle.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Pour éviter le dérapage de l’IA, les Etats-Unis et la Chine mettent en place une ligne d’urgence",
-      "link": "https://armees.com/pour-eviter-le-derapage-de-lia-les-etats-unis-et-la-chine-mettent-en-place-une-ligne-durgence/",
-      "pubDate": "2026-09-22T06:58:11.000Z",
-      "description": "Les États-Unis et la Chine envisagent un canal d’alerte sur les incidents liés à l’IA afin d’éviter une escalade militaire ou cyber incontrôlée.",
       "sourceKey": "armees_com"
     },
     {
