@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T06:35:25.747Z",
+  "generatedAt": "2026-09-24T06:51:21.507Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "ONU : Washington rejette la régulation mondiale de l’IA, Paris et Pékin en profitent",
+      "link": "https://armees.com/onu-washington-rejette-regulation-mondiale-ia-paris-pekin-profitent/",
+      "pubDate": "2026-09-24T06:30:21.000Z",
+      "description": "Le Conseil de sécurité de l'ONU a révélé mercredi 23 septembre une fracture géopolitique majeure sur la gouvernance de l'IA. Washington refuse catégoriquement toute supervision supranationale, tandis que Paris et Pékin tentent d'imposer un cadre régulateur mondial. Au-delà des alertes techniques de Sam Altman et Dario Amodei sur les risques existentiels, c'est une bataille pour la souveraineté technologique et militaire qui se joue, avec des implications directes pour la stabilité internationale.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "FBI piraté : 5000 agents exposés, une aubaine pour la Chine et la Russie",
       "link": "https://armees.com/fbi-pirate-5000-agents-exposes-aubaine-chine-russie/",
@@ -204,13 +211,6 @@
       "pubDate": "2026-09-22T09:54:31.000Z",
       "description": "Les militaires sont en première ligne face aux effets du changement climatique, explique la chercheuse Julia Tasse dans cet épisode du podcast « Chaleur humaine ».",
       "sourceKey": "geo"
-    },
-    {
-      "title": "La Corée du Nord affirme avoir testé une nouvelle arme hypersonique",
-      "link": "https://armees.com/coree-du-nord-affirme-teste-nouvelle-arme-hypersonique/",
-      "pubDate": "2026-09-22T09:03:35.000Z",
-      "description": "La Corée du Nord affirme avoir testé dimanche le missile hypersonique Hwasong-11Ma, atteignant Mach 6,3 et 908,2 km de portée selon Pyongyang. Mais Séoul n'a détecté que 450 et 600 kilomètres, soulevant des doutes sur la fiabilité des performances revendiquées. Analyse technique d'une arme entre propagande et menace réelle.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Dans la défense, les acquisitions et les levées de fonds atteignent des niveaux record",
