@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T14:06:45.498Z",
+  "generatedAt": "2026-09-24T14:31:03.244Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "KNDS France mise sur l’intercepteur AXS-µ1 d’Aerix Systems pour son système de lutte antidrone TARGAS DSP10",
+      "link": "https://www.opex360.com/2026/09/24/knds-france-mise-sur-lintercepteur-axs-%c2%b51-daerix-systems-pour-son-systeme-de-lutte-antidrone-targas-dsp10/",
+      "pubDate": "2026-09-24T14:16:52.000Z",
+      "description": "Lors du dernier salon de l’armement aéroterrestre EuroSatory, KNDS France a présenté le dispositif TARGAS [pour Tactical Advanced Response for Ground, Air and Surface threat], qu’il a décrit comme étant son «premier écosystème» de lutte antidrone [C-UAV] multicouche entièrement intégré et autonome, de la détection des menaces à leur neutralisation. L’idée de déployer une sorte...\nCet article KNDS France mise sur l’intercepteur AXS-µ1 d’Aerix Systems pour son système de lutte antidrone TARGAS DSP10 est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
     {
       "title": "La France a officiellement proposé le Rafale au Portugal",
       "link": "https://www.opex360.com/2026/09/24/la-france-a-officiellement-propose-le-rafale-au-portugal/",
@@ -239,13 +246,6 @@
       "pubDate": "2026-09-22T05:30:08.000Z",
       "description": "L’entreprise, dont la production de centrales inertielles a triplé depuis 2022, prépare un nouveau doublement de celle-ci en deux ans, portée par la demande militaire. Thales a déboursé 3,9 milliards d’euros pour s’emparer de cette technologie critique et contrer Safran, également sur les rangs pour acheter Exail.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "La marine allemande confirme son intention de doter ses avions de patrouille maritime de missiles antinavires JSM",
-      "link": "https://www.opex360.com/2026/09/21/la-marine-allemande-confirme-son-intention-de-doter-ses-avions-de-patrouille-maritime-de-missiles-antinavires-jsm/",
-      "pubDate": "2026-09-21T17:28:41.000Z",
-      "description": "Depuis qu’elle a transféré ses chasseurs-bombardiers PANAVIA Tornado à la Luftwaffe, au début des années 2000, l’aviation navale allemande [MarineFlieger] ne dispose plus de capacités de frappe antinavire. Cependant, elle devrait bientôt remédier partiellement à ce déficit capacitaire avec ses hélicoptères embarqués NH90 «Sea Tiger» puisque ces derniers pourront emporter le missile Marte ER [Extended...\nCet article La marine allemande confirme son intention de doter ses avions de patrouille maritime de missiles antinavires JSM est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Contractualisations en vue pour la défense sol-air belge",
