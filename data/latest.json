@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T10:06:33.213Z",
+  "generatedAt": "2026-09-25T10:29:48.555Z",
   "sources": [
     {
       "key": "opex",
@@ -24,11 +24,25 @@
   ],
   "items": [
     {
+      "title": "Le ministère des Armées accélère sur le calcul quantique en lançant le projet «ALIQUANTE»",
+      "link": "https://www.opex360.com/2026/09/25/le-ministere-des-armees-accelere-sur-le-calcul-quantique-en-lancant-le-projet-aliquante/",
+      "pubDate": "2026-09-25T10:29:00.000Z",
+      "description": "En informatique, un bit, c’est-à-dire l’unité de base d’une information, ne peut prendre que deux valeurs : le 0 ou le 1. Mais la physique quantique, qui décrit des phénomènes que l’on ne peut observer qu’à l’échelle atomique [ou subatomique], explique qu’une «onde-corpuscule» peut se trouver simultanément dans deux états différents. Cette propriété fait qu’un...\nCet article Le ministère des Armées accélère sur le calcul quantique en lançant le projet «ALIQUANTE» est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
       "title": "Le RN et LFI opposés à l’envoi de militaires français en Arabie saoudite, annoncé par Emmanuel Macron",
       "link": "https://www.lemonde.fr/politique/article/2026/09/25/le-rn-et-lfi-opposes-a-l-envoi-de-militaires-francais-annonce-par-emmanuel-macron-pour-proteger-le-port-petrolier-saoudien-de-yanbou_6782352_823448.html",
       "pubDate": "2026-09-25T09:32:43.000Z",
       "description": "Le chef de l’Etat a annoncé, jeudi soir, l’envoi de « moyens militaires, c’est-à-dire des soldats, des radars, des systèmes de défense », pour protéger le site de Yanbou, principal terminal saoudien d’exportation de brut sur la mer Rouge qui est la cible des houthistes du Yémen.",
       "sourceKey": "geo"
+    },
+    {
+      "title": "Prix du carburant en France : l’Élysée mise sur la sécurisation des approvisionnements",
+      "link": "https://armees.com/prix-du-carburant-en-france-lelysee-mise-sur-la-securisation-des-approvisionnements/",
+      "pubDate": "2026-09-25T08:14:37.000Z",
+      "description": "Face à la hausse du carburant, la France prévoit de protéger le terminal saoudien de Yanbou. Une baisse des taxes reste possible, sans être décidée.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Drones russes en Méditerranée : Paris et Rome contestent une alerte visant l’Europe du Sud",
@@ -213,13 +227,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Pilatus PC-7 MKX : Babcock s’établit à Salon-de-Provence",
-      "link": "https://armees.com/pilatus-pc-7-mkx-babcock-s-etablit-salon-provence/",
-      "pubDate": "2026-09-23T07:33:28.000Z",
-      "description": "L'arrivée des équipes de Babcock International à Salon-de-Provence concrétise le programme Mentor 2. Le Pilatus PC-7 MKX entre en phase opérationnelle avec un objectif d'entrée en service en 2027, marquant la modernisation de la formation des pilotes de l'armée de l'Air et de l'Espace.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Dissuasion nucléaire française : la Lettonie annonce qu’Emmanuel Macron a accepté d’ouvrir des discussions",
       "link": "https://www.lemonde.fr/international/article/2026/09/22/dissuasion-nucleaire-francaise-la-lettonie-annonce-qu-emmanuel-macron-a-accepte-d-ouvrir-des-discussions_6780295_3210.html",
       "pubDate": "2026-09-22T20:01:56.000Z",
@@ -231,13 +238,6 @@
       "link": "https://www.opex360.com/2026/09/22/dassault-aviation-a-integre-deux-nouvelles-fonctions-basees-sur-lintelligence-artificielle-a-bord-du-rafale/",
       "pubDate": "2026-09-22T17:36:07.000Z",
       "description": "Lors du salon international «Adopt AI», organisé à Paris en novembre 2025, et après avoir signé un protocole d’accord avec l’Agence ministérielle pour l’intelligence artificielle de défense [AMIAD], Dassault Aviation fit savoir qu’il avait scellé un partenariat stratégique avec Thales pour le «développement d’une IA maîtrisée et supervisée pour l’aéronautique de défense». Puis, en janvier...\nCet article Dassault Aviation a intégré deux nouvelles fonctions basées sur l’intelligence artificielle à bord du Rafale est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "La Marine royale canadienne s’intéresse aussi à la vedette rapide suédoise CB90 pour ses opérations littorales",
-      "link": "https://www.opex360.com/2026/09/22/la-marine-royale-canadienne-sinteresse-aussi-a-la-vedette-rapide-suedoise-cb90-pour-ses-operations-littorales/",
-      "pubDate": "2026-09-22T16:55:24.000Z",
-      "description": "En 2025, le programme des Vedettes de fusiliers marins [VFM] étant en difficulté, malgré la livraison de deux premières unités sur les douze commandées, la Marine nationale se fit prêter trois vedettes rapides CB90 [Combat Boat 90] par les forces armées suédoises à des fins d’évaluation et d’expérimentation. A priori, ces embarcations ont donné pleinement...\nCet article La Marine royale canadienne s’intéresse aussi à la vedette rapide suédoise CB90 pour ses opérations littorales est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
