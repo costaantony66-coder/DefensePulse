@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T07:47:46.980Z",
+  "generatedAt": "2026-09-25T08:06:37.957Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Déploiement militaire français à Yanbu : quelle stratégie face à la crise du carburant ?",
+      "link": "https://armees.com/crise-du-carburant-deploiement-militaire-francais/",
+      "pubDate": "2026-09-25T06:59:30.000Z",
+      "description": "Emmanuel Macron annonce l'envoi de soldats, radars et systèmes de défense pour protéger le terminal pétrolier de Yanbu en Arabie saoudite, face à la crise du carburant qui pousse le gazole à 2,40 euros le litre. Mais au-delà de la communication présidentielle, quelles capacités militaires réelles face aux menaces Houthis ? Analyse d'un dispositif défensif aux contours encore incertains.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "La 1re division en pointe sur le prochain jalon de transformation de l’armée de Terre",
       "link": "https://forcesoperations.com/la-1re-division-en-pointe-sur-le-prochain-jalon-de-transformation-de-larmee-de-terre/",
@@ -203,13 +210,6 @@
       "link": "https://armees.com/notices-argents-comment-interpol-traque-largent-des-criminels/",
       "pubDate": "2026-09-23T05:41:05.000Z",
       "description": "Depuis 2025, les notices argent d’Interpol aident les enquêteurs à retrouver des avoirs cachés à l’étranger. Premiers résultats et limites du dispositif.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : l’escalade s’intensifie, Trump retourne précipitamment à Washington",
-      "link": "https://armees.com/guerre-au-moyen-orient-lescalade-sintensifie-trump-retourne-precipitamment-a-washington/",
-      "pubDate": "2026-09-23T05:35:08.000Z",
-      "description": "Deux explosions au cœur de Riyad, du jamais-vu depuis juillet. Trump écourte son week-end à Camp David, Washington craint le pire. Le pétrole flambe déjà au-dessus des 100 dollars, jusqu'où ira cette escalade ?",
       "sourceKey": "armees_com"
     },
     {
