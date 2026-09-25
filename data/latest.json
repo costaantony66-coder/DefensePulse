@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T23:05:41.442Z",
+  "generatedAt": "2026-09-25T23:26:41.201Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "IA : la mise à l’écart d’Anthropic par le Pentagone confirmée par la justice",
+      "link": "https://www.lemonde.fr/economie/article/2026/09/26/ia-la-mise-a-l-ecart-d-anthropic-par-le-pentagone-confirmee-par-la-justice_6782773_3234.html",
+      "pubDate": "2026-09-25T23:26:36.000Z",
+      "description": "La cour d’appel de Washington a jugé conforme, vendredi, la mise à l’index de la start-up d’intelligence artificielle qui avait refusé, en février, de laisser l’armée américaine utiliser sans restriction son modèle, Claude.",
+      "sourceKey": "geo"
+    },
     {
       "title": "À la suite de Dassault Aviation, Airbus va faire une offre «non sollicitée» au Portugal pour remplacer ses F-16",
       "link": "https://www.opex360.com/2026/09/25/a-la-suite-de-dassault-aviation-airbus-va-faire-une-offre-non-sollicitee-au-portugal-pour-remplacer-ses-f-16/",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/08/14/apres-plus-de-huit-mois-en-mer-les-conditions-de-vie-a-bord-du-porte-avions-abraham-lincoln-inquietent_6746108_3210.html",
       "pubDate": "2026-08-14T03:30:41.000Z",
       "description": "Des élus démocrates réclament des explications après des signalements de pénuries, de problèmes sanitaires et d’une dégradation de la santé mentale à bord du navire. Le média spécialisé « Navy Times » rapporte que deux marins auraient tenté de se suicider en se jetant par-dessus bord.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Frappes russes meurtrières en Ukraine et guerre hybride contre l’Europe : les alliés de Kiev entrent dans une phase accrue d’incertitude",
-      "link": "https://www.lemonde.fr/international/article/2026/08/13/guerre-en-ukraine-face-a-moscou-les-allies-de-kiev-sont-entres-dans-une-phase-accrue-d-incertitude_6745505_3210.html",
-      "pubDate": "2026-08-13T04:00:14.000Z",
-      "description": "La Russie intensifie ses frappes en profondeur sur le sol ukrainien et poursuit sa guerre indirecte contre les autres pays européens, au moment où le soutien des Etats-Unis s’essouffle. Washington alerte sur une possible agression russe pour tester les défenses occidentales.",
       "sourceKey": "geo"
     }
   ]
