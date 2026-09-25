@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T05:47:07.854Z",
+  "generatedAt": "2026-09-25T06:08:08.427Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Renault s’associe à Thales pour un drone militaire : pourquoi un constructeur automobile se lance dans la défense, et ce que ça change",
+      "link": "https://armees.com/renault-sassocie-a-thales-pour-un-drone-militaire-pourquoi-un-constructeur-automobile-se-lance-dans-la-defense-et-ce-que-ca-change/",
+      "pubDate": "2026-09-25T05:35:00.000Z",
+      "description": "1 000 drones explosifs par mois, fabriqués dans une usine automobile française. Renault et Thales dévoilent leur pari le plus surprenant pour réarmer l'Europe. Comment une carrosserie de voiture devient une arme de guerre ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La marine allemande arme ses avions de patrouille avec le missile JSM : un choix qui surprend les états-majors européens",
+      "link": "https://armees.com/la-marine-allemande-arme-ses-avions-de-patrouille-avec-le-missile-jsm-un-choix-qui-surprend-les-etats-majors-europeens/",
+      "pubDate": "2026-09-25T05:05:00.000Z",
+      "description": "Portée jusqu'à 555 km, vol à très basse altitude, autodirecteur infrarouge : le JSM pourrait enfin donner des dents à la flotte de patrouille allemande. Reste une question, celle de la qualification du P-8A pour le tirer.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Marine nationale : Trop coûteux, le projet d’avion de patrouille maritime A321 PATMAR ne sera pas lancé en 2026",
       "link": "https://www.opex360.com/2026/09/24/marine-nationale-trop-couteux-le-projet-davion-de-patrouille-maritime-a321-patmar-ne-sera-pas-lance-en-2026/",
@@ -57,13 +71,6 @@
       "pubDate": "2026-09-24T10:33:57.000Z",
       "description": "Essai transformé pour le droniste française Harmattan AI, dont le drone intercepteur de drones GOBI vient d'être retenu par la Direction générale de l’armement pour rejoindre l’arsenal des armées françaises.\nThe post L’intercepteur d’Harmattan AI retenu par les armées françaises appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Mutuelle militaire et mutuelle classique : quelles différences depuis la réforme de 2026 ?",
-      "link": "https://armees.com/difference-mutuelle-militaire-mutuelle-grand-public-2/",
-      "pubDate": "2026-09-24T10:00:38.000Z",
-      "description": "Depuis le 1er janvier 2026, tout militaire peut souscrire une prévoyance complémentaire subventionnée par le ministère des Armées à hauteur de sept euros par mois. Et jusqu'au 31 décembre 2026, l'adhésion se fait sans questionnaire médical, comme l'indique le Secrétariat général pour l'administration. Passé cette date, la fenêtre se referme.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Ukraine : la France prépare le renforcement militaire après un éventuel cessez-le-feu",
@@ -217,13 +224,6 @@
       "link": "https://armees.com/groenland-washington-bases-militaires/",
       "pubDate": "2026-09-22T14:55:47.000Z",
       "description": "Ce 22 septembre 2026, les États-Unis, le Danemark et le Groenland ont signé un accord tripartite rétablissant deux bases militaires américaines au Groenland : Narsarsuaq et Mestersvig. Après trois décennies de réduction drastique (de 17 installations et 10 000 militaires à une seule base avec 150 personnels), Washington inverse sa stratégie arctique face aux ambitions russes et chinoises.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Pape Léon XIV : l’armée française transforme la visite en test opérationnel",
-      "link": "https://armees.com/pape-leon-xiv-armee-francaise-transforme-test/",
-      "pubDate": "2026-09-22T14:45:00.000Z",
-      "description": "L'armée de l'Air et de l'Espace transforme la visite du pape Léon XIV en test opérationnel grandeur nature pour ses systèmes anti-drones. 130 spécialistes déploient des mini-drones intercepteurs, des caméras de détection et des brouilleurs magnétiques, mobilisant des capacités jusqu'alors réservées aux opérations extérieures.",
       "sourceKey": "armees_com"
     },
     {
