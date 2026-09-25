@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T08:06:37.957Z",
+  "generatedAt": "2026-09-25T08:31:46.053Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Drones russes en Méditerranée : Paris et Rome contestent une alerte visant l’Europe du Sud",
+      "link": "https://armees.com/drones-russes-en-mediterranee-paris-et-rome-contestent-une-alerte-visant-leurope-du-sud/",
+      "pubDate": "2026-09-25T08:03:20.000Z",
+      "description": "Une attaque de drones russes depuis des navires en Méditerranée a été évoquée par la presse espagnole. Que sait-on du scénario et des démentis officiels ?",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Déploiement militaire français à Yanbu : quelle stratégie face à la crise du carburant ?",
       "link": "https://armees.com/crise-du-carburant-deploiement-militaire-francais/",
@@ -203,13 +210,6 @@
       "link": "https://armees.com/pilatus-pc-7-mkx-babcock-s-etablit-salon-provence/",
       "pubDate": "2026-09-23T07:33:28.000Z",
       "description": "L'arrivée des équipes de Babcock International à Salon-de-Provence concrétise le programme Mentor 2. Le Pilatus PC-7 MKX entre en phase opérationnelle avec un objectif d'entrée en service en 2027, marquant la modernisation de la formation des pilotes de l'armée de l'Air et de l'Espace.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Notices argents : comment Interpol traque l’argent des criminels",
-      "link": "https://armees.com/notices-argents-comment-interpol-traque-largent-des-criminels/",
-      "pubDate": "2026-09-23T05:41:05.000Z",
-      "description": "Depuis 2025, les notices argent d’Interpol aident les enquêteurs à retrouver des avoirs cachés à l’étranger. Premiers résultats et limites du dispositif.",
       "sourceKey": "armees_com"
     },
     {
