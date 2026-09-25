@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T09:30:43.528Z",
+  "generatedAt": "2026-09-25T09:47:44.106Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Le RN et LFI opposés à l’envoi de militaires français en Arabie saoudite, annoncé par Emmanuel Macron",
+      "link": "https://www.lemonde.fr/politique/article/2026/09/25/le-rn-et-lfi-opposes-a-l-envoi-de-militaires-francais-annonce-par-emmanuel-macron-pour-proteger-le-port-petrolier-saoudien-de-yanbou_6782352_823448.html",
+      "pubDate": "2026-09-25T09:32:43.000Z",
+      "description": "Le chef de l’Etat a annoncé, jeudi soir, l’envoi de « moyens militaires, c’est-à-dire des soldats, des radars, des systèmes de défense », pour protéger le site de Yanbou, principal terminal saoudien d’exportation de brut sur la mer Rouge qui est la cible des houthistes du Yémen.",
+      "sourceKey": "geo"
+    },
     {
       "title": "Drones russes en Méditerranée : Paris et Rome contestent une alerte visant l’Europe du Sud",
       "link": "https://armees.com/drones-russes-en-mediterranee-paris-et-rome-contestent-une-alerte-visant-leurope-du-sud/",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/08/13/guerre-en-ukraine-face-a-moscou-les-allies-de-kiev-sont-entres-dans-une-phase-accrue-d-incertitude_6745505_3210.html",
       "pubDate": "2026-08-13T04:00:14.000Z",
       "description": "La Russie intensifie ses frappes en profondeur sur le sol ukrainien et poursuit sa guerre indirecte contre les autres pays européens, au moment où le soutien des Etats-Unis s’essouffle. Washington alerte sur une possible agression russe pour tester les défenses occidentales.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "La Corée du Nord a tiré un missile balistique en direction de la mer du Japon, selon Séoul ; le deuxième en une semaine",
-      "link": "https://www.lemonde.fr/international/article/2026/08/12/la-coree-du-nord-a-tire-un-missile-balistique-en-direction-de-la-mer-du-japon-selon-seoul-son-deuxieme-en-une-semaine_6744396_3210.html",
-      "pubDate": "2026-08-11T23:37:09.000Z",
-      "description": "Cette démonstration de Pyongyang, mercredi 12 août, survient alors que la Corée du Sud et les Etats-Unis s’apprêtent à mener conjointement leurs exercices militaires annuels.",
       "sourceKey": "geo"
     }
   ]
