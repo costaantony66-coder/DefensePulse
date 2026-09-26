@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T03:46:25.300Z",
+  "generatedAt": "2026-09-26T04:06:03.435Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "La guerre intérieure de Jérôme, ancien soldat victime de stress post-traumatique : « Cela aurait été plus simple d’avoir une jambe en moins »",
+      "link": "https://www.lemonde.fr/m-le-mag/article/2026/09/26/la-guerre-interieure-de-jerome-ancien-soldat-victime-de-stress-post-traumatique-cela-aurait-ete-plus-simple-d-avoir-une-jambe-en-moins_6783013_4500055.html",
+      "pubDate": "2026-09-26T04:00:37.000Z",
+      "description": "Le caporal-chef a pris part aux opérations extérieures de la France, notamment en Afghanistan et au Mali. Depuis la fin de sa carrière, en 2016, il multiplie accès de colère, crises d’angoisse, cauchemars… Et rien ne parvient à le guérir. Longtemps dans le déni, l’armée commence à prendre la mesure de cette blessure psychique, dévastatrice pour les militaires et leur entourage. Une unité consacrée à ces troubles doit ouvrir, en octobre, aux Invalides.",
+      "sourceKey": "geo"
+    },
     {
       "title": "IA : la mise à l’écart d’Anthropic par le Pentagone confirmée par la justice",
       "link": "https://www.lemonde.fr/economie/article/2026/09/26/ia-la-mise-a-l-ecart-d-anthropic-par-le-pentagone-confirmee-par-la-justice_6782773_3234.html",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/08/15/catapultes-americaines-aucun-risque-identifie-pour-le-futur-porte-avions-francais-france-libre-selon-le-ministere-des-armees_6746660_3210.html",
       "pubDate": "2026-08-15T10:34:43.000Z",
       "description": "La décision de Donald Trump de renoncer aux catapultes électromagnétiques est supposée entrer en vigueur pour un porte-avions devant être livré en 2034. Or, les trois autres bâtiments de classe Ford antérieurs sont ou seront équipés de catapultes modernes, ce qui devrait suffire à garantir la filière, estime le ministère français.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Porte-avions américain « Abraham-Lincoln » : après plus de huit mois en mer, les conditions de vie à bord inquiètent",
-      "link": "https://www.lemonde.fr/international/article/2026/08/14/apres-plus-de-huit-mois-en-mer-les-conditions-de-vie-a-bord-du-porte-avions-abraham-lincoln-inquietent_6746108_3210.html",
-      "pubDate": "2026-08-14T03:30:41.000Z",
-      "description": "Des élus démocrates réclament des explications après des signalements de pénuries, de problèmes sanitaires et d’une dégradation de la santé mentale à bord du navire. Le média spécialisé « Navy Times » rapporte que deux marins auraient tenté de se suicider en se jetant par-dessus bord.",
       "sourceKey": "geo"
     }
   ]
