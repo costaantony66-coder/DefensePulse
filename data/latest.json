@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T06:08:08.629Z",
+  "generatedAt": "2026-09-27T06:34:54.452Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "La police a terminé l’enquête sur l’attaque présumée au spray au poivre contre un garçon arménien de 9 ans à Jérusalem",
+      "link": "https://armees.com/la-police-a-termine-lenquete-sur-lattaque-presumee-au-spray-au-poivre-contre-un-garcon-armenien-de-9-ans-a-jerusalem/",
+      "pubDate": "2026-09-27T05:35:15.000Z",
+      "description": "Un enfant de 9 ans aspergé de gaz poivre en pleine rue, filmé par des caméras de sécurité. Pourtant, aucune arrestation. Ce qui s'est passé ensuite laisse sa mère sans voix.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’armée de Trump se prépare pour Cuba, un mémo du Pentagone fuit et lance un signal",
+      "link": "https://armees.com/larmee-de-trump-se-prepare-pour-cuba-un-memo-du-pentagone-fuit-et-lance-un-signal/",
+      "pubDate": "2026-09-27T05:05:11.000Z",
+      "description": "Six unités militaires, 90 à 120 jours, une échéance qui tombe pile pour Noël. Trump promet la chute du régime devant l'ONU. Que prépare vraiment Washington pour Cuba ?",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "La marine indienne envisage de se doter d’une flotte d’avions ravitailleurs",
       "link": "https://www.opex360.com/2026/09/26/la-marine-indienne-envisage-de-se-doter-dune-flotte-davions-ravitailleurs/",
@@ -239,20 +253,6 @@
       "pubDate": "2026-09-23T13:28:13.000Z",
       "description": "Entre le mortier tracté de 120 mm et le Griffon MEPAC, il reste un écart que seuls quelques systèmes embarqués sont susceptibles de combler. Parmi eux, l'Alakran poussé en France par TR Equipement, un système dont l'évaluation a démarré avec les armées françaises et pourrait s'étendre dès l'an prochain.  Muscler l'appui au contact, voilà ce […]\nThe post Une voie médiane à l’étude pour muscler l’appui au contact appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "ONU : Macron et Netanyahu s’affrontent sur la menace du Hamas en Cisjordanie",
-      "link": "https://armees.com/onu-macron-netanyahu-s-affrontent-menace-hamas-cisjordanie/",
-      "pubDate": "2026-09-23T09:49:35.000Z",
-      "description": "Le meurtre d'un colon franco-israélien le 21 septembre et les propos d'Emmanuel Macron à l'ONU sur l'absence du Hamas en Cisjordanie déclenchent une crise diplomatique avec Israël. Au-delà de la polémique, ce débat révèle deux lectures opposées de la menace sécuritaire dans un territoire où les Nations Unies recensent 6 incidents violents quotidiens.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Intercepteur Sting S : l’arme ukrainienne qui neutralise les drones russes",
-      "link": "https://armees.com/intercepteur-sting-s-arme-ukrainienne-neutralise-drones-russes/",
-      "pubDate": "2026-09-23T09:36:03.000Z",
-      "description": "Wild Hornets annonce que son intercepteur Sting S a abattu une douzaine de drones russes Geran-4 et plusieurs mini-missiles Geran-5 lors de tests en conditions réelles. Avec un taux de réussite de 80 à 100%, ce quadricoptère ultrarapide pourrait transformer la défense aérienne ukrainienne dès le lancement de sa production en série.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Dissuasion nucléaire française : la Lettonie annonce qu’Emmanuel Macron a accepté d’ouvrir des discussions",
