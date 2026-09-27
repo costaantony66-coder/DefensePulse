@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T13:27:58.021Z",
+  "generatedAt": "2026-09-27T13:45:43.331Z",
   "sources": [
     {
       "key": "opex",
@@ -24,18 +24,18 @@
   ],
   "items": [
     {
+      "title": "Un « incident majeur » près d’une base utilisée par l’aviation américaine au Royaume-Uni, cinq arrestations",
+      "link": "https://www.lemonde.fr/international/article/2026/09/27/un-incident-majeur-pres-d-une-base-utilisee-par-l-aviation-americaine-au-royaume-uni-cinq-arrestations_6784099_3211.html",
+      "pubDate": "2026-09-27T13:30:32.000Z",
+      "description": "Des démineurs ont inspecté « plusieurs véhicules » près d’une base de la Royal Air Force à Fairford et des habitations à proximité ont été évacuées, a précisé la police du Gloucestershire.",
+      "sourceKey": "geo"
+    },
+    {
       "title": "Général Mandon : «On ne fait pas ce métier à moitié»",
       "link": "https://www.opex360.com/2026/09/27/general-mandon-on-ne-fait-pas-ce-metier-a-moitie/",
       "pubDate": "2026-09-27T11:16:17.000Z",
       "description": "«Lorsque la prudence est partout, le courage n’est nulle part». Cette formule du cardinal Mercier [1851-1926], que le président Jacques Chirac fit sienne en 1994, est-elle pertinente pour les militaires ? Le Diocèse aux Armées françaises y a répondu en affirmant que la «prudence militaire est directement orientée vers un bien commun et non pas...\nCet article Général Mandon : «On ne fait pas ce métier à moitié» est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Royaume-Uni : la police antiterroriste saisie après un « incident majeur » près d’une base utilisée par l’armée de l’air américaine",
-      "link": "https://www.lemonde.fr/international/article/2026/09/27/au-royaume-uni-la-police-evoque-un-incident-majeur-apres-l-arrestation-de-plusieurs-personnes-pres-d-une-base-de-l-armee-de-l-air_6784099_3210.html",
-      "pubDate": "2026-09-27T10:00:58.000Z",
-      "description": "La police du Gloucestershire a annoncé l’arrestation de plusieurs hommes « pour des infractions présumées à la loi sur les explosifs », dans l’ouest de l’Angleterre.",
-      "sourceKey": "geo"
     },
     {
       "title": "Royaume-Uni : Un «incident majeur» est en cours près de la base aérienne de Fairford, utilisée par l’US Air Force",
