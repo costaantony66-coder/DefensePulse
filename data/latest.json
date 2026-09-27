@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T13:45:43.331Z",
+  "generatedAt": "2026-09-27T14:05:50.400Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Arabie saoudite : les moyens militaires français envoyés seront « strictement défensifs », affirme Jean-Noël Barrot",
+      "link": "https://www.lemonde.fr/international/article/2026/09/27/arabie-saoudite-les-moyens-militaires-francais-envoyes-seront-strictement-defensifs-affirme-jean-noel-barrot_6784407_3210.html",
+      "pubDate": "2026-09-27T13:55:45.000Z",
+      "description": "Emmanuel Macron a annoncé l’envoi « de soldats, de radars, de systèmes de défense pour protéger » sur le site de Yanbou, principal terminal saoudien d’exportation de brut sur la mer Rouge ciblé par les houthistes du Yémen.",
+      "sourceKey": "geo"
+    },
     {
       "title": "Un « incident majeur » près d’une base utilisée par l’aviation américaine au Royaume-Uni, cinq arrestations",
       "link": "https://www.lemonde.fr/international/article/2026/09/27/un-incident-majeur-pres-d-une-base-utilisee-par-l-aviation-americaine-au-royaume-uni-cinq-arrestations_6784099_3211.html",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/08/31/la-suede-signe-un-contrat-de-4-3-milliards-d-euros-pour-l-acquisition-de-quatre-fregates-francaises_6762592_3210.html",
       "pubDate": "2026-08-31T14:56:31.000Z",
       "description": "Emmanuel Macron et le premier ministre suédois, Ulf Kristersson, ont renforcé lundi à Stockholm la coopération entre les deux pays en matière de défense, facilitée par l’adhésion du pays nordique à l’OTAN.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Donald Trump décrète l’état d’urgence sur le réseau électrique, une mesure qui vise la Chine sans la nommer",
-      "link": "https://www.lemonde.fr/international/article/2026/08/27/donald-trump-decrete-l-etat-d-urgence-sur-le-reseau-electrique-une-mesure-qui-vise-la-chine-sans-la-nommer_6757697_3210.html",
-      "pubDate": "2026-08-27T00:59:59.000Z",
-      "description": "Cette décision, annoncée mercredi 26 août, interdit l’achat et l’installation d’équipements de réseau provenant de pays sous embargo ou sanctions américaines sur le commerce des armes. Parmi les Etats figurant sur cette liste, seule la Chine exporte ce genre de matériel vers les Etats-Unis.",
       "sourceKey": "geo"
     }
   ]
