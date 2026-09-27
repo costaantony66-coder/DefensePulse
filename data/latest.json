@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T09:46:50.316Z",
+  "generatedAt": "2026-09-27T10:06:21.826Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Au Royaume-Uni, la police évoque un « incident majeur » après l’arrestation de plusieurs personnes près d’une base de l’armée de l’air",
+      "link": "https://www.lemonde.fr/international/article/2026/09/27/au-royaume-uni-la-police-evoque-un-incident-majeur-apres-l-arrestation-de-plusieurs-personnes-pres-d-une-base-de-l-armee-de-l-air_6784099_3210.html",
+      "pubDate": "2026-09-27T10:00:59.000Z",
+      "description": "Des démineurs militaires examinent plusieurs véhicules près de la base de Fairford, d’où l’armée américaine est autorisée à frapper des sites de missiles iraniens, et des habitations du village voisin de Whelford ont été évacuées.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Royaume-Uni : Un «incident majeur» est en cours près de la base aérienne de Fairford, utilisée par l’US Air Force",
+      "link": "https://www.opex360.com/2026/09/27/royaume-uni-un-incident-majeur-est-en-cours-pres-de-la-base-aerienne-de-fairford-utilisee-par-lus-air-force/",
+      "pubDate": "2026-09-27T09:52:46.000Z",
+      "description": "En 2024, plusieurs bases américaines en Europe, dont celles de Ramstein, de Spangdahlem et d’Aviano, furent placées en état d’alerte renforcée en raison d’une «combinaison de facteurs susceptibles d’avoir un impact sur la sûreté et la sécurité des militaires et leurs familles stationnés sur le théâtre européen». Deux hypothèses avaient été avancées à l’époque pour...\nCet article Royaume-Uni : Un «incident majeur» est en cours près de la base aérienne de Fairford, utilisée par l’US Air Force est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
     {
       "title": "La police a terminé l’enquête sur l’attaque présumée au spray au poivre contre un garçon arménien de 9 ans à Jérusalem",
       "link": "https://armees.com/la-police-a-termine-lenquete-sur-lattaque-presumee-au-spray-au-poivre-contre-un-garcon-armenien-de-9-ans-a-jerusalem/",
@@ -196,13 +210,6 @@
       "link": "https://www.opex360.com/2026/09/24/litalie-lance-la-construction-de-deux-nouveaux-destroyers-de-13-500-tonnes-pour-37-milliards-deuros/",
       "pubDate": "2026-09-24T16:11:29.000Z",
       "description": "Régulièrement évoqué dans les documents de programmation pluriannuelle [DPP, pour Documento Programmatico Pluriennale] du ministère italien de la Défense, le projet de doter la Marina Militare de deux nouveaux «destroyers» [ou Cacciatorpediniere dans la langue de Dante] vient de se concrétiser avec la notification des premiers contrats aux industriels. En effet, ce 24 septembre, Orizzonte...\nCet article L’Italie lance la construction de deux nouveaux «destroyers» de 13 500 tonnes pour 3,7 milliards d’euros est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "KNDS France mise sur l’intercepteur AXS-µ1 d’Aerix Systems pour son système de lutte antidrone TARGAS DSP10",
-      "link": "https://www.opex360.com/2026/09/24/knds-france-mise-sur-lintercepteur-axs-%c2%b51-daerix-systems-pour-son-systeme-de-lutte-antidrone-targas-dsp10/",
-      "pubDate": "2026-09-24T14:16:52.000Z",
-      "description": "Lors du dernier salon de l’armement aéroterrestre EuroSatory, KNDS France a présenté le dispositif TARGAS [pour Tactical Advanced Response for Ground, Air and Surface threat], qu’il a décrit comme étant son «premier écosystème» de lutte antidrone [C-UAV] multicouche entièrement intégré et autonome, de la détection des menaces à leur neutralisation. L’idée de déployer une sorte...\nCet article KNDS France mise sur l’intercepteur AXS-µ1 d’Aerix Systems pour son système de lutte antidrone TARGAS DSP10 est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/08/27/donald-trump-decrete-l-etat-d-urgence-sur-le-reseau-electrique-une-mesure-qui-vise-la-chine-sans-la-nommer_6757697_3210.html",
       "pubDate": "2026-08-27T00:59:59.000Z",
       "description": "Cette décision, annoncée mercredi 26 août, interdit l’achat et l’installation d’équipements de réseau provenant de pays sous embargo ou sanctions américaines sur le commerce des armes. Parmi les Etats figurant sur cette liste, seule la Chine exporte ce genre de matériel vers les Etats-Unis.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Défense : les exportations d’armes françaises encore à des sommets en 2025",
-      "link": "https://www.lemonde.fr/economie/article/2026/08/20/defense-les-exportations-d-armes-francaises-encore-a-des-sommets-en-2025_6750975_3234.html",
-      "pubDate": "2026-08-20T13:00:04.000Z",
-      "description": "Grâce notamment aux ventes de Rafale à l’Inde et de missiles, la France a exporté pour 21,2 milliards d’euros d’armements en 2025, soit autant qu’en 2024. Si elle reste le deuxième exportateur mondial d’armes, loin derrière les Etats-Unis, elle fait face à la concurrence de nouveaux pays.",
       "sourceKey": "geo"
     }
   ]
