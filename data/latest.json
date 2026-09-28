@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:12:38.277Z",
+  "generatedAt": "2026-09-28T07:32:31.298Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Ukraine : vers une armée de robots ?",
+      "link": "https://armees.com/ukraine-vers-une-armee-de-robots/",
+      "pubDate": "2026-09-28T07:13:02.000Z",
+      "description": "L’Ukraine multiplie les missions de robots terrestres. Un nouveau projet vise désormais des machines humanoïdes capables d’intervenir au combat.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Moyen-Orient : en Arabie saoudite, une présence française strictement défensive",
+      "link": "https://armees.com/moyen-orient-en-arabie-saoudite-une-presence-francaise-strictement-defensive/",
+      "pubDate": "2026-09-28T07:01:57.000Z",
+      "description": "Pourquoi la France veut-elle protéger Yanbu, en Arabie saoudite ? Les objectifs du déploiement, son enjeu pétrolier et les questions encore ouvertes.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Trump refuse l’accord sur l’Iran, promettant la réouverture du détroit d’Hormuz en sept jours",
       "link": "https://armees.com/trump-refuse-laccord-sur-liran-promettant-la-reouverture-du-detroit-dhormuz-en-sept-jours/",
@@ -246,20 +260,6 @@
       "pubDate": "2026-09-24T10:33:57.000Z",
       "description": "Essai transformé pour le droniste française Harmattan AI, dont le drone intercepteur de drones GOBI vient d'être retenu par la Direction générale de l’armement pour rejoindre l’arsenal des armées françaises.\nThe post L’intercepteur d’Harmattan AI retenu par les armées françaises appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Ukraine : la France prépare le renforcement militaire après un éventuel cessez-le-feu",
-      "link": "https://armees.com/ukraine-la-france-prepare-le-renforcement-militaire-apres-un-eventuel-cessez-le-feu/",
-      "pubDate": "2026-09-24T07:21:23.000Z",
-      "description": "En cas de cessez-le-feu en Ukraine, une force multinationale pourrait aider à former et rééquiper l’armée ukrainienne. Le déploiement reste conditionnel.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "ONU : Washington rejette la régulation mondiale de l’IA, Paris et Pékin en profitent",
-      "link": "https://armees.com/onu-washington-rejette-regulation-mondiale-ia-paris-pekin-profitent/",
-      "pubDate": "2026-09-24T06:30:21.000Z",
-      "description": "Le Conseil de sécurité de l'ONU a révélé mercredi 23 septembre une fracture géopolitique majeure sur la gouvernance de l'IA. Washington refuse catégoriquement toute supervision supranationale, tandis que Paris et Pékin tentent d'imposer un cadre régulateur mondial. Au-delà des alertes techniques de Sam Altman et Dario Amodei sur les risques existentiels, c'est une bataille pour la souveraineté technologique et militaire qui se joue, avec des implications directes pour la stabilité internationale.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Une voie médiane à l’étude pour muscler l’appui au contact",
