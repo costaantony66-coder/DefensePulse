@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T14:09:02.319Z",
+  "generatedAt": "2026-09-28T14:34:17.277Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "La Suisse refuse de durcir sa neutralité : un rejet massif à 70,1%",
+      "link": "https://armees.com/suisse-refuse-durcir-neutralite-rejet-massif-70-1/",
+      "pubDate": "2026-09-28T12:36:08.000Z",
+      "description": "Les électeurs suisses ont massivement rejeté le 27 septembre 2026, à 70,1%, une initiative visant à durcir constitutionnellement la neutralité du pays. Ce scrutin valide l'approche gouvernementale d'une neutralité flexible, permettant notamment l'adoption de sanctions contre la Russie, et constitue une défaite majeure pour l'UDC et les courants souverainistes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cinq suspects arrêtés près de la base RAF de Fairford au Royaume-Uni",
+      "link": "https://armees.com/terroriste-cinq-suspects-base-raf-fairford-royaume-uni/",
+      "pubDate": "2026-09-28T12:22:22.000Z",
+      "description": "Cinq hommes ont été arrêtés dans la nuit du 26 au 27 septembre près de la base aérienne de Fairford pour préparation d'un acte terroriste. L'alerte a été donnée par une agricultrice locale, révélant des failles majeures dans le système de surveillance d'une installation stratégique hébergeant des forces américaines et autorisée à mener des opérations contre l'Iran.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Le système franco-italien de défense aérienne SAMP/T NG semble le mieux placé pour s’imposer en Suisse",
       "link": "https://www.opex360.com/2026/09/28/le-systeme-franco-italien-de-defense-aerienne-samp-t-ng-semble-le-mieux-place-pour-simposer-en-suisse/",
@@ -232,20 +246,6 @@
       "pubDate": "2026-09-25T09:32:43.000Z",
       "description": "Le chef de l’Etat a annoncé, jeudi soir, l’envoi de « moyens militaires, c’est-à-dire des soldats, des radars, des systèmes de défense », pour protéger le site de Yanbou, principal terminal saoudien d’exportation de brut sur la mer Rouge qui est la cible des houthistes du Yémen.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Prix du carburant en France : l’Élysée mise sur la sécurisation des approvisionnements",
-      "link": "https://armees.com/prix-du-carburant-en-france-lelysee-mise-sur-la-securisation-des-approvisionnements/",
-      "pubDate": "2026-09-25T08:14:37.000Z",
-      "description": "Face à la hausse du carburant, la France prévoit de protéger le terminal saoudien de Yanbou. Une baisse des taxes reste possible, sans être décidée.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Drones russes en Méditerranée : Paris et Rome contestent une alerte visant l’Europe du Sud",
-      "link": "https://armees.com/drones-russes-en-mediterranee-paris-et-rome-contestent-une-alerte-visant-leurope-du-sud/",
-      "pubDate": "2026-09-25T08:03:20.000Z",
-      "description": "Une attaque de drones russes depuis des navires en Méditerranée a été évoquée par la presse espagnole. Que sait-on du scénario et des démentis officiels ?",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La 1re division en pointe sur le prochain jalon de transformation de l’armée de Terre",
