@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T06:08:42.850Z",
+  "generatedAt": "2026-09-28T06:39:33.025Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Trump refuse l’accord sur l’Iran, promettant la réouverture du détroit d’Hormuz en sept jours",
+      "link": "https://armees.com/trump-refuse-laccord-sur-liran-promettant-la-reouverture-du-detroit-dhormuz-en-sept-jours/",
+      "pubDate": "2026-09-28T05:35:40.000Z",
+      "description": "Trump claque la porte à l'Iran : sept jours pour rouvrir Ormuz, ce n'était « pas acceptable ». Entre blocus naval, sanctions pétrolières et 5 000 morts, la partie de bras de fer continue.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’Australie met fin à l’usage de l’hélicoptère Tigre, inadapté face aux drones et arrivé en fin de parcours",
+      "link": "https://armees.com/laustralie-met-fin-a-lusage-de-lhelicoptere-tigre-inadapte-face-aux-drones-et-arrive-en-fin-de-parcours/",
+      "pubDate": "2026-09-28T05:05:33.000Z",
+      "description": "Vingt-deux hélicoptères Tigre retirés avant même l'arrivée complète de leurs remplaçants : pourquoi l'Australie a-t-elle précipité cette décision, et qu'adviendra-t-il réellement de cette flotte controversée ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Quelles armes Trump aurait-il proposées à la Chine malgré les interdictions ?",
+      "link": "https://armees.com/armement-quelles-armes-trump-aurait-proposees-chine-malgre-interdictions/",
+      "pubDate": "2026-09-28T04:15:50.000Z",
+      "description": "L'ambassadeur américain David Perdue a révélé que Donald Trump aurait proposé à Xi Jinping l'achat d'armement américain, suscitant une controverse immédiate.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Arabie saoudite : les moyens militaires français envoyés seront « strictement défensifs », affirme Jean-Noël Barrot",
       "link": "https://www.lemonde.fr/international/article/2026/09/27/arabie-saoudite-les-moyens-militaires-francais-envoyes-seront-strictement-defensifs-affirme-jean-noel-barrot_6784407_3210.html",
@@ -238,27 +259,6 @@
       "link": "https://armees.com/onu-washington-rejette-regulation-mondiale-ia-paris-pekin-profitent/",
       "pubDate": "2026-09-24T06:30:21.000Z",
       "description": "Le Conseil de sécurité de l'ONU a révélé mercredi 23 septembre une fracture géopolitique majeure sur la gouvernance de l'IA. Washington refuse catégoriquement toute supervision supranationale, tandis que Paris et Pékin tentent d'imposer un cadre régulateur mondial. Au-delà des alertes techniques de Sam Altman et Dario Amodei sur les risques existentiels, c'est une bataille pour la souveraineté technologique et militaire qui se joue, avec des implications directes pour la stabilité internationale.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "FBI piraté : 5000 agents exposés, une aubaine pour la Chine et la Russie",
-      "link": "https://armees.com/fbi-pirate-5000-agents-exposes-aubaine-chine-russie/",
-      "pubDate": "2026-09-24T06:11:48.000Z",
-      "description": "Le 22 septembre 2026, ShinyHunters revendique le piratage du FBI et le vol de données de plus de 5000 agents, incluant leurs affectations sur le contre-espionnage visant la Chine et la Russie. Exploitant une faille zero-day dans Oracle PeopleSoft, les hackers auraient accédé à l'infrastructure AWS GovCloud, exposant potentiellement des officiers travaillant sur des dossiers sensibles. Si les allégations se confirment, Washington fait face à une compromission stratégique majeure offrant aux services de renseignement adverses une cartographie inédite de son appareil de sécurité intérieure.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’armée américaine signe un contrat de 10,6 millions de dollars pour des drones de surveillance à longue portée ukrainiens",
-      "link": "https://armees.com/larmee-americaine-signe-un-contrat-de-106-millions-de-dollars-pour-des-drones-de-surveillance-a-longue-portee-ukrainiens/",
-      "pubDate": "2026-09-24T05:35:14.000Z",
-      "description": "350 000 heures de vol en zone de guerre, une autonomie record de 24 heures : voilà pourquoi le Pentagone mise gros sur ce drone ukrainien plutôt que sur ses modèles habituels.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’Iran avertit de « représailles douloureuses » si les États-Unis frappent de nouveau, Trump parle de « grandes choses »",
-      "link": "https://armees.com/liran-avertit-de-represailles-douloureuses-si-les-etats-unis-frappent-de-nouveau-trump-parle-de-grandes-choses/",
-      "pubDate": "2026-09-24T05:05:00.000Z",
-      "description": "Iran promet des représailles « sans limitation ni ménagement », Trump hésite entre accord et frappes contre Téhéran. Pertes américaines sous-estimées, blocus naval, sept conditions secrètes : la tension monte dangereusement au Moyen-Orient.",
       "sourceKey": "armees_com"
     },
     {
