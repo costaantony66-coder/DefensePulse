@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T16:50:27.681Z",
+  "generatedAt": "2026-09-28T17:07:10.492Z",
   "sources": [
     {
       "key": "opex",
@@ -29,6 +29,20 @@
       "pubDate": "2026-09-28T16:26:17.000Z",
       "description": "En juillet, la Commission européenne a proposé aux vingt-sept États membres, ainsi qu’à l’Ukraine et à la Norvège, de mettre en place des «projets de défense d’intérêt commun» [EDPCI pour European Defence Projects of Common Interest]. Il s’agit de «projets industriels de grande envergure qui offrent aux États membres un cadre de coopération sur des...\nCet article Les États membres de l’Union européenne approuvent cinq ambitieux projets de défense d’intérêt commun est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "L’Europe en guerre économique : qui paiera la facture ?",
+      "link": "https://armees.com/europe-guerre-economique-paiera-facture/",
+      "pubDate": "2026-09-28T16:10:34.000Z",
+      "description": "La Russie frappe des civils à Kiev, saisit les actifs du groupe Metro, inonde l’Europe de désinformation. Pendant ce temps, la zone euro vacille sous le triple choc énergétique, commercial ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Israël révoque l’accréditation des diplomates néerlandais en Cisjordanie",
+      "link": "https://armees.com/israel-accreditation-diplomates-neerlandais-cisjordanie/",
+      "pubDate": "2026-09-28T15:18:01.000Z",
+      "description": "Le 27 septembre 2026, Israël a révoqué l'accréditation des diplomates néerlandais en Cisjordanie, leur accordant sept jours pour restituer leurs documents. La décision du ministre Gideon Saar répond à l'interdiction néerlandaise d'importer des produits des colonies israéliennes, entrée en vigueur le 22 septembre. Au-delà de la rétorsion commerciale, la mesure s'inscrit dans une stratégie de consolidation territoriale et de dissuasion face aux sanctions occidentales croissantes.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "La Lettonie veut renforcer ses capacités de frappe dans la profondeur avec des missiles américains Barracuda",
@@ -197,20 +211,6 @@
       "pubDate": "2026-09-26T09:45:04.000Z",
       "description": "La critique de l’annonce, par Emmanuel Macron, de l’envoi de militaires français en Arabie saoudite exigerait davantage que le seul réflexe protestataire fondé sur des considérations idéologiques.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "L’administration Trump admet « huit tentatives de suicide » sur ce navire déployé pendant la guerre en Iran",
-      "link": "https://armees.com/ladministration-trump-admet-huit-tentatives-de-suicide-sur-ce-navire-deploye-pendant-la-guerre-en-iran/",
-      "pubDate": "2026-09-26T05:35:20.000Z",
-      "description": "Huit tentatives de suicide en dix mois de mission, aucune escale, une pression jugée « incroyablement élevée » par un responsable militaire. Que cache vraiment le quotidien à bord de l'Abraham Lincoln ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’ambassadeur israélien aux États-Unis s’en prend à Macron après que son fils a été grièvement blessé en Cisjordanie : « la France encourage ça »",
-      "link": "https://armees.com/lambassadeur-israelien-aux-etats-unis-sen-prend-a-macron-apres-que-son-fils-a-ete-grievement-blesse-en-cisjordanie-la-france-encourage-ca/",
-      "pubDate": "2026-09-26T05:05:30.000Z",
-      "description": "Le fils de l'ambassadeur d'Israël aux États-Unis lutte entre la vie et la mort après une attaque en Cisjordanie. Son père, déjà endeuillé par la guerre, réclame « un miracle ». Les détails de ce drame et ses répercussions diplomatiques avec Macron.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La guerre intérieure de Jérôme, ancien soldat victime de stress post-traumatique : « Cela aurait été plus simple d’avoir une jambe en moins »",
