@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T10:33:05.420Z",
+  "generatedAt": "2026-09-29T10:50:22.047Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Le Pentagone notifie à Raytheon un contrat de 20,1 milliards de dollars pour produire 1 900 missiles air-air AMRAAM par an",
+      "link": "https://www.opex360.com/2026/09/29/le-pentagone-notifie-a-raytheon-un-contrat-de-201-milliards-de-dollars-pour-produire-1-900-missiles-air-air-amraam-par-an/",
+      "pubDate": "2026-09-29T10:50:19.000Z",
+      "description": "Ces dernières années, et singulièrement depuis le début de la guerre en Ukraine, le missile air-air AIM-120 AMRAAM [Advanced Medium-Range Air-to-Air Missile], produit par Raytheon, filiale de RTX, s’est vendu comme des «petits pains», toutes versions confondues. En mars, encore, l’administration américaine a autorisé les Émirats arabes unis à en acquérir 400 exemplaires pour un...\nCet article Le Pentagone notifie à Raytheon un contrat de 20,1 milliards de dollars pour produire 1 900 missiles air-air AMRAAM par an est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
     {
       "title": "Désinformation russe : l’explosion des faux reportages qui usurpent l’identité des médias européens",
       "link": "https://armees.com/desinformation-russe-explosion-faux-reportages-medias/",
@@ -232,13 +239,6 @@
       "pubDate": "2026-09-25T23:26:34.000Z",
       "description": "La cour d’appel de Washington a jugé conforme, vendredi, la mise à l’index de la start-up d’intelligence artificielle qui avait refusé, en février, de laisser l’armée américaine utiliser sans restriction son modèle, Claude.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "À la suite de Dassault Aviation, Airbus va faire une offre «non sollicitée» au Portugal pour remplacer ses F-16",
-      "link": "https://www.opex360.com/2026/09/25/a-la-suite-de-dassault-aviation-airbus-va-faire-une-offre-non-sollicitee-au-portugal-pour-remplacer-ses-f-16/",
-      "pubDate": "2026-09-25T17:08:28.000Z",
-      "description": "Même si le remplacement des vingt-quatre F-16AM/BM de la Força Aérea Portuguesa [FAP] est inéluctable, le Portugal n’a pas encore émis le moindre appel d’offres pour se procurer de nouveaux chasseurs-bombardiers. Et pour cause : cette procédure ne pourra être lancée qu’après l’adoption d’une loi de programmation militaire par son Parlement. Or, celle-ci est encore...\nCet article À la suite de Dassault Aviation, Airbus va faire une offre «non sollicitée» au Portugal pour remplacer ses F-16 est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Le RN et LFI opposés à l’envoi de militaires français en Arabie saoudite, annoncé par Emmanuel Macron",
