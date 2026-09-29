@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T16:08:38.212Z",
+  "generatedAt": "2026-09-29T16:34:15.070Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Amnesty documente 34 meurtres de civils par les forces FAMa-Wagner",
+      "link": "https://armees.com/amnesty-documente-34-meurtres-civils-forces-fama-wagner/",
+      "pubDate": "2026-09-29T15:56:38.000Z",
+      "description": "Amnesty International dévoile dans un rapport publié le 29 septembre 2026 les défaillances structurelles du partenariat militaire entre les Forces armées maliennes et le groupe Wagner. L'absence de chaîne de commandement claire a permis la commission de crimes de guerre documentés entre juin 2023 et décembre 2025, avec au moins 34 civils tués dans sept localités. L'organisation révèle l'inexistence de mécanismes de supervision des paramilitaires russes, compromettant la crédibilité des engagements militaires étrangers en Afrique.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Selon le Sénat, le rétablissement d’une composante nucléaire terrestre pourrait être une «option à ne pas négliger»",
       "link": "https://www.opex360.com/2026/09/29/selon-le-senat-le-retablissement-dune-composante-nucleaire-terrestre-pourrait-etre-une-option-a-ne-pas-negliger/",
@@ -168,13 +175,6 @@
       "link": "https://armees.com/arabie-saoudite-france-joue-credibilite-strategique-mer-rouge/",
       "pubDate": "2026-09-28T09:12:28.000Z",
       "description": "Emmanuel Macron envoie des soldats, des radars et des systèmes de défense sur le site pétrolier de Yanbou, en Arabie Saoudite. Une décision qui engage la France bien au-delà d’un ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Blé, pétrole, acier : la mer Noire dicte nos budgets de défense",
-      "link": "https://armees.com/ble-petrole-acier-mer-noire-dicte-nos-budgets-defense/",
-      "pubDate": "2026-09-28T08:55:19.000Z",
-      "description": "Les frappes en mer Noire s’intensifient, les exportations de blé russe et ukrainien s’effondrent, et les marchés mondiaux tremblent. Derrière la tension alimentaire se cache une leçon stratégique que l’Europe ...",
       "sourceKey": "armees_com"
     },
     {
