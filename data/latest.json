@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T07:32:13.484Z",
+  "generatedAt": "2026-09-29T07:50:02.037Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Une vie alien sur la Lune ? De récentes découvertes indiquent que c’est possible",
+      "link": "https://armees.com/une-vie-alien-sur-la-lune-de-recentes-decouvertes-indiquent-que-cest-possible/",
+      "pubDate": "2026-09-29T06:05:00.000Z",
+      "description": "Et si la poussière lunaire cachait les vestiges d'une civilisation disparue depuis des milliards d'années ? Des chercheurs du SETI veulent enfin vérifier cette hypothèse vertigineuse.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Russie : 17,1 milliards de dollars pour une armée XXL en 2027",
+      "link": "https://armees.com/russie-17-1-milliards-dollars-armee-xxl-2027/",
+      "pubDate": "2026-09-29T05:49:50.000Z",
+      "description": "Vladimir Poutine a signé le 28 septembre 2026 un décret portant les effectifs autorisés de l'armée russe à 2,44 millions de soldats, dont 1,55 million de militaires actifs.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "« On n’avait jamais vu ça » : en 2012, 400 km² de pierre volcanique ont flotté sur le Pacifique en transportant des dizaines d’espèces vivantes",
       "link": "https://armees.com/on-navait-jamais-vu-ca-en-2012-400-km%c2%b2-de-pierre-volcanique-ont-flotte-sur-le-pacifique-en-transportant-des-dizaines-despeces-vivantes/",
@@ -147,20 +161,6 @@
       "link": "https://armees.com/moyen-orient-en-arabie-saoudite-une-presence-francaise-strictement-defensive/",
       "pubDate": "2026-09-28T07:01:57.000Z",
       "description": "Pourquoi la France veut-elle protéger Yanbu, en Arabie saoudite ? Les objectifs du déploiement, son enjeu pétrolier et les questions encore ouvertes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Trump refuse l’accord sur l’Iran, promettant la réouverture du détroit d’Hormuz en sept jours",
-      "link": "https://armees.com/trump-refuse-laccord-sur-liran-promettant-la-reouverture-du-detroit-dhormuz-en-sept-jours/",
-      "pubDate": "2026-09-28T05:35:40.000Z",
-      "description": "Trump claque la porte à l'Iran : sept jours pour rouvrir Ormuz, ce n'était « pas acceptable ». Entre blocus naval, sanctions pétrolières et 5 000 morts, la partie de bras de fer continue.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’Australie met fin à l’usage de l’hélicoptère Tigre, inadapté face aux drones et arrivé en fin de parcours",
-      "link": "https://armees.com/laustralie-met-fin-a-lusage-de-lhelicoptere-tigre-inadapte-face-aux-drones-et-arrive-en-fin-de-parcours/",
-      "pubDate": "2026-09-28T05:05:33.000Z",
-      "description": "Vingt-deux hélicoptères Tigre retirés avant même l'arrivée complète de leurs remplaçants : pourquoi l'Australie a-t-elle précipité cette décision, et qu'adviendra-t-il réellement de cette flotte controversée ?",
       "sourceKey": "armees_com"
     },
     {
