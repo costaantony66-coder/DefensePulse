@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T12:38:30.140Z",
+  "generatedAt": "2026-09-29T12:56:31.198Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Ukraine  : le budget russe de la Défense explose",
+      "link": "https://armees.com/ukraine-le-budget-russe-de-la-defense-explose/",
+      "pubDate": "2026-09-29T12:20:01.000Z",
+      "description": "La Russie prévoit 17 100 milliards de roubles pour la Défense en 2027. Ce projet de budget accroît la pression sur le déficit, la dette et les impôts.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La Corée du Nord dénonce « une violation de l’armistice » après un incident dans la zone démilitarisée",
+      "link": "https://armees.com/coree-sud-nord-denonce-violation-armistice/",
+      "pubDate": "2026-09-29T11:44:02.000Z",
+      "description": "Le 21 septembre 2026, trois officiers sud-coréens ont été blessés par l'explosion de mines dans la zone démilitarisée (DMZ). La Corée du Sud accuse Pyongyang de violation de l'armistice et annonce des mesures de riposte. Les détecteurs de dernière génération ont échoué face à une mine antipersonnel nord-coréenne en plastique, révélant une faille opérationnelle critique dans une zone infestée de 800 000 mines.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Le Sénat veut muscler la dissuasion nucléaire française",
       "link": "https://armees.com/le-senat-veut-muscler-la-dissuasion-nucleaire-francaise/",
@@ -83,7 +97,7 @@
       "title": "Le Canada fait un pas de plus vers l’acquisition de six avions d’alerte avancée GlobalEye auprès du suédois Saab",
       "link": "https://www.opex360.com/2026/09/28/le-canada-fait-un-pas-de-plus-vers-lacquisition-de-six-avions-dalerte-avancee-globaleye-aupres-du-suedois-saab/",
       "pubDate": "2026-09-28T17:31:38.000Z",
-      "description": "Fin mai, le Premier ministre canadien, Mark Carney fit savoir que des négociations allaient être ouvertes avec le suédois Saab en vue de doter l’Aviation royale canadienne [ARC] de six avions de détection et de commandement aéroportés [AEW&C] GlobalEye. «Ce choix «renforce l’autonomie stratégique du Canada, crée des emplois et consolide sa position de chef...\nCet article Le Canada fait un pas de plus vers l’acquisition de six avions d’alerte avancée GlobalEye auprès du suédois Saab est apparu en premier sur Zone Militaire.",
+      "description": "Fin mai, le Premier ministre canadien, Mark Carney, fit savoir que des négociations allaient être ouvertes avec le suédois Saab en vue de doter l’Aviation royale canadienne [ARC] de six avions de détection et de commandement aéroportés [AEW&C] GlobalEye. «Ce choix «renforce l’autonomie stratégique du Canada, crée des emplois et consolide sa position de chef...\nCet article Le Canada fait un pas de plus vers l’acquisition de six avions d’alerte avancée GlobalEye auprès du suédois Saab est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -154,20 +168,6 @@
       "link": "https://armees.com/rn-senat-quand-politique-coute-cher-defense/",
       "pubDate": "2026-09-28T08:43:55.000Z",
       "description": "Les sénatoriales 2026 consacrent le Rassemblement national comme force incontournable du paysage institutionnel français. Un résultat historique, dit-on. Mais derrière le triomphe électoral se pose une question que personne ne ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : pourquoi la divulgation de Zelensky inquiète les militaires",
-      "link": "https://armees.com/ukraine-divulgation-zelensky-prisonniers-coree-sud/",
-      "pubDate": "2026-09-28T08:30:00.000Z",
-      "description": "En révélant publiquement le 23 septembre 2026 à l'ONU la capture de deux soldats nord-coréens par l'Ukraine, le président Zelensky a violé un accord de confidentialité avec Séoul et compromis les opérations de renseignement militaire. La Corée du Sud exige des excuses officielles, dénonçant une faille de sécurité opérationnelle majeure qui expose les méthodes ukrainiennes et met en danger les futurs échanges de prisonniers.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : la Russie recrute en Thaïlande à coup de (gros) dollars",
-      "link": "https://armees.com/ukraine-la-russie-recrute-en-thailande-a-coup-de-gros-dollars/",
-      "pubDate": "2026-09-28T08:03:10.000Z",
-      "description": "Des annonces diffusées en Thaïlande proposent un contrat militaire d’un an en Russie. Salaires, missions et garanties : qu'en est-il vraiment ?",
       "sourceKey": "armees_com"
     },
     {
