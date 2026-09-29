@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T14:08:44.828Z",
+  "generatedAt": "2026-09-29T14:33:17.817Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Pologne : un drone russe Geran-5 tombe à quelques kilomètres de la frontière",
+      "link": "https://armees.com/pologne-drone-russe-geran-5-tombe-frontiere/",
+      "pubDate": "2026-09-29T13:03:23.000Z",
+      "description": "Un drone Geran-5 russe s'est écrasé à quelques centaines de mètres du passage frontalier de Yagodin en Pologne, dans la région de Volyn. Le Commandement opérationnel des Forces armées polonaises a confirmé l'incident, soulignant l'efficacité des systèmes de détection déployés le long de la frontière polono-ukrainienne. Le passage de Yagodin, point de transit le plus fréquenté entre les deux pays, bénéficie d'une surveillance renforcée.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Ukraine  : le budget russe de la Défense explose",
       "link": "https://armees.com/ukraine-le-budget-russe-de-la-defense-explose/",
@@ -161,13 +168,6 @@
       "link": "https://armees.com/ble-petrole-acier-mer-noire-dicte-nos-budgets-defense/",
       "pubDate": "2026-09-28T08:55:19.000Z",
       "description": "Les frappes en mer Noire s’intensifient, les exportations de blé russe et ukrainien s’effondrent, et les marchés mondiaux tremblent. Derrière la tension alimentaire se cache une leçon stratégique que l’Europe ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "RN au Sénat : quand la politique coûte plus cher que la défense",
-      "link": "https://armees.com/rn-senat-quand-politique-coute-cher-defense/",
-      "pubDate": "2026-09-28T08:43:55.000Z",
-      "description": "Les sénatoriales 2026 consacrent le Rassemblement national comme force incontournable du paysage institutionnel français. Un résultat historique, dit-on. Mais derrière le triomphe électoral se pose une question que personne ne ...",
       "sourceKey": "armees_com"
     },
     {
