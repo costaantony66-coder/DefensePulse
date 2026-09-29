@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T11:06:47.622Z",
+  "generatedAt": "2026-09-29T11:30:28.647Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Le Sénat veut muscler la dissuasion nucléaire française",
+      "link": "https://armees.com/le-senat-veut-muscler-la-dissuasion-nucleaire-francaise/",
+      "pubDate": "2026-09-29T11:29:43.000Z",
+      "description": "La commission des affaires étrangères et de la défense du Sénat publie un rapport contenant 20 recommandations pour renforcer la dissuasion nucléaire française.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Le Pentagone notifie à Raytheon un contrat de 20,1 milliards de dollars pour produire 1 900 missiles air-air AMRAAM par an",
       "link": "https://www.opex360.com/2026/09/29/le-pentagone-notifie-a-raytheon-un-contrat-de-201-milliards-de-dollars-pour-produire-1-900-missiles-air-air-amraam-par-an/",
@@ -161,13 +168,6 @@
       "link": "https://armees.com/ukraine-la-russie-recrute-en-thailande-a-coup-de-gros-dollars/",
       "pubDate": "2026-09-28T08:03:10.000Z",
       "description": "Des annonces diffusées en Thaïlande proposent un contrat militaire d’un an en Russie. Salaires, missions et garanties : qu'en est-il vraiment ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : vers une armée de robots ?",
-      "link": "https://armees.com/ukraine-vers-une-armee-de-robots/",
-      "pubDate": "2026-09-28T07:13:02.000Z",
-      "description": "L’Ukraine multiplie les missions de robots terrestres. Un nouveau projet vise désormais des machines humanoïdes capables d’intervenir au combat.",
       "sourceKey": "armees_com"
     },
     {
