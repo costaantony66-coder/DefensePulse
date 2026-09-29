@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T09:33:16.072Z",
+  "generatedAt": "2026-09-29T09:51:10.559Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Désinformation russe : l’explosion des faux reportages qui usurpent l’identité des médias européens",
+      "link": "https://armees.com/desinformation-russe-explosion-faux-reportages-medias/",
+      "pubDate": "2026-09-29T08:56:02.000Z",
+      "description": "Le nombre de faux reportages russes imitant des médias reconnus a explosé de 850% en un an, passant de 44 à 421 cas entre les premiers semestres 2025 et 2026. Cette offensive informationnelle cible particulièrement la France, avec huit médias hexagonaux parmi les quinze plus imités, dans le but de saper le soutien occidental à l'Ukraine.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Une vie alien sur la Lune ? De récentes découvertes indiquent que c’est possible",
       "link": "https://armees.com/une-vie-alien-sur-la-lune-de-recentes-decouvertes-indiquent-que-cest-possible/",
@@ -154,13 +161,6 @@
       "link": "https://armees.com/ukraine-vers-une-armee-de-robots/",
       "pubDate": "2026-09-28T07:13:02.000Z",
       "description": "L’Ukraine multiplie les missions de robots terrestres. Un nouveau projet vise désormais des machines humanoïdes capables d’intervenir au combat.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Moyen-Orient : en Arabie saoudite, une présence française strictement défensive",
-      "link": "https://armees.com/moyen-orient-en-arabie-saoudite-une-presence-francaise-strictement-defensive/",
-      "pubDate": "2026-09-28T07:01:57.000Z",
-      "description": "Pourquoi la France veut-elle protéger Yanbu, en Arabie saoudite ? Les objectifs du déploiement, son enjeu pétrolier et les questions encore ouvertes.",
       "sourceKey": "armees_com"
     },
     {
