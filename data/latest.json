@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T05:30:52.658Z",
+  "generatedAt": "2026-09-29T05:48:49.527Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "« On n’avait jamais vu ça » : en 2012, 400 km² de pierre volcanique ont flotté sur le Pacifique en transportant des dizaines d’espèces vivantes",
+      "link": "https://armees.com/on-navait-jamais-vu-ca-en-2012-400-km%c2%b2-de-pierre-volcanique-ont-flotte-sur-le-pacifique-en-transportant-des-dizaines-despeces-vivantes/",
+      "pubDate": "2026-09-29T05:35:00.000Z",
+      "description": "Un volcan sous-marin invisible a formé en un jour un radeau de pierre ponce grand comme un département, transportant plus de 80 espèces marines à travers le Pacifique. Comment personne n'a rien vu venir ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Voitures chinoises : quand le Royaume-Uni devient notre flanc découvert",
+      "link": "https://armees.com/voitures-chinoises-quand-royaume-uni-devient-notre-flanc-decouvert/",
+      "pubDate": "2026-09-29T05:19:20.000Z",
+      "description": "Pendant que la France débat de ses milliards de défense, une menace industrielle contourne discrètement nos remparts économiques. Le Royaume-Uni, transformé en « porte-avions » des véhicules électriques chinois vers l’Europe, illustre ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "« Trump m’a confirmé que oui » : cette phrase pourrait changer le cours de la guerre en Ukraine",
+      "link": "https://armees.com/trump-ma-confirme-que-oui-cette-phrase-pourrait-changer-le-cours-de-la-guerre-en-ukraine/",
+      "pubDate": "2026-09-29T05:05:42.000Z",
+      "description": "Feu vert américain, missiles Patriot bientôt fabriqués en Ukraine. Mais pendant que les licences se négocient, les drones russes frappent Kiev en plein jour, tuant un adolescent de 14 ans.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Le Canada fait un pas de plus vers l’acquisition de six avions d’alerte avancée GlobalEye auprès du suédois Saab",
       "link": "https://www.opex360.com/2026/09/28/le-canada-fait-un-pas-de-plus-vers-lacquisition-de-six-avions-dalerte-avancee-globaleye-aupres-du-suedois-saab/",
@@ -143,13 +164,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Quelles armes Trump aurait-il proposées à la Chine malgré les interdictions ?",
-      "link": "https://armees.com/armement-quelles-armes-trump-aurait-proposees-chine-malgre-interdictions/",
-      "pubDate": "2026-09-28T04:15:50.000Z",
-      "description": "L'ambassadeur américain David Perdue a révélé que Donald Trump aurait proposé à Xi Jinping l'achat d'armement américain, suscitant une controverse immédiate.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Arabie saoudite : les moyens militaires français envoyés seront « strictement défensifs », affirme Jean-Noël Barrot",
       "link": "https://www.lemonde.fr/international/article/2026/09/27/arabie-saoudite-les-moyens-militaires-francais-envoyes-seront-strictement-defensifs-affirme-jean-noel-barrot_6784407_3210.html",
       "pubDate": "2026-09-27T13:55:43.000Z",
@@ -176,20 +190,6 @@
       "pubDate": "2026-09-27T09:52:46.000Z",
       "description": "En 2024, plusieurs bases américaines en Europe, dont celles de Ramstein, de Spangdahlem et d’Aviano, furent placées en état d’alerte renforcée en raison d’une «combinaison de facteurs susceptibles d’avoir un impact sur la sûreté et la sécurité des militaires et leurs familles stationnés sur le théâtre européen». Deux hypothèses avaient été avancées à l’époque pour...\nCet article Royaume-Uni : Un «incident majeur» est en cours près de la base aérienne de Fairford, utilisée par l’US Air Force est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "La police a terminé l’enquête sur l’attaque présumée au spray au poivre contre un garçon arménien de 9 ans à Jérusalem",
-      "link": "https://armees.com/la-police-a-termine-lenquete-sur-lattaque-presumee-au-spray-au-poivre-contre-un-garcon-armenien-de-9-ans-a-jerusalem/",
-      "pubDate": "2026-09-27T05:35:15.000Z",
-      "description": "Un enfant de 9 ans aspergé de gaz poivre en pleine rue, filmé par des caméras de sécurité. Pourtant, aucune arrestation. Ce qui s'est passé ensuite laisse sa mère sans voix.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’armée de Trump se prépare pour Cuba, un mémo du Pentagone fuit et lance un signal",
-      "link": "https://armees.com/larmee-de-trump-se-prepare-pour-cuba-un-memo-du-pentagone-fuit-et-lance-un-signal/",
-      "pubDate": "2026-09-27T05:05:11.000Z",
-      "description": "Six unités militaires, 90 à 120 jours, une échéance qui tombe pile pour Noël. Trump promet la chute du régime devant l'ONU. Que prépare vraiment Washington pour Cuba ?",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La marine indienne envisage de se doter d’une flotte d’avions ravitailleurs",
