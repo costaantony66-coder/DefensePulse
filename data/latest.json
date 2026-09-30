@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T12:09:13.626Z",
+  "generatedAt": "2026-09-30T12:41:37.764Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Dette record : l’armée française paiera-t-elle l’addition ?",
+      "link": "https://armees.com/dette-record-armee-francaise-paiera-t-addition/",
+      "pubDate": "2026-09-30T11:05:40.000Z",
+      "description": "La dette publique française atteint un niveau inédit depuis l’après-guerre. Dans ce contexte d’étranglement budgétaire, le budget des armées — pourtant sanctuarisé sur le papier — est plus que jamais ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Dette record : l’armée française peut-elle encore se battre ?",
+      "link": "https://armees.com/dette-record-armee-francaise-encore-battre/",
+      "pubDate": "2026-09-30T10:54:20.000Z",
+      "description": "La dette publique française vient de franchir un seuil inédit depuis l’après-guerre. Dans ce contexte d’asphyxie budgétaire, une question s’impose, que personne au gouvernement ne veut vraiment poser : le ...",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Défense : Hegseth annonce une réduction de 20% des généraux et des amiraux",
       "link": "https://armees.com/defense-etats-unis-hegseth-annonce-reduction-20/",
@@ -157,25 +171,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Le Sénat veut muscler la dissuasion nucléaire française",
-      "link": "https://armees.com/le-senat-veut-muscler-la-dissuasion-nucleaire-francaise/",
-      "pubDate": "2026-09-29T11:29:43.000Z",
-      "description": "La commission des affaires étrangères et de la défense du Sénat publie un rapport contenant 20 recommandations pour renforcer la dissuasion nucléaire française.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le Pentagone notifie à Raytheon un contrat de 20,1 milliards de dollars pour produire 1 900 missiles air-air AMRAAM par an",
       "link": "https://www.opex360.com/2026/09/29/le-pentagone-notifie-a-raytheon-un-contrat-de-201-milliards-de-dollars-pour-produire-1-900-missiles-air-air-amraam-par-an/",
       "pubDate": "2026-09-29T10:50:19.000Z",
       "description": "Ces dernières années, et singulièrement depuis le début de la guerre en Ukraine, le missile air-air AIM-120 AMRAAM [Advanced Medium-Range Air-to-Air Missile], produit par Raytheon, filiale de RTX, s’est vendu comme des «petits pains», toutes versions confondues. En mars, encore, l’administration américaine a autorisé les Émirats arabes unis à en acquérir 400 exemplaires pour un...\nCet article Le Pentagone notifie à Raytheon un contrat de 20,1 milliards de dollars pour produire 1 900 missiles air-air AMRAAM par an est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Désinformation russe : l’explosion des faux reportages qui usurpent l’identité des médias européens",
-      "link": "https://armees.com/desinformation-russe-explosion-faux-reportages-medias/",
-      "pubDate": "2026-09-29T08:56:02.000Z",
-      "description": "Le nombre de faux reportages russes imitant des médias reconnus a explosé de 850% en un an, passant de 44 à 421 cas entre les premiers semestres 2025 et 2026. Cette offensive informationnelle cible particulièrement la France, avec huit médias hexagonaux parmi les quinze plus imités, dans le but de saper le soutien occidental à l'Ukraine.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le Canada fait un pas de plus vers l’acquisition de six avions d’alerte avancée GlobalEye auprès du suédois Saab",
