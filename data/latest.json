@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T10:07:44.104Z",
+  "generatedAt": "2026-09-30T10:32:49.826Z",
   "sources": [
     {
       "key": "opex",
@@ -241,6 +241,13 @@
       "sourceKey": "geo"
     },
     {
+      "title": "L’envoi de « moyens militaires » français en Arabie saoudite sort de l’ombre la discrète coopération de défense entre Paris et Riyad",
+      "link": "https://www.lemonde.fr/international/article/2026/09/26/l-envoi-de-moyens-militaires-francais-en-arabie-saoudite-sort-de-l-ombre-la-discrete-cooperation-de-defense-entre-paris-et-riyad_6783006_3210.html",
+      "pubDate": "2026-09-26T03:53:46.000Z",
+      "description": "En annonçant mobiliser « soldats, radars et systèmes de défense » pour protéger les infrastructures énergétiques du royaume, attaquées par les houtistes pro-iraniens du Yémen, Emmanuel Macron opère un virage géopolitique, au moment où Riyad cherche à diversifier ses partenariats.",
+      "sourceKey": "geo"
+    },
+    {
       "title": "IA : la mise à l’écart d’Anthropic par le Pentagone confirmée par la justice",
       "link": "https://www.lemonde.fr/economie/article/2026/09/26/ia-la-mise-a-l-ecart-d-anthropic-par-le-pentagone-confirmee-par-la-justice_6782773_3234.html",
       "pubDate": "2026-09-25T23:26:34.000Z",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/09/05/le-pentagone-a-soumis-des-responsables-militaires-americains-au-detecteur-de-mensonge-apres-des-fuites-d-apres-le-new-york-times_6766366_3210.html",
       "pubDate": "2026-09-05T17:17:10.000Z",
       "description": "Une cinquantaine de membres de l’état-major ont été interrogés au polygraphe pour identifier la source d’une fuite sur une possible pénurie de munitions américaines.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "IA : le patron de Palantir, Alex Karp, met en garde la France au sujet de sa souveraineté numérique",
-      "link": "https://www.lemonde.fr/economie/article/2026/09/03/ia-le-patron-de-palantir-alex-karp-met-en-garde-la-france-au-sujet-de-sa-souverainete-numerique_6764606_3234.html",
-      "pubDate": "2026-09-02T23:13:57.000Z",
-      "description": "Le chef d’entreprise a estimé, mercredi, que la France se « fera du mal » avec une souveraineté en trompe-l’œil. L’Américain réagissait à la décision prise en juin par Paris de se passer des services de sa société pour son renseignement intérieur.",
       "sourceKey": "geo"
     }
   ]
