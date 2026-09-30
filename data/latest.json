@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T10:32:49.826Z",
+  "generatedAt": "2026-09-30T10:50:55.945Z",
   "sources": [
     {
       "key": "opex",
@@ -24,11 +24,32 @@
   ],
   "items": [
     {
+      "title": "Défense : Hegseth annonce une réduction de 20% des généraux et des amiraux",
+      "link": "https://armees.com/defense-etats-unis-hegseth-annonce-reduction-20/",
+      "pubDate": "2026-09-30T09:11:55.000Z",
+      "description": "Pete Hegseth annonce mercredi 1er octobre 2026 à Quantico une réduction de 20% des postes de généraux et amiraux, ramenant leur nombre d'environ 851 à 680. La mesure, effective au 1er janvier 2027, constitue la deuxième vague d'une restructuration majeure du Pentagone justifiée par la nécessité de promouvoir l'innovation et l'excellence opérationnelle en réduisant les couches bureaucratiques.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "L’US Navy a retenu Boeing pour développer le F/A-XX, son futur chasseur-bombardier de 6e génération",
       "link": "https://www.opex360.com/2026/09/30/lus-navy-a-retenu-boeing-pour-developper-le-f-a-xx-son-futur-chasseur-bombardier-de-6e-generation/",
       "pubDate": "2026-09-30T08:59:53.000Z",
       "description": "Dans le plan «Navy Aviation 2030-35» publié en novembre 2021, l’US Navy avait précisé ses attentes au sujet du F/A-XX, son futur avion de combat embarqué de 6e génération. Ainsi, elle avait expliqué que cet appareil allait être au centre d’un «système de systèmes» appelé FoS [pour Family of Systems], comprenant des drones de combat...\nCet article L’US Navy a retenu Boeing pour développer le F/A-XX, son futur chasseur-bombardier de 6e génération est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Défense : la Suisse choisit le système SAMP/T NG après les retards du Patriot",
+      "link": "https://armees.com/defense-suisse-choisit-systeme-samp-t-ng/",
+      "pubDate": "2026-09-30T08:57:19.000Z",
+      "description": "Face aux retards massifs du Patriot américain (2033-2035 au lieu de 2028) et à un surcoût de 1,7 milliard de francs suisses, la Suisse privilégie le système franco-italien SAMP/T NG dans le cadre du programme Bodluv GR 2. Un choix qui conjugue performances tactiques (150 km d'interception, 350 km de détection), interopérabilité OTAN et considérations politiques favorisant l'Europe.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Boeing rafle le contrat du F/A-XX : l’US Navy mise 20 milliards sur son chasseur de sixième génération",
+      "link": "https://armees.com/us-navy-boeing-rafle-contrat-f-xx-mise-20-milliards-chasseur-sixieme/",
+      "pubDate": "2026-09-30T08:44:07.000Z",
+      "description": "Le 29 septembre 2026, Boeing a décroché un contrat de plus de 20 milliards de dollars pour développer le F/A-XX, chasseur embarqué de sixième génération de l'US Navy. Cette victoire, survenant après celle du programme F-47 de l'Air Force, établit Boeing comme unique fournisseur de chasseurs de nouvelle génération américains, une situation inédite depuis les années 1970.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Le ministre ukrainien de la Défense annule ses visites en Europe",
@@ -154,27 +175,6 @@
       "link": "https://armees.com/desinformation-russe-explosion-faux-reportages-medias/",
       "pubDate": "2026-09-29T08:56:02.000Z",
       "description": "Le nombre de faux reportages russes imitant des médias reconnus a explosé de 850% en un an, passant de 44 à 421 cas entre les premiers semestres 2025 et 2026. Cette offensive informationnelle cible particulièrement la France, avec huit médias hexagonaux parmi les quinze plus imités, dans le but de saper le soutien occidental à l'Ukraine.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Une vie alien sur la Lune ? De récentes découvertes indiquent que c’est possible",
-      "link": "https://armees.com/une-vie-alien-sur-la-lune-de-recentes-decouvertes-indiquent-que-cest-possible/",
-      "pubDate": "2026-09-29T06:05:00.000Z",
-      "description": "Et si la poussière lunaire cachait les vestiges d'une civilisation disparue depuis des milliards d'années ? Des chercheurs du SETI veulent enfin vérifier cette hypothèse vertigineuse.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Russie : 17,1 milliards de dollars pour une armée XXL en 2027",
-      "link": "https://armees.com/russie-17-1-milliards-dollars-armee-xxl-2027/",
-      "pubDate": "2026-09-29T05:49:50.000Z",
-      "description": "Vladimir Poutine a signé le 28 septembre 2026 un décret portant les effectifs autorisés de l'armée russe à 2,44 millions de soldats, dont 1,55 million de militaires actifs.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "« On n’avait jamais vu ça » : en 2012, 400 km² de pierre volcanique ont flotté sur le Pacifique en transportant des dizaines d’espèces vivantes",
-      "link": "https://armees.com/on-navait-jamais-vu-ca-en-2012-400-km%c2%b2-de-pierre-volcanique-ont-flotte-sur-le-pacifique-en-transportant-des-dizaines-despeces-vivantes/",
-      "pubDate": "2026-09-29T05:35:00.000Z",
-      "description": "Un volcan sous-marin invisible a formé en un jour un radeau de pierre ponce grand comme un département, transportant plus de 80 espèces marines à travers le Pacifique. Comment personne n'a rien vu venir ?",
       "sourceKey": "armees_com"
     },
     {
