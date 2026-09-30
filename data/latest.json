@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T08:08:59.429Z",
+  "generatedAt": "2026-09-30T08:34:51.126Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Le ministre ukrainien de la Défense annule ses visites en Europe",
+      "link": "https://armees.com/guerre-ministre-ukrainien-defense/",
+      "pubDate": "2026-09-30T08:23:22.000Z",
+      "description": "Evgueniï Khmara, ministre ukrainien de la Défense, a annulé ses visites diplomatiques en Allemagne et en Norvège prévues le 29 septembre 2026 en raison de l'intensification des frappes russes sur Kiev. La multiplication des attaques contre des cibles civiles et stratégiques exige sa présence immédiate pour coordonner les mesures de riposte et superviser le déploiement des capacités de défense antiaérienne.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "États-Unis : 3 millions de victimes dans la double fuite Pentagon-FBI",
       "link": "https://armees.com/etats-unis-3-millions-victimes-double-fuite-pentagon-fbi/",
@@ -161,13 +168,6 @@
       "link": "https://armees.com/on-navait-jamais-vu-ca-en-2012-400-km%c2%b2-de-pierre-volcanique-ont-flotte-sur-le-pacifique-en-transportant-des-dizaines-despeces-vivantes/",
       "pubDate": "2026-09-29T05:35:00.000Z",
       "description": "Un volcan sous-marin invisible a formé en un jour un radeau de pierre ponce grand comme un département, transportant plus de 80 espèces marines à travers le Pacifique. Comment personne n'a rien vu venir ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Voitures chinoises : quand le Royaume-Uni devient notre flanc découvert",
-      "link": "https://armees.com/voitures-chinoises-quand-royaume-uni-devient-notre-flanc-decouvert/",
-      "pubDate": "2026-09-29T05:19:20.000Z",
-      "description": "Pendant que la France débat de ses milliards de défense, une menace industrielle contourne discrètement nos remparts économiques. Le Royaume-Uni, transformé en « porte-avions » des véhicules électriques chinois vers l’Europe, illustre ...",
       "sourceKey": "armees_com"
     },
     {
