@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T00:39:58.289Z",
+  "generatedAt": "2026-09-30T00:58:16.485Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Boeing choisi pour fabriquer le futur avion de combat de la marine américaine",
+      "link": "https://www.lemonde.fr/economie/article/2026/09/30/boeing-choisi-pour-fabriquer-le-futur-avion-de-combat-de-la-marine-americaine_6785825_3234.html",
+      "pubDate": "2026-09-30T00:56:37.000Z",
+      "description": "Le constructeur aéronautique remporte un contrat évalué à 20 milliards de dollars. L’entreprise avait déjà été sélectionnée en mars 2025 pour l’avion de nouvelle génération de l’US Air Force, le F-47.",
+      "sourceKey": "geo"
+    },
     {
       "title": "L’intégration du missile antichar Akeron LP sur l’hélicoptère Tigre a franchi une étape majeure",
       "link": "https://www.opex360.com/2026/09/29/lintegration-du-missile-antichar-akeron-lp-sur-lhelicoptere-tigre-a-franchi-une-etape-majeure/",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/economie/article/2026/09/03/ia-le-patron-de-palantir-alex-karp-met-en-garde-la-france-au-sujet-de-sa-souverainete-numerique_6764606_3234.html",
       "pubDate": "2026-09-02T23:13:57.000Z",
       "description": "Le chef d’entreprise a estimé, mercredi, que la France se « fera du mal » avec une souveraineté en trompe-l’œil. L’Américain réagissait à la décision prise en juin par Paris de se passer des services de sa société pour son renseignement intérieur.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "La Suède signe un contrat de 4,3 milliards d’euros pour l’acquisition de quatre frégates françaises",
-      "link": "https://www.lemonde.fr/international/article/2026/08/31/la-suede-signe-un-contrat-de-4-3-milliards-d-euros-pour-l-acquisition-de-quatre-fregates-francaises_6762592_3210.html",
-      "pubDate": "2026-08-31T14:56:31.000Z",
-      "description": "Emmanuel Macron et le premier ministre suédois, Ulf Kristersson, ont renforcé lundi à Stockholm la coopération entre les deux pays en matière de défense, facilitée par l’adhésion du pays nordique à l’OTAN.",
       "sourceKey": "geo"
     }
   ]
