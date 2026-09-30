@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T06:37:45.504Z",
+  "generatedAt": "2026-09-30T06:55:16.386Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Poutine sort du silence et lâche une phrase sur la menace russe en Europe : « Personne ne veut entendre ce que je vais dire »",
+      "link": "https://armees.com/poutine-sort-du-silence-et-lache-une-phrase-sur-la-menace-russe-en-europe-personne-ne-veut-entendre-ce-que-je-vais-dire/",
+      "pubDate": "2026-09-30T06:05:00.000Z",
+      "description": "Poutine jure n'avoir « aucun projet » contre l'Europe, mais entre drones sur la Méditerranée et pourparlers suspendus, le Kremlin joue-t-il double jeu ? Macron, lui, parle déjà d'escalade inquiétante.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "« Elle était déjà là quand j’ai commencé ma carrière » : un albatros de 74 ans défie tout ce que les biologistes croyaient savoir sur le vieillissement",
+      "link": "https://armees.com/elle-etait-deja-la-quand-jai-commence-ma-carriere-un-albatros-de-74-ans-defie-tout-ce-que-les-biologistes-croyaient-savoir-sur-le-vieillissement/",
+      "pubDate": "2026-09-30T05:35:55.000Z",
+      "description": "À 75 ans et 4,8 millions de kilomètres parcourus, Wisdom l'albatros revient nicher à Midway avec un nouveau compagnon. Son secret de longévité intrigue les scientifiques du monde entier.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "CNN exclue d’Air Force One après son bannissement de la Maison Blanche : « on nous punit pour notre travail », réagit la rédaction",
+      "link": "https://armees.com/cnn-exclue-dair-force-one-apres-son-bannissement-de-la-maison-blanche-on-nous-punit-pour-notre-travail-reagit-la-redaction/",
+      "pubDate": "2026-09-30T05:05:45.000Z",
+      "description": "Un juge tranche, Trump réplique aussitôt : CNN écartée d'Air Force One malgré la justice. Un bras de fer inédit entre la Maison Blanche et la presse qui s'envenime d'heure en heure.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Etats-Unis : le Pentagone pourrait tailler dans les effectifs des hauts gradés",
+      "link": "https://armees.com/etats-unis-le-pentagone-pourrait-tailler-dans-les-effectifs-des-hauts-grades/",
+      "pubDate": "2026-09-30T04:43:07.000Z",
+      "description": "Le Pentagone prépare une réduction de 20 % des postes de généraux et d’amiraux, nouvelle étape de la réorganisation de l’armée américaine.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Boeing choisi pour fabriquer le futur avion de combat de la marine américaine",
       "link": "https://www.lemonde.fr/economie/article/2026/09/30/boeing-choisi-pour-fabriquer-le-futur-avion-de-combat-de-la-marine-americaine_6785825_3234.html",
@@ -157,13 +185,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Israël révoque l’accréditation des diplomates néerlandais en Cisjordanie",
-      "link": "https://armees.com/israel-accreditation-diplomates-neerlandais-cisjordanie/",
-      "pubDate": "2026-09-28T15:18:01.000Z",
-      "description": "Le 27 septembre 2026, Israël a révoqué l'accréditation des diplomates néerlandais en Cisjordanie, leur accordant sept jours pour restituer leurs documents. La décision du ministre Gideon Saar répond à l'interdiction néerlandaise d'importer des produits des colonies israéliennes, entrée en vigueur le 22 septembre. Au-delà de la rétorsion commerciale, la mesure s'inscrit dans une stratégie de consolidation territoriale et de dissuasion face aux sanctions occidentales croissantes.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La Lettonie veut renforcer ses capacités de frappe dans la profondeur avec des missiles américains Barracuda",
       "link": "https://www.opex360.com/2026/09/28/la-lettonie-veut-renforcer-ses-capacites-de-frappe-dans-la-profondeur-avec-des-missiles-americains-barracuda/",
       "pubDate": "2026-09-28T14:58:17.000Z",
@@ -171,32 +192,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "La Suisse refuse de durcir sa neutralité : un rejet massif à 70,1%",
-      "link": "https://armees.com/suisse-refuse-durcir-neutralite-rejet-massif-70-1/",
-      "pubDate": "2026-09-28T12:36:08.000Z",
-      "description": "Les électeurs suisses ont massivement rejeté le 27 septembre 2026, à 70,1%, une initiative visant à durcir constitutionnellement la neutralité du pays. Ce scrutin valide l'approche gouvernementale d'une neutralité flexible, permettant notamment l'adoption de sanctions contre la Russie, et constitue une défaite majeure pour l'UDC et les courants souverainistes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cinq suspects arrêtés près de la base RAF de Fairford au Royaume-Uni",
-      "link": "https://armees.com/terroriste-cinq-suspects-base-raf-fairford-royaume-uni/",
-      "pubDate": "2026-09-28T12:22:22.000Z",
-      "description": "Cinq hommes ont été arrêtés dans la nuit du 26 au 27 septembre près de la base aérienne de Fairford pour préparation d'un acte terroriste. L'alerte a été donnée par une agricultrice locale, révélant des failles majeures dans le système de surveillance d'une installation stratégique hébergeant des forces américaines et autorisée à mener des opérations contre l'Iran.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le système franco-italien de défense aérienne SAMP/T NG semble le mieux placé pour s’imposer en Suisse",
       "link": "https://www.opex360.com/2026/09/28/le-systeme-franco-italien-de-defense-aerienne-samp-t-ng-semble-le-mieux-place-pour-simposer-en-suisse/",
       "pubDate": "2026-09-28T10:47:35.000Z",
       "description": "Son chef, Martin Pfister, l’a admis à demi-mots lors d’un entretien accordé au site d’information Watson, la semaine passée : après ses déboires avec le chasseur-bombardier F-35A, le système de défense aérienne Patriot ou encore avec le drone Hermes 900, le département de la Défense, de la Protection de la population et des Sports [DPPS]...\nCet article Le système franco-italien de défense aérienne SAMP/T NG semble le mieux placé pour s’imposer en Suisse est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Arabie Saoudite : la France joue sa crédibilité stratégique en mer Rouge",
-      "link": "https://armees.com/arabie-saoudite-france-joue-credibilite-strategique-mer-rouge/",
-      "pubDate": "2026-09-28T09:12:28.000Z",
-      "description": "Emmanuel Macron envoie des soldats, des radars et des systèmes de défense sur le site pétrolier de Yanbou, en Arabie Saoudite. Une décision qui engage la France bien au-delà d’un ...",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Arabie saoudite : les moyens militaires français envoyés seront « strictement défensifs », affirme Jean-Noël Barrot",
