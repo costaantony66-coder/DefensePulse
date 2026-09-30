@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T07:50:56.886Z",
+  "generatedAt": "2026-09-30T08:08:59.429Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "États-Unis : 3 millions de victimes dans la double fuite Pentagon-FBI",
+      "link": "https://armees.com/etats-unis-3-millions-victimes-double-fuite-pentagon-fbi/",
+      "pubDate": "2026-09-30T07:20:57.000Z",
+      "description": "Le Defense Manpower Data Center et le FBI affrontent une double crise de sécurité informatique aux États-Unis. Après neuf mois d'accès non détecté exposant 3,05 millions de personnes au Pentagone et une cyberattaque revendiquée par ShinyHunters menaçant tous les employés du FBI, les agences déploient des protocoles d'urgence pour protéger les victimes et colmater des failles systémiques révélatrices de carences administratives profondes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Incendie criminel contre Milrem : la Russie visait les robots ukrainiens",
+      "link": "https://armees.com/incendie-criminel-contre-milrem-russie-visait-robots-ukrainiens/",
+      "pubDate": "2026-09-30T06:58:49.000Z",
+      "description": "L'Estonie accuse formellement la Russie d'avoir commandité l'incendie criminel du 15 août 2026 contre Milrem Robotics à Tallinn. Après six semaines d'enquête, le Service de sécurité intérieure conclut à un sabotage orchestré par Moscou pour perturber les livraisons de robots THeMIS à l'Ukraine. Trois suspects latviens ont été arrêtés et remis aux autorités estoniennes.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Poutine sort du silence et lâche une phrase sur la menace russe en Europe : « Personne ne veut entendre ce que je vais dire »",
       "link": "https://armees.com/poutine-sort-du-silence-et-lache-une-phrase-sur-la-menace-russe-en-europe-personne-ne-veut-entendre-ce-que-je-vais-dire/",
@@ -157,13 +171,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "« Trump m’a confirmé que oui » : cette phrase pourrait changer le cours de la guerre en Ukraine",
-      "link": "https://armees.com/trump-ma-confirme-que-oui-cette-phrase-pourrait-changer-le-cours-de-la-guerre-en-ukraine/",
-      "pubDate": "2026-09-29T05:05:42.000Z",
-      "description": "Feu vert américain, missiles Patriot bientôt fabriqués en Ukraine. Mais pendant que les licences se négocient, les drones russes frappent Kiev en plein jour, tuant un adolescent de 14 ans.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le Canada fait un pas de plus vers l’acquisition de six avions d’alerte avancée GlobalEye auprès du suédois Saab",
       "link": "https://www.opex360.com/2026/09/28/le-canada-fait-un-pas-de-plus-vers-lacquisition-de-six-avions-dalerte-avancee-globaleye-aupres-du-suedois-saab/",
       "pubDate": "2026-09-28T17:31:38.000Z",
@@ -176,13 +183,6 @@
       "pubDate": "2026-09-28T16:26:17.000Z",
       "description": "En juillet, la Commission européenne a proposé aux vingt-sept États membres, ainsi qu’à l’Ukraine et à la Norvège, de mettre en place des «projets de défense d’intérêt commun» [EDPCI pour European Defence Projects of Common Interest]. Il s’agit de «projets industriels de grande envergure qui offrent aux États membres un cadre de coopération sur des...\nCet article Les États membres de l’Union européenne approuvent cinq ambitieux projets de défense d’intérêt commun est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "L’Europe en guerre économique : qui paiera la facture ?",
-      "link": "https://armees.com/europe-guerre-economique-paiera-facture/",
-      "pubDate": "2026-09-28T16:10:34.000Z",
-      "description": "La Russie frappe des civils à Kiev, saisit les actifs du groupe Metro, inonde l’Europe de désinformation. Pendant ce temps, la zone euro vacille sous le triple choc énergétique, commercial ...",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La Lettonie veut renforcer ses capacités de frappe dans la profondeur avec des missiles américains Barracuda",
