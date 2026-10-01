@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T13:37:38.435Z",
+  "generatedAt": "2026-10-01T13:53:26.228Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "PLF 2027 : des investissements capacitaires en forte hausse pour les armées",
+      "link": "https://forcesoperations.com/plf-2027-des-investissements-capacitaires-en-forte-hausse-pour-les-armees/",
+      "pubDate": "2026-10-01T13:39:41.000Z",
+      "description": "Le projet de loi de finances pour 2027 est maintenant déposé, point de départ d'une séquence d'adoption parlementaire qui s'annonce périlleuse. Le cap fixé pour les armées demeure inchangé : une hausse de 6,4 Md€ pour porter les crédits au-delà de 63,4 Md€. Près de la moitié sont consacrés aux équipements. \nThe post PLF 2027 : des investissements capacitaires en forte hausse pour les armées appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
     {
       "title": "Le Pentagone va créer un commandement interarmée dédié aux systèmes autonomes",
       "link": "https://www.opex360.com/2026/10/01/le-pentagone-va-creer-un-commandement-interarmee-dedie-aux-systemes-autonomes/",
@@ -400,13 +407,6 @@
       "pubDate": "2026-09-15T11:09:09.000Z",
       "description": "Le service militaire volontaire, appelé « service national », a été lancé en novembre 2025 par Emmanuel Macron avec l’objectif de « consolider le lien entre les armées et la nation ».",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Oledcomm, de la NSA aux camps de Champagne",
-      "link": "https://forcesoperations.com/oledcomm-de-la-nsa-aux-camps-de-champagne/",
-      "pubDate": "2026-09-14T14:59:58.000Z",
-      "description": "Miser sur la lumière pour communiquer, c'est l'idée poussée par une entreprise française jusque là restée loin des projecteurs. Lancé main dans la main avec l'armée de Terre, son projet pourrait déboucher sur une nouvelle capacité de communication mobile et résiliente au profit des chaînes de commandement. \nThe post Oledcomm, de la NSA aux camps de Champagne appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
     },
     {
       "title": "« Chaque hésitation de l’Europe à armer l’Ukraine est lue par Moscou comme une faille »",
