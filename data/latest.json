@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T03:07:06.279Z",
+  "generatedAt": "2026-10-01T03:32:59.268Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Aux Etats-Unis, Pete Hegseth, le secrétaire à la défense, revendique une réduction de 20 % du nombre de hauts gradés et poursuit la reconfiguration de l’armée",
+      "link": "https://www.lemonde.fr/international/article/2026/10/01/aux-etats-unis-pete-hegseth-le-secretaire-a-la-defense-revendique-une-reduction-de-20-du-nombre-de-hauts-grades-et-poursuit-la-reconfiguration-de-l-armee_6786428_3210.html",
+      "pubDate": "2026-10-01T03:28:43.000Z",
+      "description": "Dans un discours aux accents virilistes sur l’« Etat de la force », mercredi, le chef du Pentagone a confirmé les termes de la révolution culturelle menée dans les rangs militaires et a annoncé une série de mesures visant à préparer le pays aux guerres du futur.",
+      "sourceKey": "geo"
+    },
     {
       "title": "Airbus Helicopters aurait proposé des hélicoptères NH90 NFH d’occasion «remis à neuf» à la Malaisie",
       "link": "https://www.opex360.com/2026/09/30/airbus-helicopters-aurait-propose-des-helicopteres-nh90-nfh-doccasion-remis-a-neuf-a-la-malaisie/",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/09/07/en-colombie-le-soldat-de-la-legion-etrangere-francaise-pris-en-otage-par-une-guerilla-est-sain-et-sauf_6767995_3210.html",
       "pubDate": "2026-09-07T20:19:05.000Z",
       "description": "Le soldat colombien de la Légion étrangère française, enlevé le 6 août par des guérilleros, a réussi à leur échapper, a annoncé lundi l’état-major des armées français.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Le Pentagone a soumis des responsables militaires américains au détecteur de mensonge après des fuites, d’après le « New York Times »",
-      "link": "https://www.lemonde.fr/international/article/2026/09/05/le-pentagone-a-soumis-des-responsables-militaires-americains-au-detecteur-de-mensonge-apres-des-fuites-d-apres-le-new-york-times_6766366_3210.html",
-      "pubDate": "2026-09-05T17:17:10.000Z",
-      "description": "Une cinquantaine de membres de l’état-major ont été interrogés au polygraphe pour identifier la source d’une fuite sur une possible pénurie de munitions américaines.",
       "sourceKey": "geo"
     }
   ]
