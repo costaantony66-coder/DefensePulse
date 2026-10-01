@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T14:52:06.425Z",
+  "generatedAt": "2026-10-01T15:08:09.152Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Les chasseurs-bombardiers F-16 ukrainiens sont confrontés à de graves problèmes d’indisponibilité",
+      "link": "https://www.opex360.com/2026/10/01/les-chasseurs-bombardiers-f-16-ukrainiens-sont-confrontes-a-de-graves-problemes-dindisponibilite/",
+      "pubDate": "2026-10-01T14:55:13.000Z",
+      "description": "Faute de chiffres officiels, on estime que la force aérienne ukrainienne disposerait actuellement de 40 ou 50 chasseurs-bombardiers F-16 sur les 87 exemplaires promis par la «coalition F-16», formée notamment les Pays-Bas, le Danemark, la Belgique et la Norvège. Quelques uns d’entre eux sont affectés au Centre européen de formation dédié au F-16, implanté en...\nCet article Les chasseurs-bombardiers F-16 ukrainiens sont confrontés à de graves problèmes d’indisponibilité est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Ukraine : un pont de Kiev endommagé par deux drones russes",
+      "link": "https://armees.com/ukraine-pont-kiev-endommage-deux-drones-russes/",
+      "pubDate": "2026-10-01T13:50:18.000Z",
+      "description": "Le 1er octobre 2026, deux drones russes équipés d'ogives à charge creuse ont endommagé le Pont Sud de Kiev, infrastructure stratégique supportant une ligne de métro. Cette attaque, première du genre depuis février 2022, marque une escalade tactique russe visant les structures en acier et les infrastructures énergétiques ukrainiennes.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "PLF 2027 : des investissements capacitaires en forte hausse pour les armées",
       "link": "https://forcesoperations.com/plf-2027-des-investissements-capacitaires-en-forte-hausse-pour-les-armees/",
@@ -192,13 +206,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Boeing rafle le contrat du F/A-XX : l’US Navy mise 20 milliards sur son chasseur de sixième génération",
-      "link": "https://armees.com/us-navy-boeing-rafle-contrat-f-xx-mise-20-milliards-chasseur-sixieme/",
-      "pubDate": "2026-09-30T08:44:07.000Z",
-      "description": "Le 29 septembre 2026, Boeing a décroché un contrat de plus de 20 milliards de dollars pour développer le F/A-XX, chasseur embarqué de sixième génération de l'US Navy. Cette victoire, survenant après celle du programme F-47 de l'Air Force, établit Boeing comme unique fournisseur de chasseurs de nouvelle génération américains, une situation inédite depuis les années 1970.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Boeing choisi pour fabriquer le futur avion de combat de la marine américaine",
       "link": "https://www.lemonde.fr/economie/article/2026/09/30/boeing-choisi-pour-fabriquer-le-futur-avion-de-combat-de-la-marine-americaine_6785825_3234.html",
       "pubDate": "2026-09-30T00:56:35.000Z",
@@ -231,13 +238,6 @@
       "link": "https://www.opex360.com/2026/09/29/le-pentagone-notifie-a-raytheon-un-contrat-de-201-milliards-de-dollars-pour-produire-1-900-missiles-air-air-amraam-par-an/",
       "pubDate": "2026-09-29T10:50:19.000Z",
       "description": "Ces dernières années, et singulièrement depuis le début de la guerre en Ukraine, le missile air-air AIM-120 AMRAAM [Advanced Medium-Range Air-to-Air Missile], produit par Raytheon, filiale de RTX, s’est vendu comme des «petits pains», toutes versions confondues. En mars, encore, l’administration américaine a autorisé les Émirats arabes unis à en acquérir 400 exemplaires pour un...\nCet article Le Pentagone notifie à Raytheon un contrat de 20,7 milliards de dollars pour produire 1 900 missiles air-air AMRAAM par an est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Le Canada fait un pas de plus vers l’acquisition de six avions d’alerte avancée GlobalEye auprès du suédois Saab",
-      "link": "https://www.opex360.com/2026/09/28/le-canada-fait-un-pas-de-plus-vers-lacquisition-de-six-avions-dalerte-avancee-globaleye-aupres-du-suedois-saab/",
-      "pubDate": "2026-09-28T17:31:38.000Z",
-      "description": "Fin mai, le Premier ministre canadien, Mark Carney, fit savoir que des négociations allaient être ouvertes avec le suédois Saab en vue de doter l’Aviation royale canadienne [ARC] de six avions de détection et de commandement aéroportés [AEW&C] GlobalEye. «Ce choix «renforce l’autonomie stratégique du Canada, crée des emplois et consolide sa position de chef...\nCet article Le Canada fait un pas de plus vers l’acquisition de six avions d’alerte avancée GlobalEye auprès du suédois Saab est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
