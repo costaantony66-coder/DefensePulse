@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T04:33:17.283Z",
+  "generatedAt": "2026-10-01T04:51:39.920Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Pétrole : les exportations via Ormuz retrouvent leur niveau d’avant-guerre",
+      "link": "https://armees.com/petrole-exportations-via-ormuz-retrouvent-niveau/",
+      "pubDate": "2026-10-01T03:51:28.000Z",
+      "description": "Les exportations de pétrole brut via le détroit d'Ormuz ont retrouvé leurs niveaux d'avant-guerre grâce aux escortes militaires américaines et à l'utilisation massive d'oléoducs.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Aux Etats-Unis, Pete Hegseth, le secrétaire à la défense, revendique une réduction de 20 % du nombre de hauts gradés et poursuit la reconfiguration de l’armée",
       "link": "https://www.lemonde.fr/international/article/2026/10/01/aux-etats-unis-pete-hegseth-le-secretaire-a-la-defense-revendique-une-reduction-de-20-du-nombre-de-hauts-grades-et-poursuit-la-reconfiguration-de-l-armee_6786428_3210.html",
@@ -189,13 +196,6 @@
       "link": "https://armees.com/pologne-drone-russe-geran-5-tombe-frontiere/",
       "pubDate": "2026-09-29T13:03:23.000Z",
       "description": "Un drone Geran-5 russe s'est écrasé à quelques centaines de mètres du passage frontalier de Yagodin en Pologne, dans la région de Volyn. Le Commandement opérationnel des Forces armées polonaises a confirmé l'incident, soulignant l'efficacité des systèmes de détection déployés le long de la frontière polono-ukrainienne. Le passage de Yagodin, point de transit le plus fréquenté entre les deux pays, bénéficie d'une surveillance renforcée.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine  : le budget russe de la Défense explose",
-      "link": "https://armees.com/ukraine-le-budget-russe-de-la-defense-explose/",
-      "pubDate": "2026-09-29T12:20:01.000Z",
-      "description": "La Russie prévoit 17 100 milliards de roubles pour la Défense en 2027. Ce projet de budget accroît la pression sur le déficit, la dette et les impôts.",
       "sourceKey": "armees_com"
     },
     {
