@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T10:08:54.494Z",
+  "generatedAt": "2026-10-01T10:33:09.041Z",
   "sources": [
     {
       "key": "opex",
@@ -24,11 +24,18 @@
   ],
   "items": [
     {
-      "title": "Un rapport parlementaire français appelle l’UE à « s’approprier l’OTAN » pour en faire « son bras armé »",
+      "title": "L’UE doit « s’approprier l’OTAN » pour en faire « son bras armé » préconise un rapport parlementaire français",
       "link": "https://www.lemonde.fr/international/article/2026/10/01/en-france-un-rapport-parlementaire-appelle-l-union-europeenne-a-s-approprier-l-otan-pour-en-faire-son-bras-arme_6786485_3210.html",
       "pubDate": "2026-10-01T09:00:02.000Z",
       "description": "Pour se détacher du parapluie américain, les députés préconisent notamment de renforcer les coopérations industrielles et d’assumer la dissuasion nucléaire sur le continent à la place des Etats-Unis.",
       "sourceKey": "geo"
+    },
+    {
+      "title": "FlyDubai : ce que l’on sait du détournement du vol vers Tel- Aviv",
+      "link": "https://armees.com/flydubai-ce-que-lon-sait-du-detournement-du-vol-vers-tel-aviv/",
+      "pubDate": "2026-10-01T08:36:31.000Z",
+      "description": "Le vol Flydubai Dubaï–Tel-Aviv a été dérouté vers Tabuk après une altercation dans le cockpit. Passagers secourus, vols suspendus et enquête en cours.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "États-Unis : le Pentagone met en place un commandement pour la guerre autonome",
@@ -175,13 +182,6 @@
       "link": "https://armees.com/us-navy-boeing-rafle-contrat-f-xx-mise-20-milliards-chasseur-sixieme/",
       "pubDate": "2026-09-30T08:44:07.000Z",
       "description": "Le 29 septembre 2026, Boeing a décroché un contrat de plus de 20 milliards de dollars pour développer le F/A-XX, chasseur embarqué de sixième génération de l'US Navy. Cette victoire, survenant après celle du programme F-47 de l'Air Force, établit Boeing comme unique fournisseur de chasseurs de nouvelle génération américains, une situation inédite depuis les années 1970.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Le ministre ukrainien de la Défense annule ses visites en Europe",
-      "link": "https://armees.com/guerre-ministre-ukrainien-defense/",
-      "pubDate": "2026-09-30T08:23:22.000Z",
-      "description": "Evgueniï Khmara, ministre ukrainien de la Défense, a annulé ses visites diplomatiques en Allemagne et en Norvège prévues le 29 septembre 2026 en raison de l'intensification des frappes russes sur Kiev. La multiplication des attaques contre des cibles civiles et stratégiques exige sa présence immédiate pour coordonner les mesures de riposte et superviser le déploiement des capacités de défense antiaérienne.",
       "sourceKey": "armees_com"
     },
     {
