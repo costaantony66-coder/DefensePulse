@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T07:50:25.164Z",
+  "generatedAt": "2026-10-01T08:09:13.587Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Irak : fin de l’opération Inherent Resolve après 12 ans",
+      "link": "https://armees.com/irak-fin-operation-inherent-resolve-12-ans/",
+      "pubDate": "2026-10-01T07:21:46.000Z",
+      "description": "Le 30 septembre 2026 marque la fin de l'Opération Inherent Resolve en Irak après 12 ans de déploiement contre l'État islamique. La coalition dirigée par les États-Unis a vaincu militairement le groupe jihadiste, mais laisse derrière elle des forces irakiennes dont l'autonomie opérationnelle suscite des interrogations majeures au sein de la communauté stratégique internationale.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "FN Herstal rime toujours plus avec Portugal",
       "link": "https://forcesoperations.com/fn-herstal-rime-toujours-plus-avec-portugal/",
@@ -168,13 +175,6 @@
       "link": "https://armees.com/etats-unis-3-millions-victimes-double-fuite-pentagon-fbi/",
       "pubDate": "2026-09-30T07:20:57.000Z",
       "description": "Le Defense Manpower Data Center et le FBI affrontent une double crise de sécurité informatique aux États-Unis. Après neuf mois d'accès non détecté exposant 3,05 millions de personnes au Pentagone et une cyberattaque revendiquée par ShinyHunters menaçant tous les employés du FBI, les agences déploient des protocoles d'urgence pour protéger les victimes et colmater des failles systémiques révélatrices de carences administratives profondes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Incendie criminel contre Milrem : la Russie visait les robots ukrainiens",
-      "link": "https://armees.com/incendie-criminel-contre-milrem-russie-visait-robots-ukrainiens/",
-      "pubDate": "2026-09-30T06:58:49.000Z",
-      "description": "L'Estonie accuse formellement la Russie d'avoir commandité l'incendie criminel du 15 août 2026 contre Milrem Robotics à Tallinn. Après six semaines d'enquête, le Service de sécurité intérieure conclut à un sabotage orchestré par Moscou pour perturber les livraisons de robots THeMIS à l'Ukraine. Trois suspects latviens ont été arrêtés et remis aux autorités estoniennes.",
       "sourceKey": "armees_com"
     },
     {
