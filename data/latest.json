@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T15:33:36.050Z",
+  "generatedAt": "2026-10-01T15:51:24.807Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "IA militaire : la France à l’assaut de la domination américaine sur les réseaux classifiés de l’OTAN",
+      "link": "https://www.lemonde.fr/international/article/2026/10/01/ia-militaire-la-france-a-l-assaut-de-la-domination-americaine-sur-les-reseaux-classifies-de-l-otan_6786550_3210.html",
+      "pubDate": "2026-10-01T15:34:10.000Z",
+      "description": "Le projet Arcadia, présenté le 29 septembre, vise à fusionner massivement les données des armées françaises pour accroître leur efficacité opérationnelle. Une âpre bataille est lancée contre les groupes américains Palantir et Anduril dans le cadre de la modernisation des structures de l’Alliance atlantique.",
+      "sourceKey": "geo"
+    },
     {
       "title": "Les chasseurs-bombardiers F-16 ukrainiens sont confrontés à de graves problèmes d’indisponibilité",
       "link": "https://www.opex360.com/2026/10/01/les-chasseurs-bombardiers-f-16-ukrainiens-sont-confrontes-a-de-graves-problemes-dindisponibilite/",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/09/15/la-premiere-promotion-du-nouveau-service-militaire-portera-le-nom-d-henri-fertet-resistant-fusille-a-16-ans_6774413_3210.html",
       "pubDate": "2026-09-15T11:09:09.000Z",
       "description": "Le service militaire volontaire, appelé « service national », a été lancé en novembre 2025 par Emmanuel Macron avec l’objectif de « consolider le lien entre les armées et la nation ».",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "« Chaque hésitation de l’Europe à armer l’Ukraine est lue par Moscou comme une faille »",
-      "link": "https://www.lemonde.fr/idees/article/2026/09/08/chaque-hesitation-de-l-europe-a-armer-l-ukraine-est-lue-par-moscou-comme-une-faille_6768128_3232.html",
-      "pubDate": "2026-09-08T07:30:07.000Z",
-      "description": "Les pays européens doivent s’organiser collectivement pour céder leurs missiles intercepteurs à Kiev, mais aussi coordonner et augmenter la production de ces missiles à l’échelle du continent dès que possible, presse un collectif de personnalités militaires et civiles dans une tribune au « Monde ».",
       "sourceKey": "geo"
     }
   ]
