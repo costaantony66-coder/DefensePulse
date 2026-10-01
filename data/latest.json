@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T05:07:13.807Z",
+  "generatedAt": "2026-10-01T05:31:33.555Z",
   "sources": [
     {
       "key": "opex",
@@ -24,6 +24,13 @@
   ],
   "items": [
     {
+      "title": "Jo Nagai, 10 ans et élève japonais : il a prouvé que les papillons gardent en mémoire leur vie de chenille",
+      "link": "https://armees.com/jo-nagai-10-ans-et-eleve-japonais-il-a-prouve-que-les-papillons-gardent-en-memoire-leur-vie-de-chenille/",
+      "pubDate": "2026-10-01T05:05:22.000Z",
+      "description": "Un garçon de 10 ans, une odeur de lavande et des papillons qui se souviennent de leur vie de chenille. Sa découverte fait vaciller une certitude scientifique vieille de plusieurs décennies.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Pétrole : les exportations via Ormuz retrouvent leur niveau d’avant-guerre",
       "link": "https://armees.com/petrole-exportations-via-ormuz-retrouvent-niveau/",
       "pubDate": "2026-10-01T03:51:28.000Z",
@@ -34,7 +41,7 @@
       "title": "Aux Etats-Unis, Pete Hegseth, le secrétaire à la défense, revendique une réduction de 20 % du nombre de hauts gradés et poursuit la reconfiguration de l’armée",
       "link": "https://www.lemonde.fr/international/article/2026/10/01/aux-etats-unis-pete-hegseth-le-secretaire-a-la-defense-revendique-une-reduction-de-20-du-nombre-de-hauts-grades-et-poursuit-la-reconfiguration-de-l-armee_6786428_3210.html",
       "pubDate": "2026-10-01T03:28:40.000Z",
-      "description": "Dans un discours aux accents virilistes sur l’« Etat de la force », mercredi, le chef du Pentagone a confirmé les termes de la révolution culturelle menée dans les rangs militaires et a annoncé une série de mesures visant à préparer le pays aux guerres du futur.",
+      "description": "Dans un discours aux accents virilistes, mercredi, le chef du Pentagone a confirmé les termes de la révolution culturelle menée dans les rangs militaires et a annoncé une série de mesures visant à préparer le pays aux guerres du futur.",
       "sourceKey": "geo"
     },
     {
@@ -190,13 +197,6 @@
       "pubDate": "2026-09-29T15:37:46.000Z",
       "description": "Lors d’un discours prononcé sur la base navale de l’Île-Longue, le 2 mars, le président Macron fit savoir que, compte tenu du contexte international et de l’évolution des menaces, il avait «ordonné d’augmenter le nombre de têtes nucléaires» de l’arsenal français, l’idée étant de passer du concept de «stricte suffisance» à celui de «stricte cohérence»....\nCet article Selon le Sénat, le rétablissement d’une composante nucléaire terrestre pourrait être une «option à ne pas négliger» est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Pologne : un drone russe Geran-5 tombe à quelques kilomètres de la frontière",
-      "link": "https://armees.com/pologne-drone-russe-geran-5-tombe-frontiere/",
-      "pubDate": "2026-09-29T13:03:23.000Z",
-      "description": "Un drone Geran-5 russe s'est écrasé à quelques centaines de mètres du passage frontalier de Yagodin en Pologne, dans la région de Volyn. Le Commandement opérationnel des Forces armées polonaises a confirmé l'incident, soulignant l'efficacité des systèmes de détection déployés le long de la frontière polono-ukrainienne. Le passage de Yagodin, point de transit le plus fréquenté entre les deux pays, bénéficie d'une surveillance renforcée.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le Pentagone notifie à Raytheon un contrat de 20,1 milliards de dollars pour produire 1 900 missiles air-air AMRAAM par an",
