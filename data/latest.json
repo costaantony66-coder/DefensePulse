@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T12:55:45.084Z",
+  "generatedAt": "2026-10-02T13:09:56.157Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "France : les agences protectrices de nos données ont été piratées",
+      "link": "https://armees.com/france-les-agences-protectrices-de-nos-donnees-ont-ete-piratees/",
+      "pubDate": "2026-10-02T11:36:26.000Z",
+      "description": "L’Anssi et la Dinum ont subi des compromissions liées à une faille critique de Metabase. Comptes, données administratives et identifiants ont été exposés.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Blocage des lycées : le rôle trouble de LFI dans les violences",
       "link": "https://armees.com/blocage-des-lycees-le-role-trouble-de-lfi-dans-les-violences/",
@@ -204,13 +211,6 @@
       "pubDate": "2026-10-01T06:48:57.000Z",
       "description": "FN Herstal projette d’installer une capacité de production de munitions de petit calibre au Portugal, fruit d'un accord signé ce mardi qui ajoute au passage un nouveau membre au partenariat stratégique établi entre le groupe liégeois et la Défense belge.  Après la France en juillet et d'autres États européens auparavant, au tour du Portugal de […]\nThe post FN Herstal rime toujours plus avec Portugal appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Troupes américaines : Whitaker balaie les rumeurs de retrait massif",
-      "link": "https://armees.com/troupes-americaines-whitaker-balaie-rumeurs-retrait-massif/",
-      "pubDate": "2026-10-01T06:08:13.000Z",
-      "description": "Matthew Whitaker, ambassadeur américain à l'OTAN, a démenti le 30 septembre 2026 les rapports de NBC annonçant le retrait de 25 000 à 40 000 troupes américaines d'Europe.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Aux Etats-Unis, Pete Hegseth, secrétaire à la défense, revendique une réduction de 20 % du nombre de hauts gradés et poursuit la reconfiguration de l’armée",
