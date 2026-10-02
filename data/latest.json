@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T11:31:01.765Z",
+  "generatedAt": "2026-10-02T11:49:49.207Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Blocage des lycées : le rôle trouble de LFI dans les violences",
+      "link": "https://armees.com/blocage-des-lycees-le-role-trouble-de-lfi-dans-les-violences/",
+      "pubDate": "2026-10-02T11:27:36.000Z",
+      "description": "Une note du renseignement parisien analyse les blocages de lycées en Seine-Saint-Denis et évoque l’implication de militants de LFI et de groupes de gauche radicale dans la mobilisation.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "L’Agence de l’innovation de défense a dépensé 1 million d’euros pour un système informatique qui n’a jamais fonctionné",
       "link": "https://www.opex360.com/2026/10/02/lagence-de-linnovation-de-defense-a-depense-1-million-deuros-pour-un-systeme-informatique-qui-na-jamais-fonctionne/",
@@ -203,13 +210,6 @@
       "link": "https://armees.com/troupes-americaines-whitaker-balaie-rumeurs-retrait-massif/",
       "pubDate": "2026-10-01T06:08:13.000Z",
       "description": "Matthew Whitaker, ambassadeur américain à l'OTAN, a démenti le 30 septembre 2026 les rapports de NBC annonçant le retrait de 25 000 à 40 000 troupes américaines d'Europe.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Des archéologues tombent sur des pierres de 80 tonnes immergées, supposées appartenir à l’une des sept merveilles antiques",
-      "link": "https://armees.com/des-archeologues-tombent-sur-des-pierres-de-80-tonnes-immergees-supposees-appartenir-a-lune-des-sept-merveilles-antiques/",
-      "pubDate": "2026-10-01T06:05:50.000Z",
-      "description": "Des blocs de 80 tonnes, engloutis depuis 1 600 ans, refont surface au large d'Alexandrie. Ce que révèlent ces vestiges du Phare sur son architecture secrète va surprendre plus d'un archéologue.",
       "sourceKey": "armees_com"
     },
     {
