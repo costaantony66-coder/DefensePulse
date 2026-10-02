@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T14:52:50.663Z",
+  "generatedAt": "2026-10-02T15:08:31.877Z",
   "sources": [
     {
       "key": "opex",
@@ -29,6 +29,13 @@
       "pubDate": "2026-10-02T14:47:16.000Z",
       "description": "Entre l’annonce du choix de la Frégate de défense et d’intervention [FDI ou classe Ronarc’h] par le ministère suédois de la Défense et le début de la construction de la première des quatre unités commandées, à peine cinq mois se sont écoulés. En matière de programmes d’armement, un délai aussi court est assez rare pour...\nCet article Un mois après la signature du contrat, Naval Group lance la construction de la frégate suédoise Luleå est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Blocus des lycées : les lanceurs de balles de défense en question",
+      "link": "https://armees.com/blocus-des-lycees-lanceurs-balles-defense-question/",
+      "pubDate": "2026-10-02T13:08:07.000Z",
+      "description": "Entre le 26 septembre et le 1er octobre 2026, trois mineurs ont été gravement blessés par des tirs de LBD lors de blocages de lycées. Le Défenseur des droits et l'IGPN enquêtent sur des tirs effectués à distance minimale, parfois à 1 mètre, soulevant des questions critiques sur les protocoles d'intervention et la proportionnalité face à 900 actions recensées et 1950 interpellations.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "France : les agences protectrices de nos données ont été piratées",
@@ -203,13 +210,6 @@
       "link": "https://armees.com/etats-unis-pentagone-met-place-commandement-guerre-autonome/",
       "pubDate": "2026-10-01T08:05:09.000Z",
       "description": "Le Pentagone crée l'Autonomous Warfare Command, un commandement quatre étoiles dédié aux systèmes autonomes, et lance le Projet Meridian pour identifier les domaines de conflit futurs. Elon Musk, Palmer Luckey et Newt Gingrich disposent de 120 jours pour cartographier les champs de bataille de 2030 à 2050, de la terre à l'espace cislunarien.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Irak : fin de l’opération Inherent Resolve après 12 ans",
-      "link": "https://armees.com/irak-fin-operation-inherent-resolve-12-ans/",
-      "pubDate": "2026-10-01T07:21:46.000Z",
-      "description": "Le 30 septembre 2026 marque la fin de l'Opération Inherent Resolve en Irak après 12 ans de déploiement contre l'État islamique. La coalition dirigée par les États-Unis a vaincu militairement le groupe jihadiste, mais laisse derrière elle des forces irakiennes dont l'autonomie opérationnelle suscite des interrogations majeures au sein de la communauté stratégique internationale.",
       "sourceKey": "armees_com"
     },
     {
