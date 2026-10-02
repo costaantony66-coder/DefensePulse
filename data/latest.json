@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:50:30.854Z",
+  "generatedAt": "2026-10-02T08:08:08.055Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "title": "Ukraine frappe une usine russe clé : comment Kyiv désarme la production de missiles",
+      "link": "https://armees.com/ukraine-frappe-usine-russe-cle-comment-kyiv-desarme-production-missiles/",
+      "pubDate": "2026-10-02T07:59:56.000Z",
+      "description": "L'Ukraine a frappé une usine russe essentielle à la production de missiles, confirmant sa capacité à cibler en profondeur les infrastructures militaires adverses. Cette opération, validée par des sociétés de renseignement privées, révèle une maturité tactique croissante et pourrait réduire de 25 à 35% les tirs russes dans les six prochains mois.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Arcadia : la France joue sa souveraineté numérique à l’OTAN",
+      "link": "https://armees.com/arcadia-france-joue-souverainete-numerique-otan/",
+      "pubDate": "2026-10-02T07:20:59.000Z",
+      "description": "La France vient de dévoiler le projet Arcadia, une initiative ambitieuse de fusion des données militaires classifiées destinée à défier la domination américaine sur les réseaux de l’Alliance atlantique. Derrière ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Méditerranée, Golfe, Europe de l’Est : l’Occident en surchauffe",
+      "link": "https://armees.com/mediterranee-golfe-europe-occident-surchauffe-3/",
+      "pubDate": "2026-10-02T07:03:59.000Z",
+      "description": "Pendant que la France regarde brûler ses lycées, les États-Unis déploient un porte-avions supplémentaire dans le Golfe Persique et l’espace est-européen voit se multiplier les incursions de drones russes. Le ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Bardella, Le Pen, lycées en feu : pendant ce temps, la LPM brûle aussi",
+      "link": "https://armees.com/bardella-pen-lycees-feu-pendant-temps-lpm-brule/",
+      "pubDate": "2026-10-02T06:52:43.000Z",
+      "description": "La France regarde ses lycées partir en fumée et ses responsables politiques s’entre-déchirer sur des tweets et des costards en kevlar. Pendant ce spectacle navrant, une question brûlante reste sans ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "« On pensait que c’était fini » : l’armée prépare ses premières exécutions en 64 ans, les familles des condamnés découvrent la nouvelle",
+      "link": "https://armees.com/on-pensait-que-cetait-fini-larmee-prepare-ses-premieres-executions-en-64-ans-les-familles-des-condamnes-decouvrent-la-nouvelle/",
+      "pubDate": "2026-10-02T06:05:52.000Z",
+      "description": "Soixante-cinq ans après la dernière pendaison militaire, Washington prépare en coulisses un scénario inédit. Quatre condamnés, un pénitencier, un délai de 150 jours. Trump donnera-t-il son feu vert ?",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "« On l’a regardée sombrer en 45 minutes » : une frégate américaine coulée lors d’un exercice au large de l’Écosse",
       "link": "https://armees.com/on-la-regardee-sombrer-en-45-minutes-une-fregate-americaine-coulee-lors-dun-exercice-au-large-de-lecosse/",
@@ -164,20 +199,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Jo Nagai, 10 ans et élève japonais : il a prouvé que les papillons gardent en mémoire leur vie de chenille",
-      "link": "https://armees.com/jo-nagai-10-ans-et-eleve-japonais-il-a-prouve-que-les-papillons-gardent-en-memoire-leur-vie-de-chenille/",
-      "pubDate": "2026-10-01T05:05:22.000Z",
-      "description": "Un garçon de 10 ans, une odeur de lavande et des papillons qui se souviennent de leur vie de chenille. Sa découverte fait vaciller une certitude scientifique vieille de plusieurs décennies.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Pétrole : les exportations via Ormuz retrouvent leur niveau d’avant-guerre",
-      "link": "https://armees.com/petrole-exportations-via-ormuz-retrouvent-niveau/",
-      "pubDate": "2026-10-01T03:51:28.000Z",
-      "description": "Les exportations de pétrole brut via le détroit d'Ormuz ont retrouvé leurs niveaux d'avant-guerre grâce aux escortes militaires américaines et à l'utilisation massive d'oléoducs.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Aux Etats-Unis, Pete Hegseth, secrétaire à la défense, revendique une réduction de 20 % du nombre de hauts gradés et poursuit la reconfiguration de l’armée",
       "link": "https://www.lemonde.fr/international/article/2026/10/01/aux-etats-unis-pete-hegseth-le-secretaire-a-la-defense-revendique-une-reduction-de-20-du-nombre-de-hauts-grades-et-poursuit-la-reconfiguration-de-l-armee_6786428_3210.html",
       "pubDate": "2026-10-01T03:28:40.000Z",
@@ -204,27 +225,6 @@
       "pubDate": "2026-09-30T14:53:22.000Z",
       "description": "En 2023, lors des débats sur la Loi de programmation militaire [LPM] 2024-30 au Parlement, Sébastien Lecornu, alors ministre des Armées, avait annoncé que le programme IRIS [Instruments de Renseignement et d’Imagerie Spatiale], lancé en 2019, allait être accéléré afin de remplacer les trois satellites de la constellation CSO [Composante Spatiale Optique] à partir de...\nCet article Le ministère des Armées serait sur le point de commander les deux nouveaux satellites d’observation du programme IRIS est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Cyberattaque de la DGFiP : l’ANSSI va conduire une enquête à la demande du Premier ministre",
-      "link": "https://armees.com/dgfip-cyberattaque-anssi-enquete/",
-      "pubDate": "2026-09-30T13:23:35.000Z",
-      "description": "Entre mai et août 2026, le groupe ZeroBytes a exfiltré 14 Go de données sensibles de la DGFiP sans détection pendant trois mois. Le rapport publié le 29 septembre par l'ANSSI révèle des lacunes critiques dans la gestion des identités, l'architecture informatique et la supervision. Une attaque simple qui expose les failles structurelles de la cyberdéfense d'État.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Dette record : l’armée française paiera-t-elle l’addition ?",
-      "link": "https://armees.com/dette-record-armee-francaise-paiera-t-addition/",
-      "pubDate": "2026-09-30T11:05:40.000Z",
-      "description": "La dette publique française atteint un niveau inédit depuis l’après-guerre. Dans ce contexte d’étranglement budgétaire, le budget des armées — pourtant sanctuarisé sur le papier — est plus que jamais ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Dette record : l’armée française peut-elle encore se battre ?",
-      "link": "https://armees.com/dette-record-armee-francaise-encore-battre/",
-      "pubDate": "2026-09-30T10:54:20.000Z",
-      "description": "La dette publique française vient de franchir un seuil inédit depuis l’après-guerre. Dans ce contexte d’asphyxie budgétaire, une question s’impose, que personne au gouvernement ne veut vraiment poser : le ...",
-      "sourceKey": "armees_com"
     },
     {
       "title": "L’US Navy a retenu Boeing pour développer le F/A-XX, son futur chasseur-bombardier de 6e génération",
