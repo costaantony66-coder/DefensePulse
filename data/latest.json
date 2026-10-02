@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T11:06:33.135Z",
+  "generatedAt": "2026-10-02T11:31:01.765Z",
   "sources": [
     {
       "key": "opex",
@@ -29,6 +29,13 @@
       "pubDate": "2026-10-02T10:53:57.000Z",
       "description": "Lors de l’élaboration de la Loi de programmation militaire [LPM] 2019-25, l’innovation fut au cœur de la communication du ministère des Armées [et de celle de Florence Parly, qui en tenait les rênes à l’époque]. D’où la création, en septembre 2018, de l’Agence de l’innovation de défense [AID], chargée d’orienter et de coordonner toutes les...\nCet article L’Agence de l’innovation de défense a dépensé 1 million d’euros pour un système informatique qui n’a jamais fonctionné est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Moyen-Orient : trois porte-avions américains convergent face à l’Iran",
+      "link": "https://armees.com/moyen-orient-trois-porte-avions-americains-convergent-face-iran/",
+      "pubDate": "2026-10-02T09:41:00.000Z",
+      "description": "Les États-Unis déploient trois groupes aéronavals au Moyen-Orient d'ici fin novembre 2026, concentrant plus de 20 000 marins et Marines autour de l'Iran. L'USS Theodore Roosevelt et le groupe amphibie USS Makin Island ont appareillé fin septembre, rejoignant deux porte-avions déjà positionnés dans la région. Un niveau de présence navale inédit depuis avril 2026.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Les États-Unis veulent développer un nouveau missile maritime longue portée",
@@ -203,13 +210,6 @@
       "link": "https://armees.com/des-archeologues-tombent-sur-des-pierres-de-80-tonnes-immergees-supposees-appartenir-a-lune-des-sept-merveilles-antiques/",
       "pubDate": "2026-10-01T06:05:50.000Z",
       "description": "Des blocs de 80 tonnes, engloutis depuis 1 600 ans, refont surface au large d'Alexandrie. Ce que révèlent ces vestiges du Phare sur son architecture secrète va surprendre plus d'un archéologue.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Des chercheurs prouvent que les éléphants emploient des « noms » et répondent véritablement quand on les interpelle",
-      "link": "https://armees.com/des-chercheurs-prouvent-que-les-elephants-emploient-des-noms-et-repondent-veritablement-quand-on-les-interpelle/",
-      "pubDate": "2026-10-01T05:35:24.000Z",
-      "description": "Des éléphants qui s'appellent par des noms inventés, sans imitation, presque comme nous. Une étude révèle une capacité de pensée abstraite insoupçonnée chez ces géants et pourrait changer leur avenir face au braconnage.",
       "sourceKey": "armees_com"
     },
     {
