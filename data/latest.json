@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T05:49:33.897Z",
+  "generatedAt": "2026-10-02T06:08:41.678Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "« On l’a regardée sombrer en 45 minutes » : une frégate américaine coulée lors d’un exercice au large de l’Écosse",
+      "link": "https://armees.com/on-la-regardee-sombrer-en-45-minutes-une-fregate-americaine-coulee-lors-dun-exercice-au-large-de-lecosse/",
+      "pubDate": "2026-10-02T05:35:57.000Z",
+      "description": "SM-6, NSM, Sea Venom, torpille Mk 48 : quatre frappes successives pour envoyer une ex-frégate américaine par le fond au large de l'Écosse. Pourquoi ce choix tactique précis ? La réponse dévoile une stratégie bien plus fine qu'il n'y paraît.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "« On pensait aider l’océan » : la Floride a jeté 2 millions de pneus en mer pour protéger les côtes, la nature leur renvoie la facture",
+      "link": "https://armees.com/on-pensait-aider-locean-la-floride-a-jete-2-millions-de-pneus-en-mer-pour-proteger-les-cotes-la-nature-leur-renvoie-la-facture/",
+      "pubDate": "2026-10-02T05:05:51.000Z",
+      "description": "Un habitat artificiel censé sauver les océans s'est transformé en cauchemar sous-marin. Cinquante ans plus tard, des plongeurs retirent encore ces pneus, parfois colonisés par des coraux qu'il faut sauver avant de poursuivre.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Taïwan, qui veut renforcer sa défense face à la Chine, reçoit ses premiers avions de combat américains F-16V",
       "link": "https://www.lemonde.fr/international/article/2026/10/02/taiwan-qui-veut-renforcer-sa-defense-face-a-la-chine-recoit-ses-premiers-avions-de-combat-americains-f-16v_6786970_3210.html",
@@ -213,25 +227,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Défense : Hegseth annonce une réduction de 20% des généraux et des amiraux",
-      "link": "https://armees.com/defense-etats-unis-hegseth-annonce-reduction-20/",
-      "pubDate": "2026-09-30T09:11:55.000Z",
-      "description": "Pete Hegseth annonce mercredi 1er octobre 2026 à Quantico une réduction de 20% des postes de généraux et amiraux, ramenant leur nombre d'environ 851 à 680. La mesure, effective au 1er janvier 2027, constitue la deuxième vague d'une restructuration majeure du Pentagone justifiée par la nécessité de promouvoir l'innovation et l'excellence opérationnelle en réduisant les couches bureaucratiques.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’US Navy a retenu Boeing pour développer le F/A-XX, son futur chasseur-bombardier de 6e génération",
       "link": "https://www.opex360.com/2026/09/30/lus-navy-a-retenu-boeing-pour-developper-le-f-a-xx-son-futur-chasseur-bombardier-de-6e-generation/",
       "pubDate": "2026-09-30T08:59:53.000Z",
       "description": "Dans le plan «Navy Aviation 2030-35» publié en novembre 2021, l’US Navy avait précisé ses attentes au sujet du F/A-XX, son futur avion de combat embarqué de 6e génération. Ainsi, elle avait expliqué que cet appareil allait être au centre d’un «système de systèmes» appelé FoS [pour Family of Systems], comprenant des drones de combat...\nCet article L’US Navy a retenu Boeing pour développer le F/A-XX, son futur chasseur-bombardier de 6e génération est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Défense : la Suisse choisit le système SAMP/T NG après les retards du Patriot",
-      "link": "https://armees.com/defense-suisse-choisit-systeme-samp-t-ng/",
-      "pubDate": "2026-09-30T08:57:19.000Z",
-      "description": "Face aux retards massifs du Patriot américain (2033-2035 au lieu de 2028) et à un surcoût de 1,7 milliard de francs suisses, la Suisse privilégie le système franco-italien SAMP/T NG dans le cadre du programme Bodluv GR 2. Un choix qui conjugue performances tactiques (150 km d'interception, 350 km de détection), interopérabilité OTAN et considérations politiques favorisant l'Europe.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Boeing choisi pour fabriquer le futur avion de combat de la marine américaine",
