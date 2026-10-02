@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T04:50:11.712Z",
+  "generatedAt": "2026-10-02T05:06:34.582Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Taïwan, qui veut renforcer sa défense face à la Chine, reçoit ses premiers avions de combat américains F-16V",
+      "link": "https://www.lemonde.fr/international/article/2026/10/02/taiwan-qui-veut-renforcer-sa-defense-face-a-la-chine-recoit-ses-premiers-avions-de-combat-americains-f-16v_6786970_3210.html",
+      "pubDate": "2026-10-02T04:56:49.000Z",
+      "description": "La livraison de ces avions de combat de nouvelle génération s’inscrit dans un contrat de huit milliards de dollars portant sur 66 appareils, alors que Taïpei poursuit la modernisation de sa flotte face aux pressions militaires croissantes de Pékin.",
+      "sourceKey": "geo"
+    },
     {
       "title": "L’US Army sélectionne cinq industriels pour concevoir un missile tactique sol-sol d’une portée de 1 000 km",
       "link": "https://www.opex360.com/2026/10/01/lus-army-selectionne-cinq-industriels-pour-concevoir-un-missile-tactique-sol-sol-dune-portee-de-1-000-km/",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/politique/article/2026/09/15/emmanuel-macron-lance-le-nouveau-service-militaire-national-avec-une-premiere-cohorte-de-3-000-jeunes_6774464_823448.html",
       "pubDate": "2026-09-15T17:00:07.000Z",
       "description": "Le nouveau format, qui succède au service national universel, devra faire ses preuves. Notamment sur son financement et sur l’emploi des jeunes volontaires, qui pourront remplacer des militaires d’active sur des missions annexes.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Nouveau service militaire : Emmanuel Macron annonce que la première promotion portera le nom d’Henri Fertet, résistant fusillé à 16 ans",
-      "link": "https://www.lemonde.fr/international/article/2026/09/15/la-premiere-promotion-du-nouveau-service-militaire-portera-le-nom-d-henri-fertet-resistant-fusille-a-16-ans_6774413_3210.html",
-      "pubDate": "2026-09-15T11:09:09.000Z",
-      "description": "Le service militaire volontaire, appelé « service national », a été lancé en novembre 2025 par Emmanuel Macron avec l’objectif de « consolider le lien entre les armées et la nation ».",
       "sourceKey": "geo"
     }
   ]
