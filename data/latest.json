@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T08:49:21.973Z",
+  "generatedAt": "2026-10-02T09:08:13.156Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Ce que promet le PLF 2027 pour l’armée de Terre",
+      "link": "https://forcesoperations.com/ce-que-promet-le-plf-2027-pour-larmee-de-terre/",
+      "pubDate": "2026-10-02T08:59:14.000Z",
+      "description": "Des commandes aux livraisons et du VBCI rénové au CAESAR de nouvelle génération, tour d’horizon de ce qu'annonce le projet de loi de finances pour 2027 pour l’armée de Terre sur le plan capacitaire. À supposer, bien sûr, que le document soit adopté tel quel et en temps et en heure. Et sans compter les éventuels aléas rencontrés en cours d'exercice.\nThe post Ce que promet le PLF 2027 pour l’armée de Terre appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
     {
       "title": "Ukraine frappe une usine russe clé : comment Kyiv désarme la production de missiles",
       "link": "https://armees.com/ukraine-frappe-usine-russe-cle-comment-kyiv-desarme-production-missiles/",
@@ -385,13 +392,6 @@
       "link": "https://forcesoperations.com/un-drone-made-in-france-atterrit-dans-larmee-britannique/",
       "pubDate": "2026-09-17T09:54:27.000Z",
       "description": "Le ministère de la Défense britannique vient d'allouer près d'un demi-milliard d'euros pour accélérer la dronisaton de ses forces terrestres. Parmi les quatre solutions retenues hier, l'une vient de France.  Entre le petit drone quadricoptère et l'AR5 de 7 m d'envergure, plus de 485 M€ ont été contractualisés pour muscler les capacités de renseignement et […]\nThe post Un drone « Made in France » atterrit dans l’armée britannique appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
-    },
-    {
-      "title": "La simulation au centre d’un nouveau partenariat d’innovation",
-      "link": "https://forcesoperations.com/la-simulation-au-centre-dun-nouveau-partenariat-dinnovation/",
-      "pubDate": "2026-09-17T07:19:40.000Z",
-      "description": "Après ELISA, FLPT et d'autres efforts dépourvus d'acronyme, place à ATHENA. Cet autre partenariat d'innovation entend cette fois doter l'armée de Terre de nouveaux moyens d'entraînement, à l'heure où celle-ci cherche à durcir sa préparation opérationnelle. \nThe post La simulation au centre d’un nouveau partenariat d’innovation appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
     },
     {
