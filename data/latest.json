@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T09:33:35.213Z",
+  "generatedAt": "2026-10-02T09:50:35.691Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Les États-Unis veulent développer un nouveau missile maritime longue portée",
+      "link": "https://armees.com/missile-etats-unis-maritime-longue-portee/",
+      "pubDate": "2026-10-02T09:16:49.000Z",
+      "description": "L'armée de terre américaine a sélectionné cinq entreprises pour développer un missile antinavire à longue portée destiné à l'Indo-Pacifique. Anduril, Castelion, Lockheed Martin, Mach Industries et RTX devront livrer leurs prototypes du programme PrSM Increment 4 d'ici 2027. Cette nouvelle capacité vise à contrer la marine chinoise en équipant les lanceurs HIMARS déployables sur les îles stratégiques de la région.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine lance le FP-7, missile balistique accroissant son indépendance militaire",
+      "link": "https://armees.com/ukraine-lance-fp-7-missile-balistique-accroissant-independance-militaire/",
+      "pubDate": "2026-10-02T08:59:57.000Z",
+      "description": "Le 2 octobre 2026, l'Ukraine a engagé pour la première fois son missile balistique tactique FP-7, développé par Fire Point, capable de frapper à 250 km avec une ogive de 200 kg. Cette première opérationnelle marque l'entrée de Kiev dans le cercle restreint des nations produisant leurs propres capacités balistiques, réduisant sa dépendance aux systèmes occidentaux et modifiant l'équation tactique face aux frappes russes répétées.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Ce que promet le PLF 2027 pour l’armée de Terre",
       "link": "https://forcesoperations.com/ce-que-promet-le-plf-2027-pour-larmee-de-terre/",
@@ -189,20 +203,6 @@
       "link": "https://armees.com/des-chercheurs-prouvent-que-les-elephants-emploient-des-noms-et-repondent-veritablement-quand-on-les-interpelle/",
       "pubDate": "2026-10-01T05:35:24.000Z",
       "description": "Des éléphants qui s'appellent par des noms inventés, sans imitation, presque comme nous. Une étude révèle une capacité de pensée abstraite insoupçonnée chez ces géants et pourrait changer leur avenir face au braconnage.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Libre-échange UE-États-Unis : l’Europe doit payer sa défense",
-      "link": "https://armees.com/libre-echange-ue-etats-unis-europe-doit-payer-defense/",
-      "pubDate": "2026-10-01T05:21:53.000Z",
-      "description": "Jamie Dimon, patron de JPMorgan, vient de lancer un pavé dans la mare : un grand accord de libre-échange transatlantique, oui, mais contre des réformes économiques européennes sérieuses. Traduction brutale ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Données sensibles exposées : l’ANSSI victime de ses propres vulnérabilités",
-      "link": "https://armees.com/donnees-sensibles-exposees-anssi-victime-propres-vulnerabilites/",
-      "pubDate": "2026-10-01T05:20:50.000Z",
-      "description": "Le 30 septembre 2026, l'ANSSI révèle que 118 de ses comptes utilisateurs ont été compromis via une vulnérabilité critique de Metabase. La Dinum subit le même sort. Cette fuite de données expose identifiants, adresses emails et mots de passe hachés, fragilisant la chaîne de confiance de la cyberdéfense française. L'incident survient après la publication d'un rapport accablant sur le piratage de la DGFiP, révélant des failles systémiques dans la sécurité de l'État.",
       "sourceKey": "armees_com"
     },
     {
