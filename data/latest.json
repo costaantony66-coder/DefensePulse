@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T06:46:27.996Z",
+  "generatedAt": "2026-10-03T07:12:24.094Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Des commandos britanniques engagés pour des frappes aériennes avec les Navy SEALs",
+      "link": "https://armees.com/des-commandos-britanniques-engages-pour-des-frappes-aeriennes-avec-les-navy-seals/",
+      "pubDate": "2026-10-03T06:05:02.000Z",
+      "description": "Des commandos britanniques guidant des chasseurs F-18 américains, un navire pris d'assaut de nuit, trois semaines d'entraînement intensif en Virginie. Comment les Royal Marines et les Navy SEALs préparent-ils déjà leurs futurs combats communs ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Le ministère des Armées s’apprête à commander deux satellites espions IRIS : « on entre dans une nouvelle ère du renseignement spatial français »",
+      "link": "https://armees.com/le-ministere-des-armees-sapprete-a-commander-deux-satellites-espions-iris-on-entre-dans-une-nouvelle-ere-du-renseignement-spatial-francais/",
+      "pubDate": "2026-10-03T05:35:30.000Z",
+      "description": "Plus d'un milliard d'euros, deux satellites espions, et cinq ans de retard. Pourquoi la France a-t-elle failli abandonner IRIS avant même son lancement ? La réponse révèle les coulisses d'un pari stratégique à haut risque.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Adieu au FAL : après 66 ans, les Forces Armées débutent son remplacement par un fusil israélien",
+      "link": "https://armees.com/adieu-au-fal-apres-66-ans-les-forces-armees-debutent-son-remplacement-par-un-fusil-israelien/",
+      "pubDate": "2026-10-03T05:05:29.000Z",
+      "description": "Après 66 ans de bons et loyaux services, le FAL argentin tire sa révérence. Place aux fusils israéliens ARAD, plus légers, plus modernes. Mais un détail du contrat reste bien gardé sous silence...",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Confiée au SIAé, la rénovation des turbomachines du char Leclerc a pris de l’avance… et coûtera moins cher que prévu",
       "link": "https://www.opex360.com/2026/10/02/confiee-au-siae-la-renovation-des-turbomachines-du-char-leclerc-a-pris-de-lavance-et-coutera-moins-cher-que-prevu/",
@@ -185,13 +206,6 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Ukraine : un pont de Kiev endommagé par deux drones russes",
-      "link": "https://armees.com/ukraine-pont-kiev-endommage-deux-drones-russes/",
-      "pubDate": "2026-10-01T13:50:18.000Z",
-      "description": "Le 1er octobre 2026, deux drones russes équipés d'ogives à charge creuse ont endommagé le Pont Sud de Kiev, infrastructure stratégique supportant une ligne de métro. Cette attaque, première du genre depuis février 2022, marque une escalade tactique russe visant les structures en acier et les infrastructures énergétiques ukrainiennes.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "PLF 2027 : des investissements capacitaires en forte hausse pour les armées",
       "link": "https://forcesoperations.com/plf-2027-des-investissements-capacitaires-en-forte-hausse-pour-les-armees/",
       "pubDate": "2026-10-01T13:39:41.000Z",
@@ -211,20 +225,6 @@
       "pubDate": "2026-10-01T09:00:02.000Z",
       "description": "Pour se détacher du parapluie américain, les députés préconisent notamment de renforcer les coopérations industrielles et d’assumer la dissuasion nucléaire sur le continent à la place des Etats-Unis.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "FlyDubai : ce que l’on sait du détournement du vol vers Tel- Aviv",
-      "link": "https://armees.com/flydubai-ce-que-lon-sait-du-detournement-du-vol-vers-tel-aviv/",
-      "pubDate": "2026-10-01T08:36:31.000Z",
-      "description": "Le vol Flydubai Dubaï–Tel-Aviv a été dérouté vers Tabuk après une altercation dans le cockpit. Passagers secourus, vols suspendus et enquête en cours.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "États-Unis : le Pentagone met en place un commandement pour la guerre autonome",
-      "link": "https://armees.com/etats-unis-pentagone-met-place-commandement-guerre-autonome/",
-      "pubDate": "2026-10-01T08:05:09.000Z",
-      "description": "Le Pentagone crée l'Autonomous Warfare Command, un commandement quatre étoiles dédié aux systèmes autonomes, et lance le Projet Meridian pour identifier les domaines de conflit futurs. Elon Musk, Palmer Luckey et Newt Gingrich disposent de 120 jours pour cartographier les champs de bataille de 2030 à 2050, de la terre à l'espace cislunarien.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "FN Herstal rime toujours plus avec Portugal",
