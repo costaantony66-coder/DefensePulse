@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T15:15:48.518Z",
+  "generatedAt": "2026-10-05T22:02:59.793Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Le porte-avions Charles de Gaulle a été touché par un incendie",
+      "link": "https://www.opex360.com/2026/10/05/le-porte-avions-charles-de-gaulle-a-ete-touche-par-un-incendie/",
+      "pubDate": "2026-10-05T18:02:17.000Z",
+      "description": "Alors qu’il se trouve actuellement en arrêt technique au quai Milhaud 6 de la base navale de Toulon, le porte-avions Charles de Gaulle a évité le pire. En effet, ce 5 octobre, peu avant 11 h 30, une alarme incendie s’est déclenchée dans un local technique de moins de 10 m², situé à proximité de...\nCet article Le porte-avions Charles de Gaulle a été touché par un incendie est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "L’Espagne a choisi l’Airbus A321 pour développer son futur avion de renseignement électronique",
+      "link": "https://www.opex360.com/2026/10/05/lespagne-a-choisi-lairbus-a321-pour-developper-son-futur-avion-de-renseignement-electronique/",
+      "pubDate": "2026-10-05T16:27:53.000Z",
+      "description": "Depuis le retrait son B-707 «la Reina del Espectro» et la tentative manquée de le remplacer par un Gulfstream G550 pour des raisons budgétaires, la force aérienne espagnole [Ejército del Aire y del Espacio] a vu ses capacités dédiées au recueil et à l’analyse du renseignement d’origine électromagnétique [ROEM] considérablement réduites, celles-ci ne reposant plus...\nCet article L’Espagne a choisi l’Airbus A321 pour développer son futur avion de renseignement électronique est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "L’Europe sort enfin les griffes face à Pékin",
+      "link": "https://armees.com/europe-sort-enfin-griffes-face-pekin/",
+      "pubDate": "2026-10-05T16:04:10.000Z",
+      "description": "Paris et Berlin viennent de s’accorder sur une « arme de deuxième frappe » commerciale contre la Chine. Derrière le vocabulaire guerrier emprunté à la stratégie nucléaire, c’est une vraie révolution doctrinale ...",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "La France et la Turquie s’accordent sur une «feuille de route» pour renforcer leur coopération en matière de défense",
       "link": "https://www.opex360.com/2026/10/05/la-france-et-la-turquie-saccordent-sur-une-feuille-de-route-pour-renforcer-leur-cooperation-en-matiere-de-defense/",
@@ -164,13 +185,6 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Des scientifiques découvrent une substance bleue inconnue au fond de l’océan : elle grouille de signes de vie et personne ne sait ce que c’est",
-      "link": "https://armees.com/des-scientifiques-decouvrent-une-substance-bleue-inconnue-au-fond-de-locean-elle-grouille-de-signes-de-vie-et-personne-ne-sait-ce-que-cest/",
-      "pubDate": "2026-10-04T06:05:21.000Z",
-      "description": "Par 3 000 mètres de fond, une boue bleue aussi caustique que l'eau de Javel abrite pourtant des organismes vivants. Cette découverte pourrait bien révéler où la vie serait apparue sur Terre.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La Royal Air Force veut augmenter la disponibilité de ses avions de transport A400M de 30 %",
       "link": "https://www.opex360.com/2026/10/03/la-royal-air-force-veut-augmenter-la-disponibilite-de-ses-avions-de-transport-a400m-de-30/",
       "pubDate": "2026-10-03T14:40:17.000Z",
@@ -196,20 +210,6 @@
       "link": "https://www.opex360.com/2026/10/02/confiee-au-siae-la-renovation-des-turbomachines-du-char-leclerc-a-pris-de-lavance-et-coutera-moins-cher-que-prevu/",
       "pubDate": "2026-10-02T17:49:19.000Z",
       "description": "Au début du mois dernier, le Service industriel de l’aéronautique [SIAé] a fait savoir que son atelier de Bordeaux [AIA] venait officiellement de lancer les «activités de maintenance» de la turbomachine Turbomeca TM-307B associée au moteur Diesel V8X-1500 Hyperbar de 1 500 chevaux du char Leclerc. Et cela alors que, quelques années plus tôt, le...\nCet article Confiée au SIAé, la rénovation des turbomachines du char Leclerc a pris de l’avance… et coûtera moins cher que prévu est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "L’armée allemande va créer un régiment de drones au sein de sa 10e division blindée",
-      "link": "https://www.opex360.com/2026/10/02/larmee-allemande-va-creer-un-regiment-de-drones-au-sein-de-sa-10e-division-blindee/",
-      "pubDate": "2026-10-02T16:59:05.000Z",
-      "description": "Si un récent rapport du Sénat a estimé que les efforts du ministère des Armées dans le domaine de la guerre des drones étaient encore trop timides, il n’en reste pas moins que plusieurs évolutions, tant sur le plan capacitaire que doctrinaire, sont en cours. C’est notamment le cas pour l’armée de Terre qui, depuis...\nCet article L’armée allemande va créer un régiment de drones au sein de sa 10e division blindée est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Un mois après la signature du contrat, Naval Group lance la construction de la frégate suédoise Luleå",
-      "link": "https://www.opex360.com/2026/10/02/un-mois-apres-la-signature-du-contrat-naval-group-lance-la-construction-de-la-fregate-suedoise-lulea/",
-      "pubDate": "2026-10-02T14:47:16.000Z",
-      "description": "Entre l’annonce du choix de la Frégate de défense et d’intervention [FDI ou classe Ronarc’h] par le ministère suédois de la Défense et le début de la construction de la première des quatre unités commandées, à peine cinq mois se sont écoulés. En matière de programmes d’armement, un délai aussi court est assez rare pour...\nCet article Un mois après la signature du contrat, Naval Group lance la construction de la frégate suédoise Luleå est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
