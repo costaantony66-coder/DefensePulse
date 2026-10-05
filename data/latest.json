@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T00:58:55.151Z",
+  "generatedAt": "2026-10-05T06:39:25.906Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "title": "La garde côtière de Taïwan repousse un bateau de pêche chinois du continent avec des canons à eau",
+      "link": "https://armees.com/la-garde-cotiere-de-taiwan-repousse-un-bateau-de-peche-chinois-du-continent-avec-des-canons-a-eau/",
+      "pubDate": "2026-10-05T06:05:12.000Z",
+      "description": "Canon à eau, moteur en panne, 35 repas servis avant remorquage : l'incident près de Dongsha révèle un bras de fer maritime qui s'intensifie entre Taipei et Pékin. Les détails de cette journée tendue vous attendent.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un signal radio capté pour la première fois depuis une exoplanète",
+      "link": "https://armees.com/un-signal-radio-capte-pour-la-premiere-fois-depuis-une-exoplanete/",
+      "pubDate": "2026-10-05T05:35:51.000Z",
+      "description": "Un champ magnétique 200 fois plus puissant que celui de Jupiter capté depuis une planète à 63 années-lumière : les chercheurs eux-mêmes n'en croyaient pas leurs données. Comment expliquer une telle anomalie ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ormuz, Ukraine, Iran : la facture stratégique que la France esquive",
+      "link": "https://armees.com/ormuz-ukraine-iran-facture-strategique-france-esquive/",
+      "pubDate": "2026-10-05T05:22:50.000Z",
+      "description": "Le détroit d’Ormuz sous tension, les exportations ukrainiennes asphyxiées, la Russie qui frappe sans relâche les ports de la mer Noire : le monde brûle, et la France regarde ses ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "B-1 : pourquoi les États-Unis rapatrient leurs bombardiers de Fairford",
+      "link": "https://armees.com/b-1-pourquoi-etats-unis-rapatrient-bombardiers-fairford/",
+      "pubDate": "2026-10-05T05:13:48.000Z",
+      "description": "Le 4 octobre 2026, le Pentagone a annoncé le retrait complet de ses bombardiers B-1 Lancer de la base britannique de RAF Fairford, suite à l'incident de sécurité du 27 septembre impliquant des véhicules suspects et six arrestations.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Les Forces Armées du Brésil ont montré leurs compétences à Formosa en mobilisant 2 900 militaires ainsi que plus de 200 véhicules et aéronefs",
+      "link": "https://armees.com/les-forces-armees-du-bresil-ont-montre-leurs-competences-a-formosa-en-mobilisant-2-900-militaires-ainsi-que-plus-de-200-vehicules-et-aeronefs/",
+      "pubDate": "2026-10-05T05:05:39.000Z",
+      "description": "Près de 3 000 militaires, 198 véhicules, des tirs réels de missiles antichars et une exposition inédite d'industriels de défense en plein champ d'instruction. Voici ce que cache vraiment l'Opération Formosa 2026.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Russie : un décès suspect dans un institut anti-peste ravive les craintes liées au risque biologique",
+      "link": "https://armees.com/russie-un-deces-suspect-dans-un-institut-anti-peste-ravive-les-craintes-liees-au-risque-biologique/",
+      "pubDate": "2026-10-05T04:13:22.000Z",
+      "description": "La mort d’une employée d’un institut russe spécialisé dans les agents infectieux dangereux a entraîné la mise sous surveillance de près de 200 personnes, des restrictions hospitalières et plusieurs mesures de précaution en Sibérie. Moscou dément tout accident biologique, tandis que Washington suit la situation.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pétrole de guerre, jihad et Ukraine : l’Occident navigue à vue",
+      "link": "https://armees.com/petrole-guerre-jihad-ukraine-occident-navigue-vue/",
+      "pubDate": "2026-10-05T03:07:52.000Z",
+      "description": "En une seule semaine, trois dossiers géopolitiques majeurs s’entremêlent : la libération massive des réserves stratégiques de pétrole après la guerre en Iran, une contre-offensive ukrainienne qui redonne espoir à ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "2027 : la présidentielle qui pourrait tuer la LPM",
+      "link": "https://armees.com/2027-presidentielle-pourrait-tuer-lpm/",
+      "pubDate": "2026-10-05T03:05:42.000Z",
+      "description": "La France dépense enfin pour ses armées. Après des décennies de déni stratégique, la Loi de programmation militaire prévoit 413 milliards d’euros d’ici 2030. Mais voilà qu’une présidentielle agitée, un ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "ASML, Ukraine, Taiwan : l’Europe doit enfin se réarmer sérieusement",
+      "link": "https://armees.com/asml-ukraine-taiwan-europe-doit-enfin-rearmer-serieusement/",
+      "pubDate": "2026-10-05T03:03:57.000Z",
+      "description": "Friedrich Merz à Kiev, Taiwan sous surveillance, ASML sans clients européens : en ce début octobre 2026, trois signaux d’alarme clignotent simultanément. L’Europe parle de défense depuis des années, mais ...",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Le 68e Régiment d’Artillerie d’Afrique réorganise ses batteries de CAESAr pour accroître leur protection contre les drones",
       "link": "https://www.opex360.com/2026/10/04/le-68e-regiment-dartillerie-dafrique-reorganise-ses-batteries-de-caesar-pour-accroitre-leur-protection-contre-les-drones/",
@@ -129,20 +192,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "France : les agences protectrices de nos données ont été piratées",
-      "link": "https://armees.com/france-les-agences-protectrices-de-nos-donnees-ont-ete-piratees/",
-      "pubDate": "2026-10-02T11:36:26.000Z",
-      "description": "L’Anssi et la Dinum ont subi des compromissions liées à une faille critique de Metabase. Comptes, données administratives et identifiants ont été exposés.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Blocage des lycées : le rôle trouble de LFI dans les violences",
-      "link": "https://armees.com/blocage-des-lycees-le-role-trouble-de-lfi-dans-les-violences/",
-      "pubDate": "2026-10-02T11:27:36.000Z",
-      "description": "Une note du renseignement parisien analyse les blocages de lycées en Seine-Saint-Denis et évoque l’implication de militants de LFI et de groupes de gauche radicale dans la mobilisation.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’Agence de l’innovation de défense a dépensé 1 million d’euros pour un système informatique qui n’a jamais fonctionné",
       "link": "https://www.opex360.com/2026/10/02/lagence-de-linnovation-de-defense-a-depense-1-million-deuros-pour-un-systeme-informatique-qui-na-jamais-fonctionne/",
       "pubDate": "2026-10-02T10:53:57.000Z",
@@ -150,60 +199,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Moyen-Orient : trois porte-avions américains convergent face à l’Iran",
-      "link": "https://armees.com/moyen-orient-trois-porte-avions-americains-convergent-face-iran/",
-      "pubDate": "2026-10-02T09:41:00.000Z",
-      "description": "Les États-Unis déploient trois groupes aéronavals au Moyen-Orient d'ici fin novembre 2026, concentrant plus de 20 000 marins et Marines autour de l'Iran. L'USS Theodore Roosevelt et le groupe amphibie USS Makin Island ont appareillé fin septembre, rejoignant deux porte-avions déjà positionnés dans la région. Un niveau de présence navale inédit depuis avril 2026.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Les États-Unis veulent développer un nouveau missile maritime longue portée",
-      "link": "https://armees.com/missile-etats-unis-maritime-longue-portee/",
-      "pubDate": "2026-10-02T09:16:49.000Z",
-      "description": "L'armée de terre américaine a sélectionné cinq entreprises pour développer un missile antinavire à longue portée destiné à l'Indo-Pacifique. Anduril, Castelion, Lockheed Martin, Mach Industries et RTX devront livrer leurs prototypes du programme PrSM Increment 4 d'ici 2027. Cette nouvelle capacité vise à contrer la marine chinoise en équipant les lanceurs HIMARS déployables sur les îles stratégiques de la région.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine lance le FP-7, missile balistique accroissant son indépendance militaire",
-      "link": "https://armees.com/ukraine-lance-fp-7-missile-balistique-accroissant-independance-militaire/",
-      "pubDate": "2026-10-02T08:59:57.000Z",
-      "description": "Le 2 octobre 2026, l'Ukraine a engagé pour la première fois son missile balistique tactique FP-7, développé par Fire Point, capable de frapper à 250 km avec une ogive de 200 kg. Cette première opérationnelle marque l'entrée de Kiev dans le cercle restreint des nations produisant leurs propres capacités balistiques, réduisant sa dépendance aux systèmes occidentaux et modifiant l'équation tactique face aux frappes russes répétées.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Ce que promet le PLF 2027 pour l’armée de Terre",
       "link": "https://forcesoperations.com/ce-que-promet-le-plf-2027-pour-larmee-de-terre/",
       "pubDate": "2026-10-02T08:59:14.000Z",
       "description": "Des commandes aux livraisons et du VBCI rénové au CAESAR de nouvelle génération, tour d’horizon de ce qu'annonce le projet de loi de finances pour 2027 pour l’armée de Terre sur le plan capacitaire. À supposer, bien sûr, que le document soit adopté tel quel et en temps et en heure. Et sans compter les éventuels aléas rencontrés en cours d'exercice.\nThe post Ce que promet le PLF 2027 pour l’armée de Terre appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Ukraine frappe une usine russe clé : comment Kyiv désarme la production de missiles",
-      "link": "https://armees.com/ukraine-frappe-usine-russe-cle-comment-kyiv-desarme-production-missiles/",
-      "pubDate": "2026-10-02T07:59:56.000Z",
-      "description": "L'Ukraine a frappé une usine russe essentielle à la production de missiles, confirmant sa capacité à cibler en profondeur les infrastructures militaires adverses. Cette opération, validée par des sociétés de renseignement privées, révèle une maturité tactique croissante et pourrait réduire de 25 à 35% les tirs russes dans les six prochains mois.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Arcadia : la France joue sa souveraineté numérique à l’OTAN",
-      "link": "https://armees.com/arcadia-france-joue-souverainete-numerique-otan/",
-      "pubDate": "2026-10-02T07:20:59.000Z",
-      "description": "La France vient de dévoiler le projet Arcadia, une initiative ambitieuse de fusion des données militaires classifiées destinée à défier la domination américaine sur les réseaux de l’Alliance atlantique. Derrière ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Méditerranée, Golfe, Europe de l’Est : l’Occident en surchauffe",
-      "link": "https://armees.com/mediterranee-golfe-europe-occident-surchauffe-3/",
-      "pubDate": "2026-10-02T07:03:59.000Z",
-      "description": "Pendant que la France regarde brûler ses lycées, les États-Unis déploient un porte-avions supplémentaire dans le Golfe Persique et l’espace est-européen voit se multiplier les incursions de drones russes. Le ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Bardella, Le Pen, lycées en feu : pendant ce temps, la LPM brûle aussi",
-      "link": "https://armees.com/bardella-pen-lycees-feu-pendant-temps-lpm-brule/",
-      "pubDate": "2026-10-02T06:52:43.000Z",
-      "description": "La France regarde ses lycées partir en fumée et ses responsables politiques s’entre-déchirer sur des tweets et des costards en kevlar. Pendant ce spectacle navrant, une question brûlante reste sans ...",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Taïwan, qui veut renforcer sa défense face à la Chine, reçoit ses premiers avions de combat américains F-16V",
