@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T15:58:59.191Z",
+  "generatedAt": "2026-10-06T20:51:06.018Z",
   "sources": [
     {
       "key": "opex",
@@ -24,9 +24,23 @@
   ],
   "items": [
     {
-      "title": "Emmanuel Macron assiste, de façon inattendue, au lancement d’un missile M.51, depuis la mer",
+      "title": "Thales et 3ME Technology dévoilent le robot terrestre multifonction BladeHAUL, basé sur le blindé Bushmaster",
+      "link": "https://www.opex360.com/2026/10/06/thales-et-3me-technology-devoilent-le-robot-terrestre-multifonction-bladehaul-base-sur-le-blinde-bushmaster/",
+      "pubDate": "2026-10-06T17:26:34.000Z",
+      "description": "Les technologies évoluent à un rythme qui fait que les vérités d’il y a à peine six mois ne sont plus valables aujourd’hui. Tel est le cas de la robotique militaire. Ainsi, en juin 2025, un retour d’expérience de la guerre en Ukraine, commenté par le Centre interarmées de concepts, de doctrines et d’expérimentations [CICDE],...\nCet article Thales et 3ME Technology dévoilent le robot terrestre multifonction BladeHAUL, basé sur le blindé Bushmaster est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "La Gendarmerie nationale va pouvoir commander 23 nouveaux hélicoptères H145 D3 en 2027",
+      "link": "https://www.opex360.com/2026/10/06/la-gendarmerie-nationale-va-pouvoir-commander-23-nouveaux-helicopteres-h145-d3-en-2027/",
+      "pubDate": "2026-10-06T16:14:47.000Z",
+      "description": "Publié peu avant la trêve estivale, un rapport du Sénat s’était inquiété de l’état de «grande fragilité» dans lequel se trouvaient les Forces aériennes de la Gendarmerie nationale [FAG], celles-ci étant très sollicitées alors que la disponibilité de leurs cinquante-cinq hélicoptères en dotation, dont certains affichaient une moyenne d’âge de quarante ans, ne cessait de...\nCet article La Gendarmerie nationale va pouvoir commander 23 nouveaux hélicoptères H145 D3 en 2027 est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Emmanuel Macron assiste, de façon inattendue, au lancement d’un missile depuis un sous-marin nucléaire",
       "link": "https://www.lemonde.fr/international/article/2026/10/06/emmanuel-macron-assiste-de-facon-inattendue-au-lancement-d-un-missile-m-51-depuis-la-mer_6789041_3210.html",
-      "pubDate": "2026-10-06T15:50:40.000Z",
+      "pubDate": "2026-10-06T15:50:36.000Z",
       "description": "Le chef de l’Etat a vanté « une formidable démonstration de crédibilité, et une étape qui est importante », alors que la Russie intensifie sa guerre hybride contre l’Europe et continue de jouer la menace nucléaire.",
       "sourceKey": "geo"
     },
@@ -76,7 +90,7 @@
       "title": "Dissuasion : Le sous-marin nucléaire lanceur d’engins Le Vigilant a tiré un missile stratégique M51.3 avec succès",
       "link": "https://www.opex360.com/2026/10/06/dissuasion-le-sous-marin-nucleaire-lanceur-dengins-le-vigilant-a-tire-un-missile-strategique-m51-3-avec-succes/",
       "pubDate": "2026-10-06T09:50:19.000Z",
-      "description": "Paru dans le Journal officiel du 17 septembre, un arrêté instaurant une zone interdite temporaire [ZIT] dans la région de Pluguffan, au large de Brest, laissait présager qu’un tir de missile mer-sol stratégique M51 allait être effectué entre le 21 septembre et le 28 octobre. Ce qui s’est effectivement produit. Ce 6 octobre, via un...\nCet article Dissuasion : Le sous-marin nucléaire lanceur d’engins Le Vigilant a tiré un missile stratégique M51.3 avec succès est apparu en premier sur Zone Militaire.",
+      "description": "Paru dans le Journal officiel du 17 septembre, un arrêté instaurant une zone interdite temporaire [ZIT] dans la région de Pluguffan, au large du Finistère, laissait présager qu’un tir de missile mer-sol stratégique M51 allait être effectué entre le 21 septembre et le 28 octobre. Ce qui s’est effectivement produit. Ce 6 octobre, via un...\nCet article Dissuasion : Le sous-marin nucléaire lanceur d’engins Le Vigilant a tiré un missile stratégique M51.3 avec succès est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -210,20 +224,6 @@
       "link": "https://www.opex360.com/2026/10/04/en-2027-le-ministere-des-armees-va-commander-des-avions-de-transport-ecole-futurs-pour-plus-de-780-millions-deuros/",
       "pubDate": "2026-10-04T10:13:08.000Z",
       "description": "Utilisé par l’armée de l’Air & de l’Espace [AAE] pour la formation de ses futurs pilotes de transport ainsi que par la Marine nationale pour assurer des vols de liaison et des missions logistiques, l’avion EMB-121 Xingu fut commandé à 41 exemplaires auprès d’Embraer en 1980, en compensation de l’achat de Mirage IIIE par le...\nCet article En 2027, le ministère des Armées va commander des «Avions de transport école futurs» pour plus de 780 millions d’euros est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "La Royal Air Force veut augmenter la disponibilité de ses avions de transport A400M de 30 %",
-      "link": "https://www.opex360.com/2026/10/03/la-royal-air-force-veut-augmenter-la-disponibilite-de-ses-avions-de-transport-a400m-de-30/",
-      "pubDate": "2026-10-03T14:40:17.000Z",
-      "description": "Depuis qu’elle a retiré ses quatorze C-130J Hercules du service, alors qu’ils avaient suffisamment de potentiel pour voler au moins jusqu’en 2035 [ils ont d’ailleurs été repris par la force aérienne turque], la Royal Air Force ne dispose plus que de 22 A400M Atlas [ou C.1 Atlas] et de huit C-17A Globemaster III pour assurer...\nCet article La Royal Air Force veut augmenter la disponibilité de ses avions de transport A400M de 30 % est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "La Direction générale de l’armement évoque un «automate robotisé» pour assurer l’entretien du moteur du Rafale",
-      "link": "https://www.opex360.com/2026/10/03/la-direction-generale-de-larmement-evoque-un-automate-robotise-pour-assurer-lentretien-du-moteur-du-rafale/",
-      "pubDate": "2026-10-03T13:25:32.000Z",
-      "description": "Garantir la disponibilité de ses aéronefs en tout temps et en tout lieu dans un contexte de «haute intensité» est une priorité «absolue» pour l’armée de l’Air & de l’Espace [AAE]. D’où le concept de «MCO de combat» [MCO pour Maintien en condition opérationnelle], lequel vise désormais à gérer le risque plutôt que la norme....\nCet article La Direction générale de l’armement évoque un «automate robotisé» pour assurer l’entretien du moteur du Rafale est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
