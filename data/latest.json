@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T09:06:48.560Z",
+  "generatedAt": "2026-10-06T15:58:59.191Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "title": "Emmanuel Macron assiste, de façon inattendue, au lancement d’un missile M.51, depuis la mer",
+      "link": "https://www.lemonde.fr/international/article/2026/10/06/emmanuel-macron-assiste-de-facon-inattendue-au-lancement-d-un-missile-m-51-depuis-la-mer_6789041_3210.html",
+      "pubDate": "2026-10-06T15:50:40.000Z",
+      "description": "Le chef de l’Etat a vanté « une formidable démonstration de crédibilité, et une étape qui est importante », alors que la Russie intensifie sa guerre hybride contre l’Europe et continue de jouer la menace nucléaire.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Éclaircie à l’horizon pour les hélicoptères de la Gendarmerie nationale",
+      "link": "https://forcesoperations.com/eclaircie-a-lhorizon-pour-les-helicopteres-de-la-gendarmerie-nationale/",
+      "pubDate": "2026-10-06T15:09:59.000Z",
+      "description": "Les alertes successives du Parlement et de la direction de la Gendarmerie nationale semblent avoir été entendus : des crédits sont enfin inscrits au prochain projet de loi de finances pour permettre aux gendarmes de s'offrir une vingtaine d'hélicoptères H145 D3 supplémentaires.  Il ne s'agira pas tant de notifier un nouveau contrat que d'activer l'option […]\nThe post Éclaircie à l’horizon pour les hélicoptères de la Gendarmerie nationale appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "Un incendie se déclare sur le Charles-de-Gaulle",
+      "link": "https://armees.com/charles-gaulle-incendie-protocoles-securite-marine/",
+      "pubDate": "2026-10-06T14:44:43.000Z",
+      "description": "Un incendie s'est déclaré lundi 5 octobre à bord du porte-avions nucléaire Charles-de-Gaulle à Toulon. Maîtrisé en 1h20 par l'équipage et les marins-pompiers, le sinistre n'a fait aucun blessé et n'a pas affecté les installations nucléaires. L'incident, provoqué par des travaux de découpe au chalumeau dans un local technique de moins de 10 m², valide l'efficacité des protocoles de sécurité de la Marine nationale.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Nucléaire : premier tir opérationnel du M51.3 depuis Le Vigilant",
+      "link": "https://armees.com/nucleaire-sous-marin-vigilant-validation-technique/",
+      "pubDate": "2026-10-06T14:16:00.000Z",
+      "description": "Le 6 octobre 2026, le SNLE Le Vigilant a réussi le premier tir opérationnel du missile M51.3 au large du Finistère, validant son retour au cycle opérationnel après trois ans de maintenance. Cet exercice, observé par Emmanuel Macron depuis la frégate Auvergne, confirme la capacité de la France à maintenir une dissuasion nucléaire permanente et crédible face aux menaces géopolitiques actuelles.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un ancien chef du renseignement extérieur allemand a été arrêté pour trahison",
+      "link": "https://www.opex360.com/2026/10/06/un-ancien-chef-du-renseignement-exterieur-allemand-a-ete-arrete-pour-trahison/",
+      "pubDate": "2026-10-06T14:11:47.000Z",
+      "description": "Que des agents de renseignement se fassent prendre pour avoir transmis des informations confidentielles à une puissance étrangère, que ce soit contre de l’argent, par chantage ou par sympathie idéologique, c’est assez commun. Du moins, les cas de ce genre sont relativement nombreux dans l’histoire. En revanche, qu’un ancien «maître-espion» soit soupçonné de trahison est...\nCet article Un ancien chef du renseignement extérieur allemand a été arrêté pour trahison est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Chine, Ukraine, IA : l’Occident a-t-il raté le train ?",
+      "link": "https://armees.com/chine-ukraine-occident-rate-ia-train/",
+      "pubDate": "2026-10-06T13:55:47.000Z",
+      "description": "Pascal Lamy reconnaît enfin ce que certains disaient depuis vingt ans : l’Occident s’est trompé sur la Chine. Pendant ce temps, l’Ukraine saigne, et Pékin purge ses généraux pour mieux ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’IA militaire : dépenser vite ou dépenser bien ?",
+      "link": "https://armees.com/depenser-militaire-ia-vite/",
+      "pubDate": "2026-10-06T13:44:09.000Z",
+      "description": "Reflection AI vient de revendiquer un modèle capable de rivaliser avec les meilleurs systèmes chinois. Pendant ce temps, la France continue de réfléchir. La course technologique militaire ne se gagne ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Dissuasion : Le sous-marin nucléaire lanceur d’engins Le Vigilant a tiré un missile stratégique M51.3 avec succès",
+      "link": "https://www.opex360.com/2026/10/06/dissuasion-le-sous-marin-nucleaire-lanceur-dengins-le-vigilant-a-tire-un-missile-strategique-m51-3-avec-succes/",
+      "pubDate": "2026-10-06T09:50:19.000Z",
+      "description": "Paru dans le Journal officiel du 17 septembre, un arrêté instaurant une zone interdite temporaire [ZIT] dans la région de Pluguffan, au large de Brest, laissait présager qu’un tir de missile mer-sol stratégique M51 allait être effectué entre le 21 septembre et le 28 octobre. Ce qui s’est effectivement produit. Ce 6 octobre, via un...\nCet article Dissuasion : Le sous-marin nucléaire lanceur d’engins Le Vigilant a tiré un missile stratégique M51.3 avec succès est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Des pourparlers trilatéraux Ukraine-Russie-États-Unis prévus fin octobre 2026",
+      "link": "https://armees.com/negociations-ukraine-russie-octobre-pourparler/",
+      "pubDate": "2026-10-06T08:14:55.000Z",
+      "description": "Les États-Unis proposent des pourparlers trilatéraux avec la Russie et l'Ukraine fin octobre 2026, au moment où Moscou intensifie ses frappes sur les infrastructures stratégiques de Kiev. L'initiative diplomatique intervient dans un contexte militaire tendu, soulevant la question de son impact réel sur un rapport de forces façonné par cinq années de guerre d'attrition.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "IA : Open AI licencie trois chercheurs soupçonnés de fuite de données",
       "link": "https://armees.com/ia-open-ai-licencie-trois-chercheurs-soupconnes-de-fuite-de-donnees/",
@@ -76,7 +139,7 @@
       "title": "L’Espagne a choisi l’Airbus A321 pour développer son futur avion de renseignement électronique",
       "link": "https://www.opex360.com/2026/10/05/lespagne-a-choisi-lairbus-a321-pour-developper-son-futur-avion-de-renseignement-electronique/",
       "pubDate": "2026-10-05T16:27:53.000Z",
-      "description": "Depuis le retrait son B-707 «la Reina del Espectro» et la tentative manquée de le remplacer par un Gulfstream G550 pour des raisons budgétaires, la force aérienne espagnole [Ejército del Aire y del Espacio] a vu ses capacités dédiées au recueil et à l’analyse du renseignement d’origine électromagnétique [ROEM] considérablement réduites, celles-ci ne reposant plus...\nCet article L’Espagne a choisi l’Airbus A321 pour développer son futur avion de renseignement électronique est apparu en premier sur Zone Militaire.",
+      "description": "Depuis le retrait de son B-707 «la Reina del Espectro» et la tentative manquée de le remplacer par un Gulfstream G550 pour des raisons budgétaires, la force aérienne espagnole [Ejército del Aire y del Espacio] a vu ses capacités dédiées au recueil et à l’analyse du renseignement d’origine électromagnétique [ROEM] considérablement réduites, celles-ci ne reposant...\nCet article L’Espagne a choisi l’Airbus A321 pour développer son futur avion de renseignement électronique est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -122,13 +185,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Yémen : une offensive gouvernementale lancée contre les Houthis à Sanaa",
-      "link": "https://armees.com/yemen-offensive-gouvernementale-lancee-contre-houthis-sanaa/",
-      "pubDate": "2026-10-05T11:50:00.000Z",
-      "description": "Le 5 octobre 2026, le gouvernement yéménite lance l'opération « Aube du Yémen » avec le soutien de 100 avions de combat saoudiens, visant à reprendre Sanaa et les territoires contrôlés par les Houthis. En 24 heures, 324 cibles de grande valeur ont été détruites lors de frappes coordonnées sur trois fronts simultanés. L'offensive intervient après la prise du littoral de la mer Rouge par les rebelles pro-iraniens en septembre 2026.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Damen réclame 4,7 milliards d’euros d’indemnités à Berlin pour l’arrêt du programme de frégates F126",
       "link": "https://www.opex360.com/2026/10/05/damen-reclame-47-milliards-deuros-dindemnites-a-berlin-pour-larret-du-programme-de-fregates-f126/",
       "pubDate": "2026-10-05T10:41:23.000Z",
@@ -141,34 +197,6 @@
       "pubDate": "2026-10-05T09:24:36.000Z",
       "description": "Le char de combat attend son heure. Loin d'être remisé au garage face à des drones devenus omniprésents, il cherche plutôt à en exploiter le potentiel à son profit. Des innovations aux nouvelles structures, le 501e régiment de chars de combat (501e RCC) de Mourmelon est l'un de ceux qui ont mis le pied à l'étrier. Premiers résultats à la clef à l'issue de l'exercice Saint-Chamond, conduit il y a peu autour de Reims. \nThe post Comment le 501e RCC fait du drone l’allié du cavalier appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Vers un « embrasement » de la mobilisation lycéenne ?",
-      "link": "https://armees.com/lyceens-vers-embrasement-mobilisation-lyceenne/",
-      "pubDate": "2026-10-05T09:00:03.000Z",
-      "description": "Avec 78 personnels éducatifs blessés, 5.000 interpellations et plus de 400 lycées fermés, la mobilisation lycéenne entamée le 17 septembre 2026 inquiète le gouvernement à la veille du 6 octobre. Philippe Baptiste, ministre de l'Enseignement supérieur, craint un embrasement national alors que lycéens, étudiants et syndicats préparent une journée de protestation massive, posant un défi sécuritaire majeur aux forces de l'ordre.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La garde côtière de Taïwan repousse un bateau de pêche chinois du continent avec des canons à eau",
-      "link": "https://armees.com/la-garde-cotiere-de-taiwan-repousse-un-bateau-de-peche-chinois-du-continent-avec-des-canons-a-eau/",
-      "pubDate": "2026-10-05T06:05:12.000Z",
-      "description": "Canon à eau, moteur en panne, 35 repas servis avant remorquage : l'incident près de Dongsha révèle un bras de fer maritime qui s'intensifie entre Taipei et Pékin. Les détails de cette journée tendue vous attendent.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un signal radio capté pour la première fois depuis une exoplanète",
-      "link": "https://armees.com/un-signal-radio-capte-pour-la-premiere-fois-depuis-une-exoplanete/",
-      "pubDate": "2026-10-05T05:35:51.000Z",
-      "description": "Un champ magnétique 200 fois plus puissant que celui de Jupiter capté depuis une planète à 63 années-lumière : les chercheurs eux-mêmes n'en croyaient pas leurs données. Comment expliquer une telle anomalie ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ormuz, Ukraine, Iran : la facture stratégique que la France esquive",
-      "link": "https://armees.com/ormuz-ukraine-iran-facture-strategique-france-esquive/",
-      "pubDate": "2026-10-05T05:22:50.000Z",
-      "description": "Le détroit d’Ormuz sous tension, les exportations ukrainiennes asphyxiées, la Russie qui frappe sans relâche les ports de la mer Noire : le monde brûle, et la France regarde ses ...",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le 68e Régiment d’Artillerie d’Afrique réorganise ses batteries de CAESAr pour accroître leur protection contre les drones",
@@ -196,20 +224,6 @@
       "link": "https://www.opex360.com/2026/10/03/la-direction-generale-de-larmement-evoque-un-automate-robotise-pour-assurer-lentretien-du-moteur-du-rafale/",
       "pubDate": "2026-10-03T13:25:32.000Z",
       "description": "Garantir la disponibilité de ses aéronefs en tout temps et en tout lieu dans un contexte de «haute intensité» est une priorité «absolue» pour l’armée de l’Air & de l’Espace [AAE]. D’où le concept de «MCO de combat» [MCO pour Maintien en condition opérationnelle], lequel vise désormais à gérer le risque plutôt que la norme....\nCet article La Direction générale de l’armement évoque un «automate robotisé» pour assurer l’entretien du moteur du Rafale est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Un fonds d’investissement américain va-t-il s’inviter au capital du groupe franco-allemand KNDS ?",
-      "link": "https://www.opex360.com/2026/10/03/un-actionnaire-americain-va-t-il-sinviter-au-capital-du-groupe-franco-allemand-knds/",
-      "pubDate": "2026-10-03T11:14:13.000Z",
-      "description": "En juin, Paris et Berlin trouvèrent un accord sur la «stratégie et la gouvernance» du groupe KNDS, ouvrant ainsi la voie à l’introduction en Bourse [IPO] de ce dernier, fruit du rapprochement de l’entreprise publique française Nexter System et de l’allemand Krauss-Maffei Wegmann. Ainsi, l’État fédéral allemand avait l’intention de racheter 40 % des parts...\nCet article Un fonds d’investissement américain va-t-il s’inviter au capital du groupe franco-allemand KNDS ? est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Confiée au SIAé, la rénovation des turbomachines du char Leclerc a pris de l’avance… et coûtera moins cher que prévu",
-      "link": "https://www.opex360.com/2026/10/02/confiee-au-siae-la-renovation-des-turbomachines-du-char-leclerc-a-pris-de-lavance-et-coutera-moins-cher-que-prevu/",
-      "pubDate": "2026-10-02T17:49:19.000Z",
-      "description": "Au début du mois dernier, le Service industriel de l’aéronautique [SIAé] a fait savoir que son atelier de Bordeaux [AIA] venait officiellement de lancer les «activités de maintenance» de la turbomachine Turbomeca TM-307B associée au moteur Diesel V8X-1500 Hyperbar de 1 500 chevaux du char Leclerc. Et cela alors que, quelques années plus tôt, le...\nCet article Confiée au SIAé, la rénovation des turbomachines du char Leclerc a pris de l’avance… et coûtera moins cher que prévu est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -381,13 +395,6 @@
       "sourceKey": "fob"
     },
     {
-      "title": "Dernière ligne droite pour le duel HYDEF-HYDIS",
-      "link": "https://forcesoperations.com/derniere-ligne-droite-pour-le-duel-hydef-hydis/",
-      "pubDate": "2026-09-18T10:24:28.000Z",
-      "description": "Qui, des projets HYDIS et HYDEF, poursuivra sa route vers la démonstration d'un intercepteur endo-atmosphérique européen pour contrer les menaces balistiques, manoeuvrantes et/ou hypersoniques émergentes ? La prochaine enveloppe du Fonds européen de la défense ne pourra en théorie soutenir qu'une des deux pistes. Ce choix pourrait intervenir plus rapidement que prévu, indique-t-on côté belge. \nThe post Dernière ligne droite pour le duel HYDEF-HYDIS appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
-    },
-    {
       "title": "Les Etats-Unis approuvent la vente de 48 avions furtifs F-35 à l’Arabie saoudite, en pleine guerre au Moyen-Orient",
       "link": "https://www.lemonde.fr/international/article/2026/09/18/washington-pret-a-vendre-48-avions-furtifs-f-35-a-l-arabie-saoudite-en-plein-conflit-au-moyen-orient_6776659_3210.html",
       "pubDate": "2026-09-18T03:21:53.000Z",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/16/cyberattaques-contre-des-sites-sensibles-francais-l-etat-russe-apparait-comme-le-commanditaire-ou-le-beneficiaire-de-toutes-ces-donnees_6775453_6065879.html",
       "pubDate": "2026-09-16T18:00:04.000Z",
       "description": "Les fuites de données ayant touché ces derniers mois des administrations françaises, comme la direction générale des finances publiques, peuvent servir les intérêts de pays comme la Russie, prévient Marie-Gabrielle Bertran. Dans un entretien au « Monde », la chercheuse explique comment la guerre hybride menée par le Kremlin a brouillé un peu plus la frontière entre criminalité, espionnage et stratégie militaire.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Emmanuel Macron lance le nouveau service militaire national avec une première cohorte de 3 000 jeunes",
-      "link": "https://www.lemonde.fr/politique/article/2026/09/15/emmanuel-macron-lance-le-nouveau-service-militaire-national-avec-une-premiere-cohorte-de-3-000-jeunes_6774464_823448.html",
-      "pubDate": "2026-09-15T17:00:07.000Z",
-      "description": "Le nouveau format, qui succède au service national universel, devra faire ses preuves. Notamment sur son financement et sur l’emploi des jeunes volontaires, qui pourront remplacer des militaires d’active sur des missions annexes.",
       "sourceKey": "geo"
     }
   ]
