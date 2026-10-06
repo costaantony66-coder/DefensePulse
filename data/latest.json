@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T02:19:57.478Z",
+  "generatedAt": "2026-10-06T09:06:48.560Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "title": "IA : Open AI licencie trois chercheurs soupçonnés de fuite de données",
+      "link": "https://armees.com/ia-open-ai-licencie-trois-chercheurs-soupconnes-de-fuite-de-donnees/",
+      "pubDate": "2026-10-06T07:49:23.000Z",
+      "description": "Open AI a licencié trois membres de ses équipes de sécurité après une enquête interne sur la gestion et la transmission présumée d’informations sensibles. L’affaire relance le débat sur la sécurité de l’IA et le rôle des évaluateurs indépendants.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "F126 : Damen attaque l’Allemagne pour rupture de contrat abusive",
+      "link": "https://armees.com/f126-fregattes-allemagne-damen-effondrement-technique/",
+      "pubDate": "2026-10-06T07:11:06.000Z",
+      "description": "Le chantier naval néerlandais Damen réclame 4,7 milliards d'euros à l'Allemagne après l'annulation brutale, en juin 2026, du programme de six frégates F126.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "« Poutine craint le bouton nucléaire plus que vous » : l’ancien Premier ministre russe brise le silence et divise l’opinion",
+      "link": "https://armees.com/poutine-craint-le-bouton-nucleaire-plus-que-vous-lancien-premier-ministre-russe-brise-le-silence-et-divise-lopinion/",
+      "pubDate": "2026-10-06T06:05:05.000Z",
+      "description": "Selon son ex-Premier ministre, Poutine ne serait pas ce stratège invincible qu'on redoute tant. Son véritable talon d'Achille ? Une peur bien précise, révélée dans cet entretien exclusif à l'AFP.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Missile M51.3 : tir d’essai prévu en Finistère entre le 5 et 21 octobre",
+      "link": "https://armees.com/m51-3-validation-operationnelle-snle-vigilant-2026/",
+      "pubDate": "2026-10-06T05:44:00.000Z",
+      "description": "Entre le 5 et le 21 octobre 2026, le SNLE Le Vigilant effectuera un tir d'essai du missile balistique M51.3 au large du Finistère.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Benjamin Netanyahu refuse que ce film soit vu, voici pourquoi vous devez absolument le découvrir",
+      "link": "https://armees.com/benjamin-netanyahu-refuse-que-ce-film-soit-vu-voici-pourquoi-vous-devez-absolument-le-decouvrir/",
+      "pubDate": "2026-10-06T05:35:28.000Z",
+      "description": "Vingt-cinq minutes d'ovation à Venise, puis la menace de perdre sa nationalité. Netanyahu veut faire taire les réalisateurs de NAZA, documentaire choc sur la guerre à Gaza. L'affaire qui divise Israël.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’Air Force américaine accélère le retrait des bombardiers d’une base aérienne au Royaume-Uni",
+      "link": "https://armees.com/lair-force-americaine-accelere-le-retrait-des-bombardiers-dune-base-aerienne-au-royaume-uni/",
+      "pubDate": "2026-10-06T05:05:39.000Z",
+      "description": "Douze bombardiers américains évacués en urgence, un complot iranien évoqué, six suspects arrêtés. Trump envisage déjà de nouvelles frappes. Que s'est-il vraiment passé à RAF Fairford pour justifier une telle panique militaire ?",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Le porte-avions Charles de Gaulle a été touché par un incendie",
       "link": "https://www.opex360.com/2026/10/05/le-porte-avions-charles-de-gaulle-a-ete-touche-par-un-incendie/",
@@ -126,48 +168,6 @@
       "link": "https://armees.com/ormuz-ukraine-iran-facture-strategique-france-esquive/",
       "pubDate": "2026-10-05T05:22:50.000Z",
       "description": "Le détroit d’Ormuz sous tension, les exportations ukrainiennes asphyxiées, la Russie qui frappe sans relâche les ports de la mer Noire : le monde brûle, et la France regarde ses ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "B-1 : pourquoi les États-Unis rapatrient leurs bombardiers de Fairford",
-      "link": "https://armees.com/b-1-pourquoi-etats-unis-rapatrient-bombardiers-fairford/",
-      "pubDate": "2026-10-05T05:13:48.000Z",
-      "description": "Le 4 octobre 2026, le Pentagone a annoncé le retrait complet de ses bombardiers B-1 Lancer de la base britannique de RAF Fairford, suite à l'incident de sécurité du 27 septembre impliquant des véhicules suspects et six arrestations.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Les Forces Armées du Brésil ont montré leurs compétences à Formosa en mobilisant 2 900 militaires ainsi que plus de 200 véhicules et aéronefs",
-      "link": "https://armees.com/les-forces-armees-du-bresil-ont-montre-leurs-competences-a-formosa-en-mobilisant-2-900-militaires-ainsi-que-plus-de-200-vehicules-et-aeronefs/",
-      "pubDate": "2026-10-05T05:05:39.000Z",
-      "description": "Près de 3 000 militaires, 198 véhicules, des tirs réels de missiles antichars et une exposition inédite d'industriels de défense en plein champ d'instruction. Voici ce que cache vraiment l'Opération Formosa 2026.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Russie : un décès suspect dans un institut anti-peste ravive les craintes liées au risque biologique",
-      "link": "https://armees.com/russie-un-deces-suspect-dans-un-institut-anti-peste-ravive-les-craintes-liees-au-risque-biologique/",
-      "pubDate": "2026-10-05T04:13:22.000Z",
-      "description": "La mort d’une employée d’un institut russe spécialisé dans les agents infectieux dangereux a entraîné la mise sous surveillance de près de 200 personnes, des restrictions hospitalières et plusieurs mesures de précaution en Sibérie. Moscou dément tout accident biologique, tandis que Washington suit la situation.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Pétrole de guerre, jihad et Ukraine : l’Occident navigue à vue",
-      "link": "https://armees.com/petrole-guerre-jihad-ukraine-occident-navigue-vue/",
-      "pubDate": "2026-10-05T03:07:52.000Z",
-      "description": "En une seule semaine, trois dossiers géopolitiques majeurs s’entremêlent : la libération massive des réserves stratégiques de pétrole après la guerre en Iran, une contre-offensive ukrainienne qui redonne espoir à ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "2027 : la présidentielle qui pourrait tuer la LPM",
-      "link": "https://armees.com/2027-presidentielle-pourrait-tuer-lpm/",
-      "pubDate": "2026-10-05T03:05:42.000Z",
-      "description": "La France dépense enfin pour ses armées. Après des décennies de déni stratégique, la Loi de programmation militaire prévoit 413 milliards d’euros d’ici 2030. Mais voilà qu’une présidentielle agitée, un ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "ASML, Ukraine, Taiwan : l’Europe doit enfin se réarmer sérieusement",
-      "link": "https://armees.com/asml-ukraine-taiwan-europe-doit-enfin-rearmer-serieusement/",
-      "pubDate": "2026-10-05T03:03:57.000Z",
-      "description": "Friedrich Merz à Kiev, Taiwan sous surveillance, ASML sans clients européens : en ce début octobre 2026, trois signaux d’alarme clignotent simultanément. L’Europe parle de défense depuis des années, mais ...",
       "sourceKey": "armees_com"
     },
     {
