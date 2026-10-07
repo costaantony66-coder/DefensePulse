@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T13:30:07.229Z",
+  "generatedAt": "2026-10-07T19:29:52.409Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "title": "Le patrouilleur outre-mer Philippe Bernardino a pris la mer pour la première fois",
+      "link": "https://www.opex360.com/2026/10/07/le-patrouilleur-outre-mer-philippe-bernardino-a-pris-la-mer-pour-la-premiere-fois/",
+      "pubDate": "2026-10-07T17:27:26.000Z",
+      "description": "Faute d’avoir pu lancer le programme BATSIMAR [Bâtiment de surveillance et d’intervention maritime] en temps et en heure, la Marine nationale a longtemps disposé de moyens limités pour surveiller la zone économique exclusive [ZEE] de la Polynésie française, qui s’étend sur 4,8 millions de km². En effet, au début des années 2010, les patrouilleurs P400...\nCet article Le patrouilleur outre-mer Philippe Bernardino a pris la mer pour la première fois est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "La force aérienne péruvienne devrait finalement garder ses Mirage 2000 au-delà de 2030",
+      "link": "https://www.opex360.com/2026/10/07/la-force-aerienne-peruvienne-devrait-finalement-garder-ses-mirage-2000-au-dela-de-2030/",
+      "pubDate": "2026-10-07T16:47:59.000Z",
+      "description": "En avril, après un imbroglio dû à une situation politique instable, le ministère péruvien de la Défense confirma son intention d’acquérir un premier lot de douze chasseurs-bombardiers F-16 «Viper» auprès de l’américain Lockheed Martin, écartant ainsi le JAS-39 Gripen E/F. Ce dernier, proposé par le suédois Saab, était considéré comme favori… au point même d’avoir...\nCet article La force aérienne péruvienne devrait finalement garder ses Mirage 2000 au-delà de 2030 est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Pourquoi KNDS pousse son canon 105 LG en Pologne",
+      "link": "https://forcesoperations.com/pourquoi-knds-pousse-son-canon-105-lg-en-pologne/",
+      "pubDate": "2026-10-07T15:22:50.000Z",
+      "description": "Après s'être rapproché du groupe Niewiadów pour la production d'obus de 155 mm, KNDS s'est tourné le mois dernier vers deux entités du géant polonais WB Group pour « poloniser » son canon 105 LG, signature d'une lettre d'intention (LoI) à la clef. Un projet au long cours pour lequel l'industriel cherche à se positionner ni trop tôt, ni trop tard. \nThe post Pourquoi KNDS pousse son canon 105 LG en Pologne appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "Le français Harmattan AI présente un drone d’attaque d’une portée de 2 000 km",
+      "link": "https://www.opex360.com/2026/10/07/le-francais-harmattan-ai-presente-un-drone-dattaque-dune-portee-de-2-000-km/",
+      "pubDate": "2026-10-07T15:02:10.000Z",
+      "description": "En janvier, la Direction générale de l’armement [DGA] a commandé un premier lot de munitions téléopérées [MTO, ou drone d’attaque] à longue portée «Durandal» auprès d’un groupement momentané d’entreprises formé par MBDA et Aviation Design. Capable d’évoluer à une vitesse de 400 km/h dans un environnement électromagnétique brouillé, Durandal est censée permettre d’effectuer des frappes...\nCet article Le français Harmattan AI présente un drone d’attaque d’une portée de 2 000 km est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Guerre commerciale : l’Europe arme enfin ses défenses économiques",
+      "link": "https://armees.com/guerre-europe-commerciale-economiques-defenses-arme-enfin/",
+      "pubDate": "2026-10-07T13:01:18.000Z",
+      "description": "La Chine verrouille ses frontières pour ses cerveaux, pendant que l’Europe tente laborieusement de construire ses remparts économiques. Dans cette bataille silencieuse mais décisive, la question n’est plus de savoir ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Le « bouton rouge » européen face à la Chine : enfin du sérieux ?",
+      "link": "https://armees.com/chine-bouton-europeen-rouge-face-serieux-enfin/",
+      "pubDate": "2026-10-07T12:38:27.000Z",
+      "description": "Paris et Berlin dégainent un mécanisme d’urgence pour protéger le marché européen des exportations chinoises. Pendant que Maros Sefcovic joue les diplomates à Pékin, les Européens préparent discrètement l’après. Derrière ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "OTAN : l’utilisation des drones maritimes en mer Noire redéfinit la guerre navale",
+      "link": "https://armees.com/drones-maritimes-tactique-guerre-navale-2026/",
+      "pubDate": "2026-10-07T12:35:25.000Z",
+      "description": "Dans la nuit du 5 au 6 octobre 2026, trois navires civils ont été coulés ou endommagés par des drones maritimes et aériens dans les zones économiques exclusives de la Bulgarie et de la Roumanie, membres de l'OTAN. Bilan : au moins deux morts, un disparu, et un équipage porté disparu. Les attaques révèlent une mutation tactique majeure dans la guerre navale et posent des défis inédits aux marines côtières européennes.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Le contre-budget RN : 140 milliards de mirages militaires ?",
       "link": "https://armees.com/140-budget-milliards-militaires-mirages/",
@@ -171,27 +220,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "IA : Open AI licencie trois chercheurs soupçonnés de fuite de données",
-      "link": "https://armees.com/ia-open-ai-licencie-trois-chercheurs-soupconnes-de-fuite-de-donnees/",
-      "pubDate": "2026-10-06T07:49:23.000Z",
-      "description": "Open AI a licencié trois membres de ses équipes de sécurité après une enquête interne sur la gestion et la transmission présumée d’informations sensibles. L’affaire relance le débat sur la sécurité de l’IA et le rôle des évaluateurs indépendants.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "F126 : Damen attaque l’Allemagne pour rupture de contrat abusive",
-      "link": "https://armees.com/f126-fregattes-allemagne-damen-effondrement-technique/",
-      "pubDate": "2026-10-06T07:11:06.000Z",
-      "description": "Le chantier naval néerlandais Damen réclame 4,7 milliards d'euros à l'Allemagne après l'annulation brutale, en juin 2026, du programme de six frégates F126.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "« Poutine craint le bouton nucléaire plus que vous » : l’ancien Premier ministre russe brise le silence et divise l’opinion",
-      "link": "https://armees.com/poutine-craint-le-bouton-nucleaire-plus-que-vous-lancien-premier-ministre-russe-brise-le-silence-et-divise-lopinion/",
-      "pubDate": "2026-10-06T06:05:05.000Z",
-      "description": "Selon son ex-Premier ministre, Poutine ne serait pas ce stratège invincible qu'on redoute tant. Son véritable talon d'Achille ? Une peur bien précise, révélée dans cet entretien exclusif à l'AFP.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le porte-avions Charles de Gaulle a été touché par un incendie",
       "link": "https://www.opex360.com/2026/10/05/le-porte-avions-charles-de-gaulle-a-ete-touche-par-un-incendie/",
       "pubDate": "2026-10-05T18:02:17.000Z",
@@ -206,32 +234,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "La France et la Turquie s’accordent sur une «feuille de route» pour renforcer leur coopération en matière de défense",
-      "link": "https://www.opex360.com/2026/10/05/la-france-et-la-turquie-saccordent-sur-une-feuille-de-route-pour-renforcer-leur-cooperation-en-matiere-de-defense/",
-      "pubDate": "2026-10-05T14:45:32.000Z",
-      "description": "En 2020, l’envoi, sous escorte militaire, d’un navire de recherche hydrographique turc au large de l’île grecque de Kastellorizo avait engendré de graves tensions entre Athènes et Ankara. Tensions par ailleurs exacerbées par des désaccords sur l’exploitation de gaz naturel dans la zone économique et exclusive [ZEE] de la République de Chypre ainsi que par...\nCet article La France et la Turquie s’accordent sur une «feuille de route» pour renforcer leur coopération en matière de défense est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Damen réclame 4,7 milliards d’euros d’indemnités à Berlin pour l’arrêt du programme de frégates F126",
-      "link": "https://www.opex360.com/2026/10/05/damen-reclame-47-milliards-deuros-dindemnites-a-berlin-pour-larret-du-programme-de-fregates-f126/",
-      "pubDate": "2026-10-05T10:41:23.000Z",
-      "description": "En juin, devant le retard accumulé et des surcoûts toujours plus importants, le ministère allemand de la Défense fit savoir qu’il allait mettre un terme à son ambitieux programme de frégates polyvalentes MKS 180 [Mehrzweckkampfschiff 180 ou classe F126], alors qu’il y avait déjà investi 2 milliards d’euros. Pour rappel, la maîtrise d’œuvre de ce...\nCet article Damen réclame 4,7 milliards d’euros d’indemnités à Berlin pour l’arrêt du programme de frégates F126 est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
       "title": "Comment le 501e RCC fait du drone l’allié du cavalier",
       "link": "https://forcesoperations.com/comment-le-501e-rcc-fait-du-drone-lallie-du-cavalier/",
       "pubDate": "2026-10-05T09:24:36.000Z",
       "description": "Le char de combat attend son heure. Loin d'être remisé au garage face à des drones devenus omniprésents, il cherche plutôt à en exploiter le potentiel à son profit. Des innovations aux nouvelles structures, le 501e régiment de chars de combat (501e RCC) de Mourmelon est l'un de ceux qui ont mis le pied à l'étrier. Premiers résultats à la clef à l'issue de l'exercice Saint-Chamond, conduit il y a peu autour de Reims. \nThe post Comment le 501e RCC fait du drone l’allié du cavalier appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Le 68e Régiment d’Artillerie d’Afrique réorganise ses batteries de CAESAr pour accroître leur protection contre les drones",
-      "link": "https://www.opex360.com/2026/10/04/le-68e-regiment-dartillerie-dafrique-reorganise-ses-batteries-de-caesar-pour-accroitre-leur-protection-contre-les-drones/",
-      "pubDate": "2026-10-04T11:18:29.000Z",
-      "description": "En Ukraine, la transparence du champ de bataille fait que les deux belligérants se trouvent dans une «impasse tactique», d’autant plus que les «systèmes défensifs sont plus performants que les systèmes offensifs». Tel est en effet le constat dressé par le général Bruno Baratz, le chef du Commandement du combat futur de l’armée de Terre...\nCet article Le 68e Régiment d’Artillerie d’Afrique réorganise ses batteries de CAESAr pour accroître leur protection contre les drones est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Ce que promet le PLF 2027 pour l’armée de Terre",
@@ -392,13 +399,6 @@
       "link": "https://forcesoperations.com/contractualisations-en-vue-pour-la-defense-sol-air-belge/",
       "pubDate": "2026-09-21T15:01:27.000Z",
       "description": "Le processus de reconstruction d'une capacité de défense sol-air suit son cours en Belgique. Place à l'acquisition de systèmes NASAMS, Skyranger 30 et radars GM200 au travers du mécanisme d'achat mis en place par les Pays-Bas. \nThe post Contractualisations en vue pour la défense sol-air belge appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
-    },
-    {
-      "title": "Des liens resserrés entre KNDS France et les artilleurs lituaniens",
-      "link": "https://forcesoperations.com/des-liens-resserres-entre-knds-france-et-les-artilleurs-lituaniens/",
-      "pubDate": "2026-09-19T07:48:34.000Z",
-      "description": "Top départ pour la construction par KNDS France d'une capacité de soutien des futurs CAESAR Mk II lituaniens. Annoncé en décembre, le projet a officiellement été engagé cette semaine par le ministère de la Défense lituanien.  C'était l'un des engagements du contrat signé fin 2025 par la Lituanie pour 30 CAESAR Mk II supplémentaires : […]\nThe post Des liens resserrés entre KNDS France et les artilleurs lituaniens appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
     },
     {
