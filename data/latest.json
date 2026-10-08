@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T17:53:30.447Z",
+  "generatedAt": "2026-10-08T22:43:56.059Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Pour son avion de combat du futur, le Royaume-Uni fait un appel du pied à l’Allemagne",
+      "link": "https://www.lemonde.fr/economie/article/2026/10/08/pour-son-avion-de-combat-du-futur-le-royaume-uni-fait-un-appel-du-pied-a-l-allemagne_6790280_3234.html",
+      "pubDate": "2026-10-08T17:55:38.000Z",
+      "description": "Profitant de l’échec du projet d’avion de combat franco-allemand, Londres propose à Berlin d’embarquer à bord du programme développé avec l’Italie et le Japon.",
+      "sourceKey": "geo"
+    },
     {
       "title": "Athènes veut acquérir des missiles à longue portée AIM-260 JATM et AGM-158B JASSM auprès des États-Unis",
       "link": "https://www.opex360.com/2026/10/08/athenes-veut-acquerir-des-missiles-a-longue-portee-aim-260-jatm-et-agm-158b-jassm-aupres-des-etats-unis/",
@@ -407,13 +414,6 @@
       "pubDate": "2026-09-21T15:01:27.000Z",
       "description": "Le processus de reconstruction d'une capacité de défense sol-air suit son cours en Belgique. Place à l'acquisition de systèmes NASAMS, Skyranger 30 et radars GM200 au travers du mécanisme d'achat mis en place par les Pays-Bas. \nThe post Contractualisations en vue pour la défense sol-air belge appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Les Etats-Unis approuvent la vente de 48 avions furtifs F-35 à l’Arabie saoudite, en pleine guerre au Moyen-Orient",
-      "link": "https://www.lemonde.fr/international/article/2026/09/18/washington-pret-a-vendre-48-avions-furtifs-f-35-a-l-arabie-saoudite-en-plein-conflit-au-moyen-orient_6776659_3210.html",
-      "pubDate": "2026-09-18T03:21:53.000Z",
-      "description": "Ce contrat à 24,3 milliards de dollars doit encore être approuvé par le Congrès, mais des observateurs redoutent que la Chine puisse acquérir cette technologie grâce à ses partenariats avec Riyad.",
-      "sourceKey": "geo"
     }
   ]
 }
