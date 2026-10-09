@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T16:45:02.049Z",
+  "generatedAt": "2026-10-09T21:25:05.466Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Le français Exail dévoile un nouveau système de surveillance maritime basé sur les drones navals de la gamme Oryx",
+      "link": "https://www.opex360.com/2026/10/09/le-francais-exail-devoile-un-nouveau-systeme-de-surveillance-maritime-base-sur-les-drones-navals-de-la-gamme-oryx/",
+      "pubDate": "2026-10-09T17:33:44.000Z",
+      "description": "En septembre, la Direction générale de l’armement [DGA] a émis un appel d’offres pour acquérir des drones de surface [USV] «d’endurance» destinés à escorter les porte-hélicoptères amphibies [PHA] et les Bâtiments de soutien et d’assistance métropolitains [BSAM] de la Marine nationale. Le système Neptis, que vient de dévoiler Exail, pourrait-il satisfaire en partie à ce...\nCet article Le français Exail dévoile un nouveau système de surveillance maritime basé sur les drones navals de la gamme Oryx est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
     {
       "title": "La Direction générale de l’armement sélectionne trois drones de surface pour la protection des bases et des navires de la Marine",
       "link": "https://www.opex360.com/2026/10/09/la-direction-generale-de-larmement-selectionne-trois-drones-de-surface-pour-la-protection-des-bases-et-des-navires-de-la-marine/",
@@ -239,13 +246,6 @@
       "pubDate": "2026-10-07T15:22:50.000Z",
       "description": "Après s'être rapproché du groupe Niewiadów pour la production d'obus de 155 mm, KNDS s'est tourné le mois dernier vers deux entités du géant polonais WB Group pour « poloniser » son canon 105 LG, signature d'une lettre d'intention (LoI) à la clef. Un projet au long cours pour lequel l'industriel cherche à se positionner ni trop tôt, ni trop tard. \nThe post Pourquoi KNDS pousse son canon 105 LG en Pologne appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Le français Harmattan AI présente un drone d’attaque d’une portée de 2 000 km",
-      "link": "https://www.opex360.com/2026/10/07/le-francais-harmattan-ai-presente-un-drone-dattaque-dune-portee-de-2-000-km/",
-      "pubDate": "2026-10-07T15:02:10.000Z",
-      "description": "En janvier, la Direction générale de l’armement [DGA] a commandé un premier lot de munitions téléopérées [MTO, ou drone d’attaque] à longue portée «Durandal» auprès d’un groupement momentané d’entreprises formé par MBDA et Aviation Design. Capable d’évoluer à une vitesse de 400 km/h dans un environnement électromagnétique brouillé, Durandal est censée permettre d’effectuer des frappes...\nCet article Le français Harmattan AI présente un drone d’attaque d’une portée de 2 000 km est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Après l’attaque déjouée de Fairford, au Royaume-Uni, les bases aériennes françaises se préparent à la « guerre hybride »",
