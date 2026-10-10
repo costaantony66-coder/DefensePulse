@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T07:12:28.706Z",
+  "generatedAt": "2026-10-10T13:46:37.328Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Défense américaine : la Chine a mis la main sur des pièces du très convoité chasseur furtif F-35 grâce à un e-mail non lu",
+      "link": "https://www.lemonde.fr/international/article/2026/10/10/defense-americaine-la-chine-a-mis-la-main-sur-des-pieces-du-tres-convoite-chasseur-furtif-f-35-grace-a-un-e-mail-non-lu_6790990_3210.html",
+      "pubDate": "2026-10-10T12:00:10.000Z",
+      "description": "Pour accélérer leur livraison, un employé d’UPS a rerouté vers Hongkong deux composants du joyau de l’aviation militaire américaine, qui avaient quitté l’Australie pour les Etats-Unis. Il n’a pas vu que cette cargaison ne devait pas transiter par le territoire chinois, où elle se trouve toujours.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "L’armée de l’Air & de l’Espace confirme l’arrive du Rafale à Djibouti en 2027",
+      "link": "https://www.opex360.com/2026/10/10/larmee-de-lair-de-lespace-confirme-larrive-du-rafale-a-djibouti-en-2027/",
+      "pubDate": "2026-10-10T11:14:36.000Z",
+      "description": "Jusqu’en août 2025, l’Escadron de chasse 3/11 Jura, établi sur la base aérienne 188 «Colonel Massart» de Djibouti, disposait de quatre Mirage 2000-5F pour assurer la défense de l’espace aérien djiboutien et sécuriser les voies stratégiques d’approvisionnement passant par le détroit de Bab el-Mandeb lors de missions dites SuCAP [Surface Close Air Protection]. Ces appareils...\nCet article L’armée de l’Air & de l’Espace confirme l’arrive du Rafale à Djibouti en 2027 est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "SCAF : La France, l’Allemagne et l’Espagne ont validé la revue de conception initiale d’un effecteur déporté développé par MBDA",
+      "link": "https://www.opex360.com/2026/10/10/scaf-la-france-lallemagne-et-lespagne-ont-valide-la-revue-de-conception-initiale-dun-effecteur-deporte-developpe-par-mbda/",
+      "pubDate": "2026-10-10T10:07:02.000Z",
+      "description": "Mené par la France, l’Allemagne et l’Espagne, le projet de Système de combat aérien du futur [SCAF] ne se résume pas au développement d’un avion de combat de nouvelle génération [ou NFG, pour New Generation Fighter] et à celui de son moteur. Cet appareil doit [ou devait] être accompagné par des drones et des effecteurs...\nCet article SCAF : La France, l’Allemagne et l’Espagne ont validé la revue de conception initiale d’un effecteur déporté développé par MBDA est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
     {
       "title": "Un employé de UPS rate un simple e-mail : des pièces du F-35 américain finissent en Chine, le Pentagone ouvre une enquête",
       "link": "https://armees.com/un-employe-de-ups-rate-un-simple-e-mail-des-pieces-du-f-35-americain-finissent-en-chine-le-pentagone-ouvre-une-enquete/",
@@ -227,20 +248,6 @@
       "sourceKey": "geo"
     },
     {
-      "title": "Le patrouilleur outre-mer Philippe Bernardino a pris la mer pour la première fois",
-      "link": "https://www.opex360.com/2026/10/07/le-patrouilleur-outre-mer-philippe-bernardino-a-pris-la-mer-pour-la-premiere-fois/",
-      "pubDate": "2026-10-07T17:27:26.000Z",
-      "description": "Faute d’avoir pu lancer le programme BATSIMAR [Bâtiment de surveillance et d’intervention maritime] en temps et en heure, la Marine nationale a longtemps disposé de moyens limités pour surveiller la zone économique exclusive [ZEE] de la Polynésie française, qui s’étend sur 4,8 millions de km². En effet, au début des années 2010, les patrouilleurs P400...\nCet article Le patrouilleur outre-mer Philippe Bernardino a pris la mer pour la première fois est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "La force aérienne péruvienne devrait finalement garder ses Mirage 2000 au-delà de 2030",
-      "link": "https://www.opex360.com/2026/10/07/la-force-aerienne-peruvienne-devrait-finalement-garder-ses-mirage-2000-au-dela-de-2030/",
-      "pubDate": "2026-10-07T16:47:59.000Z",
-      "description": "En avril, après un imbroglio dû à une situation politique instable, le ministère péruvien de la Défense confirma son intention d’acquérir un premier lot de douze chasseurs-bombardiers F-16 «Viper» auprès de l’américain Lockheed Martin, écartant ainsi le JAS-39 Gripen E/F. Ce dernier, proposé par le suédois Saab, était considéré comme favori… au point même d’avoir...\nCet article La force aérienne péruvienne devrait finalement garder ses Mirage 2000 au-delà de 2030 est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
       "title": "Pourquoi KNDS pousse son canon 105 LG en Pologne",
       "link": "https://forcesoperations.com/pourquoi-knds-pousse-son-canon-105-lg-en-pologne/",
       "pubDate": "2026-10-07T15:22:50.000Z",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/09/22/dissuasion-nucleaire-francaise-la-lettonie-annonce-qu-emmanuel-macron-a-accepte-d-ouvrir-des-discussions_6780295_3210.html",
       "pubDate": "2026-09-22T20:01:56.000Z",
       "description": "Le président français avait annoncé, en mars, son initiative de dissuasion « avancée » visant à y associer les Etats européens volontaires, sans aucun partage de la décision d’emploi de l’arme nucléaire.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "L’armée peut-elle faire face au réchauffement climatique ?",
-      "link": "https://www.lemonde.fr/podcasts/article/2026/09/22/l-armee-peut-elle-faire-face-au-rechauffement-climatique_6780081_5463015.html",
-      "pubDate": "2026-09-22T09:54:31.000Z",
-      "description": "Les militaires sont en première ligne face aux effets du changement climatique, explique la chercheuse Julia Tasse dans cet épisode du podcast « Chaleur humaine ».",
       "sourceKey": "geo"
     }
   ]
