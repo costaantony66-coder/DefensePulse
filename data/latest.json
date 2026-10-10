@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T01:12:23.850Z",
+  "generatedAt": "2026-10-10T07:12:28.706Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Un employé de UPS rate un simple e-mail : des pièces du F-35 américain finissent en Chine, le Pentagone ouvre une enquête",
+      "link": "https://armees.com/un-employe-de-ups-rate-un-simple-e-mail-des-pieces-du-f-35-americain-finissent-en-chine-le-pentagone-ouvre-une-enquete/",
+      "pubDate": "2026-10-10T06:05:03.000Z",
+      "description": "Un simple e-mail ignoré, et des pièces de F-35 transitent par Hong Kong. Washington dément, mais l'embarras persiste. Que cache réellement cette cargaison égarée vers la Chine ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La France va transformer ses avions militaires A400M en bombardiers d’eau : les pompiers n’osaient plus y croire depuis 15 ans",
+      "link": "https://armees.com/la-france-va-transformer-ses-avions-militaires-a400m-en-bombardiers-deau-les-pompiers-nosaient-plus-y-croire-depuis-15-ans/",
+      "pubDate": "2026-10-10T05:35:12.000Z",
+      "description": "20 000 litres de produit retardant, deux fois plus qu'un Dash : l'A400M pourrait bientôt rejoindre la lutte contre les mégafeux. Après l'essai réussi en Gironde, la ministre des Armées confirme l'acquisition du kit. Une arme de plus face à des étés de plus en plus destructeurs.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un sous-marin allemand infiltre un commando des Royal Marines pour orienter le tir d’un navire portugais lors de l’exercice Strike Warrior en Écosse",
+      "link": "https://armees.com/un-sous-marin-allemand-infiltre-un-commando-des-royal-marines-pour-orienter-le-tir-dun-navire-portugais-lors-de-lexercice-strike-warrior-en-ecosse/",
+      "pubDate": "2026-10-10T05:05:53.000Z",
+      "description": "Sous-marin allemand, commandos britanniques, tirs navals portugais : trois pays, trois domaines, une seule chaîne d'attaque jamais vue depuis 30 ans. La Royal Navy dévoile une coordination hors norme sur les falaises du Cap Wrath.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Le français Exail dévoile un nouveau système de surveillance maritime basé sur les drones navals de la gamme Oryx",
       "link": "https://www.opex360.com/2026/10/09/le-francais-exail-devoile-un-nouveau-systeme-de-surveillance-maritime-base-sur-les-drones-navals-de-la-gamme-oryx/",
@@ -192,32 +213,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Harmattan AI et IRIFI : une avancée stratégique pour la défense française",
-      "link": "https://armees.com/irifi-doctrine-militaire-capacites-operationnelles-france/",
-      "pubDate": "2026-10-08T12:52:55.000Z",
-      "description": "Le 6 octobre 2026, Harmattan AI a dévoilé IRIFI, un drone de frappe autonome à 2000 kilomètres de portée, comblant le fossé stratégique entre microdrones tactiques et missiles coûteux. Le lendemain, le Maroc signait une lettre d'intention pour codévelopper et produire localement ce système, bouleversant l'équilibre régional.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le Danemark pourrait commander quatre ou cinq avions de transport A400M Atlas",
       "link": "https://www.opex360.com/2026/10/08/le-danemark-pourrait-commander-quatre-ou-cinq-avions-de-transport-a400m-atlas/",
       "pubDate": "2026-10-08T10:26:30.000Z",
       "description": "En 2015, le Danemark avait envisagé d’acquérir au moins un avion de transport A400M Atlas en complément des quatre C-130J Hercules mis en œuvre par sa force aérienne [Flyvevåbnet]. Finalement, aucune commande ne fut notifiée à Airbus, l’état-major danois ayant considéré que les capacités de cet appareil étaient surdimensionnées par rapport à ses besoins et...\nCet article Le Danemark pourrait commander quatre ou cinq avions de transport A400M Atlas est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Guerre en Iran : 81 aéronefs perdus, l’US Air Force face à l’épreuve de l’attrition",
-      "link": "https://armees.com/guerre-en-iran-81-aeronefs-perdus-us-air-force-epreuve/",
-      "pubDate": "2026-10-08T09:59:19.000Z",
-      "description": "Un rapport du Service de recherche du Congrès révèle que les États-Unis ont perdu ou endommagé 81 aéronefs depuis le début des opérations contre l'Iran en février 2026, dont 45 drones MQ-9 Reaper et 12 chasseurs F-15E Strike Eagle. Cette attrition massive, qui a doublé en six mois, fragilise la surveillance persistante, la frappe de précision et l'infrastructure de soutien, posant la question de la durabilité opérationnelle dans un conflit prolongé.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Financement du Hamas : la DGSI démantèle un réseau de 2 millions de dollars",
-      "link": "https://armees.com/dgsi-financement-hamas-renseignement-detection-2026/",
-      "pubDate": "2026-10-08T08:04:56.000Z",
-      "description": "La DGSI a démantelé un réseau de financement du Hamas ayant collecté 2 millions de dollars via deux associations humanitaires françaises entre 2020 et 2026. Cinq personnes, dont les présidents des associations Baraka et Ensemble C Mieux, ont été mises en examen le 2 octobre 2026 après une enquête du Pnat ouverte en avril. L'affaire révèle les défaillances du système de surveillance français face aux transferts en cryptomonnaies et la dépendance aux renseignements américains.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Mehmet Sahan, un Français attaqué par son ex-employeur, Thales, croupit dans l’enfer des prisons azerbaïdjanaises depuis 2022",
