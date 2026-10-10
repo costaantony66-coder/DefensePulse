@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T13:46:37.328Z",
+  "generatedAt": "2026-10-10T18:09:30.946Z",
   "sources": [
     {
       "key": "opex",
@@ -24,6 +24,13 @@
   ],
   "items": [
     {
+      "title": "Les anciens hélicoptères NH90 TTH belges ne seront finalement pas récupérés par l’Aviation légère de l’armée de Terre",
+      "link": "https://www.opex360.com/2026/10/10/les-anciens-helicopteres-nh90-tth-belges-ne-seront-finalement-pas-recuperes-par-laviation-legere-de-larmee-de-terre/",
+      "pubDate": "2026-10-10T14:17:44.000Z",
+      "description": "Au cours de l’été 2025, conformément au plan STAR [sécurité/service, technologie, ambition, résilience], la Défense belge a retiré du service ses quatre hélicoptères NH90 TTH [Tactical Transport Helicopter] en justifiant cette mesure par leur faible disponibilité, leur complexité et leur coût d’exploitation jugé trop élevé. En revanche, elle a conservé les quatre NH90 NFH [Nato...\nCet article Les anciens hélicoptères NH90 TTH belges ne seront finalement pas récupérés par l’Aviation légère de l’armée de Terre est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
       "title": "Défense américaine : la Chine a mis la main sur des pièces du très convoité chasseur furtif F-35 grâce à un e-mail non lu",
       "link": "https://www.lemonde.fr/international/article/2026/10/10/defense-americaine-la-chine-a-mis-la-main-sur-des-pieces-du-tres-convoite-chasseur-furtif-f-35-grace-a-un-e-mail-non-lu_6790990_3210.html",
       "pubDate": "2026-10-10T12:00:10.000Z",
@@ -31,17 +38,17 @@
       "sourceKey": "geo"
     },
     {
-      "title": "L’armée de l’Air & de l’Espace confirme l’arrive du Rafale à Djibouti en 2027",
+      "title": "L’armée de l’Air & de l’Espace confirme l’arrivée du Rafale à Djibouti en 2027",
       "link": "https://www.opex360.com/2026/10/10/larmee-de-lair-de-lespace-confirme-larrive-du-rafale-a-djibouti-en-2027/",
       "pubDate": "2026-10-10T11:14:36.000Z",
-      "description": "Jusqu’en août 2025, l’Escadron de chasse 3/11 Jura, établi sur la base aérienne 188 «Colonel Massart» de Djibouti, disposait de quatre Mirage 2000-5F pour assurer la défense de l’espace aérien djiboutien et sécuriser les voies stratégiques d’approvisionnement passant par le détroit de Bab el-Mandeb lors de missions dites SuCAP [Surface Close Air Protection]. Ces appareils...\nCet article L’armée de l’Air & de l’Espace confirme l’arrive du Rafale à Djibouti en 2027 est apparu en premier sur Zone Militaire.",
+      "description": "Jusqu’en août 2025, l’Escadron de chasse 3/11 Jura, établi sur la base aérienne 188 «Colonel Massart» de Djibouti, disposait de quatre Mirage 2000-5F pour assurer la défense de l’espace aérien djiboutien et sécuriser les voies stratégiques d’approvisionnement passant par le détroit de Bab el-Mandeb lors de missions dites SuCAP [Surface Close Air Protection]. Ces appareils...\nCet article L’armée de l’Air & de l’Espace confirme l’arrivée du Rafale à Djibouti en 2027 est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
       "title": "SCAF : La France, l’Allemagne et l’Espagne ont validé la revue de conception initiale d’un effecteur déporté développé par MBDA",
       "link": "https://www.opex360.com/2026/10/10/scaf-la-france-lallemagne-et-lespagne-ont-valide-la-revue-de-conception-initiale-dun-effecteur-deporte-developpe-par-mbda/",
       "pubDate": "2026-10-10T10:07:02.000Z",
-      "description": "Mené par la France, l’Allemagne et l’Espagne, le projet de Système de combat aérien du futur [SCAF] ne se résume pas au développement d’un avion de combat de nouvelle génération [ou NFG, pour New Generation Fighter] et à celui de son moteur. Cet appareil doit [ou devait] être accompagné par des drones et des effecteurs...\nCet article SCAF : La France, l’Allemagne et l’Espagne ont validé la revue de conception initiale d’un effecteur déporté développé par MBDA est apparu en premier sur Zone Militaire.",
+      "description": "Mené par la France, l’Allemagne et l’Espagne, le projet de Système de combat aérien du futur [SCAF] ne se résume pas au développement d’un avion de combat de nouvelle génération [ou NGF, pour New Generation Fighter] et à celui de son moteur. Cet appareil doit [ou devait] être accompagné par des drones et des effecteurs...\nCet article SCAF : La France, l’Allemagne et l’Espagne ont validé la revue de conception initiale d’un effecteur déporté développé par MBDA est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -231,13 +238,6 @@
       "link": "https://www.opex360.com/2026/10/08/le-ministere-des-armees-veut-lancer-le-developpement-dun-avion-de-combat-de-nouvelle-generation-operationnel-en-2029/",
       "pubDate": "2026-10-08T14:02:28.000Z",
       "description": "En juin, après des mois, si ce n’est des années, de relations tendues entre les principaux industriels français, allemands et espagnols concernés, Berlin a fini par annoncer son retrait du projet d’avion de combat de nouvelle génération [NGF – New Generation Fighter] sur lequel devait reposer le Système de combat aérien du futur [SCAF]. Et...\nCet article Le ministère des Armées veut lancer en 2029 le développement d’un avion de combat de nouvelle génération opérationnel est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Le Danemark pourrait commander quatre ou cinq avions de transport A400M Atlas",
-      "link": "https://www.opex360.com/2026/10/08/le-danemark-pourrait-commander-quatre-ou-cinq-avions-de-transport-a400m-atlas/",
-      "pubDate": "2026-10-08T10:26:30.000Z",
-      "description": "En 2015, le Danemark avait envisagé d’acquérir au moins un avion de transport A400M Atlas en complément des quatre C-130J Hercules mis en œuvre par sa force aérienne [Flyvevåbnet]. Finalement, aucune commande ne fut notifiée à Airbus, l’état-major danois ayant considéré que les capacités de cet appareil étaient surdimensionnées par rapport à ses besoins et...\nCet article Le Danemark pourrait commander quatre ou cinq avions de transport A400M Atlas est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
