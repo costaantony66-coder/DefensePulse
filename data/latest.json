@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T01:43:17.865Z",
+  "generatedAt": "2026-10-12T08:24:26.079Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,76 @@
     }
   ],
   "items": [
+    {
+      "title": "Une livraison française destinée à une entreprise d’armement israélienne déclenche une bataille judiciaire",
+      "link": "https://armees.com/une-livraison-francaise-destinee-a-une-entreprise-darmement-israelienne-declenche-une-bataille-judiciaire/",
+      "pubDate": "2026-10-12T07:36:46.000Z",
+      "description": "Trois associations ont saisi en urgence la justice française pour tenter de suspendre une livraison de réducteurs planétaires produits en France et destinés à Elbit Systems Land, en Israël.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : les services européens redoutent une campagne russe d’assassinats visant l’industrie de Défense",
+      "link": "https://armees.com/ukraine-les-services-europeens-redoutent-une-campagne-russe-dassassinats-visant-lindustrie-de-defense/",
+      "pubDate": "2026-10-12T07:25:37.000Z",
+      "description": "Les services de renseignement européens alertent sur une multiplication de projets d’assassinats attribués à la Russie contre des dirigeants de l’industrie de Défense soutenant l’Ukraine.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Une intelligence artificielle inédite fait ses premiers vols à bord du Rafale de Dassault Aviation",
+      "link": "https://armees.com/une-intelligence-artificielle-inedite-fait-ses-premiers-vols-a-bord-du-rafale-de-dassault-aviation/",
+      "pubDate": "2026-10-12T06:05:00.000Z",
+      "description": "Des Mirage 2000 transformés en laboratoires volants, des drones prêts à voler aux côtés des Rafale dès 2028... L'armée de l'Air prépare une révolution silencieuse dans les cockpits français. Une question demeure : jusqu'où ira cette IA embarquée ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La Finlande ouvre ses F-35 et découvre des technologies manquantes : la Suisse, prochaine sur la liste, commence à s’inquiéter sérieusement",
+      "link": "https://armees.com/la-finlande-ouvre-ses-f-35-et-decouvre-des-technologies-manquantes-la-suisse-prochaine-sur-la-liste-commence-a-sinquieter-serieusement/",
+      "pubDate": "2026-10-12T05:35:11.000Z",
+      "description": "La Finlande vient de recevoir ses premiers F-35, mais une pièce manque à l'appel. Et la facture pourrait bien retomber sur Helsinki... et sur Berne, qui observe la situation avec une inquiétude grandissante.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Le Pen, l’auto et la défense : quand le budget passe à la trappe",
+      "link": "https://armees.com/pen-defense-auto-budget-passe-trappe/",
+      "pubDate": "2026-10-12T05:19:44.000Z",
+      "description": "Marine Le Pen présente son contre-budget pour 2027. Les chefs d’entreprise ne sont pas convaincus, les économistes non plus. Mais c’est du côté des armées que le flou est le ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "« Je veux un océan à mon nom » : Trump propose de renommer le Pacifique ou l’Atlantique, les cartographes n’en reviennent pas",
+      "link": "https://armees.com/je-veux-un-ocean-a-mon-nom-trump-propose-de-renommer-le-pacifique-ou-latlantique-les-cartographes-nen-reviennent-pas/",
+      "pubDate": "2026-10-12T05:05:56.000Z",
+      "description": "Un océan Trump, une rivière sans nom, des fleuves épargnés par calcul politique : derrière cette annonce qui a fait rire la salle du Tennessee se cache une liste bien plus longue de rebaptisages déjà menés par le président américain.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Trump-Poutine, le diesel de la honte : l’Europe paie l’addition",
+      "link": "https://armees.com/trump-poutine-europe-diesel-honte-adition-paie/",
+      "pubDate": "2026-10-12T05:03:46.000Z",
+      "description": "Donald Trump vient d’annoncer un accord sur le diesel russe avec Vladimir Poutine, contournant Kiev et ses alliés européens. Derrière l’anecdote pétrolière se cache une réalité stratégique brutale : l’Europe ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : Trump lâche Zelensky, l’Europe se retrouve seule",
+      "link": "https://armees.com/ukraine-trump-zelensky-europe-lache-retrouve-seule/",
+      "pubDate": "2026-10-12T04:21:27.000Z",
+      "description": "Donald Trump vient de franchir un cap. En suggérant publiquement que Volodymyr Zelensky devrait être « remplacé » et en menaçant Kiev de couper le partage de renseignements, le président américain envoie ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pétrole, fusées, pétroliers : la guerre coûte une fortune",
+      "link": "https://armees.com/petrole-petroliers-fusees-guerre-fortune-coute/",
+      "pubDate": "2026-10-12T03:58:44.000Z",
+      "description": "Affréter un pétrolier entre les États-Unis et la Chine coûte désormais plus cher que d’envoyer une fusée dans l’espace. 80 millions de dollars contre 74 millions pour un Falcon 9. ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Les Houthis frappent l’aéroport de Riyad deux fois en deux jours",
+      "link": "https://armees.com/arabie-saoudite-attaques-houthies-repetees-sur-l-aeroport-de-riyad/",
+      "pubDate": "2026-10-12T03:35:00.000Z",
+      "description": "L'aéroport international King Khalid de Riyad a été frappé à plusieurs reprises durant le week-end des 10 et 11 octobre 2026 par les combattants houthis du Yémen.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Guerre électronique : L’armée de Terre évalue un nouveau système de navigation pour les chuteurs opérationnels",
       "link": "https://www.opex360.com/2026/10/11/guerre-electronique-larmee-de-terre-evalue-un-nouveau-systeme-de-navigation-pour-les-chuteurs-operationnels/",
@@ -136,13 +206,6 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Décès de Margaret Hamilton, l’informaticienne qui permit Apollo 11",
-      "link": "https://armees.com/margaret-hamilton-pionniere-informatique-spatiale-deces/",
-      "pubDate": "2026-10-09T09:23:34.000Z",
-      "description": "Margaret Hamilton, informaticienne pionnière qui dirigea le développement du logiciel embarqué du programme Apollo de la NASA, s'est éteinte le 30 septembre à l'âge de 90 ans. Son génie technique et sa vision de la programmation défensive permirent le succès de l'alunissage d'Apollo 11 en 1969, établissant l'ingénierie logicielle comme discipline à part entière.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Une accélération à l’étude pour le successeur du LRU",
       "link": "https://forcesoperations.com/une-acceleration-a-letude-pour-le-successeur-du-lru/",
       "pubDate": "2026-10-09T08:18:49.000Z",
@@ -150,74 +213,11 @@
       "sourceKey": "fob"
     },
     {
-      "title": "UAV Show : à Bordeaux, drones civils et militaires prêts au décollage",
-      "link": "https://armees.com/uav-show-a-bordeaux-drones-civils-et-militaires-prets-au-decollage/",
-      "pubDate": "2026-10-09T07:27:37.000Z",
-      "description": "À l’occasion de l’UAV Show 2026 à Bordeaux, une étude de l’Observatoire des armements interroge le développement des drones à double usage et le soutien public accordé à la filière en Nouvelle-Aquitaine.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Budget de la Défense : quels risques pour la filière de l’armement s’il n’est pas adopté ?",
-      "link": "https://armees.com/budget-de-la-defense-quels-risques-pour-la-filiere-de-larmement-sil-nest-pas-adopte/",
-      "pubDate": "2026-10-09T07:19:24.000Z",
-      "description": "Sans adoption du budget 2027 avant la fin de l’année, plusieurs commandes d’armement pourraient être retardées. La Défense française mise pourtant sur une forte hausse de ses investissements.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "OpenAI neutralise des campagnes d’influence russes et iraniennes",
-      "link": "https://armees.com/openai-neutralise-campagnes-influence-russes-iraniennes/",
-      "pubDate": "2026-10-09T06:59:59.000Z",
-      "description": "OpenAI a neutralisé deux opérations de guerre informationnelle menées par des acteurs russes et iraniens exploitant ChatGPT. La campagne russe 'Dark Clark', classée au niveau 5 sur 6 (le plus haut jamais attribué), ciblait l'Amérique latine pour affaiblir le soutien à l'Ukraine. L'opération iranienne 'Bogus Bylines' infiltrait des médias établis avec sept faux journalistes, révélant comment l'IA transforme la désinformation en arme stratégique asymétrique.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre en Iran : le Pentagone prêt à frapper pendant trois jours ?",
-      "link": "https://armees.com/pentagone-plans-frappes-iran-scenarios-operationnels/",
-      "pubDate": "2026-10-09T06:45:28.000Z",
-      "description": "Alors que Donald Trump a exclu toute attaque contre l'Iran avant les élections du 3 novembre 2026, le Pentagone conserve des plans militaires détaillés pour une campagne de frappes intensives de trois jours. Ces scénarios opérationnels ciblent les arsenaux de missiles iraniens, les infrastructures énergétiques et les installations militaires, témoignant de la persistance des options militaires au sein de l'appareil sécuritaire américain.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ebola au Kenya : une faille de biosécurité expose les faiblesses régionales",
-      "link": "https://armees.com/ebola-securite-sanitaire-renseignement-afrique-est/",
-      "pubDate": "2026-10-09T06:29:40.000Z",
-      "description": "Le premier cas d'Ebola confirmé au Kenya le 6 octobre 2026 révèle des failles critiques dans les systèmes de surveillance transfrontaliers. Un patient a parcouru 1 500 km à travers la RDC, l'Ouganda et le Kenya pendant un mois sans détection, exposant l'absence de tests diagnostiques rapides aux frontières et les lacunes de coordination régionale en matière de renseignement épidémiologique.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Newsom demande l’activation du 25e amendement après que Trump ait évoqué une attaque iranienne contre la Californie",
-      "link": "https://armees.com/newsom-demande-lactivation-du-25e-amendement-apres-que-trump-ait-evoque-une-attaque-iranienne-contre-la-californie/",
-      "pubDate": "2026-10-09T06:05:37.000Z",
-      "description": "Los Angeles et San Diego, « un faible prix à payer » selon Trump ? Newsom hurle à la folie et réclame le 25e amendement. Même des élus républicains lâchent le président. Jusqu'où ira cette crise ?",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Défense : les armées regrettent l’abandon par Berlin du projet de char franco-allemand",
       "link": "https://www.lemonde.fr/economie/article/2026/10/09/defense-les-armees-regrettent-l-abandon-par-berlin-du-projet-de-char-franco-allemand_6790521_3234.html",
       "pubDate": "2026-10-09T05:49:28.000Z",
       "description": "Auditionné jeudi 8 octobre à l’Assemblée nationale, Fabien Mandon, le chef d’état-major des armées, constate que « malheureusement, les Allemands ont décidé de quitter le projet ». Il appelle la France à lancer des études dès 2027 pour développer sa propre solution.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Le Pentagone vient de recevoir un rapport alarmant, quatre-vingt-un avions, hélicoptères et drones américains perdus ou endommagés dans le conflit en Iran",
-      "link": "https://armees.com/le-pentagone-vient-de-recevoir-un-rapport-alarmant-quatre-vingt-un-avions-helicopteres-et-drones-americains-perdus-ou-endommages-dans-le-conflit-en-iran/",
-      "pubDate": "2026-10-09T05:35:52.000Z",
-      "description": "81 avions perdus, 3,3 milliards de dollars envolés, six militaires tués dans un crash : le vrai coût de la guerre contre l'Iran dépasse largement ce que Washington a bien voulu admettre jusqu'ici.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Primaire à gauche : qui paiera la note militaire ?",
-      "link": "https://armees.com/primaire-gauche-paiera-militaire-note/",
-      "pubDate": "2026-10-09T05:20:21.000Z",
-      "description": "La gauche sociale-démocrate se déchire sur des mots, pendant que la France doit trouver des milliards pour financer sa défense. Derrière le spectacle de la primaire, une question budgétaire brûlante ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Kiev a commandé 16 Rafale, mais ses pilotes n’en ont jamais piloté un seul : leur formation commence le mois prochain en France",
-      "link": "https://armees.com/kiev-a-commande-16-rafale-mais-ses-pilotes-nen-ont-jamais-pilote-un-seul-leur-formation-commence-le-mois-prochain-en-france/",
-      "pubDate": "2026-10-09T05:05:38.000Z",
-      "description": "Novembre marque un tournant : les pilotes ukrainiens s'entraîneront enfin sur Rafale français, avant un transfert express de quatre appareils vers l'Ukraine. Un calendrier serré qui cache bien des enjeux stratégiques.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La France enquête sur les contrats de Thales en Azerbaïdjan, dénoncés par un ex-responsable emprisonné",
