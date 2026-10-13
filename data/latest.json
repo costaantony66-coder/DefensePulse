@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T07:16:41.416Z",
+  "generatedAt": "2026-10-13T15:06:47.580Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "title": "Le ministère des Armées a commandé un nouveau lot de munitions téléopérées DAMOCLES auprès de KNDS",
+      "link": "https://www.opex360.com/2026/10/13/le-ministere-des-armees-a-commande-un-nouveau-lot-de-munitions-teleoperees-damocles-aupres-de-knds/",
+      "pubDate": "2026-10-13T14:06:26.000Z",
+      "description": "En janvier, le ministère des Armées fit savoir que la Direction générale de l’armement [DGA] venait de remettre au Service interarmées des munitions [SIMu] les premiers exemplaires des 460 munitions téléopérées [MTO] MX-10 DAMOCLES qu’il avait commandées en 2024 auprès de KNDS France et de Delair. Développée dans le cadre du projet Colibri, lancé par...\nCet article Le ministère des Armées a commandé un nouveau lot de munitions téléopérées DAMOCLES auprès de KNDS est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "L’UE adopte 1 600 nouvelles sanctions contre la Russie",
+      "link": "https://armees.com/russie-l-union-europeenne-nouvelles-sanctions/",
+      "pubDate": "2026-10-13T12:27:50.000Z",
+      "description": "L'Union européenne a adopté lundi 12 octobre 2026 un paquet record de près de 1 600 nouvelles sanctions contre la Russie, ciblant spécifiquement le complexe militaro-industriel et la production de missiles balistiques. Malgré cette offensive, Moscou affirme avoir vendu pour 320 milliards de dollars d'hydrocarbures aux Européens depuis 2022, révélant les failles persistantes du régime de sanctions.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ce que l’archevêque militaire vient d’interdire aux soldats catholiques",
+      "link": "https://armees.com/exemption-religieuse-armee-americaine-execution-hasan-2026/",
+      "pubDate": "2026-10-13T11:35:00.000Z",
+      "description": "L'archevêque Timothy Broglio ordonne aux soldats catholiques de demander une exemption religieuse pour ne pas participer au peloton d'exécution de Nidal Hasan le 3 décembre. Cette directive inédite confronte le Pentagone à un dilemme institutionnel : respecter la liberté de conscience ou maintenir la discipline militaire pour la première exécution par peloton depuis 1945.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "TEKEVER s’installe à Munich après une levée de 580 millions de dollars",
+      "link": "https://armees.com/munich-580-allemagne-autriche-suisse-tekever-levee-millions-dollars/",
+      "pubDate": "2026-10-13T11:04:23.000Z",
+      "description": "Le fabricant portugais de drones autonomes TEKEVER ouvre une filiale à Munich, siège pour l'Allemagne, l'Autriche et la Suisse. L'annonce intervient après une levée de fonds de 580 millions de dollars valorisant l'entreprise à 6,4 milliards, et la livraison d'un premier système à la Bundeswehr. L'entreprise poursuit son maillage territorial européen dans un contexte de réarmement accéléré.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "«Flotte fantôme» russe : La Marine nationale a arraisonné le pétrolier DF Peak à 450 nautiques de La Réunion",
+      "link": "https://www.opex360.com/2026/10/13/flotte-fantome-russe-la-marine-nationale-a-arraisonne-le-petrolier-df-peak-a-450-nautiques-de-la-reunion/",
+      "pubDate": "2026-10-13T10:48:57.000Z",
+      "description": "Ces derniers mois, l’Union européenne a durci le ton contre la «flotte fantôme» exploitée par la Russie pour contourner les sanctions occidentales contre les exportations de ses hydrocarbures. Entre autres, elle a donné le mandant aux opérations navales Irini [Méditerranée centrale] et Atalanta [océan Indien] d’arraisonner tout pétrolier soupçonné de naviguer sous un faux pavillon....\nCet article «Flotte fantôme» russe : La Marine nationale a arraisonné le pétrolier DF Peak à 450 nautiques de La Réunion est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Moyen-Orient : les Houthis mettent en garde Donald Trump",
+      "link": "https://armees.com/houthis-strategie-dissuasion-etats-unis-yemen-2026/",
+      "pubDate": "2026-10-13T09:07:15.000Z",
+      "description": "Les Houthis yéménites ont lancé lundi un avertissement direct aux États-Unis, menaçant une riposte « rapide et douloureuse » en cas d'intervention militaire. Cette mise en garde intervient après trois missiles balistiques sur Riyad et une intensification sans précédent des attaques contre l'Arabie saoudite depuis septembre 2026, exploitant l'absence de soutien américain à son allié saoudien.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Nouvelle tranche française et première victoire à l’étranger pour DAMOCLES",
+      "link": "https://forcesoperations.com/nouvelle-tranche-francaise-et-premiere-victoire-a-letranger-pour-damocles/",
+      "pubDate": "2026-10-13T08:41:06.000Z",
+      "description": "Double victoire pour la munition téléopérée MX-10 DAMOCLES développée par KNDS France et Delair. D'un côté, le ministère des Armées renouvelle sa confiance et en reprend une tranche. De l'autre, elle enregistre un premier succès auprès d'une armée étrangère.  Après les 460 unités livrées entre 2025 et 2026, place à un nouveau lot d'envergure équivalente […]\nThe post Nouvelle tranche française et première victoire à l’étranger pour DAMOCLES appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "Espionnage : comment des cadeaux piègent les entreprises françaises",
+      "link": "https://armees.com/la-dgsi-alerte-sur-les-risques-caches-derriere-les-cadeaux-aux-entreprises/",
+      "pubDate": "2026-10-13T07:00:00.000Z",
+      "description": "La DGSI révèle dans son dernier flash d'ingérence économique comment des cadeaux offerts par des acteurs étrangers dissimulent parfois des dispositifs d'espionnage, des logiciels malveillants ou des stratégies de compromission visant les entreprises françaises de secteurs sensibles.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "« On m’a dit de ne plus prendre le même chemin deux fois » : un dirigeant de l’armement européen révèle les menaces russes qui visent son secteur",
       "link": "https://armees.com/on-ma-dit-de-ne-plus-prendre-le-meme-chemin-deux-fois-un-dirigeant-de-larmement-europeen-revele-les-menaces-russes-qui-visent-son-secteur/",
@@ -143,41 +199,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Une livraison française destinée à une entreprise d’armement israélienne déclenche une bataille judiciaire",
-      "link": "https://armees.com/une-livraison-francaise-destinee-a-une-entreprise-darmement-israelienne-declenche-une-bataille-judiciaire/",
-      "pubDate": "2026-10-12T07:36:46.000Z",
-      "description": "Trois associations ont saisi en urgence la justice française pour tenter de suspendre une livraison de réducteurs planétaires produits en France et destinés à Elbit Systems Land, en Israël.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : les services européens redoutent une campagne russe d’assassinats visant l’industrie de Défense",
-      "link": "https://armees.com/ukraine-les-services-europeens-redoutent-une-campagne-russe-dassassinats-visant-lindustrie-de-defense/",
-      "pubDate": "2026-10-12T07:25:37.000Z",
-      "description": "Les services de renseignement européens alertent sur une multiplication de projets d’assassinats attribués à la Russie contre des dirigeants de l’industrie de Défense soutenant l’Ukraine.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Une intelligence artificielle inédite fait ses premiers vols à bord du Rafale de Dassault Aviation",
-      "link": "https://armees.com/une-intelligence-artificielle-inedite-fait-ses-premiers-vols-a-bord-du-rafale-de-dassault-aviation/",
-      "pubDate": "2026-10-12T06:05:00.000Z",
-      "description": "Des Mirage 2000 transformés en laboratoires volants, des drones prêts à voler aux côtés des Rafale dès 2028... L'armée de l'Air prépare une révolution silencieuse dans les cockpits français. Une question demeure : jusqu'où ira cette IA embarquée ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La Finlande ouvre ses F-35 et découvre des technologies manquantes : la Suisse, prochaine sur la liste, commence à s’inquiéter sérieusement",
-      "link": "https://armees.com/la-finlande-ouvre-ses-f-35-et-decouvre-des-technologies-manquantes-la-suisse-prochaine-sur-la-liste-commence-a-sinquieter-serieusement/",
-      "pubDate": "2026-10-12T05:35:11.000Z",
-      "description": "La Finlande vient de recevoir ses premiers F-35, mais une pièce manque à l'appel. Et la facture pourrait bien retomber sur Helsinki... et sur Berne, qui observe la situation avec une inquiétude grandissante.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Le Pen, l’auto et la défense : quand le budget passe à la trappe",
-      "link": "https://armees.com/pen-defense-auto-budget-passe-trappe/",
-      "pubDate": "2026-10-12T05:19:44.000Z",
-      "description": "Marine Le Pen présente son contre-budget pour 2027. Les chefs d’entreprise ne sont pas convaincus, les économistes non plus. Mais c’est du côté des armées que le flou est le ...",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Guerre électronique : L’armée de Terre évalue un nouveau système de navigation pour les chuteurs opérationnels",
       "link": "https://www.opex360.com/2026/10/11/guerre-electronique-larmee-de-terre-evalue-un-nouveau-systeme-de-navigation-pour-les-chuteurs-operationnels/",
       "pubDate": "2026-10-11T11:26:08.000Z",
@@ -210,20 +231,6 @@
       "link": "https://www.opex360.com/2026/10/10/larmee-de-lair-de-lespace-confirme-larrive-du-rafale-a-djibouti-en-2027/",
       "pubDate": "2026-10-10T11:14:36.000Z",
       "description": "Jusqu’en août 2025, l’Escadron de chasse 3/11 Jura, établi sur la base aérienne 188 «Colonel Massart» de Djibouti, disposait de quatre Mirage 2000-5F pour assurer la défense de l’espace aérien djiboutien et sécuriser les voies stratégiques d’approvisionnement passant par le détroit de Bab el-Mandeb lors de missions dites SuCAP [Surface Close Air Protection]. Ces appareils...\nCet article L’armée de l’Air & de l’Espace confirme l’arrivée du Rafale à Djibouti en 2027 est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "SCAF : La France, l’Allemagne et l’Espagne ont validé la revue de conception initiale d’un effecteur déporté développé par MBDA",
-      "link": "https://www.opex360.com/2026/10/10/scaf-la-france-lallemagne-et-lespagne-ont-valide-la-revue-de-conception-initiale-dun-effecteur-deporte-developpe-par-mbda/",
-      "pubDate": "2026-10-10T10:07:02.000Z",
-      "description": "Mené par la France, l’Allemagne et l’Espagne, le projet de Système de combat aérien du futur [SCAF] ne se résume pas au développement d’un avion de combat de nouvelle génération [ou NGF, pour New Generation Fighter] et à celui de son moteur. Cet appareil doit [ou devait] être accompagné par des drones et des effecteurs...\nCet article SCAF : La France, l’Allemagne et l’Espagne ont validé la revue de conception initiale d’un effecteur déporté développé par MBDA est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Le français Exail dévoile un nouveau système de surveillance maritime basé sur les drones navals de la gamme Oryx",
-      "link": "https://www.opex360.com/2026/10/09/le-francais-exail-devoile-un-nouveau-systeme-de-surveillance-maritime-base-sur-les-drones-navals-de-la-gamme-oryx/",
-      "pubDate": "2026-10-09T17:33:44.000Z",
-      "description": "En septembre, la Direction générale de l’armement [DGA] a émis un appel d’offres pour acquérir des drones de surface [USV] «d’endurance» destinés à escorter les porte-hélicoptères amphibies [PHA] et les Bâtiments de soutien et d’assistance métropolitains [BSAM] de la Marine nationale. Le système Neptis, que vient de dévoiler Exail, pourrait-il satisfaire en partie à ce...\nCet article Le français Exail dévoile un nouveau système de surveillance maritime basé sur les drones navals de la gamme Oryx est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -406,13 +413,6 @@
       "link": "https://forcesoperations.com/la-1re-division-en-pointe-sur-le-prochain-jalon-de-transformation-de-larmee-de-terre/",
       "pubDate": "2026-09-25T06:44:36.000Z",
       "description": "Après la brigade interarmes, au tour de la division d'être la pointe d'effort d'une armée de Terre qui se transforme pour mieux répondre aux défis d'aujourd'hui et de demain. Une première grande unité sera considérée comme projetable en 30 jours à compter de 2028. Les défis ne manqueront pas d'ici là. Point d'étape sur ce chantier majeur en compagnie de l'un de ses principaux architectes, le général de division Bruno Helluy. \nThe post La 1re division en pointe sur le prochain jalon de transformation de l’armée de Terre appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
-    },
-    {
-      "title": "L’intercepteur d’Harmattan AI retenu par les armées françaises",
-      "link": "https://forcesoperations.com/lintercepteur-dharmattan-ai-retenu-par-les-armees-francaises/",
-      "pubDate": "2026-09-24T10:33:57.000Z",
-      "description": "Essai transformé pour le droniste française Harmattan AI, dont le drone intercepteur de drones GOBI vient d'être retenu par la Direction générale de l’armement pour rejoindre l’arsenal des armées françaises.\nThe post L’intercepteur d’Harmattan AI retenu par les armées françaises appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
     }
   ]
