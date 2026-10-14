@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T14:54:56.009Z",
+  "generatedAt": "2026-10-14T19:06:41.095Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Armement terrestre : Berlin envisage d’acquérir 50 % du groupe franco-allemand KNDS",
+      "link": "https://www.opex360.com/2026/10/14/armement-terrestre-berlin-envisage-dacquerir-50-du-groupe-franco-allemand-knds/",
+      "pubDate": "2026-10-14T17:35:10.000Z",
+      "description": "Lors du rapprochement entre Nexter Systems et Krauss-Maffei Wegmann, en 2015, il fut convenu que l’État français, via Giat Industries, et la famille Bode-Wegmann allaient se partager à 50-50 le capital de ce qui allait devenir KNDS, le spécialiste franco-allemand de l’armement terrestre. Il était alors essentiel qu’une stricte parité fût observée. Seulement, cette situation...\nCet article Armement terrestre : Berlin envisage d’acquérir 50 % du groupe franco-allemand KNDS est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Israël confirme la commande de douze hélicoptères d’attaque AH-64E Apache/Guardian auprès de Boeing",
+      "link": "https://www.opex360.com/2026/10/14/israel-confirme-la-commande-de-douze-helicopteres-dattaque-ah-64e-apache-guardian-aupres-de-boeing/",
+      "pubDate": "2026-10-14T16:50:56.000Z",
+      "description": "Chaque conflit a des caractéristiques qui lui sont propres. Aussi, ceux qui, à la lumière des retours d’expérience [RETEX] de la guerre en Ukraine, ont prophétisé la fin de l’hélicoptère d’attaque et de reconnaissance à cause de la généralisation des drones sont sans doute allés un peu trop vite en besogne. Sur d’autres théâtres d’opérations,...\nCet article Israël confirme la commande de douze hélicoptères d’attaque AH-64E Apache/Guardian auprès de Boeing est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "L’amiral Cluzel ne voit pas de problème avec les catapultes électromagnétiques américaines du futur porte-avions",
+      "link": "https://www.opex360.com/2026/10/14/lamiral-cluzel-ne-voit-pas-de-probleme-avec-les-catapultes-electromagnetiques-americaines-du-futur-porte-avions/",
+      "pubDate": "2026-10-14T15:11:10.000Z",
+      "description": "En novembre 2025, le chef d’état-major des armées [CEMA], le général Fabien Mandon, avait dit vouloir mener une réflexion sur la permanence aéronavale car un «outil de combat qui est disponible 65 % du temps n’est pas l’idéal». Visiblement, le débat a temporairement été mis sous le boisseau, l’actualisation de la Loi de programmation militaire...\nCet article L’amiral Cluzel ne voit pas de problème avec les catapultes électromagnétiques américaines du futur porte-avions est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
     {
       "title": "Souveraineté : 87% des Français voient l’info comme un champ de bataille",
       "link": "https://armees.com/souverainete-pourcent-ipsos-entreprises-medias-francais-bataille-voient/",
@@ -125,7 +146,7 @@
       "title": "Le français Drone Volt présente le nouveau drone logistique Hercules 100, capable de transporter une charge de 100 kg",
       "link": "https://www.opex360.com/2026/10/13/le-francais-drone-volt-presente-le-nouveau-drone-logistique-hercules-100-capable-de-transporter-une-charge-de-100-kg/",
       "pubDate": "2026-10-13T16:35:41.000Z",
-      "description": "Au sein d’un groupe aéronaval, environ 90 % des liaisons d’un navire à un autre effectuées par hélicoptère concernent des colis de moins de 25 kg. D’où l’intérêt d’utiliser un drone logistique pour assurer de telles missions. En janvier 2023, lors de la mission ANTARÈS, Centre d’expérimentation pratiques et de réception de l’aéronautique navale [CEPA/10S]...\nCet article Le français Drone Volt présente le nouveau drone logistique Hercules 100, capable de transporter une charge de 100 kg est apparu en premier sur Zone Militaire.",
+      "description": "Au sein d’un groupe aéronaval, environ 90 % des liaisons d’un navire à un autre effectuées par hélicoptère concernent des colis de moins de 25 kg. D’où l’intérêt d’utiliser un drone logistique pour assurer de telles missions. En janvier 2023, lors de la mission ANTARÈS, le Centre d’expérimentations pratiques et de réception de l’aéronautique navale...\nCet article Le français Drone Volt présente le nouveau drone logistique Hercules 100, capable de transporter une charge de 100 kg est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -192,13 +213,6 @@
       "sourceKey": "opex"
     },
     {
-      "title": "L’américain Anduril présente une nouvelle gamme de missiles de défense aérienne modulaires et peu coûteux",
-      "link": "https://www.opex360.com/2026/10/12/lamericain-anduril-presente-une-nouvelle-gamme-de-missiles-de-defense-aerienne-modulaires-et-peu-couteux/",
-      "pubDate": "2026-10-12T14:40:26.000Z",
-      "description": "En septembre 2024, l’américain Anduril dévoila le missile de croisière «Barracuda» qui, décliné en trois versions, pouvait être produit à grande échelle, rapidement et à moindre coût. Il s’agissait ainsi d’anticiper un éventuel conflit de haute intensité au cours duquel les stocks de munitions «complexes» pourraient s’épuiser en quelques semaines. Pour cela, l’industriel expliqua qu’il...\nCet article L’américain Anduril présente une nouvelle gamme de missiles de défense aérienne modulaires et peu coûteux est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
       "title": "Nouvelle salve de munitions pour les mortiers belges",
       "link": "https://forcesoperations.com/nouvelle-salve-de-munitions-pour-les-mortiers-belges/",
       "pubDate": "2026-10-12T13:45:16.000Z",
@@ -211,20 +225,6 @@
       "pubDate": "2026-10-12T13:29:06.000Z",
       "description": "Lors de son discours au Forum de Varsovie sur la sécurité, le général Alexus G. Grynkewich a voulu rassurer les populations concernant les sabotages et les incendies, mais aussi dissuader un éventuel agresseur.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "La Belgique se joint à l’Espagne et l’Allemagne pour automatiser le ravitaillement en vol",
-      "link": "https://www.opex360.com/2026/10/12/la-belgique-se-joint-a-lespagne-et-lallemagne-pour-automatiser-le-ravitaillement-en-vol/",
-      "pubDate": "2026-10-12T10:45:10.000Z",
-      "description": "En février, dans le cadre d’une coopération scellée avec le ministère singapourien de la Défense en 2020, Airbus Defence & Space a obtenu la certification complète du système de ravitaillement en vol automatique [A3R pour Automatic Air-to-Air Refueling] de l’A330 MRTT auprès de l’Institut national espagnol de technologie aérospatiale [INTA]. «Le programme de certification comprenait...\nCet article La Belgique se joint à l’Espagne et l’Allemagne pour automatiser le ravitaillement en vol est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Guerre électronique : L’armée de Terre évalue un nouveau système de navigation pour les chuteurs opérationnels",
-      "link": "https://www.opex360.com/2026/10/11/guerre-electronique-larmee-de-terre-evalue-un-nouveau-systeme-de-navigation-pour-les-chuteurs-operationnels/",
-      "pubDate": "2026-10-11T11:26:08.000Z",
-      "description": "Au moins à deux reprises, en juin 2022 et en mai 2023, l’armée de Terre lança, sous très faible préavis, une opération aéroportée [OAP] en Estonie, afin de démontrer sa capacité à «intervenir en urgence et à soutenir un allié». Et l’État-major des armées [EMA] les avait décrites comme un «acte de solidarité stratégique» envers...\nCet article Guerre électronique : L’armée de Terre évalue un nouveau système de navigation pour les chuteurs opérationnels est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Défense américaine : la Chine a mis la main sur des pièces du très convoité chasseur furtif F-35 grâce à un e-mail non lu",
