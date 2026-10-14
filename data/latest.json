@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T04:58:25.918Z",
+  "generatedAt": "2026-10-14T09:58:00.534Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "title": "Attaques houthies : les défenses saoudiennes sous pression",
+      "link": "https://armees.com/attaques-houthies-capacites-militaires-defenses/",
+      "pubDate": "2026-10-14T08:44:41.000Z",
+      "description": "Les attaques houthies des 11 et 13 octobre 2026 contre Riyadh et Aramco révèlent une montée en puissance militaire préoccupante. Face à des salves coordonnées de missiles et drones, les défenses saoudiennes affichent des failles croissantes, malgré des interceptions partielles. Cette escalade sans précédent depuis 2015 transforme le conflit yéménite en guerre d'usure aux répercussions régionales et économiques majeures.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Guerre en Ukraine : la vulnérabilité révélée par deux frappes russes et la dépendance aux satellites américains",
+      "link": "https://armees.com/detection-missiles-ukraine-systemes-defense-2026/",
+      "pubDate": "2026-10-14T07:55:28.000Z",
+      "description": "Les 13 et 14 octobre, Kiev subit deux frappes russes consécutives sans alerte préalable, révélant la dépendance critique de l'Ukraine aux renseignements satellitaires américains. Les systèmes de détection ukrainiens n'ont repéré les missiles qu'à proximité immédiate de la capitale, trop tard pour activer les défenses anti-aériennes. La guerre en Ukraine expose ainsi une vulnérabilité stratégique majeure : sans le flux de données satellitaires US, l'armée ukrainienne combat à l'aveugle face aux balistiques russes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Du Rafale F5 aux drones : l’Armée de l’Air prépare une nouvelle génération de combat aérien",
+      "link": "https://armees.com/du-rafale-f5-aux-drones-larmee-de-lair-prepare-une-nouvelle-generation-de-combat-aerien/",
+      "pubDate": "2026-10-14T06:40:17.000Z",
+      "description": "Rafale F5, drones de combat, ballons stratosphériques : l’Armée de l’Air accélère sa modernisation face aux nouvelles menaces et prépare le combat aérien de demain.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Peut-on opposer budget de l’Education et budget de la Défense ?",
+      "link": "https://armees.com/peut-on-opposer-budget-de-leducation-et-budget-de-la-defense/",
+      "pubDate": "2026-10-14T06:27:14.000Z",
+      "description": "Alors que les lycéens dénoncent la hausse du budget de la Défense face aux besoins de l’éducation, les chiffres montrent une réalité budgétaire et économique plus complexe.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Sous la glace Antarctique, un bassin secret pourrait faire grimper les océans de 3 à 4 mètres",
+      "link": "https://armees.com/sous-la-glace-antarctique-un-bassin-secret-pourrait-faire-grimper-les-oceans-de-3-a-4-metres/",
+      "pubDate": "2026-10-14T06:05:03.000Z",
+      "description": "Un glacier géant, jamais approché à moins de 150 km, cache assez de glace pour engloutir Shanghai, Miami ou Amsterdam. Et personne ne sait encore quand le compte à rebours commencera vraiment.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "2 jours en mer ont coûté 328 jours en cale sèche à l’escorteur HMS Prince of Wales de la Royal Navy, à cause d’un accouplement défaillant sur l’arbre d’hélice tribord",
+      "link": "https://armees.com/2-jours-en-mer-ont-coute-328-jours-en-cale-seche-a-lescorteur-hms-prince-of-wales-de-la-royal-navy-a-cause-dun-accouplement-defaillant-sur-larbre-dhelice-tribord/",
+      "pubDate": "2026-10-14T05:35:16.000Z",
+      "description": "Un défaut d'alignement passé entre les mailles dès la construction, 25 millions de livres de réparations, et trois ans de mystère avant que la vérité n'éclate sur le porte-avions britannique.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Le chef de l’OTAN met en garde la Russie",
+      "link": "https://armees.com/theorie-victoire-otan-riposte-militaire-russie/",
+      "pubDate": "2026-10-14T05:24:35.000Z",
+      "description": "Le général Alexus Grynkewich, commandant suprême de l'Otan en Europe, a dévoilé le 12 octobre à Varsovie sa « théorie de la victoire » face à une éventuelle agression russe. Articulée en trois phases (bloquer, endiguer, briser), la doctrine vise à rendre « totalement vaine » toute attaque contre un pays membre de l'Alliance atlantique.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Effet El Niño, le débit des chutes d’Iguazú a été multiplié par trois en moins de 48 heures : un phénomène exceptionnel",
+      "link": "https://armees.com/effet-el-nino-le-debit-des-chutes-diguazu-a-ete-multiplie-par-trois-en-moins-de-48-heures-un-phenomene-exceptionnel/",
+      "pubDate": "2026-10-14T05:05:41.000Z",
+      "description": "12 000 m³/s en quarante-huit heures : le río Iguazú est devenu méconnaissable, forçant la fermeture côté argentin. Pendant ce temps, le Brésil observe le spectacle. Une crue spectaculaire, loin pourtant du record de 2014.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Hydrocarbures russes : l’Europe finance la machine de guerre du Kremlin",
+      "link": "https://armees.com/hydrocarbures-poutine-ue-russie-union-guerre-finance/",
+      "pubDate": "2026-10-14T04:28:40.000Z",
+      "description": "La Russie affirme avoir vendu pour 320 milliards de dollars d'hydrocarbures à l'Union européenne depuis 2022, malgré les sanctions.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "L’armée de l’Air & de l’Espace se prépare à une possible attaque chimique menée par des drones",
       "link": "https://www.opex360.com/2026/10/13/larmee-de-lair-de-lespace-se-prepare-a-une-possible-attaque-chimique-menee-par-des-drones/",
@@ -108,27 +171,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "U740 Valkyrie : Airbus valide le drone de combat autonome européen",
-      "link": "https://armees.com/u740-valkyrie-airbus-avance-dans-le-developpement-du-drone-de-combat-europe/",
-      "pubDate": "2026-10-13T05:35:01.000Z",
-      "description": "Le 29 septembre, Airbus et Kratos ont réalisé avec succès le premier vol en Europe du U740 Valkyrie, drone de combat autonome destiné aux forces armées allemandes et européennes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La crise française contamine l’Europe : qui paiera la défense ?",
-      "link": "https://armees.com/europe-francaise-contamine-crise-paiera-defense/",
-      "pubDate": "2026-10-13T05:21:02.000Z",
-      "description": "Rome révise ses objectifs de déficit à la hausse pour financer ses armées. Paris, elle, navigue à vue entre impasse budgétaire et ambitions militaires. Pendant ce temps, nos alliés commencent ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "« Si quelqu’un est assez insensé pour nous attaquer, nous nous battrons » : le chef militaire de l’Otan dévoile son plan de guerre contre la Russie",
-      "link": "https://armees.com/si-quelquun-est-assez-insense-pour-nous-attaquer-nous-nous-battrons-le-chef-militaire-de-lotan-devoile-son-plan-de-guerre-contre-la-russie/",
-      "pubDate": "2026-10-13T05:05:12.000Z",
-      "description": "Le chef militaire de l'Otan promet des représailles sans appel face à Moscou, mais tient aussi à calmer le jeu. Entre fermeté et apaisement, quelle est vraiment la stratégie de l'Alliance pour dissuader la Russie ?",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’Estonie envisage de se doter d’avions de combat légers pour la lutte antidrone",
       "link": "https://www.opex360.com/2026/10/12/lestonie-envisage-de-se-doter-davions-de-combat-legers-pour-la-lutte-antidrone/",
       "pubDate": "2026-10-12T17:26:41.000Z",
@@ -143,25 +185,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Ukraine : le cessez-le-feu énergétique, miroir de nos vulnérabilités stratégiques",
-      "link": "https://armees.com/ukraine-energetique-cessez-vulnerabilites-strategiques-miroir-feu-nos/",
-      "pubDate": "2026-10-12T16:03:03.000Z",
-      "description": "Trump annonce un cessez-le-feu énergétique entre la Russie et l’Ukraine. Moscou le viole dans les heures qui suivent. Pendant ce temps, des centaines de supermarchés français subissent une cyberattaque paralysant ...",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’américain Anduril présente une nouvelle gamme de missiles de défense aérienne modulaires et peu coûteux",
       "link": "https://www.opex360.com/2026/10/12/lamericain-anduril-presente-une-nouvelle-gamme-de-missiles-de-defense-aerienne-modulaires-et-peu-couteux/",
       "pubDate": "2026-10-12T14:40:26.000Z",
       "description": "En septembre 2024, l’américain Anduril dévoila le missile de croisière «Barracuda» qui, décliné en trois versions, pouvait être produit à grande échelle, rapidement et à moindre coût. Il s’agissait ainsi d’anticiper un éventuel conflit de haute intensité au cours duquel les stocks de munitions «complexes» pourraient s’épuiser en quelques semaines. Pour cela, l’industriel expliqua qu’il...\nCet article L’américain Anduril présente une nouvelle gamme de missiles de défense aérienne modulaires et peu coûteux est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Palestine : Paris appelle à ne pas reporter les élections présidentielles",
-      "link": "https://armees.com/elections-palestine-report-2027-stabilite/",
-      "pubDate": "2026-10-12T14:04:32.000Z",
-      "description": "Le report des élections palestiniennes à septembre 2027 prolonge une crise institutionnelle vieille de vingt ans. La France appelle Mahmoud Abbas à revenir sur cette décision, considérant que l'absence de légitimité démocratique fragilise l'Autorité palestinienne et menace la stabilité régionale. Paris conditionne sa reconnaissance de l'État palestinien à l'organisation d'un scrutin démocratique.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Nouvelle salve de munitions pour les mortiers belges",
@@ -178,39 +206,11 @@
       "sourceKey": "geo"
     },
     {
-      "title": "Pologne : 1 600 chars d’ici 2032, la dissuasion par la masse face à Moscou",
-      "link": "https://armees.com/pologne-1600-chars-dissuasion-conventionnelle-russie/",
-      "pubDate": "2026-10-12T12:28:10.000Z",
-      "description": "La Pologne alignera 1 600 chars d'ici 2032, soit plus que l'Allemagne, la France, l'Italie et le Royaume-Uni réunis. Faute d'arme nucléaire, Varsovie mise sur une dissuasion conventionnelle par la masse blindée, avec un investissement défense de 4,7% du PIB. Une stratégie inédite depuis la Guerre froide.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La Belgique se joint à l’Espagne et l’Allemagne pour automatiser le ravitaillement en vol",
       "link": "https://www.opex360.com/2026/10/12/la-belgique-se-joint-a-lespagne-et-lallemagne-pour-automatiser-le-ravitaillement-en-vol/",
       "pubDate": "2026-10-12T10:45:10.000Z",
       "description": "En février, dans le cadre d’une coopération scellée avec le ministère singapourien de la Défense en 2020, Airbus Defence & Space a obtenu la certification complète du système de ravitaillement en vol automatique [A3R pour Automatic Air-to-Air Refueling] de l’A330 MRTT auprès de l’Institut national espagnol de technologie aérospatiale [INTA]. «Le programme de certification comprenait...\nCet article La Belgique se joint à l’Espagne et l’Allemagne pour automatiser le ravitaillement en vol est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Le missile nord-coréen que personne n’a vu venir",
-      "link": "https://armees.com/coree-nord-missiles-balistiques-910km-hypersoniques/",
-      "pubDate": "2026-10-12T10:36:46.000Z",
-      "description": "Le 12 octobre 2026, la Corée du Nord a lancé deux missiles balistiques depuis Pyongyang en 17 minutes. Le second a franchi 910 km selon une trajectoire irrégulière caractéristique des armes hypersoniques, défiant les systèmes de défense régionaux.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : Trump annonce un cessez-le-feu énergétique contesté",
-      "link": "https://armees.com/accord-energetique-asxymetrie-militaire-ukraine/",
-      "pubDate": "2026-10-12T08:00:00.000Z",
-      "description": "Donald Trump annonce un cessez-le-feu énergétique entre l'Ukraine et la Russie fondé sur un principe simple : une raffinerie contre une raffinerie. Pourtant, l'Ukraine ne possède qu'une seule installation pétrolière fonctionnelle, tandis que Moscou en contrôle plusieurs dizaines. L'accord masque un déséquilibre stratégique majeur, aggravé par la poursuite des frappes russes après l'annonce américaine.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La Marine nationale sélectionne trois finalistes pour son futur drone de surface armé",
-      "link": "https://armees.com/la-marine-nationale-selectionne-trois-finalistes-pour-son-futur-drone-de-surface-arme/",
-      "pubDate": "2026-10-12T07:49:53.000Z",
-      "description": "La Marine nationale a retenu trois candidats pour poursuivre le développement du projet DANAE, un drone de surface autonome destiné à la protection des ports et à l’escorte des bâtiments militaires.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Guerre électronique : L’armée de Terre évalue un nouveau système de navigation pour les chuteurs opérationnels",
