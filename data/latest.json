@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T09:58:00.534Z",
+  "generatedAt": "2026-10-14T14:54:56.009Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Souveraineté : 87% des Français voient l’info comme un champ de bataille",
+      "link": "https://armees.com/souverainete-pourcent-ipsos-entreprises-medias-francais-bataille-voient/",
+      "pubDate": "2026-10-14T13:23:30.000Z",
+      "description": "Une étude Ipsos BVA pour Entreprises et Médias révèle que près de neuf Français sur dix jugent la souveraineté nationale essentielle, mais 76% la jugent insuffisante. L'information et le numérique apparaissent désormais comme les nouveaux fronts stratégiques, au même titre que l'industrie ou l'énergie. Les entreprises sont appelées à jouer un rôle actif dans cette bataille informationnelle.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Eramet : 500 M€ pour échapper à la dépendance chinoise en métaux",
+      "link": "https://armees.com/eramet-defense-autonomie-strategique-matieres/",
+      "pubDate": "2026-10-14T13:01:00.000Z",
+      "description": "L'État français injecte 500 millions d'euros dans Eramet pour devenir son premier actionnaire, dépassant la famille Duval après 27 ans de contrôle. Cette opération de sauvetage vise à sécuriser l'accès français aux métaux critiques (manganèse, nickel, lithium) essentiels à l'industrie de défense, dans un contexte de dépendance croissante envers la Chine et de tensions géopolitiques. Au-delà du redressement financier d'un groupe endetté, Paris déploie une stratégie de souveraineté industrielle et militaire.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Turquie : opération éclair de la police contre Halk TV",
+      "link": "https://armees.com/turquie-operation-police-turque-halk-tv/",
+      "pubDate": "2026-10-14T12:23:04.000Z",
+      "description": "Le 14 octobre 2026 à 05h30, la police turque a mené une opération coordonnée contre Halk TV, principale chaîne d'opposition. En six heures, 11 interpellations, saisie des équipements de diffusion et nomination d'un administrateur public ont neutralisé la capacité opérationnelle du média. Analyse tactique d'une intervention qui illustre l'évolution de la doctrine turque de maintien de l'ordre.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La France et le Tchad signent une lettre d’intention pour rétablir leur coopération en matière de défense",
+      "link": "https://www.opex360.com/2026/10/14/la-france-et-le-tchad-signent-une-lettre-dintention-pour-retablir-leur-cooperation-en-matiere-de-defense/",
+      "pubDate": "2026-10-14T10:33:10.000Z",
+      "description": "Quand il était chef d’état-major des armées [CEMA], après la rupture consommée avec le Mali, le Burkina Faso, le Niger et la République centrafricaine sur fond de lutte informationnelle orchestrée, sans efficacité, par la Russie, le général Thierry Burkhard plaidait pour une réduction sensible de la présence militaire française en Afrique tout en promouvant un...\nCet article La France et le Tchad signent une lettre d’intention pour rétablir leur coopération en matière de défense est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
     {
       "title": "Attaques houthies : les défenses saoudiennes sous pression",
       "link": "https://armees.com/attaques-houthies-capacites-militaires-defenses/",
@@ -150,27 +178,6 @@
       "sourceKey": "fob"
     },
     {
-      "title": "Espionnage : comment des cadeaux piègent les entreprises françaises",
-      "link": "https://armees.com/la-dgsi-alerte-sur-les-risques-caches-derriere-les-cadeaux-aux-entreprises/",
-      "pubDate": "2026-10-13T07:00:00.000Z",
-      "description": "La DGSI révèle dans son dernier flash d'ingérence économique comment des cadeaux offerts par des acteurs étrangers dissimulent parfois des dispositifs d'espionnage, des logiciels malveillants ou des stratégies de compromission visant les entreprises françaises de secteurs sensibles.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "« On m’a dit de ne plus prendre le même chemin deux fois » : un dirigeant de l’armement européen révèle les menaces russes qui visent son secteur",
-      "link": "https://armees.com/on-ma-dit-de-ne-plus-prendre-le-meme-chemin-deux-fois-un-dirigeant-de-larmement-europeen-revele-les-menaces-russes-qui-visent-son-secteur/",
-      "pubDate": "2026-10-13T06:05:25.000Z",
-      "description": "Des PDG européens vivent désormais cachés, sous protection 24 heures sur 24. Le GRU russe cible drones, obus et chars destinés à l'Ukraine. Jusqu'où ira cette traque silencieuse ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La Pologne commande 1600 chars et une bombe française que Moscou n’avait pas vue venir : les généraux russes réagissent",
-      "link": "https://armees.com/la-pologne-commande-1600-chars-et-une-bombe-francaise-que-moscou-navait-pas-vue-venir-les-generaux-russes-reagissent/",
-      "pubDate": "2026-10-13T05:35:23.000Z",
-      "description": "1 600 chars d'ici 2032, un parapluie nucléaire français en pourparlers secrets : la Pologne joue gros face à Moscou. Varsovie peut-elle vraiment devenir la première armée de terre d'Europe ?",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’Estonie envisage de se doter d’avions de combat légers pour la lutte antidrone",
       "link": "https://www.opex360.com/2026/10/12/lestonie-envisage-de-se-doter-davions-de-combat-legers-pour-la-lutte-antidrone/",
       "pubDate": "2026-10-12T17:26:41.000Z",
@@ -217,13 +224,6 @@
       "link": "https://www.opex360.com/2026/10/11/guerre-electronique-larmee-de-terre-evalue-un-nouveau-systeme-de-navigation-pour-les-chuteurs-operationnels/",
       "pubDate": "2026-10-11T11:26:08.000Z",
       "description": "Au moins à deux reprises, en juin 2022 et en mai 2023, l’armée de Terre lança, sous très faible préavis, une opération aéroportée [OAP] en Estonie, afin de démontrer sa capacité à «intervenir en urgence et à soutenir un allié». Et l’État-major des armées [EMA] les avait décrites comme un «acte de solidarité stratégique» envers...\nCet article Guerre électronique : L’armée de Terre évalue un nouveau système de navigation pour les chuteurs opérationnels est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "L’armée de Terre veut lancer des études pour se doter de microréacteurs nucléaires",
-      "link": "https://www.opex360.com/2026/10/11/larmee-de-terre-veut-lancer-des-etudes-pour-se-doter-de-microreacteurs-nucleaires/",
-      "pubDate": "2026-10-11T10:36:31.000Z",
-      "description": "En août, dans le cadre de son programme JANUS, l’US Army fit savoir qu’elle venait d’attribuer des contrats d’une valeur totale de 2,2 milliards de dollars à plusieurs industriels pour «la construction, l’acquisition et l’exploitation» de microréacteurs nucléaires modulaires [SMR – Small Modular Reactors], destinés à cinq de ses emprises, à savoir Fort Bragg [Caroline...\nCet article L’armée de Terre veut lancer des études pour se doter de microréacteurs nucléaires est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
