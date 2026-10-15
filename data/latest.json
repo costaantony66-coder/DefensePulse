@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T00:35:35.242Z",
+  "generatedAt": "2026-10-15T05:06:51.859Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Ukraine : Starlink bloqué à 160 km/h, les drones désactivés en masse",
+      "link": "https://armees.com/starshield-restrictions-ukraine-defense-aerienne-drones/",
+      "pubDate": "2026-10-15T03:55:46.000Z",
+      "description": "Dans la nuit du 13 au 14 octobre 2026, SpaceX a imposé des limitations de vitesse sur les terminaux Starshield militaires en Ukraine, désactivant les appareils circulant au-delà de 100-160 km/h.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Armement terrestre : Berlin envisage d’acquérir 50 % du groupe franco-allemand KNDS",
       "link": "https://www.opex360.com/2026/10/14/armement-terrestre-berlin-envisage-dacquerir-50-du-groupe-franco-allemand-knds/",
@@ -183,13 +190,6 @@
       "pubDate": "2026-10-13T10:48:57.000Z",
       "description": "Ces derniers mois, l’Union européenne a durci le ton contre la «flotte fantôme» exploitée par la Russie pour contourner les sanctions occidentales contre les exportations de ses hydrocarbures. Entre autres, elle a donné le mandant aux opérations navales Irini [Méditerranée centrale] et Atalanta [océan Indien] d’arraisonner tout pétrolier soupçonné de naviguer sous un faux pavillon....\nCet article «Flotte fantôme» russe : La Marine nationale a arraisonné le pétrolier DF Peak à 450 nautiques de La Réunion est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Moyen-Orient : les Houthis mettent en garde Donald Trump",
-      "link": "https://armees.com/houthis-strategie-dissuasion-etats-unis-yemen-2026/",
-      "pubDate": "2026-10-13T09:07:15.000Z",
-      "description": "Les Houthis yéménites ont lancé lundi un avertissement direct aux États-Unis, menaçant une riposte « rapide et douloureuse » en cas d'intervention militaire. Cette mise en garde intervient après trois missiles balistiques sur Riyad et une intensification sans précédent des attaques contre l'Arabie saoudite depuis septembre 2026, exploitant l'absence de soutien américain à son allié saoudien.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Nouvelle tranche française et première victoire à l’étranger pour DAMOCLES",
