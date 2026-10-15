@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T05:06:51.859Z",
+  "generatedAt": "2026-10-15T09:59:31.528Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "title": "Ingénieurs : la pénurie met en péril la défense française",
+      "link": "https://armees.com/defense-france-penurie-ingenieurs-securite/",
+      "pubDate": "2026-10-15T08:49:06.000Z",
+      "description": "L'Observatoire IESF alerte sur un risque majeur pour la défense française : 236 599 ingénieurs, soit 23% de la profession, partiront à la retraite d'ici 2040. Seuls 50 045 diplômés sortent chaque année, tandis que l'industrie n'attire plus que 30% des jeunes talents. Télécommunications militaires, cybersécurité, armement : les secteurs stratégiques font face à une hémorragie de compétences critiques sans transmission organisée.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Marine française : confiance maintenue dans les catapultes EMALS",
+      "link": "https://armees.com/emals-catapultes-fiabilite-marine-francaise-porte-avions/",
+      "pubDate": "2026-10-15T07:41:12.000Z",
+      "description": "L'amiral Christophe Cluzel affirme que le contrat français pour les catapultes EMALS du porte-avions France Libre n'est pas menacé malgré la décision de Donald Trump de revenir à la vapeur. Avec 98% de disponibilité et 40 000 lancements réussis, la Marine française maintient sa confiance dans la technologie électromagnétique américaine.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Industrie de l’armement : Berlin lorgne désormais sur 50% de KNDS",
+      "link": "https://armees.com/industrie-de-larmement-berlin-lorgne-desormais-sur-50-de-knds/",
+      "pubDate": "2026-10-15T07:00:44.000Z",
+      "description": "L’Allemagne envisage de racheter les 50 % de KNDS détenus par les familles allemandes. Une opération stratégique qui pourrait transformer durablement la gouvernance du groupe franco-allemand de Défense terrestre.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Fin juin 2026, les cinq sous-marins nucléaires d’attaque britanniques étaient simultanément amarrés",
+      "link": "https://armees.com/fin-juin-2026-les-cinq-sous-marins-nucleaires-dattaque-britanniques-etaient-simultanement-amarres/",
+      "pubDate": "2026-10-15T06:05:56.000Z",
+      "description": "Cinq sous-marins nucléaires, zéro en mer. La Royal Navy a-t-elle perdu sa capacité de frappe sous-marine ? Pénurie de bassins, de pièces, d'ingénieurs... l'enquête révèle une flotte à bout de souffle.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Chat Control : Palantir surveille vos conversations à votre insu",
+      "link": "https://armees.com/palantir-surveillance-renseignement-americain-europe-2026/",
+      "pubDate": "2026-10-15T05:49:00.000Z",
+      "description": "Depuis 2021, les messages privés des citoyens européens scannés sous la loi Chat Control sont analysés par Palantir Foundry, logiciel d'une entreprise de renseignement américaine fondée avec le soutien de la CIA. Une investigation révèle que cette collaboration avec le NCMEC est restée totalement opaque pour les législateurs européens, exposant une brèche majeure dans la souveraineté informationnelle de l'UE.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "« On n’avait jamais vu ça » : des archéologues déterrent en Égypte un sceau portant une image du phare d’Alexandrie que personne n’attendait",
+      "link": "https://armees.com/on-navait-jamais-vu-ca-des-archeologues-deterrent-en-egypte-un-sceau-portant-une-image-du-phare-dalexandrie-que-personne-nattendait/",
+      "pubDate": "2026-10-15T05:35:19.000Z",
+      "description": "Une bague vieille de 1800 ans, gravée du phare d'Alexandrie, remonte des eaux égyptiennes. Un objet unique au monde qui révèle un secret insoupçonné sur le destin du monument englouti.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Détroit d’Ormuz : deux navires coulés en un mois par l’Iran",
+      "link": "https://armees.com/tactiques-iran-ormuz-guerre-asymetrique-2026/",
+      "pubDate": "2026-10-15T05:27:49.000Z",
+      "description": "L'UKMTO a recensé plus de 20 navires attaqués en octobre 2026 dans le détroit d'Ormuz, révélant une mutation tactique de l'IRGC.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "« On a cru que le moteur allait lâcher » : le Japon réussit son premier test de fusée réutilisable et bouscule la course spatiale",
+      "link": "https://armees.com/on-a-cru-que-le-moteur-allait-lacher-le-japon-reussit-son-premier-test-de-fusee-reutilisable-et-bouscule-la-course-spatiale/",
+      "pubDate": "2026-10-15T05:05:08.000Z",
+      "description": "Onze mètres, seize mètres, quarante secondes de vol : voilà le résultat de dix ans d'attente pour le Japon. Face à SpaceX, Tokyo relance enfin la course aux fusées réutilisables.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Ukraine : Starlink bloqué à 160 km/h, les drones désactivés en masse",
       "link": "https://armees.com/starshield-restrictions-ukraine-defense-aerienne-drones/",
@@ -108,41 +164,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Sous la glace Antarctique, un bassin secret pourrait faire grimper les océans de 3 à 4 mètres",
-      "link": "https://armees.com/sous-la-glace-antarctique-un-bassin-secret-pourrait-faire-grimper-les-oceans-de-3-a-4-metres/",
-      "pubDate": "2026-10-14T06:05:03.000Z",
-      "description": "Un glacier géant, jamais approché à moins de 150 km, cache assez de glace pour engloutir Shanghai, Miami ou Amsterdam. Et personne ne sait encore quand le compte à rebours commencera vraiment.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "2 jours en mer ont coûté 328 jours en cale sèche à l’escorteur HMS Prince of Wales de la Royal Navy, à cause d’un accouplement défaillant sur l’arbre d’hélice tribord",
-      "link": "https://armees.com/2-jours-en-mer-ont-coute-328-jours-en-cale-seche-a-lescorteur-hms-prince-of-wales-de-la-royal-navy-a-cause-dun-accouplement-defaillant-sur-larbre-dhelice-tribord/",
-      "pubDate": "2026-10-14T05:35:16.000Z",
-      "description": "Un défaut d'alignement passé entre les mailles dès la construction, 25 millions de livres de réparations, et trois ans de mystère avant que la vérité n'éclate sur le porte-avions britannique.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Le chef de l’OTAN met en garde la Russie",
-      "link": "https://armees.com/theorie-victoire-otan-riposte-militaire-russie/",
-      "pubDate": "2026-10-14T05:24:35.000Z",
-      "description": "Le général Alexus Grynkewich, commandant suprême de l'Otan en Europe, a dévoilé le 12 octobre à Varsovie sa « théorie de la victoire » face à une éventuelle agression russe. Articulée en trois phases (bloquer, endiguer, briser), la doctrine vise à rendre « totalement vaine » toute attaque contre un pays membre de l'Alliance atlantique.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Effet El Niño, le débit des chutes d’Iguazú a été multiplié par trois en moins de 48 heures : un phénomène exceptionnel",
-      "link": "https://armees.com/effet-el-nino-le-debit-des-chutes-diguazu-a-ete-multiplie-par-trois-en-moins-de-48-heures-un-phenomene-exceptionnel/",
-      "pubDate": "2026-10-14T05:05:41.000Z",
-      "description": "12 000 m³/s en quarante-huit heures : le río Iguazú est devenu méconnaissable, forçant la fermeture côté argentin. Pendant ce temps, le Brésil observe le spectacle. Une crue spectaculaire, loin pourtant du record de 2014.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Hydrocarbures russes : l’Europe finance la machine de guerre du Kremlin",
-      "link": "https://armees.com/hydrocarbures-poutine-ue-russie-union-guerre-finance/",
-      "pubDate": "2026-10-14T04:28:40.000Z",
-      "description": "La Russie affirme avoir vendu pour 320 milliards de dollars d'hydrocarbures à l'Union européenne depuis 2022, malgré les sanctions.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’armée de l’Air & de l’Espace se prépare à une possible attaque chimique menée par des drones",
       "link": "https://www.opex360.com/2026/10/13/larmee-de-lair-de-lespace-se-prepare-a-une-possible-attaque-chimique-menee-par-des-drones/",
       "pubDate": "2026-10-13T17:30:50.000Z",
@@ -162,27 +183,6 @@
       "pubDate": "2026-10-13T14:06:26.000Z",
       "description": "En janvier, le ministère des Armées fit savoir que la Direction générale de l’armement [DGA] venait de remettre au Service interarmées des munitions [SIMu] les premiers exemplaires des 460 munitions téléopérées [MTO] MX-10 DAMOCLES qu’il avait commandées en 2024 auprès de KNDS France et de Delair. Développée dans le cadre du projet Colibri, lancé par...\nCet article Le ministère des Armées a commandé un nouveau lot de munitions téléopérées DAMOCLES auprès de KNDS est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "L’UE adopte 1 600 nouvelles sanctions contre la Russie",
-      "link": "https://armees.com/russie-l-union-europeenne-nouvelles-sanctions/",
-      "pubDate": "2026-10-13T12:27:50.000Z",
-      "description": "L'Union européenne a adopté lundi 12 octobre 2026 un paquet record de près de 1 600 nouvelles sanctions contre la Russie, ciblant spécifiquement le complexe militaro-industriel et la production de missiles balistiques. Malgré cette offensive, Moscou affirme avoir vendu pour 320 milliards de dollars d'hydrocarbures aux Européens depuis 2022, révélant les failles persistantes du régime de sanctions.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ce que l’archevêque militaire vient d’interdire aux soldats catholiques",
-      "link": "https://armees.com/exemption-religieuse-armee-americaine-execution-hasan-2026/",
-      "pubDate": "2026-10-13T11:35:00.000Z",
-      "description": "L'archevêque Timothy Broglio ordonne aux soldats catholiques de demander une exemption religieuse pour ne pas participer au peloton d'exécution de Nidal Hasan le 3 décembre. Cette directive inédite confronte le Pentagone à un dilemme institutionnel : respecter la liberté de conscience ou maintenir la discipline militaire pour la première exécution par peloton depuis 1945.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "TEKEVER s’installe à Munich après une levée de 580 millions de dollars",
-      "link": "https://armees.com/munich-580-allemagne-autriche-suisse-tekever-levee-millions-dollars/",
-      "pubDate": "2026-10-13T11:04:23.000Z",
-      "description": "Le fabricant portugais de drones autonomes TEKEVER ouvre une filiale à Munich, siège pour l'Allemagne, l'Autriche et la Suisse. L'annonce intervient après une levée de fonds de 580 millions de dollars valorisant l'entreprise à 6,4 milliards, et la livraison d'un premier système à la Bundeswehr. L'entreprise poursuit son maillage territorial européen dans un contexte de réarmement accéléré.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "«Flotte fantôme» russe : La Marine nationale a arraisonné le pétrolier DF Peak à 450 nautiques de La Réunion",
