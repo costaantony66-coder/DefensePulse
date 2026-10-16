@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:11:47.308Z",
+  "generatedAt": "2026-10-16T09:03:42.984Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Cybersécurité : le SGDSN victime d’une attaque informatique",
+      "link": "https://armees.com/cybersecurite-le-sgdsn-victime-dune-attaque-informatique/",
+      "pubDate": "2026-10-16T07:24:31.000Z",
+      "description": "Le SGDSN a subi une attaque DDoS le 13 octobre 2026. Son site a été inaccessible plus de quatre heures, sans intrusion ni fuite de données constatée.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Israël restitue des artefacts grecs dérobés, Athènes renforce sa campagne pour les Marbres d’Elgin",
+      "link": "https://armees.com/israel-restitue-des-artefacts-grecs-derobes-athenes-renforce-sa-campagne-pour-les-marbres-delgin/",
+      "pubDate": "2026-10-16T06:05:51.000Z",
+      "description": "22 trésors antiques, 2500 ans d'histoire, saisis puis rendus par Israël à la Grèce. Un geste inédit qui relance la bataille pour les marbres du Parthénon, toujours retenus à Londres.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "40 navires, 260 aéronefs et 57 000 soldats : les États-Unis et le Japon activent leurs forces dans le Pacifique après le déploiement du porte-avions chinois Liaoning",
+      "link": "https://armees.com/40-navires-260-aeronefs-et-57-000-soldats-les-etats-unis-et-le-japon-activent-leurs-forces-dans-le-pacifique-apres-le-deploiement-du-porte-avions-chinois-liaoning/",
+      "pubDate": "2026-10-16T05:35:18.000Z",
+      "description": "Pendant que le Liaoning et son escorte filent vers le Pacifique, 57 000 militaires américains et japonais s'apprêtent à manœuvrer juste à côté de Taïwan. Coïncidence de calendrier ou message adressé à Pékin ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Égypte : Un citoyen remarque une pierre gravée, des fouilles mettent au jour deux statues royales dont une de Ramsès II",
+      "link": "https://armees.com/egypte-un-citoyen-remarque-une-pierre-gravee-des-fouilles-mettent-au-jour-deux-statues-royales-dont-une-de-ramses-ii/",
+      "pubDate": "2026-10-16T05:05:08.000Z",
+      "description": "Un simple bloc de pierre devant une maison, et voilà un village égyptien propulsé au cœur d'une découverte archéologique majeure. Têtes royales, hiéroglyphes mystérieux : que révèlent vraiment ces statues sur Ramsès II ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "AdFection : quand l’écosystème publicitaire devient vecteur d’espionnage israélien",
+      "link": "https://armees.com/espionnage-citizen-lab-discover-tech-jazeera-2024-ecosysteme-publicitaire/",
+      "pubDate": "2026-10-16T04:36:59.000Z",
+      "description": "Des chercheurs du Citizen Lab révèlent la première campagne d'espionnage documentée exploitant les publicités en ligne pour déployer des spywares sans interaction des victimes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Yémen : attaque au missile contre le palais présidentiel, 5 morts",
+      "link": "https://armees.com/missiles-balistiques-houthis-defenses-aeriennes-aden-2026/",
+      "pubDate": "2026-10-16T03:39:53.000Z",
+      "description": "Le 15 octobre 2026, cinq missiles balistiques Houthis ont frappé le palais présidentiel Al-Maashiq à Aden sans aucune interception, tuant cinq personnes.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Deluge en mer et Rampart bientôt de retour à terre",
       "link": "https://forcesoperations.com/deluge-en-mer-et-rampart-bientot-de-retour-a-terre/",
@@ -150,53 +192,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Eramet : 500 M€ pour échapper à la dépendance chinoise en métaux",
-      "link": "https://armees.com/eramet-defense-autonomie-strategique-matieres/",
-      "pubDate": "2026-10-14T13:01:00.000Z",
-      "description": "L'État français injecte 500 millions d'euros dans Eramet pour devenir son premier actionnaire, dépassant la famille Duval après 27 ans de contrôle. Cette opération de sauvetage vise à sécuriser l'accès français aux métaux critiques (manganèse, nickel, lithium) essentiels à l'industrie de défense, dans un contexte de dépendance croissante envers la Chine et de tensions géopolitiques. Au-delà du redressement financier d'un groupe endetté, Paris déploie une stratégie de souveraineté industrielle et militaire.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Turquie : opération éclair de la police contre Halk TV",
-      "link": "https://armees.com/turquie-operation-police-turque-halk-tv/",
-      "pubDate": "2026-10-14T12:23:04.000Z",
-      "description": "Le 14 octobre 2026 à 05h30, la police turque a mené une opération coordonnée contre Halk TV, principale chaîne d'opposition. En six heures, 11 interpellations, saisie des équipements de diffusion et nomination d'un administrateur public ont neutralisé la capacité opérationnelle du média. Analyse tactique d'une intervention qui illustre l'évolution de la doctrine turque de maintien de l'ordre.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La France et le Tchad signent une lettre d’intention pour rétablir leur coopération en matière de défense",
       "link": "https://www.opex360.com/2026/10/14/la-france-et-le-tchad-signent-une-lettre-dintention-pour-retablir-leur-cooperation-en-matiere-de-defense/",
       "pubDate": "2026-10-14T10:33:10.000Z",
       "description": "Quand il était chef d’état-major des armées [CEMA], après la rupture consommée avec le Mali, le Burkina Faso, le Niger et la République centrafricaine sur fond de lutte informationnelle orchestrée, sans efficacité, par la Russie, le général Thierry Burkhard plaidait pour une réduction sensible de la présence militaire française en Afrique tout en promouvant un...\nCet article La France et le Tchad signent une lettre d’intention pour rétablir leur coopération en matière de défense est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Attaques houthies : les défenses saoudiennes sous pression",
-      "link": "https://armees.com/attaques-houthies-capacites-militaires-defenses/",
-      "pubDate": "2026-10-14T08:44:41.000Z",
-      "description": "Les attaques houthies des 11 et 13 octobre 2026 contre Riyadh et Aramco révèlent une montée en puissance militaire préoccupante. Face à des salves coordonnées de missiles et drones, les défenses saoudiennes affichent des failles croissantes, malgré des interceptions partielles. Cette escalade sans précédent depuis 2015 transforme le conflit yéménite en guerre d'usure aux répercussions régionales et économiques majeures.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre en Ukraine : la vulnérabilité révélée par deux frappes russes et la dépendance aux satellites américains",
-      "link": "https://armees.com/detection-missiles-ukraine-systemes-defense-2026/",
-      "pubDate": "2026-10-14T07:55:28.000Z",
-      "description": "Les 13 et 14 octobre, Kiev subit deux frappes russes consécutives sans alerte préalable, révélant la dépendance critique de l'Ukraine aux renseignements satellitaires américains. Les systèmes de détection ukrainiens n'ont repéré les missiles qu'à proximité immédiate de la capitale, trop tard pour activer les défenses anti-aériennes. La guerre en Ukraine expose ainsi une vulnérabilité stratégique majeure : sans le flux de données satellitaires US, l'armée ukrainienne combat à l'aveugle face aux balistiques russes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Du Rafale F5 aux drones : l’Armée de l’Air prépare une nouvelle génération de combat aérien",
-      "link": "https://armees.com/du-rafale-f5-aux-drones-larmee-de-lair-prepare-une-nouvelle-generation-de-combat-aerien/",
-      "pubDate": "2026-10-14T06:40:17.000Z",
-      "description": "Rafale F5, drones de combat, ballons stratosphériques : l’Armée de l’Air accélère sa modernisation face aux nouvelles menaces et prépare le combat aérien de demain.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Peut-on opposer budget de l’Education et budget de la Défense ?",
-      "link": "https://armees.com/peut-on-opposer-budget-de-leducation-et-budget-de-la-defense/",
-      "pubDate": "2026-10-14T06:27:14.000Z",
-      "description": "Alors que les lycéens dénoncent la hausse du budget de la Défense face aux besoins de l’éducation, les chiffres montrent une réalité budgétaire et économique plus complexe.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "L’armée de l’Air & de l’Espace se prépare à une possible attaque chimique menée par des drones",
