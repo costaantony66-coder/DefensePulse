@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T09:03:42.984Z",
+  "generatedAt": "2026-10-16T13:59:44.114Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "title": "CMA CGM, Bab Al-Mandab : la facture stratégique que personne ne calcule",
+      "link": "https://armees.com/bab-mandab-cma-cgm-strategique-facture-personne-calcule/",
+      "pubDate": "2026-10-16T11:00:08.000Z",
+      "description": "Une frégate française abat un drone au-dessus de la mer Rouge pour protéger un porte-conteneurs de CMA CGM. Beau geste. Mais qui paie ? Et surtout, jusqu’où la marine nationale ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’abattement des retraités : un symbole qui coûte des chars",
+      "link": "https://armees.com/abattement-retraites-symbole-coute-chars/",
+      "pubDate": "2026-10-16T10:35:03.000Z",
+      "description": "Pendant que la France débat avec passion de l’abattement fiscal des retraités, ses alliés européens financent leur réarmement. Ce n’est pas une guerre des générations. C’est une guerre des priorités. ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Mer rouge : Une frégate française a abattu un drone jugé menaçant pour le porte-conteneurs Champs-Élysées",
+      "link": "https://www.opex360.com/2026/10/16/mer-rouge-une-fregate-francaise-a-abattu-un-drone-juge-menacant-pour-le-porte-conteneurs-champs-elysees/",
+      "pubDate": "2026-10-16T10:33:17.000Z",
+      "description": "Le 18 avril 2025, l’État-major des armées [EMA] diffusa une vidéo montrant une frégate multimissions [FREMM] faire usage de son canon de 76 mm pour abattre un drone aérien lancé depuis le Yémen par les rebelles houthistes contre le trafic maritime en mer Rouge. Depuis, plus aucun incident de cette nature n’a été signalé. Officiellement,...\nCet article Mer rouge : Une frégate française a abattu un drone jugé menaçant pour le porte-conteneurs Champs-Élysées est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Ukraine : Kiev bombarde un aérodrome russe, six bombardiers SU-34 touchés avec un missile de croisière Long Neptune",
+      "link": "https://armees.com/ukraine-missiles-neptune-su34-frappe-borissoglebsk/",
+      "pubDate": "2026-10-16T07:27:31.000Z",
+      "description": "Dans la nuit du 14 au 15 octobre 2026, l'Ukraine a frappé l'aérodrome militaire de Borissoglebsk avec des missiles Neptune, détruisant ou endommageant six bombardiers Su-34M. L'opération illustre la montée en puissance des capacités de frappe en profondeur de Kiev et inflige un revers matériel et opérationnel significatif aux forces aériennes russes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Entre la France et le Tchad, une réconciliation sur fond de coopération militaire ?",
+      "link": "https://armees.com/entre-la-france-et-le-tchad-une-reconciliation-sur-fond-de-cooperation-militaire/",
+      "pubDate": "2026-10-16T07:27:13.000Z",
+      "description": "Le Tchad et la France relancent leur coopération de Défense autour de la formation, des technologies et du renforcement capacitaire.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Cybersécurité : le SGDSN victime d’une attaque informatique",
       "link": "https://armees.com/cybersecurite-le-sgdsn-victime-dune-attaque-informatique/",
@@ -143,27 +178,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Détroit d’Ormuz : deux navires coulés en un mois par l’Iran",
-      "link": "https://armees.com/tactiques-iran-ormuz-guerre-asymetrique-2026/",
-      "pubDate": "2026-10-15T05:27:49.000Z",
-      "description": "L'UKMTO a recensé plus de 20 navires attaqués en octobre 2026 dans le détroit d'Ormuz, révélant une mutation tactique de l'IRGC.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "« On a cru que le moteur allait lâcher » : le Japon réussit son premier test de fusée réutilisable et bouscule la course spatiale",
-      "link": "https://armees.com/on-a-cru-que-le-moteur-allait-lacher-le-japon-reussit-son-premier-test-de-fusee-reutilisable-et-bouscule-la-course-spatiale/",
-      "pubDate": "2026-10-15T05:05:08.000Z",
-      "description": "Onze mètres, seize mètres, quarante secondes de vol : voilà le résultat de dix ans d'attente pour le Japon. Face à SpaceX, Tokyo relance enfin la course aux fusées réutilisables.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : Starlink bloqué à 160 km/h, les drones désactivés en masse",
-      "link": "https://armees.com/starshield-restrictions-ukraine-defense-aerienne-drones/",
-      "pubDate": "2026-10-15T03:55:46.000Z",
-      "description": "Dans la nuit du 13 au 14 octobre 2026, SpaceX a imposé des limitations de vitesse sur les terminaux Starshield militaires en Ukraine, désactivant les appareils circulant au-delà de 100-160 km/h.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Armement terrestre : Berlin envisage d’acquérir 50 % du groupe franco-allemand KNDS",
       "link": "https://www.opex360.com/2026/10/14/armement-terrestre-berlin-envisage-dacquerir-50-du-groupe-franco-allemand-knds/",
       "pubDate": "2026-10-14T17:35:10.000Z",
@@ -185,13 +199,6 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Souveraineté : 87% des Français voient l’info comme un champ de bataille",
-      "link": "https://armees.com/souverainete-pourcent-ipsos-entreprises-medias-francais-bataille-voient/",
-      "pubDate": "2026-10-14T13:23:30.000Z",
-      "description": "Une étude Ipsos BVA pour Entreprises et Médias révèle que près de neuf Français sur dix jugent la souveraineté nationale essentielle, mais 76% la jugent insuffisante. L'information et le numérique apparaissent désormais comme les nouveaux fronts stratégiques, au même titre que l'industrie ou l'énergie. Les entreprises sont appelées à jouer un rôle actif dans cette bataille informationnelle.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La France et le Tchad signent une lettre d’intention pour rétablir leur coopération en matière de défense",
       "link": "https://www.opex360.com/2026/10/14/la-france-et-le-tchad-signent-une-lettre-dintention-pour-retablir-leur-cooperation-en-matiere-de-defense/",
       "pubDate": "2026-10-14T10:33:10.000Z",
@@ -203,13 +210,6 @@
       "link": "https://www.opex360.com/2026/10/13/larmee-de-lair-de-lespace-se-prepare-a-une-possible-attaque-chimique-menee-par-des-drones/",
       "pubDate": "2026-10-13T17:30:50.000Z",
       "description": "Les forces aérospatiales russes ont-elles imaginé que, un jour, cinq de leurs bases abritant des bombardiers stratégiques se feraient attaquer presque simultanément par des essaims de drones FPV [à pilotage immersif], mis en œuvre à des centaines de kilomètres de distance ? C’est pourtant ce qui est arrivé le 1er juin 2025, lors de l’opération...\nCet article L’armée de l’Air & de l’Espace se prépare à une possible attaque chimique menée par des drones est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Le français Drone Volt présente le nouveau drone logistique Hercules 100, capable de transporter une charge de 100 kg",
-      "link": "https://www.opex360.com/2026/10/13/le-francais-drone-volt-presente-le-nouveau-drone-logistique-hercules-100-capable-de-transporter-une-charge-de-100-kg/",
-      "pubDate": "2026-10-13T16:35:41.000Z",
-      "description": "Au sein d’un groupe aéronaval, environ 90 % des liaisons d’un navire à un autre effectuées par hélicoptère concernent des colis de moins de 25 kg. D’où l’intérêt d’utiliser un drone logistique pour assurer de telles missions. En janvier 2023, lors de la mission ANTARÈS, le Centre d’expérimentations pratiques et de réception de l’aéronautique navale...\nCet article Le français Drone Volt présente le nouveau drone logistique Hercules 100, capable de transporter une charge de 100 kg est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
