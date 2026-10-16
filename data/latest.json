@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T13:59:44.114Z",
+  "generatedAt": "2026-10-16T17:54:45.632Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "title": "Le nouveau sous-marin nucléaire d’attaque Rubis rejoint le dispositif de mise à l’eau en vue de son lancement",
+      "link": "https://www.opex360.com/2026/10/16/le-nouveau-sous-marin-nucleaire-dattaque-rubis-rejoint-le-dispositif-de-mise-a-leau-en-vue-de-son-lancement/",
+      "pubDate": "2026-10-16T17:37:36.000Z",
+      "description": "Le 14 juin dernier, quatre mois à peine après avoir effectué ses premiers essais à la mer sous la supervision de la Direction générale de l’armement [DGA] et de la Division des applications militaires du Commissariat à l’énergie atomique et aux énergies alternatives [DAM/CEA], le sous-marin nucléaire d’attaque De Grasse, quatrième unité de classe Barracuda...\nCet article Le nouveau sous-marin nucléaire d’attaque Rubis rejoint le dispositif de mise à l’eau en vue de son lancement est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "En attendant le Thundart, le 1er Régiment d’Artillerie va créer une batterie dotée de munitions téléopérées à longue portée",
+      "link": "https://www.opex360.com/2026/10/16/en-attendant-le-thundart-le-1er-regiment-dartillerie-va-creer-une-batterie-dotee-de-munitions-teleoperees-a-longue-portee/",
+      "pubDate": "2026-10-16T16:38:21.000Z",
+      "description": "Quand il était chef d’état-major de l’armée de Terre [CEMAT], le général Pierre Schill n’a cessé de réclamer le remplacement des Lance-roquettes unitaires [LRU] afin de faire en sorte qu’une «division bonne de guerre» puisse toujours disposer, à l’horizon 2027, d’une capacité de frappe dans la profondeur. D’où le programme FLP-T [Frappe Longue Portée /...\nCet article En attendant le Thundart, le 1er Régiment d’Artillerie va créer une batterie dotée de munitions téléopérées à longue portée est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Zelensky seul contre tous : l’Europe doit enfin payer",
+      "link": "https://armees.com/zelensky-europe-seul-doit-enfin-payer/",
+      "pubDate": "2026-10-16T16:16:35.000Z",
+      "description": "Zelensky résiste à Trump, tient tête à Poutine, et rappelle à l’Europe qu’elle ne peut plus se payer le luxe de la naïveté géopolitique. Mais pendant que le président ukrainien ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Faute de Patroller, le 61e Régiment d’Artillerie sera doté de drones Tekever AR3",
+      "link": "https://www.opex360.com/2026/10/16/faute-de-patroller-le-61e-regiment-dartillerie-sera-dote-de-drones-tekever-ar3/",
+      "pubDate": "2026-10-16T15:32:48.000Z",
+      "description": "L’actualisation de la Loi de programmation militaire [LPM] 2024-30 a confirmé l’abandon du drone tactique Patroller, qui avait été commandé à Safran en 2016, dans le cadre du programme SDT, afin de remplacer les appareils de type Sperwer alors mis en œuvre au sein du 61e Régiment d’Artillerie [RA]. Reposant sur le motoplaneur Stemme S15,...\nCet article Faute de Patroller, le 61e Régiment d’Artillerie sera doté de drones Tekever AR3 est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "A Verdun, avec les premiers appelés du service national, nouveaux ambassadeurs de l’« esprit de défense »",
+      "link": "https://www.lemonde.fr/societe/article/2026/10/16/a-verdun-avec-les-premiers-appeles-du-service-national-nouveaux-ambassadeurs-de-l-esprit-de-defense_6795571_3224.html",
+      "pubDate": "2026-10-16T15:31:16.000Z",
+      "description": "Ce nouveau dispositif, à ne pas confondre avec le service national universel, désormais enterré, devrait concerner jusqu’à 10 000 personnes d’ici à 2030 et coûte 2,3 milliards d’euros rien que pour cette première année de service. Une partie de ces volontaires ira renforcer la réserve opérationnelle de l’armée.",
+      "sourceKey": "geo"
+    },
     {
       "title": "CMA CGM, Bab Al-Mandab : la facture stratégique que personne ne calcule",
       "link": "https://armees.com/bab-mandab-cma-cgm-strategique-facture-personne-calcule/",
@@ -171,13 +206,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "« On n’avait jamais vu ça » : des archéologues déterrent en Égypte un sceau portant une image du phare d’Alexandrie que personne n’attendait",
-      "link": "https://armees.com/on-navait-jamais-vu-ca-des-archeologues-deterrent-en-egypte-un-sceau-portant-une-image-du-phare-dalexandrie-que-personne-nattendait/",
-      "pubDate": "2026-10-15T05:35:19.000Z",
-      "description": "Une bague vieille de 1800 ans, gravée du phare d'Alexandrie, remonte des eaux égyptiennes. Un objet unique au monde qui révèle un secret insoupçonné sur le destin du monument englouti.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Armement terrestre : Berlin envisage d’acquérir 50 % du groupe franco-allemand KNDS",
       "link": "https://www.opex360.com/2026/10/14/armement-terrestre-berlin-envisage-dacquerir-50-du-groupe-franco-allemand-knds/",
       "pubDate": "2026-10-14T17:35:10.000Z",
@@ -189,27 +217,6 @@
       "link": "https://www.opex360.com/2026/10/14/israel-confirme-la-commande-de-douze-helicopteres-dattaque-ah-64e-apache-guardian-aupres-de-boeing/",
       "pubDate": "2026-10-14T16:50:56.000Z",
       "description": "Chaque conflit a des caractéristiques qui lui sont propres. Aussi, ceux qui, à la lumière des retours d’expérience [RETEX] de la guerre en Ukraine, ont prophétisé la fin de l’hélicoptère d’attaque et de reconnaissance à cause de la généralisation des drones sont sans doute allés un peu trop vite en besogne. Sur d’autres théâtres d’opérations,...\nCet article Israël confirme la commande de douze hélicoptères d’attaque AH-64E Apache/Guardian auprès de Boeing est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "L’amiral Cluzel ne voit pas de problème avec les catapultes électromagnétiques américaines du futur porte-avions",
-      "link": "https://www.opex360.com/2026/10/14/lamiral-cluzel-ne-voit-pas-de-probleme-avec-les-catapultes-electromagnetiques-americaines-du-futur-porte-avions/",
-      "pubDate": "2026-10-14T15:11:10.000Z",
-      "description": "En novembre 2025, le chef d’état-major des armées [CEMA], le général Fabien Mandon, avait dit vouloir mener une réflexion sur la permanence aéronavale car un «outil de combat qui est disponible 65 % du temps n’est pas l’idéal». Visiblement, le débat a temporairement été mis sous le boisseau, l’actualisation de la Loi de programmation militaire...\nCet article L’amiral Cluzel ne voit pas de problème avec les catapultes électromagnétiques américaines du futur porte-avions est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "La France et le Tchad signent une lettre d’intention pour rétablir leur coopération en matière de défense",
-      "link": "https://www.opex360.com/2026/10/14/la-france-et-le-tchad-signent-une-lettre-dintention-pour-retablir-leur-cooperation-en-matiere-de-defense/",
-      "pubDate": "2026-10-14T10:33:10.000Z",
-      "description": "Quand il était chef d’état-major des armées [CEMA], après la rupture consommée avec le Mali, le Burkina Faso, le Niger et la République centrafricaine sur fond de lutte informationnelle orchestrée, sans efficacité, par la Russie, le général Thierry Burkhard plaidait pour une réduction sensible de la présence militaire française en Afrique tout en promouvant un...\nCet article La France et le Tchad signent une lettre d’intention pour rétablir leur coopération en matière de défense est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "L’armée de l’Air & de l’Espace se prépare à une possible attaque chimique menée par des drones",
-      "link": "https://www.opex360.com/2026/10/13/larmee-de-lair-de-lespace-se-prepare-a-une-possible-attaque-chimique-menee-par-des-drones/",
-      "pubDate": "2026-10-13T17:30:50.000Z",
-      "description": "Les forces aérospatiales russes ont-elles imaginé que, un jour, cinq de leurs bases abritant des bombardiers stratégiques se feraient attaquer presque simultanément par des essaims de drones FPV [à pilotage immersif], mis en œuvre à des centaines de kilomètres de distance ? C’est pourtant ce qui est arrivé le 1er juin 2025, lors de l’opération...\nCet article L’armée de l’Air & de l’Espace se prépare à une possible attaque chimique menée par des drones est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/economie/article/2026/09/26/ia-la-mise-a-l-ecart-d-anthropic-par-le-pentagone-confirmee-par-la-justice_6782773_3234.html",
       "pubDate": "2026-09-25T23:26:34.000Z",
       "description": "La cour d’appel de Washington a jugé conforme, vendredi, la mise à l’index de la start-up d’intelligence artificielle qui avait refusé, en février, de laisser l’armée américaine utiliser sans restriction son modèle, Claude.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Le RN et LFI opposés à l’envoi de militaires français en Arabie saoudite, annoncé par Emmanuel Macron",
-      "link": "https://www.lemonde.fr/politique/article/2026/09/25/le-rn-et-lfi-opposes-a-l-envoi-de-militaires-francais-annonce-par-emmanuel-macron-pour-proteger-le-port-petrolier-saoudien-de-yanbou_6782352_823448.html",
-      "pubDate": "2026-09-25T09:32:43.000Z",
-      "description": "Le chef de l’Etat a annoncé, jeudi soir, l’envoi de « moyens militaires, c’est-à-dire des soldats, des radars, des systèmes de défense », pour protéger le site de Yanbou, principal terminal saoudien d’exportation de brut sur la mer Rouge qui est la cible des houthistes du Yémen.",
       "sourceKey": "geo"
     }
   ]
