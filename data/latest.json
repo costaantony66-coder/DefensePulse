@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T05:37:48.287Z",
+  "generatedAt": "2026-10-17T09:39:42.301Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Kiev vient de frapper six SU-34 au sol avec un seul missile Neptune : les pilotes russes n’ont rien vu venir, selon l’état-major ukrainien",
+      "link": "https://armees.com/kiev-vient-de-frapper-six-su-34-au-sol-avec-un-seul-missile-neptune-les-pilotes-russes-nont-rien-vu-venir-selon-letat-major-ukrainien/",
+      "pubDate": "2026-10-17T06:05:10.000Z",
+      "description": "Quatre Su-34 détruits, deux autres touchés : un missile ukrainien suffit à humilier une base aérienne russe. Un blogueur militaire russe avoue même l'ampleur de la faille. Que s'est-il vraiment passé cette nuit-là ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Exclusif : selon des sources, les États-Unis envisagent d’employer la « mère de toutes les bombes » contre l’Iran",
+      "link": "https://armees.com/exclusif-selon-des-sources-les-etats-unis-envisagent-demployer-la-mere-de-toutes-les-bombes-contre-liran/",
+      "pubDate": "2026-10-17T05:35:14.000Z",
+      "description": "La « mère de toutes les bombes » contre l'Iran : une arme jugée inefficace contre les sites enfouis, mais choisie pour son effet psychologique. Pourquoi l'armée américaine doute-t-elle de sa propre stratégie ?",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Au cœur des tensions avec l’Argentine autour des Malouines, le seul patrouilleur polaire de la Royal Navy britannique a été remorqué au port",
       "link": "https://armees.com/au-coeur-des-tensions-avec-largentine-autour-des-malouines-le-seul-patrouilleur-polaire-de-la-royal-navy-britannique-a-ete-remorque-au-port/",
@@ -189,20 +203,6 @@
       "link": "https://armees.com/emals-catapultes-fiabilite-marine-francaise-porte-avions/",
       "pubDate": "2026-10-15T07:41:12.000Z",
       "description": "L'amiral Christophe Cluzel affirme que le contrat français pour les catapultes EMALS du porte-avions France Libre n'est pas menacé malgré la décision de Donald Trump de revenir à la vapeur. Avec 98% de disponibilité et 40 000 lancements réussis, la Marine française maintient sa confiance dans la technologie électromagnétique américaine.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Industrie de l’armement : Berlin lorgne désormais sur 50% de KNDS",
-      "link": "https://armees.com/industrie-de-larmement-berlin-lorgne-desormais-sur-50-de-knds/",
-      "pubDate": "2026-10-15T07:00:44.000Z",
-      "description": "L’Allemagne envisage de racheter les 50 % de KNDS détenus par les familles allemandes. Une opération stratégique qui pourrait transformer durablement la gouvernance du groupe franco-allemand de Défense terrestre.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Fin juin 2026, les cinq sous-marins nucléaires d’attaque britanniques étaient simultanément amarrés",
-      "link": "https://armees.com/fin-juin-2026-les-cinq-sous-marins-nucleaires-dattaque-britanniques-etaient-simultanement-amarres/",
-      "pubDate": "2026-10-15T06:05:56.000Z",
-      "description": "Cinq sous-marins nucléaires, zéro en mer. La Royal Navy a-t-elle perdu sa capacité de frappe sous-marine ? Pénurie de bassins, de pièces, d'ingénieurs... l'enquête révèle une flotte à bout de souffle.",
       "sourceKey": "armees_com"
     },
     {
