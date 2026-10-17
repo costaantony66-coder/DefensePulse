@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T01:11:22.039Z",
+  "generatedAt": "2026-10-17T05:37:48.287Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Au cœur des tensions avec l’Argentine autour des Malouines, le seul patrouilleur polaire de la Royal Navy britannique a été remorqué au port",
+      "link": "https://armees.com/au-coeur-des-tensions-avec-largentine-autour-des-malouines-le-seul-patrouilleur-polaire-de-la-royal-navy-britannique-a-ete-remorque-au-port/",
+      "pubDate": "2026-10-17T05:05:10.000Z",
+      "description": "Plus aucun navire britannique ne surveille l'Atlantique Sud. En pleine tension avec l'Argentine sur les Malouines, le seul brise-glace de la Royal Navy tombe en panne. Jusqu'en 2030 sans remplaçant ?",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Le nouveau sous-marin nucléaire d’attaque Rubis rejoint le dispositif de mise à l’eau en vue de son lancement",
       "link": "https://www.opex360.com/2026/10/16/le-nouveau-sous-marin-nucleaire-dattaque-rubis-rejoint-le-dispositif-de-mise-a-leau-en-vue-de-son-lancement/",
@@ -54,7 +61,7 @@
     {
       "title": "A Verdun, avec les premiers appelés du service national, nouveaux ambassadeurs de l’« esprit de défense »",
       "link": "https://www.lemonde.fr/societe/article/2026/10/16/a-verdun-avec-les-premiers-appeles-du-service-national-nouveaux-ambassadeurs-de-l-esprit-de-defense_6795571_3224.html",
-      "pubDate": "2026-10-16T15:31:16.000Z",
+      "pubDate": "2026-10-16T15:31:14.000Z",
       "description": "Ce nouveau dispositif, à ne pas confondre avec le service national universel, désormais enterré, devrait concerner jusqu’à 10 000 personnes d’ici à 2030 et coûte 2,3 milliards d’euros rien que pour cette première année de service. Une partie de ces volontaires ira renforcer la réserve opérationnelle de l’armée.",
       "sourceKey": "geo"
     },
@@ -196,13 +203,6 @@
       "link": "https://armees.com/fin-juin-2026-les-cinq-sous-marins-nucleaires-dattaque-britanniques-etaient-simultanement-amarres/",
       "pubDate": "2026-10-15T06:05:56.000Z",
       "description": "Cinq sous-marins nucléaires, zéro en mer. La Royal Navy a-t-elle perdu sa capacité de frappe sous-marine ? Pénurie de bassins, de pièces, d'ingénieurs... l'enquête révèle une flotte à bout de souffle.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Chat Control : Palantir surveille vos conversations à votre insu",
-      "link": "https://armees.com/palantir-surveillance-renseignement-americain-europe-2026/",
-      "pubDate": "2026-10-15T05:49:00.000Z",
-      "description": "Depuis 2021, les messages privés des citoyens européens scannés sous la loi Chat Control sont analysés par Palantir Foundry, logiciel d'une entreprise de renseignement américaine fondée avec le soutien de la CIA. Une investigation révèle que cette collaboration avec le NCMEC est restée totalement opaque pour les législateurs européens, exposant une brèche majeure dans la souveraineté informationnelle de l'UE.",
       "sourceKey": "armees_com"
     },
     {
