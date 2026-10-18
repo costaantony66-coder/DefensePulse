@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T01:06:44.893Z",
+  "generatedAt": "2026-10-18T05:57:58.813Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "L’Ukraine utilise un drone maritime pour attaquer un navire russe lors d’une spectaculaire opération en mer Noire",
+      "link": "https://armees.com/lukraine-utilise-un-drone-maritime-pour-attaquer-un-navire-russe-lors-dune-spectaculaire-operation-en-mer-noire/",
+      "pubDate": "2026-10-18T05:05:05.000Z",
+      "description": "Sept cargos frappés, deux morts, 25 disparus en pleine mer Noire. La Roumanie et la Bulgarie dans la ligne de mire : l'OTAN va-t-elle enfin réagir face à ces attaques qui s'enchaînent ?",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Avec VULTRA, l’armée de l’Air & de l’Espace va faciliter les liaisons entre un aéronef et des drones",
       "link": "https://www.opex360.com/2026/10/17/avec-vultra-larmee-de-lair-de-lespace-va-faciliter-les-liaisons-entre-un-aeronef-et-des-drones/",
@@ -210,13 +217,6 @@
       "link": "https://armees.com/defense-france-penurie-ingenieurs-securite/",
       "pubDate": "2026-10-15T08:49:06.000Z",
       "description": "L'Observatoire IESF alerte sur un risque majeur pour la défense française : 236 599 ingénieurs, soit 23% de la profession, partiront à la retraite d'ici 2040. Seuls 50 045 diplômés sortent chaque année, tandis que l'industrie n'attire plus que 30% des jeunes talents. Télécommunications militaires, cybersécurité, armement : les secteurs stratégiques font face à une hémorragie de compétences critiques sans transmission organisée.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Marine française : confiance maintenue dans les catapultes EMALS",
-      "link": "https://armees.com/emals-catapultes-fiabilite-marine-francaise-porte-avions/",
-      "pubDate": "2026-10-15T07:41:12.000Z",
-      "description": "L'amiral Christophe Cluzel affirme que le contrat français pour les catapultes EMALS du porte-avions France Libre n'est pas menacé malgré la décision de Donald Trump de revenir à la vapeur. Avec 98% de disponibilité et 40 000 lancements réussis, la Marine française maintient sa confiance dans la technologie électromagnétique américaine.",
       "sourceKey": "armees_com"
     },
     {
