@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T02:45:54.643Z",
+  "generatedAt": "2026-10-19T08:21:45.979Z",
   "sources": [
     {
       "key": "opex",
@@ -24,6 +24,83 @@
   ],
   "items": [
     {
+      "title": "Starlink visé : la Lituanie déjoue une opération de guerre hybride russe",
+      "link": "https://armees.com/starlink-lituanie-sabotage-dejoue-2026/",
+      "pubDate": "2026-10-19T07:06:28.000Z",
+      "description": "Dans la nuit du 18 octobre 2026, les autorités lituaniennes ont déjoué une tentative d'incendie criminel contre une installation stockant du matériel Starlink.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Piratage FFTir : comment une fédération sportive devient cible stratégique",
+      "link": "https://armees.com/fftir-cyberattaque-risques-securite-civile-2026/",
+      "pubDate": "2026-10-19T06:39:47.000Z",
+      "description": "Le 17 octobre 2026, le pirate ChimeraZ revendique le vol de 586 854 fiches de licenciés de la Fédération Française de Tir, incluant 64 000 photographies d'identité et 19 000 certificats médicaux.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Missile hypersonique : pourquoi les États-Unis restent derrière la Chine et la Russie",
+      "link": "https://armees.com/missile-hypersonique-pourquoi-les-etats-unis-restent-derriere-la-chine-et-la-russie/",
+      "pubDate": "2026-10-19T06:13:34.000Z",
+      "description": "Le missile hypersonique Dark Eagle accumule les retards aux États-Unis, alors que la Chine et la Russie disposent déjà de systèmes déployés.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Golfe : Emmanuel Macron mise sur la Défense pour consolider l’influence française au Moyen Orient",
+      "link": "https://armees.com/golfe-emmanuel-macron-mise-sur-la-defense-pour-consolider-linfluence-francaise-au-moyen-orient/",
+      "pubDate": "2026-10-19T06:09:35.000Z",
+      "description": "Emmanuel Macron entame une tournée au Moyen Orient centrée sur la Défense, la sécurité du Golfe, l’énergie et les partenariats militaires français.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Le Reaper français franchit un cap avec une nouvelle capacité d’écoute électromagnétique",
+      "link": "https://armees.com/le-reaper-francais-franchit-un-cap-avec-une-nouvelle-capacite-decoute-electromagnetique/",
+      "pubDate": "2026-10-19T05:59:04.000Z",
+      "description": "Le Reaper de l’armée de l’Air et de l’Espace se prépare à exploiter une nacelle ROEM dédiée au renseignement électromagnétique et à l’interception des communications.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un objet métallique de 3,3 mètres a été retrouvé dans un champ de maïs du Minnesota",
+      "link": "https://armees.com/un-objet-metallique-de-33-metres-a-ete-retrouve-dans-un-champ-de-mais-du-minnesota/",
+      "pubDate": "2026-10-19T05:35:03.000Z",
+      "description": "Un disque métallique de 3,4 mètres tombé du ciel dans un champ du Minnesota : les autorités fédérales enquêtent, mais l'origine reste un mystère total. Fusée ? Satellite ? Personne n'a vu l'objet arriver.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Blé, blocus et budget : l’armée qu’on ne s’offre pas",
+      "link": "https://armees.com/ble-blocus-budget-armee-offre/",
+      "pubDate": "2026-10-19T05:24:31.000Z",
+      "description": "Le blé ukrainien flambait ce week-end sur les marchés mondiaux. Les missiles russes, eux, ne coûtent rien à Moscou — enfin, presque. Pendant ce temps, la France se félicite d’une ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Zelenskyy accepte une trêve de 100 jours sur les frappes des raffineries russes contre un accès élargi à Starlink",
+      "link": "https://armees.com/zelenskyy-accepte-une-treve-de-100-jours-sur-les-frappes-des-raffineries-russes-contre-un-acces-elargi-a-starlink/",
+      "pubDate": "2026-10-19T05:05:02.000Z",
+      "description": "Starlink contre silence des raffineries : Zelensky joue gros avec Trump, remonté comme jamais. Un deal à 300 kilomètres qui pourrait tout changer, ou tout faire capoter.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Poutine propose un sommet avec Trump et Xi sans l’Ukraine",
+      "link": "https://armees.com/starlink-restrictions-ukraine-equilibre-militaire-2026/",
+      "pubDate": "2026-10-19T04:47:28.000Z",
+      "description": "Vladimir Poutine a proposé à Donald Trump un sommet tripartite avec Xi Jinping pour négocier l'avenir de l'Ukraine sans Volodymyr Zelenskyy. Parallèlement, Washington limite l'accès ukrainien aux réseaux Starshield militarisés, paralysant les capacités défensives de Kyiv. Analyse d'une stratégie coordonnée visant à affaiblir militairement l'Ukraine avant de marginaliser diplomatiquement ses représentants.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Trump, Poutine, et l’Europe qui paye l’addition",
+      "link": "https://armees.com/trump-poutine-europe-adition-paye/",
+      "pubDate": "2026-10-19T03:34:22.000Z",
+      "description": "Donald Trump vient de geler les sanctions contre les importateurs d’hydrocarbures russes, offrant à Moscou un ballon d’oxygène inespéré pendant qu’elle pilonne les infrastructures énergétiques ukrainiennes. Ce signal envoyé à ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cyberguerre : la défense numérique, parent pauvre du budget",
+      "link": "https://armees.com/cyberguerre-numerique-defense-parent-pauvre-budget/",
+      "pubDate": "2026-10-19T03:11:27.000Z",
+      "description": "Dans la nuit du 11 au 12 octobre, des centaines de supermarchés français voyaient leurs congélateurs piratés, leurs stocks détruits en quelques heures. Un acte de guerre économique en pleine ...",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "L’artillerie française en ordre de marche pour tonner aujourd’hui et se projeter sur 2040",
       "link": "https://forcesoperations.com/lartillerie-francaise-en-ordre-de-marche-pour-tonner-aujourdhui-et-se-projeter-sur-2040/",
       "pubDate": "2026-10-18T13:00:00.000Z",
@@ -38,10 +115,10 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Canada : Un «incident grave» a fait plusieurs tués et de nombreux blessés sur la base militaire de Wainwright",
+      "title": "Canada : Un «incident grave» a fait plusieurs tués et de nombreux blessés sur la base militaire de Wainwright [MàJ]",
       "link": "https://www.opex360.com/2026/10/18/canada-un-incident-grave-a-fait-plusieurs-tues-et-de-nombreux-blesses-sur-la-base-militaire-de-wainwright/",
       "pubDate": "2026-10-18T10:03:10.000Z",
-      "description": "Le 17 octobre, vers 16 heures [heure locale], un incendie s’est déclaré dans le périmètre de la base militaire de Wainwright qui, située dans la province de l’Alberta, est l’une des plus fréquentée du Canada étant donné qu’elle abrite, entre autres, le Centre canadien d’entraînement aux manœuvres [CCEM], dont la mission est d’assurer la préparation...\nCet article Canada : Un «incident grave» a fait plusieurs tués et de nombreux blessés sur la base militaire de Wainwright est apparu en premier sur Zone Militaire.",
+      "description": "Le 17 octobre, vers 16 heures [heure locale], un incendie s’est déclaré dans le périmètre de la base militaire de Wainwright qui, située dans la province de l’Alberta, est l’une des plus fréquentée du Canada étant donné qu’elle abrite, entre autres, le Centre canadien d’entraînement aux manœuvres [CCEM], dont la mission est d’assurer la préparation...\nCet article Canada : Un «incident grave» a fait plusieurs tués et de nombreux blessés sur la base militaire de Wainwright [MàJ] est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -101,13 +178,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Au cœur des tensions avec l’Argentine autour des Malouines, le seul patrouilleur polaire de la Royal Navy britannique a été remorqué au port",
-      "link": "https://armees.com/au-coeur-des-tensions-avec-largentine-autour-des-malouines-le-seul-patrouilleur-polaire-de-la-royal-navy-britannique-a-ete-remorque-au-port/",
-      "pubDate": "2026-10-17T05:05:10.000Z",
-      "description": "Plus aucun navire britannique ne surveille l'Atlantique Sud. En pleine tension avec l'Argentine sur les Malouines, le seul brise-glace de la Royal Navy tombe en panne. Jusqu'en 2030 sans remplaçant ?",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le nouveau sous-marin nucléaire d’attaque Rubis rejoint le dispositif de mise à l’eau en vue de son lancement",
       "link": "https://www.opex360.com/2026/10/16/le-nouveau-sous-marin-nucleaire-dattaque-rubis-rejoint-le-dispositif-de-mise-a-leau-en-vue-de-son-lancement/",
       "pubDate": "2026-10-16T17:37:36.000Z",
@@ -120,13 +190,6 @@
       "pubDate": "2026-10-16T16:38:21.000Z",
       "description": "Quand il était chef d’état-major de l’armée de Terre [CEMAT], le général Pierre Schill n’a cessé de réclamer le remplacement des Lance-roquettes unitaires [LRU] afin de faire en sorte qu’une «division bonne de guerre» puisse toujours disposer, à l’horizon 2027, d’une capacité de frappe dans la profondeur. D’où le programme FLP-T [Frappe Longue Portée /...\nCet article En attendant le Thundart, le 1er Régiment d’Artillerie va créer une batterie dotée de munitions téléopérées à longue portée est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Zelensky seul contre tous : l’Europe doit enfin payer",
-      "link": "https://armees.com/zelensky-europe-seul-doit-enfin-payer/",
-      "pubDate": "2026-10-16T16:16:35.000Z",
-      "description": "Zelensky résiste à Trump, tient tête à Poutine, et rappelle à l’Europe qu’elle ne peut plus se payer le luxe de la naïveté géopolitique. Mais pendant que le président ukrainien ...",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Faute de Patroller, le 61e Régiment d’Artillerie sera doté de drones Tekever AR3",
@@ -143,74 +206,11 @@
       "sourceKey": "geo"
     },
     {
-      "title": "CMA CGM, Bab Al-Mandab : la facture stratégique que personne ne calcule",
-      "link": "https://armees.com/bab-mandab-cma-cgm-strategique-facture-personne-calcule/",
-      "pubDate": "2026-10-16T11:00:08.000Z",
-      "description": "Une frégate française abat un drone au-dessus de la mer Rouge pour protéger un porte-conteneurs de CMA CGM. Beau geste. Mais qui paie ? Et surtout, jusqu’où la marine nationale ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’abattement des retraités : un symbole qui coûte des chars",
-      "link": "https://armees.com/abattement-retraites-symbole-coute-chars/",
-      "pubDate": "2026-10-16T10:35:03.000Z",
-      "description": "Pendant que la France débat avec passion de l’abattement fiscal des retraités, ses alliés européens financent leur réarmement. Ce n’est pas une guerre des générations. C’est une guerre des priorités. ...",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Mer rouge : Une frégate française a abattu un drone jugé menaçant pour le porte-conteneurs Champs-Élysées",
       "link": "https://www.opex360.com/2026/10/16/mer-rouge-une-fregate-francaise-a-abattu-un-drone-juge-menacant-pour-le-porte-conteneurs-champs-elysees/",
       "pubDate": "2026-10-16T10:33:17.000Z",
       "description": "Le 18 avril 2025, l’État-major des armées [EMA] diffusa une vidéo montrant une frégate multimissions [FREMM] faire usage de son canon de 76 mm pour abattre un drone aérien lancé depuis le Yémen par les rebelles houthistes contre le trafic maritime en mer Rouge. Depuis, plus aucun incident de cette nature n’a été signalé. Officiellement,...\nCet article Mer rouge : Une frégate française a abattu un drone jugé menaçant pour le porte-conteneurs Champs-Élysées est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Ukraine : Kiev bombarde un aérodrome russe, six bombardiers SU-34 touchés avec un missile de croisière Long Neptune",
-      "link": "https://armees.com/ukraine-missiles-neptune-su34-frappe-borissoglebsk/",
-      "pubDate": "2026-10-16T07:27:31.000Z",
-      "description": "Dans la nuit du 14 au 15 octobre 2026, l'Ukraine a frappé l'aérodrome militaire de Borissoglebsk avec des missiles Neptune, détruisant ou endommageant six bombardiers Su-34M. L'opération illustre la montée en puissance des capacités de frappe en profondeur de Kiev et inflige un revers matériel et opérationnel significatif aux forces aériennes russes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Entre la France et le Tchad, une réconciliation sur fond de coopération militaire ?",
-      "link": "https://armees.com/entre-la-france-et-le-tchad-une-reconciliation-sur-fond-de-cooperation-militaire/",
-      "pubDate": "2026-10-16T07:27:13.000Z",
-      "description": "Le Tchad et la France relancent leur coopération de Défense autour de la formation, des technologies et du renforcement capacitaire.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cybersécurité : le SGDSN victime d’une attaque informatique",
-      "link": "https://armees.com/cybersecurite-le-sgdsn-victime-dune-attaque-informatique/",
-      "pubDate": "2026-10-16T07:24:31.000Z",
-      "description": "Le SGDSN a subi une attaque DDoS le 13 octobre 2026. Son site a été inaccessible plus de quatre heures, sans intrusion ni fuite de données constatée.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Israël restitue des artefacts grecs dérobés, Athènes renforce sa campagne pour les Marbres d’Elgin",
-      "link": "https://armees.com/israel-restitue-des-artefacts-grecs-derobes-athenes-renforce-sa-campagne-pour-les-marbres-delgin/",
-      "pubDate": "2026-10-16T06:05:51.000Z",
-      "description": "22 trésors antiques, 2500 ans d'histoire, saisis puis rendus par Israël à la Grèce. Un geste inédit qui relance la bataille pour les marbres du Parthénon, toujours retenus à Londres.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "40 navires, 260 aéronefs et 57 000 soldats : les États-Unis et le Japon activent leurs forces dans le Pacifique après le déploiement du porte-avions chinois Liaoning",
-      "link": "https://armees.com/40-navires-260-aeronefs-et-57-000-soldats-les-etats-unis-et-le-japon-activent-leurs-forces-dans-le-pacifique-apres-le-deploiement-du-porte-avions-chinois-liaoning/",
-      "pubDate": "2026-10-16T05:35:18.000Z",
-      "description": "Pendant que le Liaoning et son escorte filent vers le Pacifique, 57 000 militaires américains et japonais s'apprêtent à manœuvrer juste à côté de Taïwan. Coïncidence de calendrier ou message adressé à Pékin ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Égypte : Un citoyen remarque une pierre gravée, des fouilles mettent au jour deux statues royales dont une de Ramsès II",
-      "link": "https://armees.com/egypte-un-citoyen-remarque-une-pierre-gravee-des-fouilles-mettent-au-jour-deux-statues-royales-dont-une-de-ramses-ii/",
-      "pubDate": "2026-10-16T05:05:08.000Z",
-      "description": "Un simple bloc de pierre devant une maison, et voilà un village égyptien propulsé au cœur d'une découverte archéologique majeure. Têtes royales, hiéroglyphes mystérieux : que révèlent vraiment ces statues sur Ramsès II ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "AdFection : quand l’écosystème publicitaire devient vecteur d’espionnage israélien",
-      "link": "https://armees.com/espionnage-citizen-lab-discover-tech-jazeera-2024-ecosysteme-publicitaire/",
-      "pubDate": "2026-10-16T04:36:59.000Z",
-      "description": "Des chercheurs du Citizen Lab révèlent la première campagne d'espionnage documentée exploitant les publicités en ligne pour déployer des spywares sans interaction des victimes.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Deluge en mer et Rampart bientôt de retour à terre",
