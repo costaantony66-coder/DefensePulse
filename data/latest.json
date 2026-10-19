@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T08:21:45.979Z",
+  "generatedAt": "2026-10-19T15:51:10.508Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "title": "Une carapace anti-drones “maison” pour le VBCI",
+      "link": "https://forcesoperations.com/une-carapace-anti-drones-maison-pour-le-vbci/",
+      "pubDate": "2026-10-19T15:40:39.000Z",
+      "description": "La carapace du VBCI va se renforcer pour mieux résister aux drones armés et autres munitions téléopérées. L'équation privilégiée par l'unité derrière ce bouclier en phase de production, le 16e bataillon de chasseurs à pied (16e BCP) ? De la récup', de l'internalisation et un peu d'huile de coude. \nThe post Une carapace anti-drones “maison” pour le VBCI appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "Un engin spatial russe s’est approché à quelques mètres d’un satellite d’observation ICEYE au terme de manœuvres inédites",
+      "link": "https://www.opex360.com/2026/10/19/un-engin-spatial-russe-sest-approche-a-quelques-metres-dun-satellite-dobservation-iceye-au-terme-de-manoeuvres-inedites/",
+      "pubDate": "2026-10-19T15:35:31.000Z",
+      "description": "La semaine passée, devant les députés de la commission de la Défense, le chef d’état-major de l’armée de l’Air & de l’Espace [CEMAAE], le général Jérôme Bellanger, a donné un petit aperçu de ce qui est en train de se passer en orbite. «Dans l’espace, la Chine réalise une progression technologique continue, marquée par la...\nCet article Un engin spatial russe s’est approché à quelques mètres d’un satellite d’observation ICEYE au terme de manœuvres inédites est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Ukraine : des F-16 roumains abattent deux drones russes",
+      "link": "https://armees.com/f16-roumains-interception-drones-geran-ukraine/",
+      "pubDate": "2026-10-19T14:31:14.000Z",
+      "description": "Samedi 17 octobre, deux F-16 roumains ont abattu deux drones russes Geran qui avaient pénétré l'espace aérien national au-dessus de la mer Noire. L'interception, menée en quatre minutes, témoigne de la réactivité de la défense aérienne roumaine face aux menaces hybrides russes liées au conflit en Ukraine. Les trajectoires des appareils, partis de Crimée, révèlent une volonté de tester les capacités de l'OTAN en mer Noire.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La France peut reprendre la main sur la sécurité européenne",
+      "link": "https://armees.com/la-france-peut-reprendre-la-main-sur-la-securite-europeenne/",
+      "pubDate": "2026-10-19T14:19:40.000Z",
+      "description": "La France conserve une position singulière au sein de l'Union européenne. Depuis le Brexit, elle en est la seule puissance nucléaire.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "17 octobre : pourquoi le renseignement français a échoué à anticiper le chaos",
+      "link": "https://armees.com/renseignement-ultragauche-defaillances-17-octobre/",
+      "pubDate": "2026-10-19T13:26:48.000Z",
+      "description": "Le ministre de la Justice Gérald Darmanin a reconnu ce lundi les défaillances structurelles du renseignement français face aux mouvements d'ultragauche, après les violences du 17 octobre qui ont fait 2 331 gardes à vue et causé plusieurs centaines de millions d'euros de dégâts. À Marseille, 30 000 pilleurs ont convergé sans être détectés, exposant une asymétrie stratégique majeure entre les capacités anti-terrorisme et la surveillance des contestations urbaines.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pour remplacer ses Alphajet, le Maroc s’intéresse au chasseur léger sud-coréen F/A-50 Golden Eagle",
+      "link": "https://www.opex360.com/2026/10/19/pour-remplacer-ses-alphajet-le-maroc-sinteresse-au-chasseur-leger-sud-coreen-f-a-50-golden-eagle/",
+      "pubDate": "2026-10-19T10:52:41.000Z",
+      "description": "En 2022, les Forces royales Air marocaines alignaient vingt-cinq chasseurs légers F-5 Tiger II, acquis d’occasion auprès des États-Unis, et vingt-deux avions d’entraînement Alphajet de conception franco-allemande pour la formation de leurs pilotes. Ces appareils étant anciens, la question de leur remplacement se pose. Deux modèles sont en lice : le M346 «Master» de Leonardo...\nCet article Pour remplacer ses Alphajet, le Maroc s’intéresse au chasseur léger sud-coréen F/A-50 Golden Eagle est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Ukraine : les trois armes françaises qui vont transformer la défense",
+      "link": "https://armees.com/aasm-scalp-aster-30-systemes-armes-ukraine-2026/",
+      "pubDate": "2026-10-19T09:13:28.000Z",
+      "description": "Le 15 octobre 2026, l'Ukraine a reçu toutes les licences de production pour trois systèmes d'armes français majeurs : les bombes guidées AASM, les missiles de croisière SCALP et les intercepteurs Aster 30.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Starlink visé : la Lituanie déjoue une opération de guerre hybride russe",
       "link": "https://armees.com/starlink-lituanie-sabotage-dejoue-2026/",
@@ -129,20 +178,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Trump reçoit un signal de mobilisation d’Iran, Téhéran aurait mis ses forces en alerte maximale pendant trois jours",
-      "link": "https://armees.com/trump-recoit-un-signal-de-mobilisation-diran-teheran-aurait-mis-ses-forces-en-alerte-maximale-pendant-trois-jours/",
-      "pubDate": "2026-10-18T05:35:36.000Z",
-      "description": "Deux navires coulés, quinze attaques en huit jours, et l'Iran qui mobilise ses troupes. Pendant ce temps, Trump hésite entre trois options explosives. Laquelle choisira-t-il avant le 3 novembre ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’Ukraine utilise un drone maritime pour attaquer un navire russe lors d’une spectaculaire opération en mer Noire",
-      "link": "https://armees.com/lukraine-utilise-un-drone-maritime-pour-attaquer-un-navire-russe-lors-dune-spectaculaire-operation-en-mer-noire/",
-      "pubDate": "2026-10-18T05:05:05.000Z",
-      "description": "Sept cargos frappés, deux morts, 25 disparus en pleine mer Noire. La Roumanie et la Bulgarie dans la ligne de mire : l'OTAN va-t-elle enfin réagir face à ces attaques qui s'enchaînent ?",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Avec VULTRA, l’armée de l’Air & de l’Espace va faciliter les liaisons entre un aéronef et des drones",
       "link": "https://www.opex360.com/2026/10/17/avec-vultra-larmee-de-lair-de-lespace-va-faciliter-les-liaisons-entre-un-aeronef-et-des-drones/",
       "pubDate": "2026-10-17T14:08:03.000Z",
@@ -162,20 +197,6 @@
       "pubDate": "2026-10-17T10:37:31.000Z",
       "description": "La Marine nationale aligne officiellement quinze navires de surface dits de «premier rang». Mais, dans le détail, elle n’en compte que dix, les cinq frégates de type La Fayette [FLF], même si trois d’entre elles ont reçu un sonar, n’entrant pas dans cette catégorie de bâtiment. Même avec cette «ruse» comptable, il n’en demeure pas...\nCet article Le premier équipage de la frégate de défense et d’intervention «Amiral Louzeau» a été officiellement constitué est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Kiev vient de frapper six SU-34 au sol avec un seul missile Neptune : les pilotes russes n’ont rien vu venir, selon l’état-major ukrainien",
-      "link": "https://armees.com/kiev-vient-de-frapper-six-su-34-au-sol-avec-un-seul-missile-neptune-les-pilotes-russes-nont-rien-vu-venir-selon-letat-major-ukrainien/",
-      "pubDate": "2026-10-17T06:05:10.000Z",
-      "description": "Quatre Su-34 détruits, deux autres touchés : un missile ukrainien suffit à humilier une base aérienne russe. Un blogueur militaire russe avoue même l'ampleur de la faille. Que s'est-il vraiment passé cette nuit-là ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Exclusif : selon des sources, les États-Unis envisagent d’employer la « mère de toutes les bombes » contre l’Iran",
-      "link": "https://armees.com/exclusif-selon-des-sources-les-etats-unis-envisagent-demployer-la-mere-de-toutes-les-bombes-contre-liran/",
-      "pubDate": "2026-10-17T05:35:14.000Z",
-      "description": "La « mère de toutes les bombes » contre l'Iran : une arme jugée inefficace contre les sites enfouis, mais choisie pour son effet psychologique. Pourquoi l'armée américaine doute-t-elle de sa propre stratégie ?",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le nouveau sous-marin nucléaire d’attaque Rubis rejoint le dispositif de mise à l’eau en vue de son lancement",
@@ -206,25 +227,11 @@
       "sourceKey": "geo"
     },
     {
-      "title": "Mer rouge : Une frégate française a abattu un drone jugé menaçant pour le porte-conteneurs Champs-Élysées",
-      "link": "https://www.opex360.com/2026/10/16/mer-rouge-une-fregate-francaise-a-abattu-un-drone-juge-menacant-pour-le-porte-conteneurs-champs-elysees/",
-      "pubDate": "2026-10-16T10:33:17.000Z",
-      "description": "Le 18 avril 2025, l’État-major des armées [EMA] diffusa une vidéo montrant une frégate multimissions [FREMM] faire usage de son canon de 76 mm pour abattre un drone aérien lancé depuis le Yémen par les rebelles houthistes contre le trafic maritime en mer Rouge. Depuis, plus aucun incident de cette nature n’a été signalé. Officiellement,...\nCet article Mer rouge : Une frégate française a abattu un drone jugé menaçant pour le porte-conteneurs Champs-Élysées est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
       "title": "Deluge en mer et Rampart bientôt de retour à terre",
       "link": "https://forcesoperations.com/deluge-en-mer-et-rampart-bientot-de-retour-a-terre/",
       "pubDate": "2026-10-15T18:22:07.000Z",
       "description": "Clap de fin pour Wildfire 26.2, cet exercice de lutte anti-drones conduit en Méditerranée par la Marine nationale. Un rendez-vous incontournable pour l'industrie et l'occasion de progresser sur quelques idées parfois « nées » à terre ou susceptibles d'intéresser l'armée de Terre. \nThe post Deluge en mer et Rampart bientôt de retour à terre appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "La France n’a pas l’intention de nouer des coopérations «structurelles» pour développer son «Avion de combat du futur»",
-      "link": "https://www.opex360.com/2026/10/15/la-france-na-pas-lintention-de-nouer-des-cooperations-structurelles-pour-developper-son-avion-de-combat-du-futur/",
-      "pubDate": "2026-10-15T17:42:55.000Z",
-      "description": "Après le retrait de l’Allemagne du projet du chasseur-bombardier de 6e génération, alors appelé NGF [pour New Generation Fighter], sur lequel devait reposer le Système de combat aérien du futur [SCAF], il a été avancé que la France pourrait chercher d’autres partenaires, comme la Suède ou l’Inde, pour mener à bien le développement de ce...\nCet article La France n’a pas l’intention de nouer des coopérations «structurelles» pour développer son «Avion de combat du futur» est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Nouvelle tranche française et première victoire à l’étranger pour DAMOCLES",
@@ -344,13 +351,6 @@
       "pubDate": "2026-10-01T15:34:08.000Z",
       "description": "Le projet Arcadia, présenté le 29 septembre, vise à fusionner massivement les données des armées françaises pour accroître leur efficacité opérationnelle. Une âpre bataille est lancée contre les groupes américains Palantir et Anduril dans le cadre de la modernisation des structures de l’Alliance atlantique.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "PLF 2027 : des investissements capacitaires en forte hausse pour les armées",
-      "link": "https://forcesoperations.com/plf-2027-des-investissements-capacitaires-en-forte-hausse-pour-les-armees/",
-      "pubDate": "2026-10-01T13:39:41.000Z",
-      "description": "Le projet de loi de finances pour 2027 est maintenant déposé, point de départ d'une séquence d'adoption parlementaire qui s'annonce périlleuse. Le cap fixé pour les armées demeure inchangé : une hausse de 6,4 Md€ pour porter les crédits au-delà de 63,4 Md€. Près de la moitié sont consacrés aux équipements. \nThe post PLF 2027 : des investissements capacitaires en forte hausse pour les armées appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
     },
     {
       "title": "L’UE doit « s’approprier l’OTAN » pour en faire « son bras armé » préconise un rapport parlementaire français",
