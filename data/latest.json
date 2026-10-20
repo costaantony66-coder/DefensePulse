@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T18:42:00.975Z",
+  "generatedAt": "2026-10-20T21:59:59.374Z",
   "sources": [
     {
       "key": "opex",
@@ -24,10 +24,17 @@
   ],
   "items": [
     {
+      "title": "Wagner : le fils d’Evgueni Prigojine contrôle toujours un empire en Centrafrique",
+      "link": "https://armees.com/empire-prigojine-perdure-republique-centrafricaine-trafic-armes-drogue-or/",
+      "pubDate": "2026-10-20T19:13:10.000Z",
+      "description": "L’assassinat d’Evgueni Prigojine devait marquer le démantèlement de Wagner et la reprise de ses activités par l’État russe. Pourtant, en République centrafricaine, le groupe de mercenaires conserve une influence considérable. ...",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "L’évaluation de l’Engin [téléopéré] de bréchage mécanique de zone destiné à l’armée de Terre est en bonne voie",
       "link": "https://www.opex360.com/2026/10/20/levaluation-de-lengin-teleopere-de-brechage-mecanique-de-zone-destine-a-larmee-de-terre-est-en-bonne-voie/",
       "pubDate": "2026-10-20T17:42:53.000Z",
-      "description": "Avant la trêve estivale, la Section technique de l’armée de Terre [STAT] fit savoir que son groupement mobilité et agencement de l’espace terrestre [MOB-AGESTER] était sur le point de commencer l’évaluation technico-opérationnelle de l’Engin de bréchage mécanique de zone [EMBZ], censé permettre aux unités du Génie de récupérer une capacité redevenue incontournable dans le contexte...\nCet article L’évaluation de l’Engin [téléopéré] de bréchage mécanique de zone destiné à l’armée de Terre est en bonne voie est apparu en premier sur Zone Militaire.",
+      "description": "Avant la trêve estivale, la Section technique de l’armée de Terre [STAT] fit savoir que son groupement mobilité et agencement de l’espace terrestre [MOB-AGESTER] était sur le point de commencer l’évaluation technico-opérationnelle de l’Engin de bréchage mécanique de zone [EBMZ], censé permettre aux unités du Génie de récupérer une capacité redevenue incontournable dans le contexte...\nCet article L’évaluation de l’Engin [téléopéré] de bréchage mécanique de zone destiné à l’armée de Terre est en bonne voie est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -174,7 +181,7 @@
       "title": "Pour la première fois, un drone de surface va intégrer un groupe aéronaval de l’US Navy",
       "link": "https://www.opex360.com/2026/10/19/pour-la-premiere-fois-un-drone-de-surface-va-integrer-un-groupe-aeronaval-de-lus-navy/",
       "pubDate": "2026-10-19T17:35:29.000Z",
-      "description": "Quand il était chef d’état-major de la Marine nationale [CEMM], l’amiral Nicolas Vaujour expliquait que les drones de surface n’avaient pas encore la même maturité technologique que les drones aériens pour un usage opérationnel en haute mer. «Développer des drones de surface dotés d’une certaine endurance et faire naviguer très longtemps un bateau autonome en...\nCet article Pour la première fois, un drone de surface va intégrer un groupe aéronaval de l’US Navy est apparu en premier sur Zone Militaire.",
+      "description": "Quand il était chef d’état-major de la Marine nationale [CEMM], l’amiral Nicolas Vaujour expliquait que les drones de surface n’avaient pas encore la maturité technologique pour un usage opérationnel en haute mer. «Développer des drones de surface dotés d’une certaine endurance et faire naviguer très longtemps un bateau autonome en haute mer n’est pas encore...\nCet article Pour la première fois, un drone de surface va intégrer un groupe aéronaval de l’US Navy est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -203,13 +210,6 @@
       "link": "https://armees.com/f16-roumains-interception-drones-geran-ukraine/",
       "pubDate": "2026-10-19T14:31:14.000Z",
       "description": "Samedi 17 octobre, deux F-16 roumains ont abattu deux drones russes Geran qui avaient pénétré l'espace aérien national au-dessus de la mer Noire. L'interception, menée en quatre minutes, témoigne de la réactivité de la défense aérienne roumaine face aux menaces hybrides russes liées au conflit en Ukraine. Les trajectoires des appareils, partis de Crimée, révèlent une volonté de tester les capacités de l'OTAN en mer Noire.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La France peut reprendre la main sur la sécurité européenne",
-      "link": "https://armees.com/la-france-peut-reprendre-la-main-sur-la-securite-europeenne/",
-      "pubDate": "2026-10-19T14:19:40.000Z",
-      "description": "La France conserve une position singulière au sein de l'Union européenne. Depuis le Brexit, elle en est la seule puissance nucléaire.",
       "sourceKey": "armees_com"
     },
     {
