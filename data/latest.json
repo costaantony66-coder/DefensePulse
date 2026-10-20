@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T04:55:51.126Z",
+  "generatedAt": "2026-10-20T09:46:23.460Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "title": "L’Américain Anduril veut produire ses missiles en Pologne",
+      "link": "https://armees.com/lamericain-anduril-veut-produire-ses-missiles-en-pologne/",
+      "pubDate": "2026-10-20T07:05:24.000Z",
+      "description": "Anduril envisage de produire ses missiles intercepteurs Steelfin en Europe, avec la Pologne comme partenaire industriel privilégié après l’accord conclu autour du Barracuda-500M.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un pirate chinois compromet 100 sites avec des agents IA autonomes",
+      "link": "https://armees.com/cyberattaque-chinoise-defense-infrastructure-critique/",
+      "pubDate": "2026-10-20T06:21:21.000Z",
+      "description": "Entre septembre et octobre 2026, un pirate informatique chinois a orchestré une campagne de cybersécurité sans précédent contre plus de 100 entreprises occidentales, dont John Deere et Cummins, en utilisant des agents IA autonomes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Rocket Lab annonce un retard supplémentaire pour la fusée Neutron, le premier vol est désormais prévu en 2027",
+      "link": "https://armees.com/rocket-lab-annonce-un-retard-supplementaire-pour-la-fusee-neutron-le-premier-vol-est-desormais-prevu-en-2027/",
+      "pubDate": "2026-10-20T06:05:47.000Z",
+      "description": "Un simple vide dans de la fibre de carbone, et c'est tout le calendrier de Neutron qui s'effondre. Rocket Lab dévoile les coulisses d'un retard qui en dit long sur les défis de la réutilisabilité face à SpaceX.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Alors que l’USAF avance dans son retrait, les États-Unis ont donné un avion C-130H Hércules à la Force Aérienne Roumaine",
+      "link": "https://armees.com/alors-que-lusaf-avance-dans-son-retrait-les-etats-unis-ont-donne-un-avion-c-130h-hercules-a-la-force-aerienne-roumaine/",
+      "pubDate": "2026-10-20T05:35:53.000Z",
+      "description": "Un C-130 de plus pour Bucarest, mais derrière ce transfert se cache une transition américaine bien plus vaste. Les États-Unis retirent progressivement leurs Hercules, et la Roumanie en profite. Jusqu'à quand ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "62 km en 1h14 : le drone qui a sauvé un soldat ukrainien piégé",
+      "link": "https://armees.com/ukraine-evacuation-drone-doctrine-tactique-2026/",
+      "pubDate": "2026-10-20T05:25:00.000Z",
+      "description": "Le 19 octobre 2026, l'Ukraine a réalisé la première évacuation documentée d'un soldat blessé par drone hexacoptère lourd Ayudag-6, parcourant 62 kilomètres en 1h14 depuis une zone minée et saturée de drones russes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "2027 : quand l’ordre public coûte plus que la défense",
+      "link": "https://armees.com/2027-ordre-public-defense-coute/",
+      "pubDate": "2026-10-20T05:21:06.000Z",
+      "description": "Les émeutes du week-end ont encore laissé des traces dans les rues françaises. Pillages, voitures incendiées, mobilisation massive des forces de l’ordre : chaque nuit d’émeutes coûte plusieurs centaines de ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Changement d’heure le 25 octobre, pourquoi l’Europe n’a pas encore tenu la promesse votée en 2019",
+      "link": "https://armees.com/changement-dheure-le-25-octobre-pourquoi-leurope-na-pas-encore-tenu-la-promesse-votee-en-2019/",
+      "pubDate": "2026-10-20T05:05:47.000Z",
+      "description": "Une heure de sommeil en plus, mais une promesse européenne vieille de sept ans toujours pas tenue. Pourquoi ce changement d'heure résiste-t-il à tout, et jusqu'à quand va-t-il durer ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Yémen : la frappe d’al-Alam met en lumière les failles de la défense aérienne saoudienne",
+      "link": "https://armees.com/houthis-missiles-balistiques-tactique-camp-alam/",
+      "pubDate": "2026-10-20T04:58:56.000Z",
+      "description": "Le 18 octobre 2026, trois missiles balistiques houthis ont tué 53 soldats yéménites au camp d'al-Alam, en province de Shabwa. Cette frappe, la plus meurtrière depuis la reprise du conflit en septembre, expose les failles critiques de la défense aérienne saoudienne et révèle la montée en puissance tactique des rebelles soutenus par l'Iran.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Un pétrolier touché par une mine iranienne dans le détroit d’Ormuz",
       "link": "https://armees.com/iran-mines-detroit-ormuz-strategie-militaire-2026/",
@@ -119,62 +175,6 @@
       "link": "https://armees.com/fftir-cyberattaque-risques-securite-civile-2026/",
       "pubDate": "2026-10-19T06:39:47.000Z",
       "description": "Le 17 octobre 2026, le pirate ChimeraZ revendique le vol de 586 854 fiches de licenciés de la Fédération Française de Tir, incluant 64 000 photographies d'identité et 19 000 certificats médicaux.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Missile hypersonique : pourquoi les États-Unis restent derrière la Chine et la Russie",
-      "link": "https://armees.com/missile-hypersonique-pourquoi-les-etats-unis-restent-derriere-la-chine-et-la-russie/",
-      "pubDate": "2026-10-19T06:13:34.000Z",
-      "description": "Le missile hypersonique Dark Eagle accumule les retards aux États-Unis, alors que la Chine et la Russie disposent déjà de systèmes déployés.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Golfe : Emmanuel Macron mise sur la Défense pour consolider l’influence française au Moyen Orient",
-      "link": "https://armees.com/golfe-emmanuel-macron-mise-sur-la-defense-pour-consolider-linfluence-francaise-au-moyen-orient/",
-      "pubDate": "2026-10-19T06:09:35.000Z",
-      "description": "Emmanuel Macron entame une tournée au Moyen Orient centrée sur la Défense, la sécurité du Golfe, l’énergie et les partenariats militaires français.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Le Reaper français franchit un cap avec une nouvelle capacité d’écoute électromagnétique",
-      "link": "https://armees.com/le-reaper-francais-franchit-un-cap-avec-une-nouvelle-capacite-decoute-electromagnetique/",
-      "pubDate": "2026-10-19T05:59:04.000Z",
-      "description": "Le Reaper de l’armée de l’Air et de l’Espace se prépare à exploiter une nacelle ROEM dédiée au renseignement électromagnétique et à l’interception des communications.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un objet métallique de 3,3 mètres a été retrouvé dans un champ de maïs du Minnesota",
-      "link": "https://armees.com/un-objet-metallique-de-33-metres-a-ete-retrouve-dans-un-champ-de-mais-du-minnesota/",
-      "pubDate": "2026-10-19T05:35:03.000Z",
-      "description": "Un disque métallique de 3,4 mètres tombé du ciel dans un champ du Minnesota : les autorités fédérales enquêtent, mais l'origine reste un mystère total. Fusée ? Satellite ? Personne n'a vu l'objet arriver.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Blé, blocus et budget : l’armée qu’on ne s’offre pas",
-      "link": "https://armees.com/ble-blocus-budget-armee-offre/",
-      "pubDate": "2026-10-19T05:24:31.000Z",
-      "description": "Le blé ukrainien flambait ce week-end sur les marchés mondiaux. Les missiles russes, eux, ne coûtent rien à Moscou — enfin, presque. Pendant ce temps, la France se félicite d’une ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Zelenskyy accepte une trêve de 100 jours sur les frappes des raffineries russes contre un accès élargi à Starlink",
-      "link": "https://armees.com/zelenskyy-accepte-une-treve-de-100-jours-sur-les-frappes-des-raffineries-russes-contre-un-acces-elargi-a-starlink/",
-      "pubDate": "2026-10-19T05:05:02.000Z",
-      "description": "Starlink contre silence des raffineries : Zelensky joue gros avec Trump, remonté comme jamais. Un deal à 300 kilomètres qui pourrait tout changer, ou tout faire capoter.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Poutine propose un sommet avec Trump et Xi sans l’Ukraine",
-      "link": "https://armees.com/starlink-restrictions-ukraine-equilibre-militaire-2026/",
-      "pubDate": "2026-10-19T04:47:28.000Z",
-      "description": "Vladimir Poutine a proposé à Donald Trump un sommet tripartite avec Xi Jinping pour négocier l'avenir de l'Ukraine sans Volodymyr Zelenskyy. Parallèlement, Washington limite l'accès ukrainien aux réseaux Starshield militarisés, paralysant les capacités défensives de Kyiv. Analyse d'une stratégie coordonnée visant à affaiblir militairement l'Ukraine avant de marginaliser diplomatiquement ses représentants.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Trump, Poutine, et l’Europe qui paye l’addition",
-      "link": "https://armees.com/trump-poutine-europe-adition-paye/",
-      "pubDate": "2026-10-19T03:34:22.000Z",
-      "description": "Donald Trump vient de geler les sanctions contre les importateurs d’hydrocarbures russes, offrant à Moscou un ballon d’oxygène inespéré pendant qu’elle pilonne les infrastructures énergétiques ukrainiennes. Ce signal envoyé à ...",
       "sourceKey": "armees_com"
     },
     {
