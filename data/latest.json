@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T09:46:23.460Z",
+  "generatedAt": "2026-10-20T14:36:26.185Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "title": "Au Moyen-Orient, l’armée américaine contrainte de se redéployer sous le feu des missiles iraniens",
+      "link": "https://www.lemonde.fr/international/article/2026/10/20/au-moyen-orient-l-armee-americaine-contrainte-de-se-redeployer-sous-le-feu-des-missiles-iraniens_6797937_3210.html",
+      "pubDate": "2026-10-20T14:30:03.000Z",
+      "description": "Visées et parfois détruites par les frappes aériennes de la République islamique, les bases américaines du golfe Arabo-Persique sont devenues une vulnérabilité. Les Etats-Unis hésitent entre repli et renforcement, tandis que ses alliés dans la région cherchent d’autres partenaires.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Le PAM réduit son aide alimentaire à Gaza de 500 000 bénéficiaires",
+      "link": "https://armees.com/gaza-aide-onu-stabilite-risques-securite-2026/",
+      "pubDate": "2026-10-20T13:53:00.000Z",
+      "description": "Le Programme alimentaire mondial réduit drastiquement son aide humanitaire à Gaza, abandonnant 500 000 bénéficiaires sur 1,6 million. Cette décision, motivée par une chute de financement de plus de 50%, intervient alors qu'aucune reconstruction n'a débuté depuis le cessez-le-feu de 2025 et que 1,4 million de Palestiniens vivent en insécurité alimentaire critique, menaçant la stabilité régionale.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La RAF déploie des chasseurs Typhoon en Arabie Saoudite",
+      "link": "https://armees.com/typhoon-arabie-saoudite-defense-aerienne-raf-2026/",
+      "pubDate": "2026-10-20T12:35:39.000Z",
+      "description": "Le Royaume-Uni déploie des chasseurs Typhoon en Arabie Saoudite pour intercepter drones et missiles houthis menaçant Ryad. Missions strictement défensives, sans frappes offensives au Yémen. L'opération mobilise également un A400M, des conseillers militaires et prolonge le ravitaillement en vol de 90 jours.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’armée ukrainienne revendique la première évacuation d’un soldat blessé par un drone aérien",
+      "link": "https://www.opex360.com/2026/10/20/larmee-ukrainienne-revendique-la-premiere-evacuation-dun-soldat-blesse-par-un-drone-aerien/",
+      "pubDate": "2026-10-20T11:12:06.000Z",
+      "description": "Évacuer rapidement un soldat blessé au cours d’une action de combat est primordial pour augmenter ses chances de survie. L’an passé, afin de limiter l’exposition des combattants valides au feu ennemi, le Service de santé des armées [SSA] a évoqué son intention d’utiliser le robot «mule» PROBOT, celui-ci étant susceptible de «faciliter la prise en...\nCet article L’armée ukrainienne revendique la première évacuation d’un soldat blessé par un drone aérien est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Ukraine : des militaires français envoyés en Pologne pour simuler un cessez-le-feu",
+      "link": "https://armees.com/exercice-multinational-pologne-otan-deployment-ukraine/",
+      "pubDate": "2026-10-20T09:29:45.000Z",
+      "description": "En novembre 2026, des milliers de militaires britanniques, français, allemands et polonais participeront à un exercice en Pologne simulant un déploiement post-conflit en Ukraine. Confirmé par le ministre britannique de la Défense Wes Streeting, cet entraînement teste les capacités logistiques et opérationnelles de la Force multinationale pour l'Ukraine (MNF-U), créée en mars 2025.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "L’Américain Anduril veut produire ses missiles en Pologne",
       "link": "https://armees.com/lamericain-anduril-veut-produire-ses-missiles-en-pologne/",
@@ -104,14 +139,14 @@
       "title": "Pour la première fois, un drone de surface va intégrer un groupe aéronaval de l’US Navy",
       "link": "https://www.opex360.com/2026/10/19/pour-la-premiere-fois-un-drone-de-surface-va-integrer-un-groupe-aeronaval-de-lus-navy/",
       "pubDate": "2026-10-19T17:35:29.000Z",
-      "description": "Quand il était chef d’état-major de la Marine nationale [CEMM], l’amiral Nicolas Vaujour expliquait que les drones de surface n’avaient pas encore la même maturité technologique que les drones aériens pour avoir un usage opérationnel en haute mer. «Développer des drones de surface dotés d’une certaine endurance et faire naviguer très longtemps un bateau autonome...\nCet article Pour la première fois, un drone de surface va intégrer un groupe aéronaval de l’US Navy est apparu en premier sur Zone Militaire.",
+      "description": "Quand il était chef d’état-major de la Marine nationale [CEMM], l’amiral Nicolas Vaujour expliquait que les drones de surface n’avaient pas encore la même maturité technologique que les drones aériens pour un usage opérationnel en haute mer. «Développer des drones de surface dotés d’une certaine endurance et faire naviguer très longtemps un bateau autonome en...\nCet article Pour la première fois, un drone de surface va intégrer un groupe aéronaval de l’US Navy est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
       "title": "La Nouvelle-Zélande confirme l’achat de cinq hélicoptères américains MH-60R SeaHawk pour plus de 930 millions de dollars",
       "link": "https://www.opex360.com/2026/10/19/la-nouvelle-zelande-confirme-lachat-de-cinq-helicopteres-americains-mh-60r-seahawk-pour-plus-de-930-millions-de-dollars/",
       "pubDate": "2026-10-19T16:54:51.000Z",
-      "description": "En un peu d’un an, pas moins de trois ministres de la Défense auront eu à s’occuper du dossier concernant le renouvellement des hélicoptères dédiés à lutte anti-sous-marine mis en œuvre depuis les deux frégates de type ANZAC de la Royal New Zealand Navy [RNZN]. En effet, en août 2025, alors ministre en exercice, Judith...\nCet article La Nouvelle-Zélande confirme l’achat de cinq hélicoptères américains MH-60R SeaHawk pour plus de 930 millions de dollars est apparu en premier sur Zone Militaire.",
+      "description": "En un peu plus d’un an, pas moins de trois ministres de la Défense auront eu à s’occuper du dossier concernant le renouvellement des hélicoptères dédiés à lutte anti-sous-marine mis en œuvre depuis les deux frégates de type ANZAC de la Royal New Zealand Navy [RNZN]. En effet, en août 2025, alors ministre en exercice,...\nCet article La Nouvelle-Zélande confirme l’achat de cinq hélicoptères américains MH-60R SeaHawk pour plus de 930 millions de dollars est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -157,27 +192,6 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Ukraine : les trois armes françaises qui vont transformer la défense",
-      "link": "https://armees.com/aasm-scalp-aster-30-systemes-armes-ukraine-2026/",
-      "pubDate": "2026-10-19T09:13:28.000Z",
-      "description": "Le 15 octobre 2026, l'Ukraine a reçu toutes les licences de production pour trois systèmes d'armes français majeurs : les bombes guidées AASM, les missiles de croisière SCALP et les intercepteurs Aster 30.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Starlink visé : la Lituanie déjoue une opération de guerre hybride russe",
-      "link": "https://armees.com/starlink-lituanie-sabotage-dejoue-2026/",
-      "pubDate": "2026-10-19T07:06:28.000Z",
-      "description": "Dans la nuit du 18 octobre 2026, les autorités lituaniennes ont déjoué une tentative d'incendie criminel contre une installation stockant du matériel Starlink.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Piratage FFTir : comment une fédération sportive devient cible stratégique",
-      "link": "https://armees.com/fftir-cyberattaque-risques-securite-civile-2026/",
-      "pubDate": "2026-10-19T06:39:47.000Z",
-      "description": "Le 17 octobre 2026, le pirate ChimeraZ revendique le vol de 586 854 fiches de licenciés de la Fédération Française de Tir, incluant 64 000 photographies d'identité et 19 000 certificats médicaux.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’artillerie française en ordre de marche pour tonner aujourd’hui et se projeter sur 2040",
       "link": "https://forcesoperations.com/lartillerie-francaise-en-ordre-de-marche-pour-tonner-aujourdhui-et-se-projeter-sur-2040/",
       "pubDate": "2026-10-18T13:00:00.000Z",
@@ -217,13 +231,6 @@
       "link": "https://www.opex360.com/2026/10/17/le-premier-equipage-de-la-fregate-de-defense-et-dintervention-amiral-louzeau-a-ete-officiellement-constitue/",
       "pubDate": "2026-10-17T10:37:31.000Z",
       "description": "La Marine nationale aligne officiellement quinze navires de surface dits de «premier rang». Mais, dans le détail, elle n’en compte que dix, les cinq frégates de type La Fayette [FLF], même si trois d’entre elles ont reçu un sonar, n’entrant pas dans cette catégorie de bâtiment. Même avec cette «ruse» comptable, il n’en demeure pas...\nCet article Le premier équipage de la frégate de défense et d’intervention «Amiral Louzeau» a été officiellement constitué est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Le nouveau sous-marin nucléaire d’attaque Rubis rejoint le dispositif de mise à l’eau en vue de son lancement",
-      "link": "https://www.opex360.com/2026/10/16/le-nouveau-sous-marin-nucleaire-dattaque-rubis-rejoint-le-dispositif-de-mise-a-leau-en-vue-de-son-lancement/",
-      "pubDate": "2026-10-16T17:37:36.000Z",
-      "description": "Le 14 juin dernier, quatre mois à peine après avoir effectué ses premiers essais à la mer sous la supervision de la Direction générale de l’armement [DGA] et de la Division des applications militaires du Commissariat à l’énergie atomique et aux énergies alternatives [DAM/CEA], le sous-marin nucléaire d’attaque De Grasse, quatrième unité de classe Barracuda...\nCet article Le nouveau sous-marin nucléaire d’attaque Rubis rejoint le dispositif de mise à l’eau en vue de son lancement est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/m-le-mag/article/2026/09/26/la-guerre-interieure-de-jerome-ancien-soldat-victime-de-stress-post-traumatique-cela-aurait-ete-plus-simple-d-avoir-une-jambe-en-moins_6783013_4500055.html",
       "pubDate": "2026-09-26T04:00:21.000Z",
       "description": "Le caporal-chef a pris part aux opérations extérieures de la France, notamment en Afghanistan et au Mali. Depuis la fin de sa carrière, en 2016, il multiplie accès de colère, crises d’angoisse, cauchemars… Et rien ne parvient à le guérir. Longtemps dans le déni, l’armée commence à prendre la mesure de cette blessure psychique, dévastatrice pour les militaires et leur entourage. Une unité consacrée à ces troubles doit ouvrir, en octobre, aux Invalides.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "L’envoi de « moyens militaires » français en Arabie saoudite sort de l’ombre la discrète coopération de défense entre Paris et Riyad",
-      "link": "https://www.lemonde.fr/international/article/2026/09/26/l-envoi-de-moyens-militaires-francais-en-arabie-saoudite-sort-de-l-ombre-la-discrete-cooperation-de-defense-entre-paris-et-riyad_6783006_3210.html",
-      "pubDate": "2026-09-26T03:53:46.000Z",
-      "description": "En annonçant mobiliser « soldats, radars et systèmes de défense » pour protéger les infrastructures énergétiques du royaume, attaquées par les houtistes pro-iraniens du Yémen, Emmanuel Macron opère un virage géopolitique, au moment où Riyad cherche à diversifier ses partenariats.",
       "sourceKey": "geo"
     }
   ]
