@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T00:03:22.899Z",
+  "generatedAt": "2026-10-20T04:55:51.126Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Un pétrolier touché par une mine iranienne dans le détroit d’Ormuz",
+      "link": "https://armees.com/iran-mines-detroit-ormuz-strategie-militaire-2026/",
+      "pubDate": "2026-10-20T04:09:00.000Z",
+      "description": "Un superpétrolier chargé de 2 millions de barils a percuté une mine sous-marine au sud du détroit d'Ormuz entre le 17 et le 19 octobre 2026, provoquant une explosion dans sa salle des machines.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Arabie saoudite : les frappes houthies font plier Riyad",
+      "link": "https://armees.com/houthis-frappes-riyadh-defense-arabie-saoudite-2026/",
+      "pubDate": "2026-10-20T04:05:45.000Z",
+      "description": "L'attaque houthie du 10 octobre contre l'aéroport King Khalid de Riyadh, causant entre 12 et 18 morts et plus de 300 blessés, contraint l'Arabie saoudite à reporter sa Future Investment Initiative vers 2027. Cette frappe révèle les capacités de saturation des forces alignées sur l'Iran et les vulnérabilités critiques de la défense aérienne saoudienne face à une menace hybride combinant missiles et drones.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La Slovaquie, nouveau pôle européen de production de munitions : « Nous nous appuyons sur l’héritage de nos ancêtres »",
+      "link": "https://www.lemonde.fr/economie/article/2026/10/20/la-slovaquie-nouveau-pole-europeen-de-production-de-munitions-nous-nous-appuyons-sur-l-heritage-de-nos-ancetres_6797866_3234.html",
+      "pubDate": "2026-10-20T04:00:24.000Z",
+      "description": "Portées par la demande due à la guerre en Ukraine, les usines slovaques de fabrication d’obus tournent à plein régime. Notamment celles du groupe tchèque CSG, devenu un colosse européen de l’industrie de la défense.",
+      "sourceKey": "geo"
+    },
     {
       "title": "Pour la première fois, un drone de surface va intégrer un groupe aéronaval de l’US Navy",
       "link": "https://www.opex360.com/2026/10/19/pour-la-premiere-fois-un-drone-de-surface-va-integrer-un-groupe-aeronaval-de-lus-navy/",
@@ -157,13 +178,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Cyberguerre : la défense numérique, parent pauvre du budget",
-      "link": "https://armees.com/cyberguerre-numerique-defense-parent-pauvre-budget/",
-      "pubDate": "2026-10-19T03:11:27.000Z",
-      "description": "Dans la nuit du 11 au 12 octobre, des centaines de supermarchés français voyaient leurs congélateurs piratés, leurs stocks détruits en quelques heures. Un acte de guerre économique en pleine ...",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’artillerie française en ordre de marche pour tonner aujourd’hui et se projeter sur 2040",
       "link": "https://forcesoperations.com/lartillerie-francaise-en-ordre-de-marche-pour-tonner-aujourdhui-et-se-projeter-sur-2040/",
       "pubDate": "2026-10-18T13:00:00.000Z",
@@ -183,13 +197,6 @@
       "pubDate": "2026-10-18T10:03:10.000Z",
       "description": "Le 17 octobre, vers 16 heures [heure locale], un incendie s’est déclaré dans le périmètre de la base militaire de Wainwright qui, située dans la province de l’Alberta, est l’une des plus fréquentée du Canada étant donné qu’elle abrite, entre autres, le Centre canadien d’entraînement aux manœuvres [CCEM], dont la mission est d’assurer la préparation...\nCet article Canada : Un «incident grave» a fait plusieurs tués et de nombreux blessés sur la base militaire de Wainwright [MàJ] est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Une frégate française abat un drone au-dessus de Bab el-Mandeb : le commandant a eu moins de 90 secondes pour décider du tir",
-      "link": "https://armees.com/une-fregate-francaise-abat-un-drone-au-dessus-de-bab-el-mandeb-le-commandant-a-eu-moins-de-90-secondes-pour-decider-du-tir/",
-      "pubDate": "2026-10-18T06:05:35.000Z",
-      "description": "Un drone fonce vers un géant des mers, la France ouvre le feu en pleine nuit. Derrière ce tir, des marins inquiets et une tension qui monte d'un cran en mer Rouge.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Avec VULTRA, l’armée de l’Air & de l’Espace va faciliter les liaisons entre un aéronef et des drones",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/09/26/l-envoi-de-moyens-militaires-francais-en-arabie-saoudite-sort-de-l-ombre-la-discrete-cooperation-de-defense-entre-paris-et-riyad_6783006_3210.html",
       "pubDate": "2026-09-26T03:53:46.000Z",
       "description": "En annonçant mobiliser « soldats, radars et systèmes de défense » pour protéger les infrastructures énergétiques du royaume, attaquées par les houtistes pro-iraniens du Yémen, Emmanuel Macron opère un virage géopolitique, au moment où Riyad cherche à diversifier ses partenariats.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "IA : la mise à l’écart d’Anthropic par le Pentagone confirmée par la justice",
-      "link": "https://www.lemonde.fr/economie/article/2026/09/26/ia-la-mise-a-l-ecart-d-anthropic-par-le-pentagone-confirmee-par-la-justice_6782773_3234.html",
-      "pubDate": "2026-09-25T23:26:34.000Z",
-      "description": "La cour d’appel de Washington a jugé conforme, vendredi, la mise à l’index de la start-up d’intelligence artificielle qui avait refusé, en février, de laisser l’armée américaine utiliser sans restriction son modèle, Claude.",
       "sourceKey": "geo"
     }
   ]
