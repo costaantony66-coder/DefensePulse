@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:18:39.937Z",
+  "generatedAt": "2026-10-21T19:21:56.664Z",
   "sources": [
     {
       "key": "opex",
@@ -24,11 +24,25 @@
   ],
   "items": [
     {
+      "title": "La Direction générale de l’armement a commandé quatre systèmes de défense aérienne SAMP/T NG supplémentaires",
+      "link": "https://www.opex360.com/2026/10/21/la-direction-generale-de-larmement-a-commande-quatre-systemes-de-defense-aerienne-samp-t-ng-supplementaires/",
+      "pubDate": "2026-10-21T17:03:49.000Z",
+      "description": "Initialement, la Loi de programmation militaire [LPM] 2024-30 prévoyait de doter l’armée de l’Air & de l’Espace [AAE] de huit systèmes franco-italien SAMP/T NG [Sol-Air Moyenne Portée / Terrestre de Nouvelle Génération] en 2030 et de porter ce total à douze exemplaire à l’horizon 2035. Mais la version actualisée de ce texte entend accélérer le...\nCet article La Direction générale de l’armement a commandé quatre systèmes de défense aérienne SAMP/T NG supplémentaires est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
       "title": "La France et les Émirats arabes unis ont signé un accord intergouvernemental sur le développement du Rafale F5",
       "link": "https://www.opex360.com/2026/10/21/la-france-et-les-emirats-arabes-unis-ont-signe-un-accord-intergouvernemental-sur-le-developpement-du-rafale-f5/",
       "pubDate": "2026-10-21T15:15:29.000Z",
-      "description": "Ayant commandé quatre-vingt Rafale F4 en décembre 2021, les Émirats arabes unis furent sollicités par la France pour participer financièrement au développement du standard F5 du chasseur-bombardier de Dassault Aviation, à hauteur de 3,5 milliards d’euros [soit 70 % du coût estimé de ce programme]. Évidemment, avec un tel investissement, Doha espérait un accès aux...\nCet article La France et les Émirats arabes unis ont signé un accord intergouvernemental sur le développement du Rafale F5 est apparu en premier sur Zone Militaire.",
+      "description": "Ayant commandé quatre-vingts Rafale F4 en décembre 2021, les Émirats arabes unis furent sollicités par la France pour participer financièrement au développement du standard F5 du chasseur-bombardier de Dassault Aviation, à hauteur de 3,5 milliards d’euros [soit 70 % du coût estimé de ce programme]. Évidemment, avec un tel investissement, les Émirients espéraient un accès...\nCet article La France et les Émirats arabes unis ont signé un accord intergouvernemental sur le développement du Rafale F5 est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Toulon : des drones non-identifiés déjouent les défenses lors d’un exercice militaire",
+      "link": "https://armees.com/drones-toulon-defense-aerienne-failles-typhon/",
+      "pubDate": "2026-10-21T13:24:38.000Z",
+      "description": "Entre le 9 et le 13 octobre 2026, plusieurs drones non-identifiés ont survolé trois sites militaires sensibles de Toulon durant l'exercice interarmées Typhon, dédié précisément à la protection de ces installations. Malgré l'activation de systèmes anti-drone et de brouillage électromagnétique, aucun appareil n'a pu être intercepté, révélant des failles majeures dans les capacités de défense aérienne françaises.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Des drones non autorisés ont été détectés «aux abords et au-dessus» de sites militaires de la région de Toulon",
@@ -199,13 +213,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Rocket Lab annonce un retard supplémentaire pour la fusée Neutron, le premier vol est désormais prévu en 2027",
-      "link": "https://armees.com/rocket-lab-annonce-un-retard-supplementaire-pour-la-fusee-neutron-le-premier-vol-est-desormais-prevu-en-2027/",
-      "pubDate": "2026-10-20T06:05:47.000Z",
-      "description": "Un simple vide dans de la fibre de carbone, et c'est tout le calendrier de Neutron qui s'effondre. Rocket Lab dévoile les coulisses d'un retard qui en dit long sur les défis de la réutilisabilité face à SpaceX.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La Slovaquie, nouveau pôle européen de production de munitions : « Nous nous appuyons sur l’héritage de nos ancêtres »",
       "link": "https://www.lemonde.fr/economie/article/2026/10/20/la-slovaquie-nouveau-pole-europeen-de-production-de-munitions-nous-nous-appuyons-sur-l-heritage-de-nos-ancetres_6797866_3234.html",
       "pubDate": "2026-10-20T04:00:24.000Z",
@@ -232,13 +239,6 @@
       "pubDate": "2026-10-19T15:40:39.000Z",
       "description": "La carapace du VBCI va se renforcer pour mieux résister aux drones armés et autres munitions téléopérées. L'équation privilégiée par l'unité derrière ce bouclier en phase de production, le 16e bataillon de chasseurs à pied (16e BCP) ? De la récup', de l'internalisation et un peu d'huile de coude. \nThe post Une carapace anti-drones “maison” pour le VBCI appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Un engin spatial russe s’est approché à quelques mètres d’un satellite d’observation ICEYE au terme de manœuvres inédites",
-      "link": "https://www.opex360.com/2026/10/19/un-engin-spatial-russe-sest-approche-a-quelques-metres-dun-satellite-dobservation-iceye-au-terme-de-manoeuvres-inedites/",
-      "pubDate": "2026-10-19T15:35:31.000Z",
-      "description": "La semaine passée, devant les députés de la commission de la Défense, le chef d’état-major de l’armée de l’Air & de l’Espace [CEMAAE], le général Jérôme Bellanger, a donné un petit aperçu de ce qui est en train de se passer en orbite. «Dans l’espace, la Chine réalise une progression technologique continue, marquée par la...\nCet article Un engin spatial russe s’est approché à quelques mètres d’un satellite d’observation ICEYE au terme de manœuvres inédites est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "L’artillerie française en ordre de marche pour tonner aujourd’hui et se projeter sur 2040",
