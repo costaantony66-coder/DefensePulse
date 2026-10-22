@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T06:08:46.843Z",
+  "generatedAt": "2026-10-22T11:58:22.837Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "title": "La Direction générale de l’armement évalue le drone sous-marin transocéanique Oryx O-16 d’Exail",
+      "link": "https://www.opex360.com/2026/10/22/la-direction-generale-de-larmement-evalue-le-drone-sous-marin-transoceanique-oryx-o-16-dexail/",
+      "pubDate": "2026-10-22T11:01:16.000Z",
+      "description": "«Droniser partout où c’est possible et maintenir ‘habité’ ce qui est nécessaire». Tel est l’ambition de la Marine nationale, comme l’a encore récemment rappelé l’amiral Christophe Cluzel, son chef d’état-major [CEMM] en évoquant la nécessité d’un «choc de dronisation». Lors d’une audition à l’Assemblée nationale, la semaine passée, le CEMM a fait savoir que la...\nCet article La Direction générale de l’armement évalue le drone sous-marin transocéanique Oryx O-16 d’Exail est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Armes de défense : la ruée des commerçants révèle une faille stratégique",
+      "link": "https://armees.com/pillages-arme-securite-interieure-commerce-armurerie/",
+      "pubDate": "2026-10-22T09:51:12.000Z",
+      "description": "Les pillages du 17 octobre 2026 ont frappé plus de 3 000 commerces et provoqué une ruée sans précédent vers les armureries. Les ventes d'armes de défense ont été multipliées par dix, révélant une crise de confiance majeure : 60% des Français estiment devoir assurer eux-mêmes leur sécurité. Au-delà du phénomène d'autodéfense, cette débâcle expose une faille stratégique dans la capacité de l'État à maintenir l'ordre intérieur, avec des implications profondes pour la défense nationale.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Trump évoque ’19 ans de’ missiles intercepteurs dans le conflit en Iran durant 7 mois",
+      "link": "https://armees.com/trump-evoque-19-ans-de-missiles-intercepteurs-dans-le-conflit-en-iran-durant-7-mois/",
+      "pubDate": "2026-10-22T06:05:00.000Z",
+      "description": "En sept mois face à l'Iran, les États-Unis ont grillé près de 19 ans de stocks de missiles Patriot. Un général avait prévenu avant la guerre : la pénurie durera jusqu'en 2030. Et la Chine observe.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un agriculteur a trouvé dans son champ de maïs du Minnesota des débris d’une fusée chinoise de 3,35 mètres",
+      "link": "https://armees.com/un-agriculteur-a-trouve-dans-son-champ-de-mais-du-minnesota-des-debris-dune-fusee-chinoise-de-335-metres/",
+      "pubDate": "2026-10-22T05:35:37.000Z",
+      "description": "Un champ de maïs du Minnesota, un objet métallique de 33 mètres, et aucune explication officielle pendant des semaines. Son origine chinoise révèle une manœuvre spatiale qui a visiblement mal tourné.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Un satellite russe a suivi un autre américain qui assiste l’Ukraine et s’est rapproché à 200 mètres",
       "link": "https://armees.com/un-satellite-russe-a-suivi-un-autre-americain-qui-assiste-lukraine-et-sest-rapproche-a-200-metres/",
@@ -185,32 +213,11 @@
       "sourceKey": "geo"
     },
     {
-      "title": "Le PAM réduit son aide alimentaire à Gaza de 500 000 bénéficiaires",
-      "link": "https://armees.com/gaza-aide-onu-stabilite-risques-securite-2026/",
-      "pubDate": "2026-10-20T13:53:00.000Z",
-      "description": "Le Programme alimentaire mondial réduit drastiquement son aide humanitaire à Gaza, abandonnant 500 000 bénéficiaires sur 1,6 million. Cette décision, motivée par une chute de financement de plus de 50%, intervient alors qu'aucune reconstruction n'a débuté depuis le cessez-le-feu de 2025 et que 1,4 million de Palestiniens vivent en insécurité alimentaire critique, menaçant la stabilité régionale.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La RAF déploie des chasseurs Typhoon en Arabie Saoudite",
-      "link": "https://armees.com/typhoon-arabie-saoudite-defense-aerienne-raf-2026/",
-      "pubDate": "2026-10-20T12:35:39.000Z",
-      "description": "Le Royaume-Uni déploie des chasseurs Typhoon en Arabie Saoudite pour intercepter drones et missiles houthis menaçant Ryad. Missions strictement défensives, sans frappes offensives au Yémen. L'opération mobilise également un A400M, des conseillers militaires et prolonge le ravitaillement en vol de 90 jours.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’armée ukrainienne revendique la première évacuation d’un soldat blessé par un drone aérien",
       "link": "https://www.opex360.com/2026/10/20/larmee-ukrainienne-revendique-la-premiere-evacuation-dun-soldat-blesse-par-un-drone-aerien/",
       "pubDate": "2026-10-20T11:12:06.000Z",
       "description": "Évacuer rapidement un soldat blessé au cours d’une action de combat est primordial pour augmenter ses chances de survie. L’an passé, afin de limiter l’exposition des combattants valides au feu ennemi, le Service de santé des armées [SSA] a évoqué son intention d’utiliser le robot «mule» PROBOT, celui-ci étant susceptible de «faciliter la prise en...\nCet article L’armée ukrainienne revendique la première évacuation d’un soldat blessé par un drone aérien est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Ukraine : des militaires français envoyés en Pologne pour simuler un cessez-le-feu",
-      "link": "https://armees.com/exercice-multinational-pologne-otan-deployment-ukraine/",
-      "pubDate": "2026-10-20T09:29:45.000Z",
-      "description": "En novembre 2026, des milliers de militaires britanniques, français, allemands et polonais participeront à un exercice en Pologne simulant un déploiement post-conflit en Ukraine. Confirmé par le ministre britannique de la Défense Wes Streeting, cet entraînement teste les capacités logistiques et opérationnelles de la Force multinationale pour l'Ukraine (MNF-U), créée en mars 2025.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La Slovaquie, nouveau pôle européen de production de munitions : « Nous nous appuyons sur l’héritage de nos ancêtres »",
@@ -224,13 +231,6 @@
       "link": "https://www.opex360.com/2026/10/19/pour-la-premiere-fois-un-drone-de-surface-va-integrer-un-groupe-aeronaval-de-lus-navy/",
       "pubDate": "2026-10-19T17:35:29.000Z",
       "description": "Quand il était chef d’état-major de la Marine nationale [CEMM], l’amiral Nicolas Vaujour expliquait que les drones de surface n’avaient pas encore la maturité technologique pour un usage opérationnel en haute mer. «Développer des drones de surface dotés d’une certaine endurance et faire naviguer très longtemps un bateau autonome en haute mer n’est pas encore...\nCet article Pour la première fois, un drone de surface va intégrer un groupe aéronaval de l’US Navy est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "La Nouvelle-Zélande confirme l’achat de cinq hélicoptères américains MH-60R SeaHawk pour plus de 930 millions de dollars",
-      "link": "https://www.opex360.com/2026/10/19/la-nouvelle-zelande-confirme-lachat-de-cinq-helicopteres-americains-mh-60r-seahawk-pour-plus-de-930-millions-de-dollars/",
-      "pubDate": "2026-10-19T16:54:51.000Z",
-      "description": "En un peu plus d’un an, pas moins de trois ministres de la Défense auront eu à s’occuper du dossier concernant le renouvellement des hélicoptères dédiés à lutte anti-sous-marine mis en œuvre depuis les deux frégates de type ANZAC de la Royal New Zealand Navy [RNZN]. En effet, en août 2025, alors ministre en exercice,...\nCet article La Nouvelle-Zélande confirme l’achat de cinq hélicoptères américains MH-60R SeaHawk pour plus de 930 millions de dollars est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
