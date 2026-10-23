@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T01:52:26.864Z",
+  "generatedAt": "2026-10-23T06:49:35.266Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "title": "Un seul missile, zéro tir à l’aveugle : comment les équipages du Tigre verrouillent leur cible avant d’appuyer sur le bouton",
+      "link": "https://armees.com/un-seul-missile-zero-tir-a-laveugle-comment-les-equipages-du-tigre-verrouillent-leur-cible-avant-dappuyer-sur-le-bouton/",
+      "pubDate": "2026-10-23T05:35:06.000Z",
+      "description": "Un missile français capable de voir sa cible avant même de quitter son tube, tiré depuis un Tigre en Gironde. La France prépare son indépendance face au Hellfire américain dès 2028.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Crash d’un avion militaire près de Nancy : un corps retrouvé dans les débris, le deuxième occupant reste introuvable malgré les recherches",
+      "link": "https://armees.com/crash-dun-avion-militaire-pres-de-nancy-un-corps-retrouve-dans-les-debris-le-deuxieme-occupant-reste-introuvable-malgre-les-recherches/",
+      "pubDate": "2026-10-23T05:05:51.000Z",
+      "description": "Un Mirage 2000D s'écrase en pleine nuit près de Nancy : le corps du pilote retrouvé, mais son navigateur reste introuvable. Brouillard, forêt, recherches à pied. Que s'est-il vraiment passé ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "F-35 : le Pentagone commande 850 avions sur dix ans à Lockheed Martin",
+      "link": "https://armees.com/f35-850-avions-modernisation-menaces-drones-ia/",
+      "pubDate": "2026-10-23T04:40:00.000Z",
+      "description": "Le Pentagone et Lockheed Martin ont conclu mardi un accord-cadre décennal portant sur l'acquisition d'au moins 850 F-35 Lightning II.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Manifestations : Bitchat rend les coupures réseau impossibles",
+      "link": "https://armees.com/bitchat-manifestations-jack-dorsey-france-grace-reseau-impossible-couper/",
+      "pubDate": "2026-10-23T04:01:46.000Z",
+      "description": "L'application Bitchat, développée par Jack Dorsey, connaît un succès fulgurant en France depuis les manifestations du 17 octobre 2026.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Starshield : Musk impose des restrictions, Trump intervient pour les lever",
+      "link": "https://armees.com/starshield-ukraine-restrictions-implications-tactiques-2026/",
+      "pubDate": "2026-10-23T03:06:07.000Z",
+      "description": "En octobre 2026, Elon Musk a imposé des restrictions de vitesse sur Starshield, dégradant de 60% les capacités militaires ukrainiennes.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Le ministère des Armées annonce la mort en service aérien commandé du lieutenant-colonel Sarkissian et du lieutenant Klysz",
       "link": "https://www.opex360.com/2026/10/22/le-ministere-des-armees-annonce-la-mort-en-service-aerien-commande-du-lieutenant-colonel-sarkissian-et-du-lieutenant-klysz/",
@@ -136,13 +171,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "États-Unis : retrait du personnel diplomatique et militaire d’Arabie saoudite",
-      "link": "https://armees.com/redeploiement-us-houthis-moyen-orient-2026-strategie/",
-      "pubDate": "2026-10-22T03:23:20.000Z",
-      "description": "L'armée américaine procède à un redéploiement discret de ses forces au Moyen-Orient tandis que le Département d'État ordonne le retrait du personnel non essentiel d'Arabie saoudite.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La Direction générale de l’armement a commandé quatre systèmes de défense aérienne SAMP/T NG supplémentaires",
       "link": "https://www.opex360.com/2026/10/21/la-direction-generale-de-larmement-a-commande-quatre-systemes-de-defense-aerienne-samp-t-ng-supplementaires/",
       "pubDate": "2026-10-21T17:03:49.000Z",
@@ -157,13 +185,6 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Toulon : des drones non-identifiés déjouent les défenses lors d’un exercice militaire",
-      "link": "https://armees.com/drones-toulon-defense-aerienne-failles-typhon/",
-      "pubDate": "2026-10-21T13:24:38.000Z",
-      "description": "Entre le 9 et le 13 octobre 2026, plusieurs drones non-identifiés ont survolé trois sites militaires sensibles de Toulon durant l'exercice interarmées Typhon, dédié précisément à la protection de ces installations. Malgré l'activation de systèmes anti-drone et de brouillage électromagnétique, aucun appareil n'a pu être intercepté, révélant des failles majeures dans les capacités de défense aérienne françaises.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Des drones non autorisés ont été détectés «aux abords et au-dessus» de sites militaires de la région de Toulon",
       "link": "https://www.opex360.com/2026/10/21/des-drones-non-autorises-ont-ete-detectes-aux-abords-et-au-dessus-de-sites-militaires-de-la-region-de-toulon/",
       "pubDate": "2026-10-21T10:26:43.000Z",
@@ -171,32 +192,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Bigeard : portrait d’un officier parachutiste au cœur d’une polémique mémorielle",
-      "link": "https://armees.com/general-bigeard-carriere-militaire-heritage-controverse/",
-      "pubDate": "2026-10-21T09:36:00.000Z",
-      "description": "La statue du général Bigeard, érigée discrètement à Toul en octobre 2024, ravive la controverse autour d'un officier parachutiste accusé de torture pendant la guerre d'Algérie. Le Tribunal administratif de Nancy examine le recours d'associations demandant son retrait, avec une décision attendue le 17 novembre 2026. Entre héritage militaire et mémoire coloniale, le débat oppose défenseurs d'un héros national et militants dénonçant l'apologie d'un passé indéfendable.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Toulon : des drones non autorisés ont survolé la base navale et d’autres sites militaires, selon la marine nationale",
       "link": "https://www.lemonde.fr/pixels/article/2026/10/21/toulon-des-drones-non-autorises-ont-survole-plusieurs-sites-militaires-selon-la-marine-nationale_6798224_4408996.html",
       "pubDate": "2026-10-21T08:51:29.000Z",
       "description": "Les incidents ont eu lieu lors de l’exercice interarmées Typhon de défense et de protection du port militaire de Toulon, qui s’est tenu du 5 au 16 octobre, ce qui confirme une information d’Ici Provence.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "24 octobre : Sentinelle et unités d’élite déployées en première ligne",
-      "link": "https://armees.com/sentinelle-gign-raid-24-octobre-dispositif-militaire/",
-      "pubDate": "2026-10-21T08:46:44.000Z",
-      "description": "Le 24 octobre verra pour la première fois les 10 000 soldats de l'opération Sentinelle épauler directement la police en maintien d'ordre. Face aux 3 000 commerces pillés le 17 octobre, le gouvernement déploie unités d'élite (GIGN, RAID, BRI), matériel lourd (Centaures, hélicoptères) et adopte une doctrine de réactivité mobile. Un tournant opérationnel sans précédent.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "LFI : les 3 révélations de Mediapart qui ébranlent le renseignement",
-      "link": "https://armees.com/renseignement-territorial-ordres-gouvernement-2026/",
-      "pubDate": "2026-10-21T08:37:42.000Z",
-      "description": "Le 20 octobre 2026, LFI annonce poursuivre Laurent Nuñez après que Mediapart a révélé que des services de renseignement auraient reçu l'ordre de présenter faussement le parti comme responsable des violences du 17 octobre.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Un Mirage 2000D RMV s’est écrasé près de Nancy [MàJ-1]",
