@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T06:49:35.266Z",
+  "generatedAt": "2026-10-23T12:20:08.458Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Le Pentagone et Lockheed Martin ont conclu un accord-cadre pour la production de 850 F-35 sur 10 ans",
+      "link": "https://www.opex360.com/2026/10/23/le-pentagone-et-lockheed-martin-ont-conclu-un-accord-cadre-pour-la-production-de-850-f-35-sur-10-ans/",
+      "pubDate": "2026-10-23T10:38:34.000Z",
+      "description": "Selon un rapport qu’elle a adressé au Congrès le 16 octobre dernier, l’US Air Force a besoin d’au moins 1 509 avions de combat d’ici 2035, dont 40 % de F-35A [soit environ 600 exemplaires], 20 % de F-22A/F-47 et 40 % de F-16 et de F-15EX «Eagle II». Les drones de combat collaboratif [CCA]...\nCet article Le Pentagone et Lockheed Martin ont conclu un accord-cadre pour la production de 850 F-35 sur 10 ans est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Des jumelles Safran dans les mains des observateurs avancés suédois",
+      "link": "https://forcesoperations.com/des-jumelles-safran-dans-les-mains-des-observateurs-avances-suedois/",
+      "pubDate": "2026-10-23T10:06:26.000Z",
+      "description": "Un an. C'est le délai qu'il aura fallu à Safran Electronics & Defense pour produire et livrer une nouvelle capacité de désignation d'objectifs aux forces armées suédoises, capacité fondée sur une évolution de sa jumelle Moskito TI.\nThe post Des jumelles Safran dans les mains des observateurs avancés suédois appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "Forges de Tarbes : la faillite qui menace directement les Caesar en Ukraine",
+      "link": "https://armees.com/forges-de-tarbes-obus-caesar-france-capacite-production/",
+      "pubDate": "2026-10-23T08:45:04.000Z",
+      "description": "Le redressement judiciaire des Forges de Tarbes, déposé le 22 octobre 2026, menace la seule capacité française de production de fûts d'obus de 155 mm pour les canons Caesar. Cette usine des Hautes-Pyrénées, employant 60 salariés, assure un approvisionnement vital pour l'Ukraine et les forces armées françaises. Sans alternative industrielle nationale, la France risque une rupture capacitaire critique et une dépendance accrue aux importations européennes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Yvelines : un mort et quatre blessés après des tirs à Trappes et La Verrière",
+      "link": "https://armees.com/yvelines-un-mort-et-quatre-blesses-apres-des-tirs-a-trappes-et-la-verriere/",
+      "pubDate": "2026-10-23T08:44:45.000Z",
+      "description": "Une personne est morte et quatre autres ont été blessées lors de tirs à Trappes et La Verrière, vendredi 23 octobre. Un suspect a été placé en garde à vue.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "SAMP/T NG : le seul bouclier européen contre les missiles Mach 5",
+      "link": "https://armees.com/samp-t-ng-capacites-hypersoniques-defense-aerienne/",
+      "pubDate": "2026-10-23T06:50:10.000Z",
+      "description": "La France accélère son programme de défense antiaérienne avec la commande de quatre systèmes SAMP/T NG supplémentaires, portant le total à douze unités. Seul bouclier européen capable d'intercepter des missiles hypersoniques dépassant Mach 5, ce système répond à une vulnérabilité stratégique identifiée par la DGA après les conflits au Moyen-Orient et en Ukraine.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Indonésie : l’éruption du volcan Lewotobi a lancé des bombes volcaniques géantes à plus de 6,5 km, voici ce qu’il s’est produit",
+      "link": "https://armees.com/indonesie-leruption-du-volcan-lewotobi-a-lance-des-bombes-volcaniques-geantes-a-plus-de-65-km-voici-ce-quil-sest-produit/",
+      "pubDate": "2026-10-23T06:05:39.000Z",
+      "description": "Une colonne de cendres haute comme 30 tours Eiffel, un périmètre de sécurité de 7 kilomètres, et un terrible précédent de novembre 2025 avec neuf morts. Le scénario se répète-t-il ?",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Un seul missile, zéro tir à l’aveugle : comment les équipages du Tigre verrouillent leur cible avant d’appuyer sur le bouton",
       "link": "https://armees.com/un-seul-missile-zero-tir-a-laveugle-comment-les-equipages-du-tigre-verrouillent-leur-cible-avant-dappuyer-sur-le-bouton/",
@@ -143,34 +185,6 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Armes de défense : la ruée des commerçants révèle une faille stratégique",
-      "link": "https://armees.com/pillages-arme-securite-interieure-commerce-armurerie/",
-      "pubDate": "2026-10-22T09:51:12.000Z",
-      "description": "Les pillages du 17 octobre 2026 ont frappé plus de 3 000 commerces et provoqué une ruée sans précédent vers les armureries. Les ventes d'armes de défense ont été multipliées par dix, révélant une crise de confiance majeure : 60% des Français estiment devoir assurer eux-mêmes leur sécurité. Au-delà du phénomène d'autodéfense, cette débâcle expose une faille stratégique dans la capacité de l'État à maintenir l'ordre intérieur, avec des implications profondes pour la défense nationale.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Trump évoque ’19 ans de’ missiles intercepteurs dans le conflit en Iran durant 7 mois",
-      "link": "https://armees.com/trump-evoque-19-ans-de-missiles-intercepteurs-dans-le-conflit-en-iran-durant-7-mois/",
-      "pubDate": "2026-10-22T06:05:00.000Z",
-      "description": "En sept mois face à l'Iran, les États-Unis ont grillé près de 19 ans de stocks de missiles Patriot. Un général avait prévenu avant la guerre : la pénurie durera jusqu'en 2030. Et la Chine observe.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un agriculteur a trouvé dans son champ de maïs du Minnesota des débris d’une fusée chinoise de 3,35 mètres",
-      "link": "https://armees.com/un-agriculteur-a-trouve-dans-son-champ-de-mais-du-minnesota-des-debris-dune-fusee-chinoise-de-335-metres/",
-      "pubDate": "2026-10-22T05:35:37.000Z",
-      "description": "Un champ de maïs du Minnesota, un objet métallique de 33 mètres, et aucune explication officielle pendant des semaines. Son origine chinoise révèle une manœuvre spatiale qui a visiblement mal tourné.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un satellite russe a suivi un autre américain qui assiste l’Ukraine et s’est rapproché à 200 mètres",
-      "link": "https://armees.com/un-satellite-russe-a-suivi-un-autre-americain-qui-assiste-lukraine-et-sest-rapproche-a-200-metres/",
-      "pubDate": "2026-10-22T05:05:00.000Z",
-      "description": "À 30 mètres seulement d'un satellite espion américain crucial pour l'Ukraine, un engin russe a joué avec le feu pendant des jours. L'incident le plus risqué jamais observé en orbite.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La Direction générale de l’armement a commandé quatre systèmes de défense aérienne SAMP/T NG supplémentaires",
       "link": "https://www.opex360.com/2026/10/21/la-direction-generale-de-larmement-a-commande-quatre-systemes-de-defense-aerienne-samp-t-ng-supplementaires/",
       "pubDate": "2026-10-21T17:03:49.000Z",
@@ -210,13 +224,6 @@
       "link": "https://www.opex360.com/2026/10/20/levaluation-de-lengin-teleopere-de-brechage-mecanique-de-zone-destine-a-larmee-de-terre-est-en-bonne-voie/",
       "pubDate": "2026-10-20T17:42:53.000Z",
       "description": "Avant la trêve estivale, la Section technique de l’armée de Terre [STAT] fit savoir que son groupement mobilité et agencement de l’espace terrestre [MOB-AGESTER] était sur le point de commencer l’évaluation technico-opérationnelle de l’Engin de bréchage mécanique de zone [EBMZ], censé permettre aux unités du Génie de récupérer une capacité redevenue incontournable dans le contexte...\nCet article L’évaluation de l’Engin [téléopéré] de bréchage mécanique de zone destiné à l’armée de Terre est en bonne voie est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Le drone sous-marin australien Ghost Shark sera doté de munitions rôdeuses Altius 600 et de mines navales",
-      "link": "https://www.opex360.com/2026/10/20/le-drone-sous-marin-australien-ghost-shark-sera-dote-de-munitions-rodeuses-altus-600-et-de-mines-navales/",
-      "pubDate": "2026-10-20T16:51:18.000Z",
-      "description": "Même si elle a obtenu la garantie qu’elle recevra trois sous-marins nucléaire d’attaque [SNA] de type Virginia prélevés dans la dotation de l’US Navy au cours de la prochaine décennie, la marine royale australienne [RAN – Royal Australian Navy] devra maintenir en service ses six sous-marins appartenant à la classe Collins pendant bien plus longtemps...\nCet article Le drone sous-marin australien Ghost Shark sera doté de munitions rôdeuses Altius 600 et de mines navales est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -351,13 +358,6 @@
       "pubDate": "2026-10-06T15:50:36.000Z",
       "description": "Le chef de l’Etat a vanté « une formidable démonstration de crédibilité, et une étape qui est importante », alors que la Russie intensifie sa guerre hybride contre l’Europe et continue de jouer la menace nucléaire.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Éclaircie à l’horizon pour les hélicoptères de la Gendarmerie nationale",
-      "link": "https://forcesoperations.com/eclaircie-a-lhorizon-pour-les-helicopteres-de-la-gendarmerie-nationale/",
-      "pubDate": "2026-10-06T15:09:59.000Z",
-      "description": "Les alertes successives du Parlement et de la direction de la Gendarmerie nationale semblent avoir été entendus : des crédits sont enfin inscrits au prochain projet de loi de finances pour permettre aux gendarmes de s'offrir une vingtaine d'hélicoptères H145 D3 supplémentaires.  Il ne s'agira pas tant de notifier un nouveau contrat que d'activer l'option […]\nThe post Éclaircie à l’horizon pour les hélicoptères de la Gendarmerie nationale appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
     },
     {
       "title": "Taïwan, qui veut renforcer sa défense face à la Chine, reçoit ses premiers avions de combat américains F-16V",
