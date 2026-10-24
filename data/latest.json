@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T11:46:53.037Z",
+  "generatedAt": "2026-10-24T15:12:11.895Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Lutte antidrone : Un système d’arme laser a été testé à bord du porte-avions Charles de Gaulle",
+      "link": "https://www.opex360.com/2026/10/24/lutte-antidrone-un-systeme-darme-laser-a-ete-teste-a-bord-du-porte-avions-charles-de-gaulle/",
+      "pubDate": "2026-10-24T14:53:39.000Z",
+      "description": "En juin 2023, la Marine nationale fit savoir que la frégate de défense aérienne [FDA] «Forbin» avait testé, avec succès, le système laser HELMA-P, dans le cadre du programme L2AD [pour Laser de lutte antidrone]. Développé par CILAS [Compagnie industrielle des lasers] à partir de 2017, le système HELMA-P [pour High Energy Laser for Multiple...\nCet article Lutte antidrone : Un système d’arme laser a été testé à bord du porte-avions Charles de Gaulle est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
     {
       "title": "Le ministère allemand de la Défense plaide en faveur d’une coopération avec la Suède pour développer un nouvel avion de combat",
       "link": "https://www.opex360.com/2026/10/24/le-ministere-allemand-de-la-defense-plaide-en-faveur-dune-cooperation-avec-la-suede-pour-developper-un-nouvel-avion-de-combat/",
@@ -225,13 +232,6 @@
       "pubDate": "2026-10-22T15:18:56.000Z",
       "description": "Quelques amendements au projet de loi de finances pour 2027 ont reçu hier le feu vert des députés de la Commission de la défense nationale et des forces armées. L'un d'entre eux, s'il parvient au bout du processus, contribuera à ajouter des crédits supplémentaires au profit de la robotique terrestre.\nThe post Coup de pouce parlementaire pour la robotique terrestre appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "La Direction générale de l’armement évalue le drone de surface transocéanique Oryx O-16 d’Exail",
-      "link": "https://www.opex360.com/2026/10/22/la-direction-generale-de-larmement-evalue-le-drone-transoceanique-oryx-o-16-dexail/",
-      "pubDate": "2026-10-22T11:01:16.000Z",
-      "description": "«Droniser partout où c’est possible et maintenir ‘habité’ ce qui est nécessaire». Telle est l’ambition de la Marine nationale, comme l’a encore récemment rappelé l’amiral Christophe Cluzel, son chef d’état-major [CEMM] en évoquant la nécessité d’un «choc de dronisation». Lors d’une audition à l’Assemblée nationale, la semaine passée, le CEMM a fait savoir que la...\nCet article La Direction générale de l’armement évalue le drone de surface transocéanique Oryx O-16 d’Exail est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Toulon : des drones non autorisés ont survolé la base navale et d’autres sites militaires, selon la marine nationale",
