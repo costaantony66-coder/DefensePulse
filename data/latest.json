@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:15:18.498Z",
+  "generatedAt": "2026-10-25T22:36:15.348Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Nigeria : l’UE débloque 20 millions d’euros pour la protection des soldats face aux drones et aux mines",
+      "link": "https://armees.com/nigeria-ue-20-millions-protection-soldats-drones-octobre-2026/",
+      "pubDate": "2026-10-25T18:15:00.000Z",
+      "description": "Le Conseil de l’Union européenne a adopté le 19 octobre 2026 une première aide militaire bilatérale de 20 millions d’euros au Nigeria. Le financement vise des équipements non létaux, notamment contre les drones et les engins explosifs improvisés, dans un contexte d’insécurité persistante en Afrique de l’Ouest.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Neptune Strike : quatre Rafale Marine et un ravitailleur français mobilisés sur le flanc nord de l’OTAN",
       "link": "https://armees.com/neptune-strike-2026-rafale-marine-mrtt-france-otan-baltique/",
@@ -210,13 +217,6 @@
       "link": "https://armees.com/yvelines-un-mort-et-quatre-blesses-apres-des-tirs-a-trappes-et-la-verriere/",
       "pubDate": "2026-10-23T08:44:45.000Z",
       "description": "Une personne est morte et quatre autres ont été blessées lors de tirs à Trappes et La Verrière, vendredi 23 octobre. Un suspect a été placé en garde à vue.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "SAMP/T NG : le seul bouclier européen contre les missiles Mach 5",
-      "link": "https://armees.com/samp-t-ng-capacites-hypersoniques-defense-aerienne/",
-      "pubDate": "2026-10-23T06:50:10.000Z",
-      "description": "La France accélère son programme de défense antiaérienne avec la commande de quatre systèmes SAMP/T NG supplémentaires, portant le total à douze unités. Seul bouclier européen capable d'intercepter des missiles hypersoniques dépassant Mach 5, ce système répond à une vulnérabilité stratégique identifiée par la DGA après les conflits au Moyen-Orient et en Ukraine.",
       "sourceKey": "armees_com"
     },
     {
