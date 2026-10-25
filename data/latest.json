@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T05:33:43.484Z",
+  "generatedAt": "2026-10-25T10:05:48.536Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Rafale et Typhoon : ce que change le premier exercice nucléaire franco-britannique",
+      "link": "https://armees.com/rafale-typhoon-exercice-rummy-dissuasion-france-royaume-uni/",
+      "pubDate": "2026-10-25T07:35:28.000Z",
+      "description": "Des Typhoon britanniques ont escorté des Rafale français lors de l’exercice Rummy, les 20 et 21 octobre 2026. Cette première coopération dans une simulation de frappe nucléaire renforce l’entraînement commun, sans arme nucléaire ni partage de la décision d’emploi.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Iran reçoit un message via les avions israéliens : des chasseurs et ravitailleurs ont franchi sa frontière avant de rebrousser chemin",
+      "link": "https://armees.com/iran-recoit-un-message-via-les-avions-israeliens-des-chasseurs-et-ravitailleurs-ont-franchi-sa-frontiere-avant-de-rebrousser-chemin/",
+      "pubDate": "2026-10-25T07:05:00.000Z",
+      "description": "Des dizaines de chasseurs israéliens aux portes de l'Iran, sans tirer un coup de feu. Simple démonstration de force ou provocation calculée pour pousser Téhéran à la faute ? La réponse pourrait tout changer.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’Ukraine a perdu plus d’un million de dollars de drones en une nuit : une simple coupure satellite américaine a tout provoqué",
+      "link": "https://armees.com/lukraine-a-perdu-plus-dun-million-de-dollars-de-drones-en-une-nuit-une-simple-coupure-satellite-americaine-a-tout-provoque/",
+      "pubDate": "2026-10-25T06:35:00.000Z",
+      "description": "1 million de dollars de drones perdus en une journée à cause d'une simple coupure satellite. Washington nie, Kiev accuse. Que s'est-il vraiment passé entre Starshield et le front ukrainien ?",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Lutte antidrone : Un système d’arme laser a été testé à bord du porte-avions Charles de Gaulle",
       "link": "https://www.opex360.com/2026/10/24/lutte-antidrone-un-systeme-darme-laser-a-ete-teste-a-bord-du-porte-avions-charles-de-gaulle/",
@@ -182,27 +203,6 @@
       "link": "https://armees.com/crash-dun-avion-militaire-pres-de-nancy-un-corps-retrouve-dans-les-debris-le-deuxieme-occupant-reste-introuvable-malgre-les-recherches/",
       "pubDate": "2026-10-23T05:05:51.000Z",
       "description": "Un Mirage 2000D s'écrase en pleine nuit près de Nancy : le corps du pilote retrouvé, mais son navigateur reste introuvable. Brouillard, forêt, recherches à pied. Que s'est-il vraiment passé ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "F-35 : le Pentagone commande 850 avions sur dix ans à Lockheed Martin",
-      "link": "https://armees.com/f35-850-avions-modernisation-menaces-drones-ia/",
-      "pubDate": "2026-10-23T04:40:00.000Z",
-      "description": "Le Pentagone et Lockheed Martin ont conclu mardi un accord-cadre décennal portant sur l'acquisition d'au moins 850 F-35 Lightning II.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Manifestations : Bitchat rend les coupures réseau impossibles",
-      "link": "https://armees.com/bitchat-manifestations-jack-dorsey-france-grace-reseau-impossible-couper/",
-      "pubDate": "2026-10-23T04:01:46.000Z",
-      "description": "L'application Bitchat, développée par Jack Dorsey, connaît un succès fulgurant en France depuis les manifestations du 17 octobre 2026.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Starshield : Musk impose des restrictions, Trump intervient pour les lever",
-      "link": "https://armees.com/starshield-ukraine-restrictions-implications-tactiques-2026/",
-      "pubDate": "2026-10-23T03:06:07.000Z",
-      "description": "En octobre 2026, Elon Musk a imposé des restrictions de vitesse sur Starshield, dégradant de 60% les capacités militaires ukrainiennes.",
       "sourceKey": "armees_com"
     },
     {
