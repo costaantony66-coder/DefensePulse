@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T17:49:19.137Z",
+  "generatedAt": "2026-10-25T20:15:18.498Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Neptune Strike : quatre Rafale Marine et un ravitailleur français mobilisés sur le flanc nord de l’OTAN",
+      "link": "https://armees.com/neptune-strike-2026-rafale-marine-mrtt-france-otan-baltique/",
+      "pubDate": "2026-10-25T16:46:46.000Z",
+      "description": "Quatre Rafale Marine et un avion ravitailleur MRTT français ont participé, du 18 au 21 octobre, à des séquences aériennes de Neptune Strike en Baltique et en Pologne. L’exercice, qui rassemble 17 pays alliés jusqu’au 5 novembre, met à l’épreuve la coordination entre aviation embarquée, forces navales et unités terrestres.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Rafale F5 : Paris et Abou Dhabi relancent leur coopération, le financement reste à négocier",
       "link": "https://armees.com/rafale-f5-france-emirats-accord-financement-octobre-2026/",
@@ -210,13 +217,6 @@
       "link": "https://armees.com/samp-t-ng-capacites-hypersoniques-defense-aerienne/",
       "pubDate": "2026-10-23T06:50:10.000Z",
       "description": "La France accélère son programme de défense antiaérienne avec la commande de quatre systèmes SAMP/T NG supplémentaires, portant le total à douze unités. Seul bouclier européen capable d'intercepter des missiles hypersoniques dépassant Mach 5, ce système répond à une vulnérabilité stratégique identifiée par la DGA après les conflits au Moyen-Orient et en Ukraine.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Indonésie : l’éruption du volcan Lewotobi a lancé des bombes volcaniques géantes à plus de 6,5 km, voici ce qu’il s’est produit",
-      "link": "https://armees.com/indonesie-leruption-du-volcan-lewotobi-a-lance-des-bombes-volcaniques-geantes-a-plus-de-65-km-voici-ce-quil-sest-produit/",
-      "pubDate": "2026-10-23T06:05:39.000Z",
-      "description": "Une colonne de cendres haute comme 30 tours Eiffel, un périmètre de sécurité de 7 kilomètres, et un terrible précédent de novembre 2025 avec neuf morts. Le scénario se répète-t-il ?",
       "sourceKey": "armees_com"
     },
     {
