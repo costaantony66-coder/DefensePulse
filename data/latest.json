@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T14:24:27.814Z",
+  "generatedAt": "2026-10-25T17:49:19.137Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Rafale F5 : Paris et Abou Dhabi relancent leur coopération, le financement reste à négocier",
+      "link": "https://armees.com/rafale-f5-france-emirats-accord-financement-octobre-2026/",
+      "pubDate": "2026-10-25T14:34:19.000Z",
+      "description": "La France et les Émirats arabes unis ont conclu un accord pour bâtir une stratégie commune autour du Rafale F5. Après plusieurs mois de blocage, le rapprochement relance les discussions industrielles et financières, dont les modalités restent à préciser.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Qatar : KNDS France et John Cockerill sélectionnés, la commande de blindés reste à négocier",
+      "link": "https://armees.com/qatar-knds-john-cockerill-lettre-intention-blindes-octobre-2026/",
+      "pubDate": "2026-10-25T14:12:33.000Z",
+      "description": "Paris et Doha ont signé le 21 octobre 2026 une lettre d'intention visant la modernisation des forces terrestres qatariennes par KNDS France et John Cockerill Defense. Cette avancée ouvre des négociations industrielles importantes, mais ne constitue pas encore une commande ferme.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Le standard 2 du futur avion de renseignement électronique Falcon ARCHANGE est déjà en cours de développement",
       "link": "https://www.opex360.com/2026/10/25/le-standard-2-du-futur-avion-de-renseignement-electronique-falcon-archange-est-deja-en-cours-de-developpement/",
@@ -203,20 +217,6 @@
       "link": "https://armees.com/indonesie-leruption-du-volcan-lewotobi-a-lance-des-bombes-volcaniques-geantes-a-plus-de-65-km-voici-ce-quil-sest-produit/",
       "pubDate": "2026-10-23T06:05:39.000Z",
       "description": "Une colonne de cendres haute comme 30 tours Eiffel, un périmètre de sécurité de 7 kilomètres, et un terrible précédent de novembre 2025 avec neuf morts. Le scénario se répète-t-il ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un seul missile, zéro tir à l’aveugle : comment les équipages du Tigre verrouillent leur cible avant d’appuyer sur le bouton",
-      "link": "https://armees.com/un-seul-missile-zero-tir-a-laveugle-comment-les-equipages-du-tigre-verrouillent-leur-cible-avant-dappuyer-sur-le-bouton/",
-      "pubDate": "2026-10-23T05:35:06.000Z",
-      "description": "Un missile français capable de voir sa cible avant même de quitter son tube, tiré depuis un Tigre en Gironde. La France prépare son indépendance face au Hellfire américain dès 2028.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Crash d’un avion militaire près de Nancy : un corps retrouvé dans les débris, le deuxième occupant reste introuvable malgré les recherches",
-      "link": "https://armees.com/crash-dun-avion-militaire-pres-de-nancy-un-corps-retrouve-dans-les-debris-le-deuxieme-occupant-reste-introuvable-malgre-les-recherches/",
-      "pubDate": "2026-10-23T05:05:51.000Z",
-      "description": "Un Mirage 2000D s'écrase en pleine nuit près de Nancy : le corps du pilote retrouvé, mais son navigateur reste introuvable. Brouillard, forêt, recherches à pied. Que s'est-il vraiment passé ?",
       "sourceKey": "armees_com"
     },
     {
