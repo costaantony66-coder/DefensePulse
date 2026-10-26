@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T18:42:33.777Z",
+  "generatedAt": "2026-10-26T22:58:44.534Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Roumanie : un réseau de sabotage attribué à la Russie ciblait des sites d’armement en Europe",
+      "link": "https://armees.com/roumanie-reseau-sabotage-russie-sites-armement-europe-octobre-2026/",
+      "pubDate": "2026-10-26T18:30:42.000Z",
+      "description": "Les services de renseignement roumains relient l’incendie d’une plateforme industrielle à un réseau qu’ils disent coordonné depuis la Russie. Trois suspects sont visés par des procédures européennes, tandis que l’enquête fait apparaître d’autres cibles militaires et industrielles.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "L’entreprise américaine Warhound veut élever des chiens militaires génétiquement modifiés",
       "link": "https://www.opex360.com/2026/10/26/lentreprise-americaine-warhound-veut-elever-des-chiens-militaires-genetiquement-modifies/",
@@ -161,13 +168,6 @@
       "link": "https://armees.com/coree-nord-obusier-frontiere-lettre-onu-26-octobre-2026/",
       "pubDate": "2026-10-26T04:33:12.000Z",
       "description": "Un obusier nord-coréen a été observé près de la frontière avec le Sud le 26 octobre 2026, dans un contexte de tensions militaires accrues. Pyongyang vient aussi d'adresser une lettre au Conseil de sécurité de l'ONU pour contester les accusations de Séoul après l'explosion de mines en septembre.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Starlink, Musk et l’Ukraine : la guerre sous-traitée aux Big Tech",
-      "link": "https://armees.com/starlink-musk-ukraine-big-tech-guerre-traitee/",
-      "pubDate": "2026-10-26T04:08:41.000Z",
-      "description": "Elon Musk accuse l’Ukraine d’avoir détourné l’usage de Starlink à des fins militaires offensives. Quelques heures après la relance officielle du service, la polémique éclate. Elle révèle une dépendance stratégique ...",
       "sourceKey": "armees_com"
     },
     {
