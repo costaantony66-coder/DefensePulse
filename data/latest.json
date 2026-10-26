@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T22:36:15.348Z",
+  "generatedAt": "2026-10-26T00:42:11.629Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Missiles russes : l’Ukraine sanctionne les fournisseurs de composants et de machines-outils",
+      "link": "https://armees.com/ukraine-sanctions-fournisseurs-missiles-russes-24-octobre-2026/",
+      "pubDate": "2026-10-25T21:33:26.000Z",
+      "description": "Kyiv a signé le 24 octobre deux décrets visant des entreprises et des personnes liées à la fabrication de missiles et à l’approvisionnement de l’industrie militaire russe. Des fabricants de composants aux fournisseurs de machines-outils, les nouvelles sanctions ciblent les maillons industriels de la production d’armements.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Nigeria : l’UE débloque 20 millions d’euros pour la protection des soldats face aux drones et aux mines",
       "link": "https://armees.com/nigeria-ue-20-millions-protection-soldats-drones-octobre-2026/",
@@ -210,13 +217,6 @@
       "link": "https://armees.com/forges-de-tarbes-obus-caesar-france-capacite-production/",
       "pubDate": "2026-10-23T08:45:04.000Z",
       "description": "Le redressement judiciaire des Forges de Tarbes, déposé le 22 octobre 2026, menace la seule capacité française de production de fûts d'obus de 155 mm pour les canons Caesar. Cette usine des Hautes-Pyrénées, employant 60 salariés, assure un approvisionnement vital pour l'Ukraine et les forces armées françaises. Sans alternative industrielle nationale, la France risque une rupture capacitaire critique et une dépendance accrue aux importations européennes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Yvelines : un mort et quatre blessés après des tirs à Trappes et La Verrière",
-      "link": "https://armees.com/yvelines-un-mort-et-quatre-blesses-apres-des-tirs-a-trappes-et-la-verriere/",
-      "pubDate": "2026-10-23T08:44:45.000Z",
-      "description": "Une personne est morte et quatre autres ont été blessées lors de tirs à Trappes et La Verrière, vendredi 23 octobre. Un suspect a été placé en garde à vue.",
       "sourceKey": "armees_com"
     },
     {
