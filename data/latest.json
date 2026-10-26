@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T00:42:11.629Z",
+  "generatedAt": "2026-10-26T05:41:10.774Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Pourquoi le vol d’hafnium à Framatome menace le Rafale",
+      "link": "https://armees.com/hafnium-framatome-rafale-sous-marins-nucleaires-defense/",
+      "pubDate": "2026-10-26T05:12:30.000Z",
+      "description": "Dans la nuit du 21 au 22 octobre 2026, plusieurs centaines de kilos d'hafnium ont été volés à l'usine Framatome de Jarrie, en Isère.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Starlink, Musk et l’Ukraine : la guerre sous-traitée aux Big Tech",
+      "link": "https://armees.com/starlink-musk-ukraine-big-tech-guerre-traitee/",
+      "pubDate": "2026-10-26T04:08:41.000Z",
+      "description": "Elon Musk accuse l’Ukraine d’avoir détourné l’usage de Starlink à des fins militaires offensives. Quelques heures après la relance officielle du service, la polémique éclate. Elle révèle une dépendance stratégique ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Zones tampons : quand la guerre fait exploser la facture stratégique",
+      "link": "https://armees.com/zones-tampons-exploser-guerre-strategique-facture/",
+      "pubDate": "2026-10-26T03:45:59.000Z",
+      "description": "Israël occupe désormais des portions de Gaza, du Liban et de la Syrie au nom de la « sécurité ». Derrière la rhétorique, une réalité budgétaire implacable : occuper coûte infiniment plus ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : Zelensky réclame le déblocage de missiles Patriot déjà approuvés par des pays européens",
+      "link": "https://armees.com/ukraine-patriot-livraisons-europeennes-bloquees-zelensky-25-octobre-2026/",
+      "pubDate": "2026-10-26T01:49:58.000Z",
+      "description": "Après une nouvelle nuit de frappes russes, Volodymyr Zelensky a demandé le 25 octobre de débloquer des livraisons de missiles intercepteurs Patriot qu’il présente comme déjà approuvées par des partenaires européens. Cette demande met en lumière la dépendance de la défense aérienne ukrainienne aux autorisations américaines, à l’approche de l’hiver.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Missiles russes : l’Ukraine sanctionne les fournisseurs de composants et de machines-outils",
       "link": "https://armees.com/ukraine-sanctions-fournisseurs-missiles-russes-24-octobre-2026/",
@@ -171,32 +199,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Rosneft au bord de la rupture : l’Ukraine frappe là où ça fait mal",
-      "link": "https://armees.com/ukraine-drones-raffineries-russie-strategie-asymetrique/",
-      "pubDate": "2026-10-23T13:18:50.000Z",
-      "description": "L'Ukraine a frappé 114 fois les raffineries russes depuis janvier 2026, paralysant un tiers de la capacité nationale. Rosneft avoue à Bloomberg que quelques mois supplémentaires de cette campagne pourraient causer des dommages durables, avec un bénéfice net en chute de 20% et une dette qui s'envole.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Les forces aériennes françaises et britanniques ont simulé une frappe nucléaire lors de l’exercice inédit «Rummy»",
       "link": "https://www.opex360.com/2026/10/23/les-forces-aeriennes-francaises-et-britanniques-ont-simule-une-frappe-nucleaire-lors-de-lexercice-inedit-rummy/",
       "pubDate": "2026-10-23T12:50:13.000Z",
       "description": "Quatre fois par an, l’armée de l’Air & de l’Espace [AAE] organise un exercice Poker, lequel consiste à simuler un raid nucléaire afin de vérifier les capacités opérationnelles et à renforcer la crédibilité de ses Forces aériennes stratégiques [FAS]. Planifié comme une opération à part entière, un exercice Poker mobilise des dizaines d’avions issus d’escadrons...\nCet article Les forces aériennes françaises et britanniques ont simulé une frappe nucléaire lors de l’exercice inédit «Rummy» est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Sentinelle coûte un milliard : en avons-nous pour notre argent ?",
-      "link": "https://armees.com/sentinelle-milliard-coute-avons-notre-argent-2/",
-      "pubDate": "2026-10-23T12:46:12.000Z",
-      "description": "Des militaires en treillis devant les Galeries Lafayette, des soldats pour suppléer une police débordée lors des manifestations du 24 octobre : l’opération Sentinelle s’invite à nouveau dans le débat ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Sentinelle coûte un milliard : en avons-nous pour notre argent ?",
-      "link": "https://armees.com/sentinelle-milliard-coute-avons-notre-argent/",
-      "pubDate": "2026-10-23T12:46:11.000Z",
-      "description": "Des militaires en treillis devant les Galeries Lafayette, des soldats pour suppléer une police débordée lors des manifestations du 24 octobre : l’opération Sentinelle s’invite à nouveau dans le débat ...",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le Pentagone et Lockheed Martin ont conclu un accord-cadre pour la production de 850 F-35 sur 10 ans",
@@ -211,13 +218,6 @@
       "pubDate": "2026-10-23T10:06:26.000Z",
       "description": "Un an. C'est le délai qu'il aura fallu à Safran Electronics & Defense pour produire et livrer une nouvelle capacité de désignation d'objectifs aux forces armées suédoises, capacité fondée sur une évolution de sa jumelle Moskito TI.\nThe post Des jumelles Safran dans les mains des observateurs avancés suédois appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Forges de Tarbes : la faillite qui menace directement les Caesar en Ukraine",
-      "link": "https://armees.com/forges-de-tarbes-obus-caesar-france-capacite-production/",
-      "pubDate": "2026-10-23T08:45:04.000Z",
-      "description": "Le redressement judiciaire des Forges de Tarbes, déposé le 22 octobre 2026, menace la seule capacité française de production de fûts d'obus de 155 mm pour les canons Caesar. Cette usine des Hautes-Pyrénées, employant 60 salariés, assure un approvisionnement vital pour l'Ukraine et les forces armées françaises. Sans alternative industrielle nationale, la France risque une rupture capacitaire critique et une dépendance accrue aux importations européennes.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le ministère des Armées annonce la mort en service aérien commandé du lieutenant-colonel Sarkissian et du lieutenant Klysz",
