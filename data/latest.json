@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:41:10.774Z",
+  "generatedAt": "2026-10-26T12:03:18.446Z",
   "sources": [
     {
       "key": "opex",
@@ -24,10 +24,87 @@
   ],
   "items": [
     {
+      "title": "Spécialiste de l’IA militaire, Helsing AI dévoile un nouveau système de défense aérienne pour contrer les attaques saturantes",
+      "link": "https://www.opex360.com/2026/10/26/specialiste-de-lia-militaire-helsing-ai-devoile-un-nouveau-systeme-de-defense-aerienne-pour-contrer-les-attaques-saturantes/",
+      "pubDate": "2026-10-26T11:34:57.000Z",
+      "description": "Lors d’une récente audition à l’Assemblée nationale, le chef d’état-major de l’armée de l’Air & de l’Espace [CEMAAE], le général Jérôme Bellanger, a souligné les progrès accomplis par la Russie dans le domaine des drones d’attaque. «Alors qu’au début du conflit, il lui a fallu importer […] des Shahed iraniens par cargaisons entières, la Russie...\nCet article Spécialiste de l’IA militaire, Helsing AI dévoile un nouveau système de défense aérienne pour contrer les attaques saturantes est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Radios militaires : six pays européens lancent une nouvelle étape du programme ESSOR",
+      "link": "https://armees.com/essor-radios-militaires-europeennes-phase-4-lancement-octobre-2026/",
+      "pubDate": "2026-10-26T10:09:58.000Z",
+      "description": "Le 22 octobre 2026, l’OCCAR et le consortium a4ESSOR ont lancé à Bonn les travaux de la prochaine phase du programme européen de radios logicielles. Avec la France parmi six pays participants, l’enjeu est de faire communiquer des forces alliées équipées de matériels nationaux différents.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Feux de forêt : avec Leonardo, Hynaero prépare le bombardier d’eau de l’après-Canadair",
+      "link": "https://armees.com/hynaero-leonardo-fregate-f100-bombardier-eau-securite-civile/",
+      "pubDate": "2026-10-26T08:50:49.000Z",
+      "description": "L’alliance entre Hynaero et Leonardo donne un nouvel élan au Fregate-F100. Pour la Sécurité civile, l’enjeu dépasse la capacité d’emport : il concerne la cadence des largages, la disponibilité des avions et le renouvellement des flottes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : comment l’agence d’achats de l’OTAN ouvre un nouveau circuit d’approvisionnement",
+      "link": "https://armees.com/ukraine-nspa-otan-circuit-achats-militaires-26-octobre-2026/",
+      "pubDate": "2026-10-26T08:49:02.000Z",
+      "description": "Le ministère ukrainien de la Défense a détaillé le 22 octobre les modalités d’un accord permettant à Kiev de passer par l’agence d’achats de l’OTAN pour acquérir du matériel militaire. Les industriels ukrainiens pourront aussi répondre à des appels d’offres de cette agence, une évolution qui concerne les chaînes d’approvisionnement européennes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : Poutine et Zelensky acceptent de négocier mais divergent sur l’objectif",
+      "link": "https://armees.com/negociations-abou-dhabi-russie-ukraine-usa/",
+      "pubDate": "2026-10-26T08:07:22.000Z",
+      "description": "La réunion tripartite confirmée pour novembre 2026 à Abou Dhabi entre Russie, Ukraine et États-Unis révèle des divergences militaires insurmontables. Moscou exige un accord final sur les garanties de sécurité tandis que Kiev demande un cessez-le-feu énergétique immédiat. Entre ces positions antagonistes, les frappes massives continuent : 1 600 bombes guidées, 2 300 drones et 48 missiles russes en une semaine, contre 616 drones ukrainiens abattus en une nuit par Moscou.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pour la première fois, Typhoon et Rafale côte à côte : la France et le Royaume-Uni simulent ensemble une frappe nucléaire, et le signal envoyé ne vise pas que la Russie",
+      "link": "https://armees.com/pour-la-premiere-fois-typhoon-et-rafale-cote-a-cote-la-france-et-le-royaume-uni-simulent-ensemble-une-frappe-nucleaire-et-le-signal-envoye-ne-vise-pas-que-la-russie/",
+      "pubDate": "2026-10-26T07:05:53.000Z",
+      "description": "Rafale et Typhoon volent enfin ensemble pour simuler une frappe nucléaire. Une première historique qui scelle l'alliance atomique franco-britannique face aux menaces qui pèsent sur l'Europe. Un tournant stratégique à suivre de près.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Poutine réveille un monstre de la Guerre froide, les Américains veulent prolonger la vie de leur B-52 à 100 ans, pourquoi les grandes puissances continuent de compter sur leurs bombardiers d’antan",
+      "link": "https://armees.com/poutine-reveille-un-monstre-de-la-guerre-froide-les-americains-veulent-prolonger-la-vie-de-leur-b-52-a-100-ans-pourquoi-les-grandes-puissances-continuent-de-compter-sur-leurs-bombardiers-da/",
+      "pubDate": "2026-10-26T06:35:55.000Z",
+      "description": "80 % de ses systèmes refondus, mais la production réelle reste un mystère. Entre promesses de 50 appareils et livraisons incertaines, le Tu-160M cache-t-il ses vraies capacités ? La réponse est plus surprenante qu'il n'y paraît.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Défense aérienne : la France commande quatre SAMP/T NG supplémentaires, portant le total à douze",
+      "link": "https://armees.com/france-quatre-samp-t-ng-supplementaires-douze-systemes-octobre-2026/",
+      "pubDate": "2026-10-26T06:20:53.000Z",
+      "description": "La France a commandé quatre nouvelles unités de tir SAMP/T NG au consortium franco-italien Eurosam. Ce renforcement porte à douze le nombre de systèmes commandés pour l’armée de l’Air et de l’Espace et confirme le choix d’une défense antiaérienne à plusieurs couches.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Des astronomes sud-africains captent un signal laser venu de 8 milliards d’années-lumière : « nous avons d’abord cru à une erreur de calibration »",
+      "link": "https://armees.com/des-astronomes-sud-africains-captent-un-signal-laser-venu-de-8-milliards-dannees-lumiere-nous-avons-dabord-cru-a-une-erreur-de-calibration/",
+      "pubDate": "2026-10-26T06:05:08.000Z",
+      "description": "Un laser radio vieux de 8 milliards d'années, amplifié par une galaxie invisible, vient de pulvériser tous les records connus. Son secret ? Une coïncidence gravitationnelle digne d'un miracle cosmique.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Epicentr : quatre hypermarchés frappés en 24 heures par la Russie",
+      "link": "https://armees.com/frappes-coordonnees-ukraine-tactique-double-tap-kharkiv/",
+      "pubDate": "2026-10-26T05:37:38.000Z",
+      "description": "Entre le 24 et 25 octobre 2026, la Russie a mené une campagne coordonnée de frappes contre quatre hypermarkets Epicentr à Kharkiv, Zaporizhzhia, Vinnytsia et Poltava. L'offensive révèle une sophistication tactique, notamment l'utilisation de la technique du double-tap à Kharkiv avec un intervalle d'une minute entre deux frappes. La chaîne ukrainienne a qualifié ces attaques de « destruction totale du réseau ».",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Pourquoi le vol d’hafnium à Framatome menace le Rafale",
       "link": "https://armees.com/hafnium-framatome-rafale-sous-marins-nucleaires-defense/",
       "pubDate": "2026-10-26T05:12:30.000Z",
       "description": "Dans la nuit du 21 au 22 octobre 2026, plusieurs centaines de kilos d'hafnium ont été volés à l'usine Framatome de Jarrie, en Isère.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Corée du Nord : un obusier visible à la frontière, Pyongyang saisit l’ONU",
+      "link": "https://armees.com/coree-nord-obusier-frontiere-lettre-onu-26-octobre-2026/",
+      "pubDate": "2026-10-26T04:33:12.000Z",
+      "description": "Un obusier nord-coréen a été observé près de la frontière avec le Sud le 26 octobre 2026, dans un contexte de tensions militaires accrues. Pyongyang vient aussi d'adresser une lettre au Conseil de sécurité de l'ONU pour contester les accusations de Séoul après l'explosion de mines en septembre.",
       "sourceKey": "armees_com"
     },
     {
@@ -66,27 +143,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Neptune Strike : quatre Rafale Marine et un ravitailleur français mobilisés sur le flanc nord de l’OTAN",
-      "link": "https://armees.com/neptune-strike-2026-rafale-marine-mrtt-france-otan-baltique/",
-      "pubDate": "2026-10-25T16:46:46.000Z",
-      "description": "Quatre Rafale Marine et un avion ravitailleur MRTT français ont participé, du 18 au 21 octobre, à des séquences aériennes de Neptune Strike en Baltique et en Pologne. L’exercice, qui rassemble 17 pays alliés jusqu’au 5 novembre, met à l’épreuve la coordination entre aviation embarquée, forces navales et unités terrestres.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Rafale F5 : Paris et Abou Dhabi relancent leur coopération, le financement reste à négocier",
-      "link": "https://armees.com/rafale-f5-france-emirats-accord-financement-octobre-2026/",
-      "pubDate": "2026-10-25T14:34:19.000Z",
-      "description": "La France et les Émirats arabes unis ont conclu un accord pour bâtir une stratégie commune autour du Rafale F5. Après plusieurs mois de blocage, le rapprochement relance les discussions industrielles et financières, dont les modalités restent à préciser.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Qatar : KNDS France et John Cockerill sélectionnés, la commande de blindés reste à négocier",
-      "link": "https://armees.com/qatar-knds-john-cockerill-lettre-intention-blindes-octobre-2026/",
-      "pubDate": "2026-10-25T14:12:33.000Z",
-      "description": "Paris et Doha ont signé le 21 octobre 2026 une lettre d'intention visant la modernisation des forces terrestres qatariennes par KNDS France et John Cockerill Defense. Cette avancée ouvre des négociations industrielles importantes, mais ne constitue pas encore une commande ferme.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le standard 2 du futur avion de renseignement électronique Falcon ARCHANGE est déjà en cours de développement",
       "link": "https://www.opex360.com/2026/10/25/le-standard-2-du-futur-avion-de-renseignement-electronique-falcon-archange-est-deja-en-cours-de-developpement/",
       "pubDate": "2026-10-25T11:58:08.000Z",
@@ -99,27 +155,6 @@
       "pubDate": "2026-10-25T11:04:32.000Z",
       "description": "L’ambition de l’armée de Terre est de disposer d’un corps d’armée pleinement opérationnel d’ici 2030 et donc d’être en mesure de planifier et de conduire les opérations de plusieurs divisions d’une force terrestre multinationale dans le cadre de l’Otan. «Dans un conflit de haute intensité, les opérations sont nécessairement menées en coalition. Encore faut-il être...\nCet article L’armée de Terre pourrait créer au moins dix régiments ou bataillons supplémentaires après 2030 est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Rafale et Typhoon : ce que change le premier exercice nucléaire franco-britannique",
-      "link": "https://armees.com/rafale-typhoon-exercice-rummy-dissuasion-france-royaume-uni/",
-      "pubDate": "2026-10-25T07:35:28.000Z",
-      "description": "Des Typhoon britanniques ont escorté des Rafale français lors de l’exercice Rummy, les 20 et 21 octobre 2026. Cette première coopération dans une simulation de frappe nucléaire renforce l’entraînement commun, sans arme nucléaire ni partage de la décision d’emploi.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Iran reçoit un message via les avions israéliens : des chasseurs et ravitailleurs ont franchi sa frontière avant de rebrousser chemin",
-      "link": "https://armees.com/iran-recoit-un-message-via-les-avions-israeliens-des-chasseurs-et-ravitailleurs-ont-franchi-sa-frontiere-avant-de-rebrousser-chemin/",
-      "pubDate": "2026-10-25T07:05:00.000Z",
-      "description": "Des dizaines de chasseurs israéliens aux portes de l'Iran, sans tirer un coup de feu. Simple démonstration de force ou provocation calculée pour pousser Téhéran à la faute ? La réponse pourrait tout changer.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’Ukraine a perdu plus d’un million de dollars de drones en une nuit : une simple coupure satellite américaine a tout provoqué",
-      "link": "https://armees.com/lukraine-a-perdu-plus-dun-million-de-dollars-de-drones-en-une-nuit-une-simple-coupure-satellite-americaine-a-tout-provoque/",
-      "pubDate": "2026-10-25T06:35:00.000Z",
-      "description": "1 million de dollars de drones perdus en une journée à cause d'une simple coupure satellite. Washington nie, Kiev accuse. Que s'est-il vraiment passé entre Starshield et le front ukrainien ?",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Lutte antidrone : Un système d’arme laser a été testé à bord du porte-avions Charles de Gaulle",
@@ -148,34 +183,6 @@
       "pubDate": "2026-10-24T09:22:27.000Z",
       "description": "La Loi de programmation militaire [LPM] 2024-30 actualisée a confirmé le lancement, dès 2026, d’études pour le développement de capacités de frappe dans la profondeur [DPS] devant reposer sur des missiles balistiques terrestres [MBT] d’une portée «allant prioritairement jusqu’à la classe 2 500 km». Et cela avec l’objectif de disposer d’une capacité opérationnelle initiale en...\nCet article Le futur missile balistique terrestre devrait finalement être mis en œuvre par l’armée de Terre est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "La Chine suit le navire de guerre américain USS Charleston, conflit à propos d’un récif disputé",
-      "link": "https://armees.com/la-chine-suit-le-navire-de-guerre-americain-uss-charleston-conflit-a-propos-dun-recif-dispute/",
-      "pubDate": "2026-10-24T06:05:50.000Z",
-      "description": "Un navire américain frôle un récif disputé, la Chine riposte aussitôt, les Philippines démentent tout, et un second face-à-face éclate près de Taïwan le même jour. Tensions maritimes, jeu dangereux : la suite s'annonce explosive.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un avion militaire ukrainien Il-76 a été vu en train de décoller d’un aéroport saoudien proche du Yémen",
-      "link": "https://armees.com/un-avion-militaire-ukrainien-il-76-a-ete-vu-en-train-de-decoller-dun-aeroport-saoudien-proche-du-yemen/",
-      "pubDate": "2026-10-24T05:35:13.000Z",
-      "description": "Un avion militaire ukrainien repéré à quelques kilomètres du Yémen en guerre, juste avant de filer vers Istanbul. Cargaison inconnue, destination sensible : que transportait-il réellement ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Grand Israël : quand la guerre devient bras armé du cadastre",
-      "link": "https://armees.com/grand-israel-guerre-devient-cadastre-bras-arme/",
-      "pubDate": "2026-10-24T05:20:18.000Z",
-      "description": "À la veille des élections législatives israéliennes, des militants rêvent d’annexer le Liban-Sud, des pans de Syrie et Gaza. Derrière l’idéologie, une réalité économique brutale : qui paie ? Et ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un ingénieur prétend avoir découvert un moyen de dépasser la gravité terrestre",
-      "link": "https://armees.com/un-ingenieur-pretend-avoir-decouvert-un-moyen-de-depasser-la-gravite-terrestre/",
-      "pubDate": "2026-10-24T05:05:34.000Z",
-      "description": "237 millinewtons générés sans carburant ni propulseur : un ex-chercheur de la NASA affirme défier les lois de la physique. Mais depuis 2019, aucun labo indépendant n'a confirmé cette mystérieuse poussée électrique. Simple illusion ou vraie révolution ?",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La Turquie espère conclure prochainement un accord avec le Qatar pour se procurer des Eurofighter Typhoon d’occasion",
@@ -218,13 +225,6 @@
       "pubDate": "2026-10-23T10:06:26.000Z",
       "description": "Un an. C'est le délai qu'il aura fallu à Safran Electronics & Defense pour produire et livrer une nouvelle capacité de désignation d'objectifs aux forces armées suédoises, capacité fondée sur une évolution de sa jumelle Moskito TI.\nThe post Des jumelles Safran dans les mains des observateurs avancés suédois appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Le ministère des Armées annonce la mort en service aérien commandé du lieutenant-colonel Sarkissian et du lieutenant Klysz",
-      "link": "https://www.opex360.com/2026/10/22/le-ministere-des-armees-annonce-la-mort-en-service-aerien-commande-du-lieutenant-colonel-sarkissian-et-du-lieutenant-klysz/",
-      "pubDate": "2026-10-22T17:48:57.000Z",
-      "description": "Ce jour, le parquet de Metz a confirmé la mort du pilote et du navigateur officier systèmes d’armes [NOSA] qui se trouvaient à bord du Mirage 2000D RMV qui s’est écrasé dans un bois de la commune de Rogéville [Meurthe-et-Moselle] au retour d’un vol d’entraînement de nuit, le 20 octobre, à 22 h 40. Selon...\nCet article Le ministère des Armées annonce la mort en service aérien commandé du lieutenant-colonel Sarkissian et du lieutenant Klysz est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Coup de pouce parlementaire pour la robotique terrestre",
@@ -279,7 +279,7 @@
       "title": "A Verdun, avec les premiers appelés du service national, nouveaux ambassadeurs de l’« esprit de défense »",
       "link": "https://www.lemonde.fr/societe/article/2026/10/16/a-verdun-avec-les-premiers-appeles-du-service-national-nouveaux-ambassadeurs-de-l-esprit-de-defense_6795571_3224.html",
       "pubDate": "2026-10-16T15:31:14.000Z",
-      "description": "Ce nouveau dispositif, à ne pas confondre avec le service national universel, désormais enterré, devrait concerner jusqu’à 10 000 personnes d’ici à 2030 et coûte 2,3 milliards d’euros rien que pour cette première année de service. Une partie de ces volontaires ira renforcer la réserve opérationnelle de l’armée.",
+      "description": "Ce nouveau dispositif, à ne pas confondre avec le service national universel, désormais enterré, devrait concerner jusqu’à 10 000 personnes d’ici à 2030 et coûte 2,3 milliards d’euros sur les cinq ans à venir. Une partie de ces volontaires ira renforcer la réserve opérationnelle de l’armée.",
       "sourceKey": "geo"
     },
     {
