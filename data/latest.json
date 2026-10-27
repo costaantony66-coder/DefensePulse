@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T01:52:33.602Z",
+  "generatedAt": "2026-10-27T07:09:53.469Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Pourquoi l’Allemagne mise sur le missile ukrainien Bars",
+      "link": "https://armees.com/missile-bars-specifications-bundeswehr-essais-2027/",
+      "pubDate": "2026-10-27T05:32:38.000Z",
+      "description": "La Bundeswehr prévoit d'acquérir le missile de croisière ukrainien Bars avant fin 2026 pour des essais début 2027.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Égypte : le Parlement autorise une aide militaire défensive à l’Arabie saoudite",
+      "link": "https://armees.com/egypte-parlement-aide-militaire-defensive-arabie-saoudite-octobre-2026/",
+      "pubDate": "2026-10-27T01:30:33.000Z",
+      "description": "Le Parlement égyptien a donné, le 26 octobre, son accord à une éventuelle assistance militaire pour protéger l’Arabie saoudite des attaques extérieures. La décision ouvre une possibilité d’engagement, dont les moyens et le calendrier dépendront d’une demande de Riyad et des choix du Caire.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "L’entreprise Les Forges de Tarbes, qui fournit des corps d’obus pour l’Ukraine, placée en redressement judiciaire",
       "link": "https://www.lemonde.fr/economie/article/2026/10/27/l-entreprise-les-forges-de-tarbes-qui-fournit-des-corps-d-obus-pour-l-ukraine-placee-en-redressement-judiciaire_6800916_3234.html",
@@ -161,20 +175,6 @@
       "link": "https://armees.com/france-quatre-samp-t-ng-supplementaires-douze-systemes-octobre-2026/",
       "pubDate": "2026-10-26T06:20:53.000Z",
       "description": "La France a commandé quatre nouvelles unités de tir SAMP/T NG au consortium franco-italien Eurosam. Ce renforcement porte à douze le nombre de systèmes commandés pour l’armée de l’Air et de l’Espace et confirme le choix d’une défense antiaérienne à plusieurs couches.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Des astronomes sud-africains captent un signal laser venu de 8 milliards d’années-lumière : « nous avons d’abord cru à une erreur de calibration »",
-      "link": "https://armees.com/des-astronomes-sud-africains-captent-un-signal-laser-venu-de-8-milliards-dannees-lumiere-nous-avons-dabord-cru-a-une-erreur-de-calibration/",
-      "pubDate": "2026-10-26T06:05:08.000Z",
-      "description": "Un laser radio vieux de 8 milliards d'années, amplifié par une galaxie invisible, vient de pulvériser tous les records connus. Son secret ? Une coïncidence gravitationnelle digne d'un miracle cosmique.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Epicentr : quatre hypermarchés frappés en 24 heures par la Russie",
-      "link": "https://armees.com/frappes-coordonnees-ukraine-tactique-double-tap-kharkiv/",
-      "pubDate": "2026-10-26T05:37:38.000Z",
-      "description": "Entre le 24 et 25 octobre 2026, la Russie a mené une campagne coordonnée de frappes contre quatre hypermarkets Epicentr à Kharkiv, Zaporizhzhia, Vinnytsia et Poltava. L'offensive révèle une sophistication tactique, notamment l'utilisation de la technique du double-tap à Kharkiv avec un intervalle d'une minute entre deux frappes. La chaîne ukrainienne a qualifié ces attaques de « destruction totale du réseau ».",
       "sourceKey": "armees_com"
     },
     {
