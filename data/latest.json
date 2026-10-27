@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T13:15:56.405Z",
+  "generatedAt": "2026-10-27T18:44:02.533Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "title": "Après avoir envisagé son abandon, l’US Air Force lance finalement la production de l’arme hypersonique AGM-183A",
+      "link": "https://www.opex360.com/2026/10/27/apres-avoir-envisage-son-abandon-lus-air-force-lance-finalement-la-production-de-larme-hypersonique-agm-183a/",
+      "pubDate": "2026-10-27T17:41:44.000Z",
+      "description": "En 2023, après une campagne d’essais en demi-teinte car comptant autant d’échecs que de succès, l’US Air Force fut à deux doigts de mettre un terme au développement de l’arme hypersonique AGM-183 ARRW [pour Air-Launched Rapid Response Weapon] pour mieux se concentrer sur le missile HACM [pour Hypersonic Attack Cruise Missile], propulsé par un statoréacteur...\nCet article Après avoir envisagé son abandon, l’US Air Force lance finalement la production de l’arme hypersonique AGM-183A est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Le coût d’un second porte-avions de nouvelle génération pourrait être inférieur de 30 % à celui du «France Libre»",
+      "link": "https://www.opex360.com/2026/10/27/le-cout-dun-second-porte-avions-de-nouvelle-generation-pourrait-etre-inferieur-de-30-a-celui-du-france-libre/",
+      "pubDate": "2026-10-27T15:37:58.000Z",
+      "description": "Depuis le retrait du Foch et du Clemenceau [sans parler de celui de l’Arromanches, utilisé pour l’instruction des pilotes jusqu’aux années 1970], la question de doter la Marine nationale de deux porte-avions est récurrente. L’an passé, elle a de nouveau été posée par le général Fabien Mandon, le chef d’état-major des armées [CEMA], sous le...\nCet article Le coût d’un second porte-avions de nouvelle génération pourrait être inférieur de 30 % à celui du «France Libre» est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Roumanie : Thales fournira quatre radars mobiles pour sécuriser les approches aériennes",
+      "link": "https://armees.com/roumanie-thales-quatre-radars-mobiles-approche-aerienne-octobre-2026/",
+      "pubDate": "2026-10-27T15:35:38.000Z",
+      "description": "La Roumanie a signé le 27 octobre un contrat de 326,5 millions de lei hors taxes avec un groupement réunissant Thales România et Thales LAS France. Les quatre radars mobiles, livrables progressivement à partir de 2028, doivent renforcer le contrôle des approches aériennes et l'interopérabilité avec les systèmes de l'OTAN.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "CRS : le ministère de l’Intérieur remplace les Fiat Ducato par des Renault Master",
+      "link": "https://armees.com/crs-renault-fiat-pannes-voiture-police/",
+      "pubDate": "2026-10-27T13:48:51.000Z",
+      "description": "Depuis janvier 2026, 350 pannes graves affectent les fourgons Fiat Ducato des CRS, générant un taux d'indisponibilité de 12%. Face à cette crise de disponibilité opérationnelle, le ministère de l'Intérieur a décidé le 20 octobre de basculer progressivement vers Renault Master d'ici 2028, privilégiant la résilience tactique sur la continuité contractuelle.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’armée américaine bientôt dotée de chiens militaires génétiquement modifiés",
+      "link": "https://armees.com/warhound-chiens-militaires-clones-armee-americaine/",
+      "pubDate": "2026-10-27T13:26:41.000Z",
+      "description": "Warhound, start-up fondée par Ben Lamm et Palmer Luckey, lève 200 millions de dollars pour produire des chiens militaires clonés et génétiquement modifiés. Objectif : affranchir l'armée américaine de sa dépendance à 90 % envers les fournisseurs européens et améliorer les performances opérationnelles grâce à l'édition génétique et aux technologies de défense d'Anduril. Premiers chiots augmentés attendus au premier trimestre 2027.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Une entreprise israélienne aurait ciblé les utilisateurs Starlink dans 100 pays",
+      "link": "https://armees.com/starlink-espionnage-discover-tech-ukraine-communications-militaires/",
+      "pubDate": "2026-10-27T13:12:25.000Z",
+      "description": "Une enquête Reuters révèle que Discover-Tech, entreprise israélienne de technologie publicitaire, a systématiquement ciblé les utilisateurs Starlink dans plus de 100 pays via des enchères publicitaires transformées en infrastructure d'espionnage.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Failles PHP : l’ANSSI signale des tentatives d’exploitation et appelle à appliquer les correctifs",
+      "link": "https://armees.com/anssi-cert-fr-tentatives-exploitation-php-cve-2026-109618-109619-271026-1436/",
+      "pubDate": "2026-10-27T12:35:43.000Z",
+      "description": "Dans une alerte actualisée le 26 octobre, le CERT-FR de l’ANSSI indique avoir constaté des tentatives d’exploitation de deux failles critiques de PHP. Les correctifs publiés le 21 octobre concernent notamment les serveurs web et les applications utilisant ce langage.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "L’armée allemande va se procurer le missile-drone ukrainien à très longue portée BARS",
       "link": "https://www.opex360.com/2026/10/27/larmee-allemande-va-se-procurer-le-missile-drone-ukrainien-a-tres-longue-portee-bars/",
@@ -108,46 +157,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Inde : 22 milliards de dollars de projets militaires, 82 % des achats prévus auprès d’industriels locaux",
-      "link": "https://armees.com/inde-22-milliards-projets-militaires-82-pour-cent-achats-locaux-octobre-2026/",
-      "pubDate": "2026-10-27T04:48:39.000Z",
-      "description": "New Delhi a donné son accord de principe à des acquisitions militaires évaluées à 2 120 milliards de roupies, soit environ 22,3 milliards de dollars. Drones, défense antiaérienne et protection des navires figurent parmi les priorités, avec une place prépondérante annoncée pour les industriels indiens.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Égypte : le Parlement autorise une aide militaire défensive à l’Arabie saoudite",
-      "link": "https://armees.com/egypte-parlement-aide-militaire-defensive-arabie-saoudite-octobre-2026/",
-      "pubDate": "2026-10-27T01:30:33.000Z",
-      "description": "Le Parlement égyptien a donné, le 26 octobre, son accord à une éventuelle assistance militaire pour protéger l’Arabie saoudite des attaques extérieures. La décision ouvre une possibilité d’engagement, dont les moyens et le calendrier dépendront d’une demande de Riyad et des choix du Caire.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’entreprise Les Forges de Tarbes, qui fournit des corps d’obus pour l’Ukraine, placée en redressement judiciaire",
       "link": "https://www.lemonde.fr/economie/article/2026/10/27/l-entreprise-les-forges-de-tarbes-qui-fournit-des-corps-d-obus-pour-l-ukraine-placee-en-redressement-judiciaire_6800916_3234.html",
       "pubDate": "2026-10-27T00:39:28.000Z",
       "description": "Europlasma, le groupe propriétaire de l’unique usine française produisant des fûts d’obus de 155 mm, avait sollicité l’ouverture d’une telle procédure. L’arrivée d’un repreneur est espérée pour cette société, qui emploie actuellement une soixantaine de salariés.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Défense européenne : les cinq grandes puissances militaires veulent harmoniser leurs capacités au sein de l’OTAN",
-      "link": "https://armees.com/e5-defense-europeenne-harmonisation-capacites-otan-26-octobre-2026/",
-      "pubDate": "2026-10-26T22:09:54.000Z",
-      "description": "Réunis à Paris le 26 octobre, les ministres de la Défense de la France, de l’Allemagne, de l’Italie, de la Pologne et du Royaume-Uni ont adopté une déclaration commune sur la préparation militaire européenne. Leur priorité : renforcer les capacités des alliés, coordonner les équipements et maintenir le soutien à l’Ukraine.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Niger : l’Algérie ordonne l’envoi de militaires pour protéger ses intérêts énergétiques",
-      "link": "https://armees.com/algerie-ordre-envoi-militaires-niger-interets-energetiques-26-octobre-2026/",
-      "pubDate": "2026-10-26T20:45:07.000Z",
-      "description": "Le président algérien Abdelmadjid Tebboune a décidé le 26 octobre d’envoyer des unités de l’armée au Niger, après l’autorisation du Parlement. La mission est présentée comme une protection des intérêts énergétiques communs, mais ses effectifs, son calendrier et ses modalités opérationnelles restent à préciser.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Roumanie : un réseau de sabotage attribué à la Russie ciblait des sites d’armement en Europe",
-      "link": "https://armees.com/roumanie-reseau-sabotage-russie-sites-armement-europe-octobre-2026/",
-      "pubDate": "2026-10-26T18:30:42.000Z",
-      "description": "Les services de renseignement roumains relient l’incendie d’une plateforme industrielle à un réseau qu’ils disent coordonné depuis la Russie. Trois suspects sont visés par des procédures européennes, tandis que l’enquête fait apparaître d’autres cibles militaires et industrielles.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "L’entreprise américaine Warhound veut élever des chiens militaires génétiquement modifiés",
@@ -206,25 +220,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Le ministère allemand de la Défense plaide en faveur d’une coopération avec la Suède pour développer un nouvel avion de combat",
-      "link": "https://www.opex360.com/2026/10/24/le-ministere-allemand-de-la-defense-plaide-en-faveur-dune-cooperation-avec-la-suede-pour-developper-un-nouvel-avion-de-combat/",
-      "pubDate": "2026-10-24T10:18:11.000Z",
-      "description": "En juin, l’industrie aérospatiale allemande a fini par obtenir ce qu’elle voulait : la fin de la coopération avec Dassault Aviation pour développer un avion de combat de nouvelle génération [NGF – New Generation Fighter] censé être au centre du programme de Système de combat aérien du futur [SCAF], menée par la France, l’Allemagne et...\nCet article Le ministère allemand de la Défense plaide en faveur d’une coopération avec la Suède pour développer un nouvel avion de combat est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
       "title": "Une rallonge de systèmes SAMP/T NG enfin actée par la France",
       "link": "https://forcesoperations.com/une-rallonge-de-systemes-samp-t-ng-enfin-actee-par-la-france/",
       "pubDate": "2026-10-24T09:36:41.000Z",
       "description": "Le dossier était sur la table depuis un moment. La Direction générale de l'armement (DGA) a enfin commandé quatre sections SAMP/T NG supplémentaires au profit de l'armée de l'Air et de l'Espace, un contrat attribué à Eurosam et par l'entremise de l'OCCAr. Et de 12. Si la loi de programmation militaire avait ajouté quatre sections […]\nThe post Une rallonge de systèmes SAMP/T NG enfin actée par la France appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Le futur missile balistique terrestre devrait finalement être mis en œuvre par l’armée de Terre",
-      "link": "https://www.opex360.com/2026/10/24/le-futur-missile-balistique-terrestre-devrait-finalement-etre-mis-en-oeuvre-par-larmee-de-terre/",
-      "pubDate": "2026-10-24T09:22:27.000Z",
-      "description": "La Loi de programmation militaire [LPM] 2024-30 actualisée a confirmé le lancement, dès 2026, d’études pour le développement de capacités de frappe dans la profondeur [DPS] devant reposer sur des missiles balistiques terrestres [MBT] d’une portée «allant prioritairement jusqu’à la classe 2 500 km». Et cela avec l’objectif de disposer d’une capacité opérationnelle initiale en...\nCet article Le futur missile balistique terrestre devrait finalement être mis en œuvre par l’armée de Terre est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Les Forges de Tarbes, producteurs des corps d’obus du canon Caesar, demandent leur placement en redressement judiciaire",
