@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T07:09:53.469Z",
+  "generatedAt": "2026-10-27T13:15:56.405Z",
   "sources": [
     {
       "key": "opex",
@@ -24,10 +24,94 @@
   ],
   "items": [
     {
+      "title": "L’armée allemande va se procurer le missile-drone ukrainien à très longue portée BARS",
+      "link": "https://www.opex360.com/2026/10/27/larmee-allemande-va-se-procurer-le-missile-drone-ukrainien-a-tres-longue-portee-bars/",
+      "pubDate": "2026-10-27T11:54:24.000Z",
+      "description": "Pour se doter d’une dissuasion conventionnelle crédible, l’Allemagne entend, entre autres, renforcer ses capacités de frappe dans la grande – voire la très grande – profondeur, celles-ci reposant actuellement sur le missile de croisière air-sol KEPD Taurus, capable de détruire une cible situé une distance de plus de 500 km. À cette fin, dans le...\nCet article L’armée allemande va se procurer le missile-drone ukrainien à très longue portée BARS est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Pologne–Royaume-Uni : un plan militaire de trois ans et un enjeu européen autour du financement SAFE",
+      "link": "https://armees.com/pologne-royaume-uni-plan-militaire-trois-ans-safe-27-octobre-2026/",
+      "pubDate": "2026-10-27T10:49:21.000Z",
+      "description": "Varsovie et Londres ont signé le 27 octobre un plan de coopération militaire sur trois ans, consacré notamment aux exercices et au développement des capacités. La Pologne veut aussi rapprocher l’industrie britannique du dispositif européen SAFE, une question qui concerne directement l’organisation des achats d’armement en Europe.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : l’UE débloque 4,9 milliards d’euros, surtout pour rembourser les armées européennes",
+      "link": "https://armees.com/ukraine-ue-49-milliards-remboursements-formation-eumam-octobre-2026/",
+      "pubDate": "2026-10-27T10:12:24.000Z",
+      "description": "Le Conseil de l’Union européenne a adopté huit décisions mobilisant 4,9 milliards d’euros au titre de la Facilité européenne pour la paix. L’essentiel doit rembourser une partie des équipements militaires déjà fournis par les États membres ; 230 millions d’euros supplémentaires sont consacrés à la formation des soldats ukrainiens.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Officiers : l’EPHE-PSL et l’École de Guerre renouvellent 30 ans d’excellence",
+      "link": "https://armees.com/ecole-guerre-ephe-formation-officiers-strategie-2026/",
+      "pubDate": "2026-10-27T10:05:18.000Z",
+      "description": "Le 22 octobre 2026, l'EPHE-PSL et l'École de Guerre ont renouvelé pour cinq ans leur partenariat pédagogique, initié en 1995. Ce dispositif unique forme chaque année une dizaine d'officiers stagiaires à la pensée stratégique par la recherche historique et géopolitique, produisant plusieurs générations de cadres supérieurs influents dans le débat stratégique français.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "31 octobre : Laurent Nuñez annonce un dispositif policier renforcé",
+      "link": "https://armees.com/laurent-nunez-emeute-31-octobre-police/",
+      "pubDate": "2026-10-27T09:37:36.000Z",
+      "description": "Le ministre de l'Intérieur Laurent Nuñez annonce un dispositif « extrêmement robuste » pour le 31 octobre, après deux samedis de violences ayant causé 267 blessés parmi les forces de l'ordre et 1 435 interpellations. Face à plus de 400 mobilisations prévues, le gouvernement impose des tracés hors des centres-villes et maintient des couvre-feux partiels.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : une trêve locale entre en vigueur à Oleshky pour permettre l’aide aux civils",
+      "link": "https://armees.com/ukraine-treve-oleshky-aide-civils-27-octobre-2026/",
+      "pubDate": "2026-10-27T08:29:26.000Z",
+      "description": "Moscou et Kiev disent appliquer depuis le 27 octobre une suspension des tirs dans le secteur d’Oleshky, ville ukrainienne occupée par la Russie. L’accord doit permettre l’acheminement de secours et l’évacuation d’habitants, alors que les frappes continuent ailleurs dans le pays.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cybersécurité : l’ANSSI signale des failles critiques dans les équipements réseau HPE Aruba",
+      "link": "https://armees.com/anssi-cert-fr-hpe-aruba-aos-failles-critiques-correctifs-27-octobre-2026-0936/",
+      "pubDate": "2026-10-27T07:38:01.000Z",
+      "description": "Dans son bulletin du 26 octobre, le CERT-FR de l’ANSSI classe plusieurs vulnérabilités du système réseau Aruba AOS parmi les risques critiques, avec des scores allant jusqu’à 10 sur 10. L’éditeur a publié des versions correctives et appelle les exploitants à sécuriser leurs interfaces d’administration.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Suite à l’échec du Scaf avec la France, l’Allemagne envisagerait un partenariat avec la Suède et l’Espagne pour son futur chasseur",
+      "link": "https://armees.com/suite-a-lechec-du-scaf-avec-la-france-lallemagne-envisagerait-un-partenariat-avec-la-suede-et-lespagne-pour-son-futur-chasseur/",
+      "pubDate": "2026-10-27T07:05:11.000Z",
+      "description": "Berlin tournerait le dos au Royaume-Uni après un « souvenir négatif » de l'Eurofighter. Une alliance surprise avec la Suède et l'Espagne se dessinerait en coulisses. Quel scénario l'Allemagne choisira-t-elle finalement pour son futur chasseur ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Poutine est désormais un homme désespéré, sa nouvelle tactique militaire pour remporter la guerre en Ukraine c’est de bombarder des centres commerciaux",
+      "link": "https://armees.com/poutine-est-desormais-un-homme-desespere-sa-nouvelle-tactique-militaire-pour-remporter-la-guerre-en-ukraine-cest-de-bombarder-des-centres-commerciaux/",
+      "pubDate": "2026-10-27T06:35:44.000Z",
+      "description": "Pompiers pris pour cible une deuxième fois en pleine intervention, centre commercial frappé à nouveau, 140 drones lancés en une nuit : l'Ukraine encaisse un déluge de frappes. Le bilan complet glace le sang.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Des chercheurs ont voulu donner un sens aux présences fantomatiques, ils ont trouvé quelque chose de bien plus terrifiant",
+      "link": "https://armees.com/des-chercheurs-ont-voulu-donner-un-sens-aux-presences-fantomatiques-ils-ont-trouve-quelque-chose-de-bien-plus-terrifiant/",
+      "pubDate": "2026-10-27T06:05:31.000Z",
+      "description": "Un simple son inaudible suffirait-il à faire naître une présence fantomatique ? Des chercheurs canadiens révèlent comment 18 hertz modifient votre corps et votre perception, sans que vous l'entendiez jamais.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Orbán à l’ONU : le plan secret qui inquiète Paris et Londres",
+      "link": "https://armees.com/orban-onu-usa-russie-chine-conseil-securite-2026/",
+      "pubDate": "2026-10-27T05:51:04.000Z",
+      "description": "L'administration Trump encourage Viktor Orbán à briguer le poste de Secrétaire général de l'ONU, avec le soutien inédit de Moscou et Pékin.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Pourquoi l’Allemagne mise sur le missile ukrainien Bars",
       "link": "https://armees.com/missile-bars-specifications-bundeswehr-essais-2027/",
       "pubDate": "2026-10-27T05:32:38.000Z",
       "description": "La Bundeswehr prévoit d'acquérir le missile de croisière ukrainien Bars avant fin 2026 pour des essais début 2027.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Inde : 22 milliards de dollars de projets militaires, 82 % des achats prévus auprès d’industriels locaux",
+      "link": "https://armees.com/inde-22-milliards-projets-militaires-82-pour-cent-achats-locaux-octobre-2026/",
+      "pubDate": "2026-10-27T04:48:39.000Z",
+      "description": "New Delhi a donné son accord de principe à des acquisitions militaires évaluées à 2 120 milliards de roupies, soit environ 22,3 milliards de dollars. Drones, défense antiaérienne et protection des navires figurent parmi les priorités, avec une place prépondérante annoncée pour les industriels indiens.",
       "sourceKey": "armees_com"
     },
     {
@@ -41,7 +125,7 @@
       "title": "L’entreprise Les Forges de Tarbes, qui fournit des corps d’obus pour l’Ukraine, placée en redressement judiciaire",
       "link": "https://www.lemonde.fr/economie/article/2026/10/27/l-entreprise-les-forges-de-tarbes-qui-fournit-des-corps-d-obus-pour-l-ukraine-placee-en-redressement-judiciaire_6800916_3234.html",
       "pubDate": "2026-10-27T00:39:28.000Z",
-      "description": "Europlasma, le groupe propriétaire de l’unique usine française produisant des fûts d’obus de 155 mm, avait sollicité l’ouverture d’une telle procédure. L’arrivée d’un repreneur est espérée pour cette société qui emploie actuellement une soixantaine de salariés.",
+      "description": "Europlasma, le groupe propriétaire de l’unique usine française produisant des fûts d’obus de 155 mm, avait sollicité l’ouverture d’une telle procédure. L’arrivée d’un repreneur est espérée pour cette société, qui emploie actuellement une soixantaine de salariés.",
       "sourceKey": "geo"
     },
     {
@@ -94,88 +178,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "ANSSI : près de 200 violations de données web suivies en 2025, souvent sans faille complexe",
-      "link": "https://armees.com/anssi-cert-fr-violations-donnees-applicatives-2025-octobre-2026-presse/",
-      "pubDate": "2026-10-26T15:34:46.000Z",
-      "description": "Dans un retour d’expérience publié le 20 octobre, le CERT-FR de l’ANSSI décrit près de 200 violations de données issues d’applications web suivies en 2025. Les accès légitimes détournés et les contrôles insuffisants figurent parmi les faiblesses récurrentes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "En mer Baltique, la Suède achète des données de surveillance plutôt que des drones navals",
-      "link": "https://armees.com/suede-baltique-surveillance-service-quatre-drones-saildrone-octobre-2026/",
-      "pubDate": "2026-10-26T14:50:42.000Z",
-      "description": "La Suède utilise quatre drones de surface Saildrone Voyager pendant un an, mais paie un service de surveillance plutôt que l'achat des appareils. Cette nouvelle formule, annoncée les 22 et 23 octobre, alimente aussi les travaux de l'OTAN sur la protection des infrastructures maritimes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Les Houthis lancent une nouvelle attaque sur Riyad",
-      "link": "https://armees.com/houthis-missiles-balistiques-riyad-strategie-defense/",
-      "pubDate": "2026-10-26T13:01:50.000Z",
-      "description": "Les Houthis ont revendiqué dimanche trois opérations militaires simultanées contre l'aéroport de Riyad, une base aérienne à Khamis Mushait et une base navale à Jazan, utilisant des dizaines de missiles balistiques. Cette attaque coordonnée intervient quelques heures avant la réouverture partielle de l'aéroport, fermé pendant deux semaines après des frappes meurtrières antérieures, et illustre l'escalade quasi-quotidienne des échanges de tirs depuis la reprise du conflit yéménite en juillet 2026.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre des mines : le navire belge Oostende éprouve ses drones en mer",
-      "link": "https://armees.com/oostende-essais-drones-guerre-mines-octobre-2026/",
-      "pubDate": "2026-10-26T11:39:03.000Z",
-      "description": "La marine belge a présenté le 23 octobre un nouvel entraînement de trois semaines du M940 Oostende, conçu pour conduire la lutte contre les mines à distance. Ces essais éclairent la transformation des capacités navales européennes, tandis que la France développe ses propres systèmes de drones antimines.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Spécialiste de l’IA militaire, Helsing AI dévoile un nouveau système de défense aérienne pour contrer les attaques saturantes",
       "link": "https://www.opex360.com/2026/10/26/specialiste-de-lia-militaire-helsing-ai-devoile-un-nouveau-systeme-de-defense-aerienne-pour-contrer-les-attaques-saturantes/",
       "pubDate": "2026-10-26T11:34:57.000Z",
       "description": "Lors d’une récente audition à l’Assemblée nationale, le chef d’état-major de l’armée de l’Air & de l’Espace [CEMAAE], le général Jérôme Bellanger, a souligné les progrès accomplis par la Russie dans le domaine des drones d’attaque. «Alors qu’au début du conflit, il lui a fallu importer […] des Shahed iraniens par cargaisons entières, la Russie...\nCet article Spécialiste de l’IA militaire, Helsing AI dévoile un nouveau système de défense aérienne pour contrer les attaques saturantes est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Radios militaires : six pays européens lancent une nouvelle étape du programme ESSOR",
-      "link": "https://armees.com/essor-radios-militaires-europeennes-phase-4-lancement-octobre-2026/",
-      "pubDate": "2026-10-26T10:09:58.000Z",
-      "description": "Le 22 octobre 2026, l’OCCAR et le consortium a4ESSOR ont lancé à Bonn les travaux de la prochaine phase du programme européen de radios logicielles. Avec la France parmi six pays participants, l’enjeu est de faire communiquer des forces alliées équipées de matériels nationaux différents.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Feux de forêt : avec Leonardo, Hynaero prépare le bombardier d’eau de l’après-Canadair",
-      "link": "https://armees.com/hynaero-leonardo-fregate-f100-bombardier-eau-securite-civile/",
-      "pubDate": "2026-10-26T08:50:49.000Z",
-      "description": "L’alliance entre Hynaero et Leonardo donne un nouvel élan au Fregate-F100. Pour la Sécurité civile, l’enjeu dépasse la capacité d’emport : il concerne la cadence des largages, la disponibilité des avions et le renouvellement des flottes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : comment l’agence d’achats de l’OTAN ouvre un nouveau circuit d’approvisionnement",
-      "link": "https://armees.com/ukraine-nspa-otan-circuit-achats-militaires-26-octobre-2026/",
-      "pubDate": "2026-10-26T08:49:02.000Z",
-      "description": "Le ministère ukrainien de la Défense a détaillé le 22 octobre les modalités d’un accord permettant à Kiev de passer par l’agence d’achats de l’OTAN pour acquérir du matériel militaire. Les industriels ukrainiens pourront aussi répondre à des appels d’offres de cette agence, une évolution qui concerne les chaînes d’approvisionnement européennes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : Poutine et Zelensky acceptent de négocier mais divergent sur l’objectif",
-      "link": "https://armees.com/negociations-abou-dhabi-russie-ukraine-usa/",
-      "pubDate": "2026-10-26T08:07:22.000Z",
-      "description": "La réunion tripartite confirmée pour novembre 2026 à Abou Dhabi entre Russie, Ukraine et États-Unis révèle des divergences militaires insurmontables. Moscou exige un accord final sur les garanties de sécurité tandis que Kiev demande un cessez-le-feu énergétique immédiat. Entre ces positions antagonistes, les frappes massives continuent : 1 600 bombes guidées, 2 300 drones et 48 missiles russes en une semaine, contre 616 drones ukrainiens abattus en une nuit par Moscou.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Pour la première fois, Typhoon et Rafale côte à côte : la France et le Royaume-Uni simulent ensemble une frappe nucléaire, et le signal envoyé ne vise pas que la Russie",
-      "link": "https://armees.com/pour-la-premiere-fois-typhoon-et-rafale-cote-a-cote-la-france-et-le-royaume-uni-simulent-ensemble-une-frappe-nucleaire-et-le-signal-envoye-ne-vise-pas-que-la-russie/",
-      "pubDate": "2026-10-26T07:05:53.000Z",
-      "description": "Rafale et Typhoon volent enfin ensemble pour simuler une frappe nucléaire. Une première historique qui scelle l'alliance atomique franco-britannique face aux menaces qui pèsent sur l'Europe. Un tournant stratégique à suivre de près.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Poutine réveille un monstre de la Guerre froide, les Américains veulent prolonger la vie de leur B-52 à 100 ans, pourquoi les grandes puissances continuent de compter sur leurs bombardiers d’antan",
-      "link": "https://armees.com/poutine-reveille-un-monstre-de-la-guerre-froide-les-americains-veulent-prolonger-la-vie-de-leur-b-52-a-100-ans-pourquoi-les-grandes-puissances-continuent-de-compter-sur-leurs-bombardiers-da/",
-      "pubDate": "2026-10-26T06:35:55.000Z",
-      "description": "80 % de ses systèmes refondus, mais la production réelle reste un mystère. Entre promesses de 50 appareils et livraisons incertaines, le Tu-160M cache-t-il ses vraies capacités ? La réponse est plus surprenante qu'il n'y paraît.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Défense aérienne : la France commande quatre SAMP/T NG supplémentaires, portant le total à douze",
-      "link": "https://armees.com/france-quatre-samp-t-ng-supplementaires-douze-systemes-octobre-2026/",
-      "pubDate": "2026-10-26T06:20:53.000Z",
-      "description": "La France a commandé quatre nouvelles unités de tir SAMP/T NG au consortium franco-italien Eurosam. Ce renforcement porte à douze le nombre de systèmes commandés pour l’armée de l’Air et de l’Espace et confirme le choix d’une défense antiaérienne à plusieurs couches.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le standard 2 du futur avion de renseignement électronique Falcon ARCHANGE est déjà en cours de développement",
@@ -217,13 +224,6 @@
       "link": "https://www.opex360.com/2026/10/24/le-futur-missile-balistique-terrestre-devrait-finalement-etre-mis-en-oeuvre-par-larmee-de-terre/",
       "pubDate": "2026-10-24T09:22:27.000Z",
       "description": "La Loi de programmation militaire [LPM] 2024-30 actualisée a confirmé le lancement, dès 2026, d’études pour le développement de capacités de frappe dans la profondeur [DPS] devant reposer sur des missiles balistiques terrestres [MBT] d’une portée «allant prioritairement jusqu’à la classe 2 500 km». Et cela avec l’objectif de disposer d’une capacité opérationnelle initiale en...\nCet article Le futur missile balistique terrestre devrait finalement être mis en œuvre par l’armée de Terre est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "La Turquie espère conclure prochainement un accord avec le Qatar pour se procurer des Eurofighter Typhoon d’occasion",
-      "link": "https://www.opex360.com/2026/10/23/la-turquie-espere-conclure-prochainement-un-accord-avec-le-qatar-pour-se-procurer-des-eurofighter-typhoon-doccasion/",
-      "pubDate": "2026-10-23T17:15:04.000Z",
-      "description": "En octobre 2025, alors qu’elle était sur le point de finaliser l’achat de vingt avions de combat Eurofighter Typhoon auprès du Royaume-Uni pour 8 milliards de livres sterling [soit un peu plus de 9 milliards d’euros selon le taux de change en vigueur à l’époque], la Turquie fit savoir qu’elle envisageait de se procurer entre...\nCet article La Turquie espère conclure prochainement un accord avec le Qatar pour se procurer des Eurofighter Typhoon d’occasion est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
