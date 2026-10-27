@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T22:58:44.534Z",
+  "generatedAt": "2026-10-27T01:52:33.602Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "L’entreprise Les Forges de Tarbes, qui fournit des corps d’obus pour l’Ukraine, placée en redressement judiciaire",
+      "link": "https://www.lemonde.fr/economie/article/2026/10/27/l-entreprise-les-forges-de-tarbes-qui-fournit-des-corps-d-obus-pour-l-ukraine-placee-en-redressement-judiciaire_6800916_3234.html",
+      "pubDate": "2026-10-27T00:39:28.000Z",
+      "description": "Europlasma, le groupe propriétaire de l’unique usine française produisant des fûts d’obus de 155 mm, avait sollicité l’ouverture d’une telle procédure. L’arrivée d’un repreneur est espérée pour cette société qui emploie actuellement une soixantaine de salariés.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Défense européenne : les cinq grandes puissances militaires veulent harmoniser leurs capacités au sein de l’OTAN",
+      "link": "https://armees.com/e5-defense-europeenne-harmonisation-capacites-otan-26-octobre-2026/",
+      "pubDate": "2026-10-26T22:09:54.000Z",
+      "description": "Réunis à Paris le 26 octobre, les ministres de la Défense de la France, de l’Allemagne, de l’Italie, de la Pologne et du Royaume-Uni ont adopté une déclaration commune sur la préparation militaire européenne. Leur priorité : renforcer les capacités des alliés, coordonner les équipements et maintenir le soutien à l’Ukraine.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Niger : l’Algérie ordonne l’envoi de militaires pour protéger ses intérêts énergétiques",
+      "link": "https://armees.com/algerie-ordre-envoi-militaires-niger-interets-energetiques-26-octobre-2026/",
+      "pubDate": "2026-10-26T20:45:07.000Z",
+      "description": "Le président algérien Abdelmadjid Tebboune a décidé le 26 octobre d’envoyer des unités de l’armée au Niger, après l’autorisation du Parlement. La mission est présentée comme une protection des intérêts énergétiques communs, mais ses effectifs, son calendrier et ses modalités opérationnelles restent à préciser.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Roumanie : un réseau de sabotage attribué à la Russie ciblait des sites d’armement en Europe",
       "link": "https://armees.com/roumanie-reseau-sabotage-russie-sites-armement-europe-octobre-2026/",
@@ -154,20 +175,6 @@
       "link": "https://armees.com/frappes-coordonnees-ukraine-tactique-double-tap-kharkiv/",
       "pubDate": "2026-10-26T05:37:38.000Z",
       "description": "Entre le 24 et 25 octobre 2026, la Russie a mené une campagne coordonnée de frappes contre quatre hypermarkets Epicentr à Kharkiv, Zaporizhzhia, Vinnytsia et Poltava. L'offensive révèle une sophistication tactique, notamment l'utilisation de la technique du double-tap à Kharkiv avec un intervalle d'une minute entre deux frappes. La chaîne ukrainienne a qualifié ces attaques de « destruction totale du réseau ».",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Pourquoi le vol d’hafnium à Framatome menace le Rafale",
-      "link": "https://armees.com/hafnium-framatome-rafale-sous-marins-nucleaires-defense/",
-      "pubDate": "2026-10-26T05:12:30.000Z",
-      "description": "Dans la nuit du 21 au 22 octobre 2026, plusieurs centaines de kilos d'hafnium ont été volés à l'usine Framatome de Jarrie, en Isère.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Corée du Nord : un obusier visible à la frontière, Pyongyang saisit l’ONU",
-      "link": "https://armees.com/coree-nord-obusier-frontiere-lettre-onu-26-octobre-2026/",
-      "pubDate": "2026-10-26T04:33:12.000Z",
-      "description": "Un obusier nord-coréen a été observé près de la frontière avec le Sud le 26 octobre 2026, dans un contexte de tensions militaires accrues. Pyongyang vient aussi d'adresser une lettre au Conseil de sécurité de l'ONU pour contester les accusations de Séoul après l'explosion de mines en septembre.",
       "sourceKey": "armees_com"
     },
     {
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/economie/article/2026/09/30/boeing-choisi-pour-fabriquer-le-futur-avion-de-combat-de-la-marine-americaine_6785825_3234.html",
       "pubDate": "2026-09-30T00:56:35.000Z",
       "description": "Le constructeur aéronautique remporte un contrat évalué à 20 milliards de dollars. L’entreprise avait déjà été sélectionnée en mars 2025 pour l’avion de nouvelle génération de l’US Air Force, le F-47.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Arabie saoudite : les moyens militaires français envoyés seront « strictement défensifs », affirme Jean-Noël Barrot",
-      "link": "https://www.lemonde.fr/international/article/2026/09/27/arabie-saoudite-les-moyens-militaires-francais-envoyes-seront-strictement-defensifs-affirme-jean-noel-barrot_6784407_3210.html",
-      "pubDate": "2026-09-27T13:55:43.000Z",
-      "description": "Emmanuel Macron a annoncé l’envoi « de soldats, de radars, de systèmes de défense pour protéger » sur le site de Yanbou, principal terminal saoudien d’exportation de brut sur la mer Rouge ciblé par les houthistes du Yémen.",
       "sourceKey": "geo"
     }
   ]
