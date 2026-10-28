@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T22:47:51.089Z",
+  "generatedAt": "2026-10-28T01:57:50.330Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Missiles navals : BAE Systems réussit un premier tir avec son lanceur de pont ADL",
+      "link": "https://armees.com/bae-systems-premier-tir-lanceur-naval-adl-missiles-octobre-2026/",
+      "pubDate": "2026-10-27T22:30:51.000Z",
+      "description": "BAE Systems a annoncé le 27 octobre le premier essai de tir réel de son Adaptable Deck Launcher, conçu pour équiper des navires militaires de missiles antiaériens. Le système mise sur les équipements du lanceur Mk 41 et sur un rechargement facilité en mer, mais son calendrier de déploiement reste à préciser.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Ukraine : l’Allemagne engagera jusqu’à deux A400M dans le premier exercice de la coalition menée par Paris et Londres",
       "link": "https://armees.com/allemagne-a400m-exercice-koalicja-2026-coalition-volontaires-ukraine/",
@@ -161,13 +168,6 @@
       "link": "https://armees.com/anssi-cert-fr-hpe-aruba-aos-failles-critiques-correctifs-27-octobre-2026-0936/",
       "pubDate": "2026-10-27T07:38:01.000Z",
       "description": "Dans son bulletin du 26 octobre, le CERT-FR de l’ANSSI classe plusieurs vulnérabilités du système réseau Aruba AOS parmi les risques critiques, avec des scores allant jusqu’à 10 sur 10. L’éditeur a publié des versions correctives et appelle les exploitants à sécuriser leurs interfaces d’administration.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Suite à l’échec du Scaf avec la France, l’Allemagne envisagerait un partenariat avec la Suède et l’Espagne pour son futur chasseur",
-      "link": "https://armees.com/suite-a-lechec-du-scaf-avec-la-france-lallemagne-envisagerait-un-partenariat-avec-la-suede-et-lespagne-pour-son-futur-chasseur/",
-      "pubDate": "2026-10-27T07:05:11.000Z",
-      "description": "Berlin tournerait le dos au Royaume-Uni après un « souvenir négatif » de l'Eurofighter. Une alliance surprise avec la Suède et l'Espagne se dessinerait en coulisses. Quel scénario l'Allemagne choisira-t-elle finalement pour son futur chasseur ?",
       "sourceKey": "armees_com"
     },
     {
