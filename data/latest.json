@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T01:57:50.330Z",
+  "generatedAt": "2026-10-28T07:58:10.119Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "title": "« On ne s’attendait pas à trouver ça si vite » : une équipe de 30 chercheurs publie les preuves les plus solides jamais obtenues de vie extraterrestre",
+      "link": "https://armees.com/on-ne-sattendait-pas-a-trouver-ca-si-vite-une-equipe-de-30-chercheurs-publie-les-preuves-les-plus-solides-jamais-obtenues-de-vie-extraterrestre/",
+      "pubDate": "2026-10-28T06:35:07.000Z",
+      "description": "Une planète à 124 années-lumière grouillerait-elle de vie ? Un signal jamais vu intrigue les scientifiques, mais la marge d'erreur reste réelle. Voici ce qu'ils ont vraiment trouvé.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La Force Aérienne Brésilienne a mobilisé un A-29 Super Tucano et un E-99 pour intercepter un avion venant de Bolivie",
+      "link": "https://armees.com/la-force-aerienne-bresilienne-a-mobilise-un-a-29-super-tucano-et-un-e-99-pour-intercepter-un-avion-venant-de-bolivie/",
+      "pubDate": "2026-10-28T06:05:22.000Z",
+      "description": "Un Cessna sans immatriculation, un pilote qui force l'atterrissage puis brûle son propre avion et s'évapore dans la nature. Que cachait-il vraiment à bord ? L'enquête continue.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Espagne : la deuxième frégate F110 mise à l’eau avec quatre mois d’avance",
+      "link": "https://armees.com/espagne-fregate-f110-roger-de-lauria-mise-eau-octobre-2026/",
+      "pubDate": "2026-10-28T05:27:38.000Z",
+      "description": "La marine espagnole a franchi une nouvelle étape dans le renouvellement de ses bâtiments de combat. La frégate Roger de Lauria, deuxième unité d’une série de cinq, a été mise à l’eau le 27 octobre, mais doit encore recevoir ses équipements et achever ses essais avant une livraison prévue en 2029.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Casseurs-payeurs : drones, IA et censure express, les 3 révolutions sécuritaires",
+      "link": "https://armees.com/casseurs-payeurs-drones-surveillance-algorithmes-maintien-ordre/",
+      "pubDate": "2026-10-28T04:51:18.000Z",
+      "description": "Adopté par le Sénat dans la nuit du 27 au 28 octobre par 229 voix contre 105, le projet de loi casseurs-payeurs intègre un arsenal technologique inédit : drones judiciaires, vidéoprotection algorithmique et modération express des réseaux sociaux. Ces innovations redéfinissent la stratégie de maintien de l'ordre interne, entre efficacité opérationnelle revendiquée et risques de surveillance de masse dénoncés par les juristes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Mer Noire : un Atlantique 2 français surveille les routes maritimes depuis la Roumanie",
+      "link": "https://armees.com/mer-noire-atlantique-2-francais-roumanie-surveillance-octobre-2026/",
+      "pubDate": "2026-10-28T02:45:01.000Z",
+      "description": "La France a déployé un avion de patrouille maritime Atlantique 2 en Roumanie, où il doit opérer jusqu’au 6 novembre. Sa mission : repérer les dangers pour la navigation et renforcer la surveillance des infrastructures maritimes, après une série d’attaques contre des cargos.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pare-feu Palo Alto : l’ANSSI alerte sur une faille Brotli et des correctifs encore attendus",
+      "link": "https://armees.com/anssi-palo-alto-brotli-cve-2026-111497-correctifs-281026-0238/",
+      "pubDate": "2026-10-28T00:39:39.000Z",
+      "description": "Le CERT-FR a signalé le 27 octobre une vulnérabilité critique affectant certaines versions de PAN-OS et un composant de Prisma Cloud. L’exposition des pare-feu dépend notamment de l’activation de l’inspection Brotli et du déchiffrement TLS ; plusieurs correctifs sont disponibles, d’autres restent annoncés.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Missiles navals : BAE Systems réussit un premier tir avec son lanceur de pont ADL",
       "link": "https://armees.com/bae-systems-premier-tir-lanceur-naval-adl-missiles-octobre-2026/",
@@ -127,48 +169,6 @@
       "pubDate": "2026-10-27T11:54:24.000Z",
       "description": "Pour se doter d’une dissuasion conventionnelle crédible, l’Allemagne entend, entre autres, renforcer ses capacités de frappe dans la grande – voire la très grande – profondeur, celles-ci reposant actuellement sur le missile de croisière air-sol KEPD Taurus, capable de détruire une cible située une distance de plus de 500 km. À cette fin, dans le...\nCet article L’armée allemande va se procurer le missile-drone ukrainien à très longue portée BARS est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Pologne–Royaume-Uni : un plan militaire de trois ans et un enjeu européen autour du financement SAFE",
-      "link": "https://armees.com/pologne-royaume-uni-plan-militaire-trois-ans-safe-27-octobre-2026/",
-      "pubDate": "2026-10-27T10:49:21.000Z",
-      "description": "Varsovie et Londres ont signé le 27 octobre un plan de coopération militaire sur trois ans, consacré notamment aux exercices et au développement des capacités. La Pologne veut aussi rapprocher l’industrie britannique du dispositif européen SAFE, une question qui concerne directement l’organisation des achats d’armement en Europe.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : l’UE débloque 4,9 milliards d’euros, surtout pour rembourser les armées européennes",
-      "link": "https://armees.com/ukraine-ue-49-milliards-remboursements-formation-eumam-octobre-2026/",
-      "pubDate": "2026-10-27T10:12:24.000Z",
-      "description": "Le Conseil de l’Union européenne a adopté huit décisions mobilisant 4,9 milliards d’euros au titre de la Facilité européenne pour la paix. L’essentiel doit rembourser une partie des équipements militaires déjà fournis par les États membres ; 230 millions d’euros supplémentaires sont consacrés à la formation des soldats ukrainiens.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Officiers : l’EPHE-PSL et l’École de Guerre renouvellent 30 ans d’excellence",
-      "link": "https://armees.com/ecole-guerre-ephe-formation-officiers-strategie-2026/",
-      "pubDate": "2026-10-27T10:05:18.000Z",
-      "description": "Le 22 octobre 2026, l'EPHE-PSL et l'École de Guerre ont renouvelé pour cinq ans leur partenariat pédagogique, initié en 1995. Ce dispositif unique forme chaque année une dizaine d'officiers stagiaires à la pensée stratégique par la recherche historique et géopolitique, produisant plusieurs générations de cadres supérieurs influents dans le débat stratégique français.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "31 octobre : Laurent Nuñez annonce un dispositif policier renforcé",
-      "link": "https://armees.com/laurent-nunez-emeute-31-octobre-police/",
-      "pubDate": "2026-10-27T09:37:36.000Z",
-      "description": "Le ministre de l'Intérieur Laurent Nuñez annonce un dispositif « extrêmement robuste » pour le 31 octobre, après deux samedis de violences ayant causé 267 blessés parmi les forces de l'ordre et 1 435 interpellations. Face à plus de 400 mobilisations prévues, le gouvernement impose des tracés hors des centres-villes et maintient des couvre-feux partiels.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : une trêve locale entre en vigueur à Oleshky pour permettre l’aide aux civils",
-      "link": "https://armees.com/ukraine-treve-oleshky-aide-civils-27-octobre-2026/",
-      "pubDate": "2026-10-27T08:29:26.000Z",
-      "description": "Moscou et Kiev disent appliquer depuis le 27 octobre une suspension des tirs dans le secteur d’Oleshky, ville ukrainienne occupée par la Russie. L’accord doit permettre l’acheminement de secours et l’évacuation d’habitants, alors que les frappes continuent ailleurs dans le pays.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cybersécurité : l’ANSSI signale des failles critiques dans les équipements réseau HPE Aruba",
-      "link": "https://armees.com/anssi-cert-fr-hpe-aruba-aos-failles-critiques-correctifs-27-octobre-2026-0936/",
-      "pubDate": "2026-10-27T07:38:01.000Z",
-      "description": "Dans son bulletin du 26 octobre, le CERT-FR de l’ANSSI classe plusieurs vulnérabilités du système réseau Aruba AOS parmi les risques critiques, avec des scores allant jusqu’à 10 sur 10. L’éditeur a publié des versions correctives et appelle les exploitants à sécuriser leurs interfaces d’administration.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "L’entreprise Les Forges de Tarbes, qui fournit des corps d’obus pour l’Ukraine, placée en redressement judiciaire",
