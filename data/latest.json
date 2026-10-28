@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T14:54:52.094Z",
+  "generatedAt": "2026-10-28T20:01:35.747Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,83 @@
     }
   ],
   "items": [
+    {
+      "title": "Selon un rapport, la flotte de véhicules légers de la Gendarmerie risque de «se heurter à un mur d’obsolescence» en 2028",
+      "link": "https://www.opex360.com/2026/10/28/selon-un-rapport-la-flotte-de-vehicules-legers-de-la-gendarmerie-risque-de-se-heurter-a-un-mur-dobsolescence-en-2028/",
+      "pubDate": "2026-10-28T18:30:10.000Z",
+      "description": "Si le projet de loi de finances pour 2027 [PLF 27] est adopté, la Gendarmerie nationale pourra passer une commande de 23 hélicoptères H145 D3 auprès d’Airbus Helicopters pour environ 355 millions d’euros… et s’épargner ainsi une rupture temporaire de capacité, ses AS350 Écureuil étant arrivés au bout de leur potentiel. Cela étant, les budgets...\nCet article Selon un rapport, la flotte de véhicules légers de la Gendarmerie risque de «se heurter à un mur d’obsolescence» en 2028 est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Berlin fait un pas de plus vers le programme d’avion de combat mené par Londres, Rome et Tokyo",
+      "link": "https://www.opex360.com/2026/10/28/berlin-fait-un-pas-de-plus-vers-le-programme-davion-de-combat-mene-par-londres-rome-et-tokyo/",
+      "pubDate": "2026-10-28T17:37:24.000Z",
+      "description": "Comme l’a encore rappelé Catherine Vautrin, la ministre des Armées, lors d’une audition au Sénat, le 27 octobre, le projet de Système aérien de combat du futur [SCAF] se poursuit, la France, l’Allemagne et l’Espagne ayant maintenu leur coopération sur «la connectivité», c’est-à-dire sur le «cloud de combat». Mais encore faut-il que ces trois pays...\nCet article Berlin fait un pas de plus vers le programme d’avion de combat mené par Londres, Rome et Tokyo est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Ukraine : la paix se négocie, l’Europe se finance enfin",
+      "link": "https://armees.com/ukraine-europe-negocie-paix-finance-enfin/",
+      "pubDate": "2026-10-28T17:03:50.000Z",
+      "description": "Un cessez-le-feu à Olechky, Zelensky parle d’« immense succès » — et l’Europe retient son souffle. Mais derrière la trêve, une question s’impose avec brutalité : combien ce conflit nous ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Surveillance sous-marine : Saab présente Ocean Barrier pour protéger ports et infrastructures",
+      "link": "https://armees.com/saab-ocean-barrier-surveillance-sous-marine-ports-infrastructures-2026/",
+      "pubDate": "2026-10-28T16:50:36.000Z",
+      "description": "Le groupe suédois Saab a dévoilé Ocean Barrier, une solution destinée à réunir plusieurs capteurs sous-marins dans une même surveillance opérationnelle. Présenté comme modulaire, le système vise les ports, les installations en mer et les espaces côtiers, au moment où la protection des fonds marins prend une place croissante dans les stratégies européennes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Drones de reconnaissance : le RQ-35 danois entre dans un circuit d’achat de l’OTAN",
+      "link": "https://armees.com/otan-accord-cadre-drone-rq35-heidrun-sky-watch-28-octobre-2026/",
+      "pubDate": "2026-10-28T16:49:25.000Z",
+      "description": "Le constructeur danois Sky-Watch a été retenu dans un accord-cadre de l’agence d’acquisition de l’OTAN pour son drone de reconnaissance RQ-35 Heidrun. Les pays participant au dispositif disposent désormais d’une voie d’achat simplifiée, sans qu’une nouvelle commande soit annoncée.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Surprise en Suisse : le choix d’un second système de défense aérienne se fera entre le SAMP/T NG et le Barak MX israélien",
+      "link": "https://www.opex360.com/2026/10/28/surprise-en-suisse-le-choix-dun-second-systeme-de-defense-aerienne-se-fera-entre-le-samp-t-ng-et-le-barak-mx-israelien/",
+      "pubDate": "2026-10-28T16:05:35.000Z",
+      "description": "Après l’affaire des F-35A, les retards ainsi que les surcoûts des systèmes de défense aérienne Patriot ou encore les problèmes des drones MALE Hermes 900, le département suisse de la Défense, de la Protection de la population et des sports [DDPS] n’a «plus le droit à l’erreur», a récemment laissé entendre son chef, Martin Pfister,...\nCet article Surprise en Suisse : le choix d’un second système de défense aérienne se fera entre le SAMP/T NG et le Barak MX israélien est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Ukraine-Russie : la paix négociée, un piège pour l’Europe ?",
+      "link": "https://armees.com/ukraine-russie-europe-negociee-paix-piege/",
+      "pubDate": "2026-10-28T15:09:36.000Z",
+      "description": "Moscou et Kiev s’accordent sur un cessez-le-feu local à Oleshky, tandis que Poutine renoue le fil diplomatique avec Helsinki et Oslo. Les États-Unis s’imposent en médiateurs. Pendant ce temps, l’Europe ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Iran, cyber, Ukraine : l’Europe sous pression, la défense sous-financée",
+      "link": "https://armees.com/iran-ukraine-europe-cyber-pression-financee-defense/",
+      "pubDate": "2026-10-28T14:52:09.000Z",
+      "description": "Les services de renseignement européens tirent la sonnette d’alarme : la menace iranienne est durable, polymorphe et bien implantée sur notre sol. Pendant ce temps, les négociations russo-américaines sur l’Ukraine ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Défense : dépenser plus ne suffit pas, dépenser mieux s’impose",
+      "link": "https://armees.com/defense-depenser-suffit-mieux-impose/",
+      "pubDate": "2026-10-28T14:40:44.000Z",
+      "description": "La France augmente son budget de défense. Très bien. Mais une question reste sans réponse : est-ce que cet argent est réellement bien dépensé ? À l’heure où les cyberattaques ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Guerre en Iran : l’absence de reconstruction interroge l’efficacité des frappes",
+      "link": "https://armees.com/guerre-en-iran-absence-reconstruction-interroge/",
+      "pubDate": "2026-10-28T14:27:03.000Z",
+      "description": "Dix-sept mois après les frappes américano-israéliennes, l'Iran n'a entrepris aucune reconstruction de ses installations nucléaires endommagées. L'AIEA ne peut plus vérifier les stocks d'uranium enrichi, tandis que Téhéran déploie une stratégie asymétrique en Europe avec le soutien économique discret de la Chine. Une absence qui interroge l'efficacité réelle des opérations militaires de 2025-2026.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Drones terrestres et IA militaire : l’Europe lance deux groupes de normalisation, avec des réunions à Paris",
+      "link": "https://armees.com/eda-edstar-normes-ia-robots-terrestres-paris-janvier-2027/",
+      "pubDate": "2026-10-28T14:10:52.000Z",
+      "description": "L’Agence européenne de défense appelle les administrations et industriels à désigner des experts pour travailler sur les standards de l’intelligence artificielle et des systèmes terrestres autonomes. Les premières réunions auront lieu à Paris en janvier 2027, avec une échéance de candidature fixée au 1er décembre.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "L’Iran rejette la médiation qatarie : impasse diplomatique et menace d’escalade militaire dans le Golfe",
       "link": "https://armees.com/iran-golfe-qatar-unis-teheran-mediation-rejette-qatarie-diplomatique/",
@@ -87,62 +164,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "GLPI : l’ANSSI alerte sur des failles d’authentification et d’injection SQL",
-      "link": "https://armees.com/anssi-glpi-vulnerabilites-authentification-sqli-correctifs-281026-0937/",
-      "pubDate": "2026-10-28T07:39:21.000Z",
-      "description": "Le CERT-FR a signalé le 27 octobre plusieurs vulnérabilités dans GLPI, logiciel de gestion des services informatiques. Les versions 10.0.27 et 11.0.9 corrigent notamment des défauts touchant l’authentification et les requêtes SQL, avec des conséquences possibles pour les systèmes d’information des organisations utilisatrices.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre en Ukraine, Vladimir Poutine devient très paranoïaque face aux attaques ukrainiennes, il a installé 50 systèmes antiaériens Pantsir autour de sa résidence de Valdaï",
-      "link": "https://armees.com/guerre-en-ukraine-vladimir-poutine-devient-tres-paranoiaque-face-aux-attaques-ukrainiennes-il-a-installe-50-systemes-antiaeriens-pantsir-autour-de-sa-residence-de-valdai/",
-      "pubDate": "2026-10-28T07:05:00.000Z",
-      "description": "Cinquante positions antiaériennes pour moins de 100 000 habitants : à Valdaï, la résidence de Poutine se transforme en forteresse. Seize nouvelles tours viennent d'apparaître, toutes tournées vers l'Ukraine. Pourquoi un tel arsenal ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Trump annonce une rencontre imminente entre Poutine et Zelensky",
-      "link": "https://armees.com/negociation-ukraine-russie-scenarios-militaires-2026/",
-      "pubDate": "2026-10-28T06:59:32.000Z",
-      "description": "Donald Trump annonce l'organisation imminente d'une rencontre entre Vladimir Poutine et Volodymyr Zelensky, modifiant brutalement les calculs stratégiques en Europe. Au-delà du calendrier diplomatique, quels scénarios militaires s'ouvrent réellement pour la stabilité continentale et la posture défensive de l'OTAN après quatre ans et demi de conflit ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "GLPI : l’ANSSI signale des failles d’injection SQL et d’authentification",
-      "link": "https://armees.com/anssi-glpi-injection-sql-authentification-avis-27-octobre-2026-0836/",
-      "pubDate": "2026-10-28T06:36:20.000Z",
-      "description": "Le CERT-FR a publié le 27 octobre 2026 un avis sur plusieurs vulnérabilités de GLPI, logiciel de gestion des services informatiques. Les versions 10.0.27 et 11.0.9, diffusées dès septembre, apportent les correctifs : les organisations doivent vérifier leur niveau de mise à jour.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "« On ne s’attendait pas à trouver ça si vite » : une équipe de 30 chercheurs publie les preuves les plus solides jamais obtenues de vie extraterrestre",
-      "link": "https://armees.com/on-ne-sattendait-pas-a-trouver-ca-si-vite-une-equipe-de-30-chercheurs-publie-les-preuves-les-plus-solides-jamais-obtenues-de-vie-extraterrestre/",
-      "pubDate": "2026-10-28T06:35:07.000Z",
-      "description": "Une planète à 124 années-lumière grouillerait-elle de vie ? Un signal jamais vu intrigue les scientifiques, mais la marge d'erreur reste réelle. Voici ce qu'ils ont vraiment trouvé.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Drones terrestres et IA militaire : l’Europe ouvre deux nouveaux groupes de normalisation",
-      "link": "https://armees.com/aed-edstar-normes-ia-systemes-terrestres-autonomes-octobre-2026/",
-      "pubDate": "2026-10-28T06:10:53.000Z",
-      "description": "L’Agence européenne de défense recherche des experts pour établir des références techniques communes sur l’intelligence artificielle et les systèmes terrestres autonomes. Les administrations et industriels intéressés doivent passer par leurs autorités nationales de normalisation avant le 1er décembre 2026.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La Force Aérienne Brésilienne a mobilisé un A-29 Super Tucano et un E-99 pour intercepter un avion venant de Bolivie",
-      "link": "https://armees.com/la-force-aerienne-bresilienne-a-mobilise-un-a-29-super-tucano-et-un-e-99-pour-intercepter-un-avion-venant-de-bolivie/",
-      "pubDate": "2026-10-28T06:05:22.000Z",
-      "description": "Un Cessna sans immatriculation, un pilote qui force l'atterrissage puis brûle son propre avion et s'évapore dans la nature. Que cachait-il vraiment à bord ? L'enquête continue.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Espagne : la deuxième frégate F110 mise à l’eau avec quatre mois d’avance",
-      "link": "https://armees.com/espagne-fregate-f110-roger-de-lauria-mise-eau-octobre-2026/",
-      "pubDate": "2026-10-28T05:27:38.000Z",
-      "description": "La marine espagnole a franchi une nouvelle étape dans le renouvellement de ses bâtiments de combat. La frégate Roger de Lauria, deuxième unité d’une série de cinq, a été mise à l’eau le 27 octobre, mais doit encore recevoir ses équipements et achever ses essais avant une livraison prévue en 2029.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "2027, nouvelle année de rattrapage pour le génie",
       "link": "https://forcesoperations.com/2027-nouvelle-annee-de-rattrapage-pour-le-genie/",
       "pubDate": "2026-10-27T19:31:32.000Z",
@@ -204,27 +225,6 @@
       "pubDate": "2026-10-26T16:00:03.000Z",
       "description": "Dans une tribune au « Monde », les ministres allemand, britannique, français, italien et polonais de la défense, réunis le 26 octobre à Paris pour le sommet du groupe européen des Cinq (E5), affirment leur volonté d’œuvrer ensemble, au sein de l’OTAN, pour le renforcement de la sécurité du continent.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Une unité de l’armée algérienne va s’installer dans l’ancienne base française de Madama, au Niger",
-      "link": "https://www.opex360.com/2026/10/26/une-unite-de-larmee-algerienne-va-sinstaller-dans-lancienne-base-francaise-de-madama-au-niger/",
-      "pubDate": "2026-10-26T15:55:03.000Z",
-      "description": "Solidaire du Mali et du Burkina Faso dans la Confédération des États du Sahel, le Niger s’était fâché avec l’Algérie après qu’un drone malien fut abattu par l’armée algérienne en avril 2025. Mais cette brouille ne dura que quelques mois, les deux pays s’étant finalement réconciliés en février dernier, d’ailleurs au grand dam de Bamako....\nCet article Une unité de l’armée algérienne va s’installer dans l’ancienne base française de Madama, au Niger est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Spécialiste de l’IA militaire, Helsing AI dévoile un nouveau système de défense aérienne pour contrer les attaques saturantes",
-      "link": "https://www.opex360.com/2026/10/26/specialiste-de-lia-militaire-helsing-ai-devoile-un-nouveau-systeme-de-defense-aerienne-pour-contrer-les-attaques-saturantes/",
-      "pubDate": "2026-10-26T11:34:57.000Z",
-      "description": "Lors d’une récente audition à l’Assemblée nationale, le chef d’état-major de l’armée de l’Air & de l’Espace [CEMAAE], le général Jérôme Bellanger, a souligné les progrès accomplis par la Russie dans le domaine des drones d’attaque. «Alors qu’au début du conflit, il lui a fallu importer […] des Shahed iraniens par cargaisons entières, la Russie...\nCet article Spécialiste de l’IA militaire, Helsing AI dévoile un nouveau système de défense aérienne pour contrer les attaques saturantes est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Le standard 2 du futur avion de renseignement électronique Falcon ARCHANGE est déjà en cours de développement",
-      "link": "https://www.opex360.com/2026/10/25/le-standard-2-du-futur-avion-de-renseignement-electronique-falcon-archange-est-deja-en-cours-de-developpement/",
-      "pubDate": "2026-10-25T11:58:08.000Z",
-      "description": "Pour compenser le retrait prématuré de deux avions de renseignement électronique Transall C-160G «Gabriel» et maintenir les compétences de l’Escadron électronique aéroporté 1/54 «Dunkerque», basé à Évreux, l’armée de l’Air & de l’Espace a notifié le contrat SOLAR à la société CAE Aviation afin de disposer d’un avion Saab 340 équipé du système de missions...\nCet article Le standard 2 du futur avion de renseignement électronique Falcon ARCHANGE est déjà en cours de développement est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Une rallonge de systèmes SAMP/T NG enfin actée par la France",
