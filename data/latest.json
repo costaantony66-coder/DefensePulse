@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T20:01:35.747Z",
+  "generatedAt": "2026-10-29T00:01:42.817Z",
   "sources": [
     {
       "key": "opex",
@@ -24,11 +24,39 @@
   ],
   "items": [
     {
+      "title": "Missile hypersonique ARRW : un contrat de 694 millions de dollars",
+      "link": "https://armees.com/missile-hypersonique-arrw-contrat-production-694-millions-2026/",
+      "pubDate": "2026-10-28T19:31:17.000Z",
+      "description": "L’US Air Force a rendu public un contrat de 694 millions de dollars confié à Lockheed Martin pour produire le missile hypersonique AGM-183A ARRW. Après plusieurs années d’essais et d’incertitudes budgétaires, le programme entre dans une phase industrielle dont les volumes et les échéances restent confidentiels.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Forges de Tarbes : quatre investisseurs discutent d’une reprise des capacités de production d’obus",
+      "link": "https://armees.com/forges-tarbes-quatre-investisseurs-reprise-capacites-obus-28-octobre-2026/",
+      "pubDate": "2026-10-28T19:09:51.000Z",
+      "description": "La ministre des Armées a confirmé le 27 octobre des discussions avec quatre investisseurs autour des actifs stratégiques des Forges de Tarbes. Après l’ouverture du redressement judiciaire, la priorité est de préserver le savoir-faire industriel indispensable à la fabrication française de munitions de 155 mm.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Selon un rapport, la flotte de véhicules légers de la Gendarmerie risque de «se heurter à un mur d’obsolescence» en 2028",
       "link": "https://www.opex360.com/2026/10/28/selon-un-rapport-la-flotte-de-vehicules-legers-de-la-gendarmerie-risque-de-se-heurter-a-un-mur-dobsolescence-en-2028/",
       "pubDate": "2026-10-28T18:30:10.000Z",
       "description": "Si le projet de loi de finances pour 2027 [PLF 27] est adopté, la Gendarmerie nationale pourra passer une commande de 23 hélicoptères H145 D3 auprès d’Airbus Helicopters pour environ 355 millions d’euros… et s’épargner ainsi une rupture temporaire de capacité, ses AS350 Écureuil étant arrivés au bout de leur potentiel. Cela étant, les budgets...\nCet article Selon un rapport, la flotte de véhicules légers de la Gendarmerie risque de «se heurter à un mur d’obsolescence» en 2028 est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "RDC : l’Union européenne réécrit l’embargo sur les armes et renforce la protection de la MONUSCO",
+      "link": "https://armees.com/rdc-ue-reglement-2374-embargo-armes-monusco-28-octobre-2026/",
+      "pubDate": "2026-10-28T18:13:18.000Z",
+      "description": "Un règlement européen entré en vigueur le 28 octobre 2026 réorganise les interdictions de transferts d’armes et de financement militaire vers la République démocratique du Congo. Il ajoute l’entrave délibérée aux opérations de la MONUSCO parmi les motifs de sanctions et précise les obligations des opérateurs européens.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Sécurité maritime et risques technologiques : l’ASEAN adopte cinq initiatives de défense",
+      "link": "https://armees.com/asean-cinq-initiatives-defense-securite-maritime-cebu-octobre-2026/",
+      "pubDate": "2026-10-28T17:44:43.000Z",
+      "description": "Réunis le 28 octobre aux Philippines, les ministres de la Défense d’Asie du Sud-Est ont approuvé cinq initiatives de coopération, de la sécurité maritime à la préparation aux risques chimiques et biologiques. Ces décisions interviennent dans une région stratégique pour les routes maritimes et pour la présence française dans l’Indopacifique.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Berlin fait un pas de plus vers le programme d’avion de combat mené par Londres, Rome et Tokyo",
@@ -129,39 +157,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Deuxième porte-avions français : un rapport préconise une commande d’ici 2029",
-      "link": "https://armees.com/deuxieme-porte-avions-france-rapport-chenevard-commande-2029/",
-      "pubDate": "2026-10-28T12:34:57.000Z",
-      "description": "Le député Yannick Chenevard recommande de commander un second porte-avions de nouvelle génération avant 2029 pour maintenir une capacité aéronavale disponible. Son rapport budgétaire avance un coût de construction inférieur d’environ 30 % à celui du France Libre, une estimation qui reste à expertiser.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Les capacités de la force aérienne polonaise sont affectées par une pénurie de pilotes",
       "link": "https://www.opex360.com/2026/10/28/les-capacites-de-la-force-aerienne-polonaise-sont-affectees-par-une-penurie-de-pilotes/",
       "pubDate": "2026-10-28T11:47:50.000Z",
       "description": "On peut regretter le fait que la Loi de programmation militaire [LPM] 2024-30 actualisée ait mis l’accent sur la cohérence et non sur le format des forces armées françaises, à une période où ces dernières sont contraintes de tirer sur la corde pour tenir leurs contrats opérationnels. L’armée de l’Air & de l’Espace [AAE] «surutilise»...\nCet article Les capacités de la force aérienne polonaise sont affectées par une pénurie de pilotes est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Guerre en Ukraine : le missile Geran-5 K5-K défie la défense antiaérienne",
-      "link": "https://armees.com/geran-5-k5-k-navigation-autonome-defense-aerienne/",
-      "pubDate": "2026-10-28T09:16:54.000Z",
-      "description": "Un missile de croisière russe Geran-5 K5-K a été découvert intact dans la région d'Odessa, révélant un système de navigation optique autonome qui fonctionne sans GPS et contourne les brouilleurs électroniques ukrainiens. Cette avancée technologique, déployée depuis fin septembre 2026, force la défense antiaérienne à repenser ses stratégies d'interception face à une menace produite à raison de 3 500 unités par mois.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Industrie de défense à la peine : Éric Trappier alerte sur les failles critiques de la France",
-      "link": "https://armees.com/metallurgie-defense-france-industrie-menaces/",
-      "pubDate": "2026-10-28T09:11:00.000Z",
-      "description": "Éric Trappier, PDG de Dassault Aviation, alerte sur l'effondrement de l'industrie métallurgique française et ses conséquences directes sur la capacité de défense nationale. Aciers blindés, alliages aéronautiques, semi-conducteurs militaires : la France dépend désormais à 70% de fournisseurs étrangers pour ses équipements stratégiques, une vulnérabilité critique exposée par les conflits en Ukraine et au Moyen-Orient.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "AUKUS : l’USS Colorado désigné pour inaugurer les rotations de sous-marins en Australie en 2027",
-      "link": "https://armees.com/aukus-uss-colorado-premier-sous-marin-rotations-australie-2027/",
-      "pubDate": "2026-10-28T07:51:41.000Z",
-      "description": "L’Australie, les États-Unis et le Royaume-Uni ont désigné l’USS Colorado comme premier sous-marin américain de leur future force tournante basée près de Perth. Son arrivée le 27 octobre pour une période de maintenance concrétise la montée en puissance des infrastructures navales australiennes dans l’Indo-Pacifique.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "2027, nouvelle année de rattrapage pour le génie",
