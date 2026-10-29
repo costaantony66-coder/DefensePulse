@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T05:53:23.499Z",
+  "generatedAt": "2026-10-29T12:05:31.623Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,111 @@
     }
   ],
   "items": [
+    {
+      "title": "La Russie a livré douze premiers avions de combat Su-35E à l’Éthiopie",
+      "link": "https://www.opex360.com/2026/10/29/la-russie-a-livre-douze-premiers-avions-de-combat-su-35e-a-lethiopie/",
+      "pubDate": "2026-10-29T11:59:33.000Z",
+      "description": "En mars 2019, lors d’une visite officielle à Addis-Abeba – la première d’un président français depuis celle effectuée par Georges Pompidou, quarante-six ans plus tôt – Emmanuel Macron annonça la signature d’un accord inédit de coopération en matière de défense avec l’Éthiopie. Cet accord «ouvre notamment la voie à un accompagnement spécifique de la France...\nCet article La Russie a livré douze premiers avions de combat Su-35E à l’Éthiopie est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Missiles Ruta : Destinus revendique une production proche de 300 unités par mois",
+      "link": "https://armees.com/destinus-ruta-production-pres-300-missiles-par-mois-octobre-2026/",
+      "pubDate": "2026-10-29T09:39:31.000Z",
+      "description": "Le fabricant européen Destinus affirme avoir dépassé 1 750 missiles de croisière Ruta produits, avec une cadence mensuelle désormais proche de 300 exemplaires. Au-delà des usines, l'entreprise met en avant un autre défi pour les armées : disposer des moyens de stockage, de soutien et de ciblage nécessaires à de tels volumes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Le général Christian Piquemal, qui avait signé en 2021 une tribune controversée de militaires, est mort",
+      "link": "https://www.lemonde.fr/disparitions/article/2026/10/29/le-general-christian-piquemal-qui-avait-signe-en-2021-une-tribune-controversee-de-militaires-est-mort_6802303_3382.html",
+      "pubDate": "2026-10-29T09:39:10.000Z",
+      "description": "Radié des cadres de l’armée en 2016 pour avoir participé à une manifestation interdite organisée par un groupuscule islamophobe allemand, l’ancien légionnaire s’est éteint le 23 octobre, à 85 ans.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "DHS : comment Okta a permis l’exposition de 41 000 agents fédéraux",
+      "link": "https://armees.com/okta-dhs-fuite-41000-agents-cybersecurite-federale/",
+      "pubDate": "2026-10-29T09:18:30.000Z",
+      "description": "Le collectif Department of Peace a exploité une faille dans le système d'authentification Okta du DHS, exposant les données de plus de 41 000 employés fédéraux, dont 21 000 agents de la CBP et 6 600 d'ICE.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Trafic d’armes : l’arsenal de guerre gagne la région parisienne",
+      "link": "https://armees.com/trafic-darmes-guerre-trafic-ile-france-2026-analyse/",
+      "pubDate": "2026-10-29T08:49:21.000Z",
+      "description": "Le trafic d'armes en Île-de-France connaît une transformation stratégique majeure. Selon le rapport du Sirasco publié fin octobre 2026, les pistolets-mitrailleurs et fusils d'assaut représentent désormais 17,9% des saisies, contre 7,9% en 2023. Impression 3D, contrefaçons turques et filières balkaniques redéfinissent les chaînes d'approvisionnement, confrontant les forces de l'ordre à une menace armée inédite par son ampleur et sa létalité.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Hafnium volé, missiles nord-coréens : l’ère des vulnérabilités stratégiques",
+      "link": "https://armees.com/hafnium-missiles-vulnerabilites-strategiques-vole-coreens-nord-ere/",
+      "pubDate": "2026-10-29T08:03:40.000Z",
+      "description": "Une tonne de métal critique dérobée dans une usine française, une dizaine de missiles balistiques tirés par Pyongyang en mer du Japon : en l’espace de quelques jours, deux signaux ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Routes aériennes, géopolitique et défense : qui paie l’addition ?",
+      "link": "https://armees.com/routes-geopolitique-aeriennes-defense-adition-paie-2/",
+      "pubDate": "2026-10-29T07:52:27.000Z",
+      "description": "Les tensions géopolitiques redessinent les routes aériennes mondiales, allongeant les trajets, renchérissant les coûts, fragilisant les flux logistiques militaires. Derrière les cartes révisées des compagnies commerciales se cache une réalité ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Routes aériennes, géopolitique et défense : qui paie l’addition ?",
+      "link": "https://armees.com/routes-geopolitique-aeriennes-defense-adition-paie/",
+      "pubDate": "2026-10-29T07:52:26.000Z",
+      "description": "Les tensions géopolitiques redessinent les routes aériennes mondiales, allongeant les trajets, renchérissant les coûts, fragilisant les flux logistiques militaires. Derrière les cartes révisées des compagnies commerciales se cache une réalité ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Shenlong : la navette chinoise qui change la guerre spatiale",
+      "link": "https://armees.com/shenlong-navette-chinoise-capacites-militaires-orbite/",
+      "pubDate": "2026-10-29T07:40:16.000Z",
+      "description": "La Defense Intelligence Agency a déclassifié le 26 octobre 2026 une photographie satellite du Shenlong, navette spatiale chinoise réutilisable capable de déployer et capturer des satellites en orbite.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Safran en embuscade sur la radio du combattant débarqué",
+      "link": "https://forcesoperations.com/safran-en-embuscade-sur-la-radio-du-combattant-debarque/",
+      "pubDate": "2026-10-29T07:20:48.000Z",
+      "description": "Safran garde un pied dans les communications tactiques. Peu prolixe sur un domaine souvent associé à Thales ou Airbus, le groupe français y pousse néanmoins une nouvelle solution pour le combattant débarqué. Cette solution, Safran y travaille apparemment depuis près d'une décennie. Baptisée SAFNET, elle n'est pourtant apparue au grand jour que ce mois-ci à […]\nThe post Safran en embuscade sur la radio du combattant débarqué appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "« Nous ne renoncerons pas au Donbas » : Poutine s’adresse directement à deux voisins de l’OTAN, les diplomates réagissent",
+      "link": "https://armees.com/nous-ne-renoncerons-pas-au-donbas-poutine-sadresse-directement-a-deux-voisins-de-lotan-les-diplomates-reagissent/",
+      "pubDate": "2026-10-29T07:05:43.000Z",
+      "description": "Poutine ne lâchera rien sur le Donbas, même face à la Finlande et la Norvège. Pendant que Kiev prépare ses arguments pour Abou Dabi, le Kremlin peaufine déjà sa stratégie. Ce qui se trame pourrait changer la donne.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Sur le pont Charles-de-Gaulle, des aviateurs ont monté un laser anti-drone en quatre heures : « on peut neutraliser une cible sans tirer un seul missile »",
+      "link": "https://armees.com/sur-le-pont-charles-de-gaulle-des-aviateurs-ont-monte-un-laser-anti-drone-en-quatre-heures-on-peut-neutraliser-une-cible-sans-tirer-un-seul-missile/",
+      "pubDate": "2026-10-29T06:35:43.000Z",
+      "description": "Quelques centimes d'électricité pour abattre un drone, contre un missile à un million d'euros : l'écart donne le vertige. Le Charles-de-Gaulle vient de tester en secret une arme qui pourrait tout changer.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Avion de combat du futur : Berlin ouvre des discussions avec Tokyo sur le programme GCAP",
+      "link": "https://armees.com/allemagne-japon-discussions-gcap-merz-tokyo-29-octobre-2026/",
+      "pubDate": "2026-10-29T06:15:43.000Z",
+      "description": "En visite au Japon le 28 octobre, le chancelier Friedrich Merz a annoncé vouloir examiner une coopération germano-japonaise dans les avions de combat. Cette démarche pourrait rapprocher Berlin du programme GCAP porté par le Japon, le Royaume-Uni et l’Italie, après la rupture du projet de chasseur franco-allemand.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un nombre croissant d’anciens policiers et militaires choisissent des emplois dans la livraison de cannabis",
+      "link": "https://armees.com/un-nombre-croissant-danciens-policiers-et-militaires-choisissent-des-emplois-dans-la-livraison-de-cannabis/",
+      "pubDate": "2026-10-29T06:05:24.000Z",
+      "description": "Des policiers et militaires à la retraite troquent leur uniforme pour transporter du cannabis armés, SUV blindés à l'appui. Pourquoi d'anciens flics font-ils ce choix risqué ? La réponse surprend.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Missiles AMRAAM : le Japon accueillera leur assemblage final avec les États-Unis",
+      "link": "https://armees.com/japon-etats-unis-assemblage-final-amraam-sm3-octobre-2026/",
+      "pubDate": "2026-10-29T05:46:12.000Z",
+      "description": "Tokyo et Washington ont conclu un accord pour installer au Japon une capacité d’assemblage final et de contrôle des missiles air-air AMRAAM. Les deux alliés veulent également augmenter la production des intercepteurs SM-3 Block IIA, dans un contexte de renforcement de leurs capacités militaires en Indopacifique.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Lituanie : Berlin renforce sa veille électronique",
       "link": "https://armees.com/lituanie-allemagne-veille-electronique-bundeswehr-octobre-2026/",
@@ -52,39 +157,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Missile hypersonique ARRW : un contrat de 694 millions de dollars",
-      "link": "https://armees.com/missile-hypersonique-arrw-contrat-production-694-millions-2026/",
-      "pubDate": "2026-10-28T19:31:17.000Z",
-      "description": "L’US Air Force a rendu public un contrat de 694 millions de dollars confié à Lockheed Martin pour produire le missile hypersonique AGM-183A ARRW. Après plusieurs années d’essais et d’incertitudes budgétaires, le programme entre dans une phase industrielle dont les volumes et les échéances restent confidentiels.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Forges de Tarbes : quatre investisseurs discutent d’une reprise des capacités de production d’obus",
-      "link": "https://armees.com/forges-tarbes-quatre-investisseurs-reprise-capacites-obus-28-octobre-2026/",
-      "pubDate": "2026-10-28T19:09:51.000Z",
-      "description": "La ministre des Armées a confirmé le 27 octobre des discussions avec quatre investisseurs autour des actifs stratégiques des Forges de Tarbes. Après l’ouverture du redressement judiciaire, la priorité est de préserver le savoir-faire industriel indispensable à la fabrication française de munitions de 155 mm.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Selon un rapport, la flotte de véhicules légers de la Gendarmerie risque de «se heurter à un mur d’obsolescence» en 2028",
       "link": "https://www.opex360.com/2026/10/28/selon-un-rapport-la-flotte-de-vehicules-legers-de-la-gendarmerie-risque-de-se-heurter-a-un-mur-dobsolescence-en-2028/",
       "pubDate": "2026-10-28T18:30:10.000Z",
       "description": "Si le projet de loi de finances pour 2027 [PLF 27] est adopté, la Gendarmerie nationale pourra passer une commande de 23 hélicoptères H145 D3 auprès d’Airbus Helicopters pour environ 355 millions d’euros… et s’épargner ainsi une rupture temporaire de capacité, ses AS350 Écureuil étant arrivés au bout de leur potentiel. Cela étant, les budgets...\nCet article Selon un rapport, la flotte de véhicules légers de la Gendarmerie risque de «se heurter à un mur d’obsolescence» en 2028 est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "RDC : l’Union européenne réécrit l’embargo sur les armes et renforce la protection de la MONUSCO",
-      "link": "https://armees.com/rdc-ue-reglement-2374-embargo-armes-monusco-28-octobre-2026/",
-      "pubDate": "2026-10-28T18:13:18.000Z",
-      "description": "Un règlement européen entré en vigueur le 28 octobre 2026 réorganise les interdictions de transferts d’armes et de financement militaire vers la République démocratique du Congo. Il ajoute l’entrave délibérée aux opérations de la MONUSCO parmi les motifs de sanctions et précise les obligations des opérateurs européens.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Sécurité maritime et risques technologiques : l’ASEAN adopte cinq initiatives de défense",
-      "link": "https://armees.com/asean-cinq-initiatives-defense-securite-maritime-cebu-octobre-2026/",
-      "pubDate": "2026-10-28T17:44:43.000Z",
-      "description": "Réunis le 28 octobre aux Philippines, les ministres de la Défense d’Asie du Sud-Est ont approuvé cinq initiatives de coopération, de la sécurité maritime à la préparation aux risques chimiques et biologiques. Ces décisions interviennent dans une région stratégique pour les routes maritimes et pour la présence française dans l’Indopacifique.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Berlin fait un pas de plus vers le programme d’avion de combat mené par Londres, Rome et Tokyo",
@@ -94,67 +171,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Ukraine : la paix se négocie, l’Europe se finance enfin",
-      "link": "https://armees.com/ukraine-europe-negocie-paix-finance-enfin/",
-      "pubDate": "2026-10-28T17:03:50.000Z",
-      "description": "Un cessez-le-feu à Olechky, Zelensky parle d’« immense succès » — et l’Europe retient son souffle. Mais derrière la trêve, une question s’impose avec brutalité : combien ce conflit nous ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Surveillance sous-marine : Saab présente Ocean Barrier pour protéger ports et infrastructures",
-      "link": "https://armees.com/saab-ocean-barrier-surveillance-sous-marine-ports-infrastructures-2026/",
-      "pubDate": "2026-10-28T16:50:36.000Z",
-      "description": "Le groupe suédois Saab a dévoilé Ocean Barrier, une solution destinée à réunir plusieurs capteurs sous-marins dans une même surveillance opérationnelle. Présenté comme modulaire, le système vise les ports, les installations en mer et les espaces côtiers, au moment où la protection des fonds marins prend une place croissante dans les stratégies européennes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Drones de reconnaissance : le RQ-35 danois entre dans un circuit d’achat de l’OTAN",
-      "link": "https://armees.com/otan-accord-cadre-drone-rq35-heidrun-sky-watch-28-octobre-2026/",
-      "pubDate": "2026-10-28T16:49:25.000Z",
-      "description": "Le constructeur danois Sky-Watch a été retenu dans un accord-cadre de l’agence d’acquisition de l’OTAN pour son drone de reconnaissance RQ-35 Heidrun. Les pays participant au dispositif disposent désormais d’une voie d’achat simplifiée, sans qu’une nouvelle commande soit annoncée.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Surprise en Suisse : le choix d’un second système de défense aérienne se fera entre le SAMP/T NG et le Barak MX israélien",
       "link": "https://www.opex360.com/2026/10/28/surprise-en-suisse-le-choix-dun-second-systeme-de-defense-aerienne-se-fera-entre-le-samp-t-ng-et-le-barak-mx-israelien/",
       "pubDate": "2026-10-28T16:05:35.000Z",
       "description": "Après l’affaire des F-35A, les retards ainsi que les surcoûts des systèmes de défense aérienne Patriot ou encore les problèmes des drones MALE Hermes 900, le département suisse de la Défense, de la Protection de la population et des sports [DDPS] n’a «plus le droit à l’erreur», a récemment laissé entendre son chef, Martin Pfister,...\nCet article Surprise en Suisse : le choix d’un second système de défense aérienne se fera entre le SAMP/T NG et le Barak MX israélien est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Ukraine-Russie : la paix négociée, un piège pour l’Europe ?",
-      "link": "https://armees.com/ukraine-russie-europe-negociee-paix-piege/",
-      "pubDate": "2026-10-28T15:09:36.000Z",
-      "description": "Moscou et Kiev s’accordent sur un cessez-le-feu local à Oleshky, tandis que Poutine renoue le fil diplomatique avec Helsinki et Oslo. Les États-Unis s’imposent en médiateurs. Pendant ce temps, l’Europe ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Iran, cyber, Ukraine : l’Europe sous pression, la défense sous-financée",
-      "link": "https://armees.com/iran-ukraine-europe-cyber-pression-financee-defense/",
-      "pubDate": "2026-10-28T14:52:09.000Z",
-      "description": "Les services de renseignement européens tirent la sonnette d’alarme : la menace iranienne est durable, polymorphe et bien implantée sur notre sol. Pendant ce temps, les négociations russo-américaines sur l’Ukraine ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Défense : dépenser plus ne suffit pas, dépenser mieux s’impose",
-      "link": "https://armees.com/defense-depenser-suffit-mieux-impose/",
-      "pubDate": "2026-10-28T14:40:44.000Z",
-      "description": "La France augmente son budget de défense. Très bien. Mais une question reste sans réponse : est-ce que cet argent est réellement bien dépensé ? À l’heure où les cyberattaques ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre en Iran : l’absence de reconstruction interroge l’efficacité des frappes",
-      "link": "https://armees.com/guerre-en-iran-absence-reconstruction-interroge/",
-      "pubDate": "2026-10-28T14:27:03.000Z",
-      "description": "Dix-sept mois après les frappes américano-israéliennes, l'Iran n'a entrepris aucune reconstruction de ses installations nucléaires endommagées. L'AIEA ne peut plus vérifier les stocks d'uranium enrichi, tandis que Téhéran déploie une stratégie asymétrique en Europe avec le soutien économique discret de la Chine. Une absence qui interroge l'efficacité réelle des opérations militaires de 2025-2026.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Drones terrestres et IA militaire : l’Europe lance deux groupes de normalisation, avec des réunions à Paris",
-      "link": "https://armees.com/eda-edstar-normes-ia-robots-terrestres-paris-janvier-2027/",
-      "pubDate": "2026-10-28T14:10:52.000Z",
-      "description": "L’Agence européenne de défense appelle les administrations et industriels à désigner des experts pour travailler sur les standards de l’intelligence artificielle et des systèmes terrestres autonomes. Les premières réunions auront lieu à Paris en janvier 2027, avec une échéance de candidature fixée au 1er décembre.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Les capacités de la force aérienne polonaise sont affectées par une pénurie de pilotes",
@@ -210,13 +231,6 @@
       "link": "https://www.opex360.com/2026/10/26/lentreprise-americaine-warhound-veut-elever-des-chiens-militaires-genetiquement-modifies/",
       "pubDate": "2026-10-26T18:20:30.000Z",
       "description": "Que ce soit pour la protection de sites sensibles, la recherche d’explosifs ou bien encore la neutralisation d’individus hostiles, les chiens apportent un appui précieux aux opérations militaires. Mais pas n’importe lesquels : parce qu’ils sont robustes et d’une loyauté sans faille à l’égard de leur maître, les bergers malinois sont les plus prisés. En...\nCet article L’entreprise américaine Warhound veut élever des chiens militaires génétiquement modifiés est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "SE Aviation a terminé une campagne d’essais en vol de son drone DRIADE OPV, menée discrètement avec la DGA",
-      "link": "https://www.opex360.com/2026/10/26/se-aviation-a-termine-une-campagne-dessais-en-vol-de-son-drone-driade-opv-menee-discretement-avec-la-dga/",
-      "pubDate": "2026-10-26T17:16:33.000Z",
-      "description": "En juin 2025, lors du salon de l’aéronautique et de l’espace du Bourget, la Direction générale de l’armement [DGA] attribua des subventions à cinq industriels français pour développer un drone MALE [Moyenne Altitude Longue Endurance] de théâtre [ou de «bas du spectre»]. «La signature de ces conventions auprès de cinq acteurs, émergents et confirmés, marque...\nCet article SE Aviation a terminé une campagne d’essais en vol de son drone DRIADE OPV, menée discrètement avec la DGA est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -318,13 +332,6 @@
       "sourceKey": "fob"
     },
     {
-      "title": "Nouvelle salve de munitions pour les mortiers belges",
-      "link": "https://forcesoperations.com/nouvelle-salve-de-munitions-pour-les-mortiers-belges/",
-      "pubDate": "2026-10-12T13:45:16.000Z",
-      "description": "Une nouvelle commande de munitions est sur les rails en Belgique après la vague d'achats de ce début d’année. Dans le viseur de la Défense belge : la fourniture de plusieurs dizaines de milliers d'obus de mortier.  Validé fin septembre par le gouvernement, le dossier est désormais l'objet d'un appel à candidatures pour la fourniture […]\nThe post Nouvelle salve de munitions pour les mortiers belges appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
-    },
-    {
       "title": "OTAN : « Si quelqu’un est assez insensé pour nous attaquer, nous nous battrons », dit le général Alexus Grynkewich",
       "link": "https://www.lemonde.fr/international/article/2026/10/12/toute-attaque-contre-l-otan-serait-totalement-vaine-assure-son-chef-militaire_6792636_3210.html",
       "pubDate": "2026-10-12T13:29:06.000Z",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/01/aux-etats-unis-pete-hegseth-le-secretaire-a-la-defense-revendique-une-reduction-de-20-du-nombre-de-hauts-grades-et-poursuit-la-reconfiguration-de-l-armee_6786428_3210.html",
       "pubDate": "2026-10-01T03:28:40.000Z",
       "description": "Dans un discours aux accents virilistes, mercredi, le chef du Pentagone a confirmé les termes de la révolution culturelle menée dans les rangs militaires et a annoncé une série de mesures visant à préparer le pays aux guerres du futur.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Boeing choisi pour fabriquer le futur avion de combat de la marine américaine",
-      "link": "https://www.lemonde.fr/economie/article/2026/09/30/boeing-choisi-pour-fabriquer-le-futur-avion-de-combat-de-la-marine-americaine_6785825_3234.html",
-      "pubDate": "2026-09-30T00:56:35.000Z",
-      "description": "Le constructeur aéronautique remporte un contrat évalué à 20 milliards de dollars. L’entreprise avait déjà été sélectionnée en mars 2025 pour l’avion de nouvelle génération de l’US Air Force, le F-47.",
       "sourceKey": "geo"
     }
   ]
