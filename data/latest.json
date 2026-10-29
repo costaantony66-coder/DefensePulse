@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T00:01:42.817Z",
+  "generatedAt": "2026-10-29T05:53:23.499Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Lituanie : Berlin renforce sa veille électronique",
+      "link": "https://armees.com/lituanie-allemagne-veille-electronique-bundeswehr-octobre-2026/",
+      "pubDate": "2026-10-29T02:32:20.000Z",
+      "description": "La brigade allemande stationnée en Lituanie doit contribuer à détecter les activités militaires autour de Kaliningrad et de la Biélorussie. Le 28 octobre, le responsable du cyberespace de la Bundeswehr a détaillé les moyens de surveillance électromagnétique actuellement testés sur le flanc oriental de l’OTAN.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Achats d’armement : Londres, Varsovie, Helsinki et La Haye préparent un mécanisme commun pour 2027",
+      "link": "https://armees.com/achats-militaires-mecanisme-multilateral-royaume-uni-pologne-finlande-pays-bas-2026/",
+      "pubDate": "2026-10-28T22:47:49.000Z",
+      "description": "Le Royaume-Uni annonce l’ouverture de négociations avec la Pologne, la Finlande et les Pays-Bas pour créer un dispositif multilatéral d’achats militaires. Son budget du 28 octobre précise aussi le financement de son plan de défense et prévoit de mobiliser des capitaux publics et privés pour l’industrie.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "États-Unis : première condamnation d’une combattante de l’État islamique formée en Syrie",
+      "link": "https://armees.com/entrainement-militaire-ei-syrie-combattante-americaine-2026/",
+      "pubDate": "2026-10-28T22:20:51.000Z",
+      "description": "Le 27 octobre 2026, Halima Salman, 27 ans, devient la première femme américaine condamnée pour avoir reçu un entraînement militaire de l'État islamique en Syrie. Emmenée à 17 ans par son père en 2017, mariée de force à un combattant et formée aux armes, elle a été capturée en 2019 puis rapatriée aux États-Unis en 2024. Son procès révèle les méthodes de formation de l'EI et pose la question de la responsabilité pénale des mineurs contraints.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Vidéosurveillance : l’ANSSI signale une faille dans les sauvegardes d’Axis Camera Station Pro",
+      "link": "https://armees.com/anssi-axis-camera-station-pro-cve-2026-63286-sauvegardes-281026-2337/",
+      "pubDate": "2026-10-28T21:39:07.000Z",
+      "description": "Le CERT-FR a publié le 28 octobre un avis sur la vulnérabilité CVE-2026-63286, qui expose les sauvegardes de bases de données d’Axis Camera Station Pro à des attaques hors ligne. La version 6.20 apporte un correctif, mais les anciennes copies et les identifiants enregistrés exigent aussi une intervention.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Missile hypersonique ARRW : un contrat de 694 millions de dollars",
       "link": "https://armees.com/missile-hypersonique-arrw-contrat-production-694-millions-2026/",
@@ -126,34 +154,6 @@
       "link": "https://armees.com/eda-edstar-normes-ia-robots-terrestres-paris-janvier-2027/",
       "pubDate": "2026-10-28T14:10:52.000Z",
       "description": "L’Agence européenne de défense appelle les administrations et industriels à désigner des experts pour travailler sur les standards de l’intelligence artificielle et des systèmes terrestres autonomes. Les premières réunions auront lieu à Paris en janvier 2027, avec une échéance de candidature fixée au 1er décembre.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’Iran rejette la médiation qatarie : impasse diplomatique et menace d’escalade militaire dans le Golfe",
-      "link": "https://armees.com/iran-golfe-qatar-unis-teheran-mediation-rejette-qatarie-diplomatique/",
-      "pubDate": "2026-10-28T14:10:43.000Z",
-      "description": "L'Iran a rejeté le 28 octobre 2026 les propositions de médiation du Qatar visant à mettre fin au conflit avec les États-Unis, débuté huit mois plus tôt. Téhéran maintient son inflexibilité sur la question nucléaire tandis que Washington et Tel-Aviv menacent d'une reprise des hostilités après les élections. Le conflit a déjà coûté 47,1 milliards de dollars aux États-Unis.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Flavio Bolsonaro : la fuite controversée d’un sénateur brésilien vers les États-Unis",
-      "link": "https://armees.com/flavio-bolsonaro-unis-trump-lula-brasilia-senateur-etats-controversee/",
-      "pubDate": "2026-10-28T13:58:29.000Z",
-      "description": "Après sa défaite à l'élection présidentielle brésilienne du 27 octobre 2026, le sénateur Flavio Bolsonaro a fui vers les États-Unis malgré un ordre judiciaire de remettre ses passeports. L'administration Trump a approuvé l'octroi de visas à sa famille, suscitant les accusations de collusion du président Lula et ravivant les tensions diplomatiques entre Brasilia et Washington.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Royaume-Uni : après un incident dans une base aérienne, deux hommes arrêtés",
-      "link": "https://armees.com/base-fairford-securite-royaume-uni-aerienne/",
-      "pubDate": "2026-10-28T13:03:54.000Z",
-      "description": "Deux ressortissants britanniques, Mohmed Ahmad Abdulkarim et Nouman Essghir, ont été inculpés le 27 octobre 2026 pour atteinte à la sécurité nationale suite à l'interception de trois véhicules suspects près de la base aérienne de Fairford le 27 septembre. L'incident, attribué par les autorités britanniques à l'Iran, a conduit au retrait des bombardiers américains stationnés sur le site et relance les interrogations sur la vulnérabilité des installations stratégiques face aux menaces hybrides.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Missiles Patriot : la Pologne choisie pour le centre européen de maintenance des PAC-3",
-      "link": "https://armees.com/pologne-centre-europeen-maintenance-patriot-pac3-octobre-2026/",
-      "pubDate": "2026-10-28T12:49:37.000Z",
-      "description": "Varsovie a été retenue pour accueillir une installation de réparation et de requalification des missiles intercepteurs PAC-3, aujourd'hui largement dépendants de procédures réalisées aux États-Unis. La décision annoncée le 27 octobre concerne la disponibilité des défenses aériennes alliées, dans une Europe où la France développe parallèlement le SAMP/T NG.",
       "sourceKey": "armees_com"
     },
     {
