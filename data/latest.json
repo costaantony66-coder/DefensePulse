@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T18:30:10.492Z",
+  "generatedAt": "2026-10-29T22:56:28.688Z",
   "sources": [
     {
       "key": "opex",
@@ -24,11 +24,25 @@
   ],
   "items": [
     {
+      "title": "Grands fonds marins : la Marine franchit le cap des 5 000 mètres avec son robot ROV-DeepSea",
+      "link": "https://armees.com/dga-rov-deepsea-qualification-5000-metres-marine-29-octobre-2026/",
+      "pubDate": "2026-10-29T19:08:02.000Z",
+      "description": "La Direction générale de l’armement a annoncé le 29 octobre la réussite des essais de qualification en grande profondeur du robot téléopéré ROV-DeepSea, conçu par LD Travocean. Cet équipement destiné à intervenir jusqu’à 6 000 mètres doit renforcer les capacités françaises de surveillance et d’action sous la mer ; un second exemplaire est en préparation.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Avec le robot sous-marin ROV-Deap Sea, la Marine nationale pourra intervenir à 6 000 mètres de profondeur",
       "link": "https://www.opex360.com/2026/10/29/avec-le-robot-sous-marin-rov-deap-sea-la-marine-nationale-pourra-intervenir-a-6-000-metres-de-profondeur/",
       "pubDate": "2026-10-29T18:23:24.000Z",
       "description": "Alors qu’elle était à la pointe de l’exploration des fonds marins après la Seconde Guerre Mondiale, la Marine nationale perdit une grande partie de ses capacités d’intervention dans ce domaine au cours des années 1970, avec la fin du «groupe des bathyscaphes». Or, avec les menaces qui pèsent désormais sur les infrastructures sous-marines critiques, la...\nCet article Avec le robot sous-marin ROV-Deap Sea, la Marine nationale pourra intervenir à 6 000 mètres de profondeur est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "L’OTAN et l’Ukraine ouvrent aux innovateurs un nouvel accès aux essais militaires via DIANA",
+      "link": "https://armees.com/otan-ukraine-diana-accord-essais-innovation-defense-29-octobre-2026/",
+      "pubDate": "2026-10-29T18:14:26.000Z",
+      "description": "L’accélérateur d’innovation de défense DIANA et l’Ukraine ont signé le 29 octobre un accord pour développer et tester des technologies en commun. Cette première coopération de ce type avec un partenaire de l’OTAN vise surtout à rapprocher les innovations éprouvées en Ukraine des procédures et infrastructures de l’Alliance, sans annoncer de commande d’armement.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Le canadien Bombardier s’entend avec BAE Systems en vue d’établir une coopération sur l’aviation de combat du futur",
@@ -42,6 +56,13 @@
       "link": "https://armees.com/dockers-poutine-defense-francaise-ans-gouffre-bord/",
       "pubDate": "2026-10-29T17:03:06.000Z",
       "description": "Pendant que Vladimir Poutine intensifie sa guerre en Ukraine, galvanisé par ses accords énergétiques avec Washington, la France regarde les dockers paralyser ses ports au nom d’un pacifisme anachronique. La ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "HIMARS : une roquette GMLRS redirigée en vol atteint une cible mobile",
+      "link": "https://armees.com/himars-roquette-gmlrs-redirigee-en-vol-cible-mobile-2026/",
+      "pubDate": "2026-10-29T16:30:30.000Z",
+      "description": "Lockheed Martin et l’armée américaine ont testé une roquette GMLRS dont la cible a été modifiée après le tir depuis un lanceur HIMARS. L’essai ouvre une nouvelle piste pour l’artillerie de précision face aux objectifs mobiles, mais son déploiement opérationnel reste à préciser.",
       "sourceKey": "armees_com"
     },
     {
@@ -154,27 +175,6 @@
       "link": "https://armees.com/sur-le-pont-charles-de-gaulle-des-aviateurs-ont-monte-un-laser-anti-drone-en-quatre-heures-on-peut-neutraliser-une-cible-sans-tirer-un-seul-missile/",
       "pubDate": "2026-10-29T06:35:43.000Z",
       "description": "Quelques centimes d'électricité pour abattre un drone, contre un missile à un million d'euros : l'écart donne le vertige. Le Charles-de-Gaulle vient de tester en secret une arme qui pourrait tout changer.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Avion de combat du futur : Berlin ouvre des discussions avec Tokyo sur le programme GCAP",
-      "link": "https://armees.com/allemagne-japon-discussions-gcap-merz-tokyo-29-octobre-2026/",
-      "pubDate": "2026-10-29T06:15:43.000Z",
-      "description": "En visite au Japon le 28 octobre, le chancelier Friedrich Merz a annoncé vouloir examiner une coopération germano-japonaise dans les avions de combat. Cette démarche pourrait rapprocher Berlin du programme GCAP porté par le Japon, le Royaume-Uni et l’Italie, après la rupture du projet de chasseur franco-allemand.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un nombre croissant d’anciens policiers et militaires choisissent des emplois dans la livraison de cannabis",
-      "link": "https://armees.com/un-nombre-croissant-danciens-policiers-et-militaires-choisissent-des-emplois-dans-la-livraison-de-cannabis/",
-      "pubDate": "2026-10-29T06:05:24.000Z",
-      "description": "Des policiers et militaires à la retraite troquent leur uniforme pour transporter du cannabis armés, SUV blindés à l'appui. Pourquoi d'anciens flics font-ils ce choix risqué ? La réponse surprend.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Missiles AMRAAM : le Japon accueillera leur assemblage final avec les États-Unis",
-      "link": "https://armees.com/japon-etats-unis-assemblage-final-amraam-sm3-octobre-2026/",
-      "pubDate": "2026-10-29T05:46:12.000Z",
-      "description": "Tokyo et Washington ont conclu un accord pour installer au Japon une capacité d’assemblage final et de contrôle des missiles air-air AMRAAM. Les deux alliés veulent également augmenter la production des intercepteurs SM-3 Block IIA, dans un contexte de renforcement de leurs capacités militaires en Indopacifique.",
       "sourceKey": "armees_com"
     },
     {
