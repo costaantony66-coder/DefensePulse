@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T20:05:09.924Z",
+  "generatedAt": "2026-10-30T23:51:01.959Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Logiciels espions : le CERT-FR recense une nouvelle vague d’alertes Apple du 29 octobre",
+      "link": "https://armees.com/cert-fr-apple-notifications-menace-29-octobre-2026-301026-2236/",
+      "pubDate": "2026-10-30T20:37:56.000Z",
+      "description": "Le CERT-FR, rattaché à l’ANSSI, a ajouté la campagne du 29 octobre 2026 à son suivi des notifications Apple liées aux logiciels espions mercenaires. Les personnes alertées sont invitées à préserver les éléments utiles à l’analyse et à solliciter une assistance spécialisée.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Défense aérienne : la Bulgarie rejoint l’initiative de l’OTAN contre les drones à très basse altitude",
+      "link": "https://armees.com/defense-aerienne-la-bulgarie-rejoint-linitiative-de-lotan-contre-les-drones-a-tres-basse-altitude/",
+      "pubDate": "2026-10-30T20:33:03.000Z",
+      "description": "La Bulgarie a signé le 30 octobre un document d’adhésion à un programme de l’OTAN consacré aux drones, missiles de croisière et autres menaces volant sous 150 mètres. Le projet vise des capacités communes de détection et d’interception ; la ratification bulgare reste une étape à accomplir.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "TRIDENT, un pied dans la contre-batterie de demain",
       "link": "https://forcesoperations.com/trident-un-pied-dans-la-contre-batterie-de-demain/",
@@ -154,20 +168,6 @@
       "link": "https://armees.com/les-attaques-continuent-lukraine-frappe-la-russie-avec-une-vaste-attaque-de-drones-et-les-degats-ne-cessent-daugmenter/",
       "pubDate": "2026-10-30T07:05:24.000Z",
       "description": "Plus de 1 200 drones contre Moscou en une seule nuit, en pleine sommet Russie-Afrique. Aciérie touchée, usine chimique visée, stocks de Patriot ukrainiens au bord de la rupture : la guerre des drones s'intensifie dangereusement.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Des scientifiques ont découvert huit séries de traces vieilles de 1,4 million d’années et ne s’attendaient pas à identifier leurs auteurs",
-      "link": "https://armees.com/des-scientifiques-ont-decouvert-huit-series-de-traces-vieilles-de-14-million-dannees-et-ne-sattendaient-pas-a-identifier-leurs-auteurs/",
-      "pubDate": "2026-10-30T06:35:25.000Z",
-      "description": "1,8 mètre, 75 kilos : ce cousin de l'humanité était bien plus costaud qu'on l'imaginait. Huit empreintes vieilles de 1,4 million d'années au Kenya bouleversent tout ce qu'on croyait savoir sur *Paranthropus boisei*.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : 500 M€ pour la défense aérienne",
-      "link": "https://armees.com/ukraine-pays-bas-500-millions-defense-aerienne-octobre-2026/",
-      "pubDate": "2026-10-30T06:34:12.000Z",
-      "description": "Les Pays-Bas ont annoncé le 28 octobre une nouvelle aide militaire de 500 millions d’euros à l’Ukraine, comprenant notamment des moyens de défense aérienne et des drones. Kyiv réclame en parallèle davantage de missiles intercepteurs pour protéger ses villes et ses infrastructures à l’approche de l’hiver.",
       "sourceKey": "armees_com"
     },
     {
