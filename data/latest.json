@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T02:24:04.245Z",
+  "generatedAt": "2026-10-30T08:56:41.568Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "title": "Quatre pétroliers endommagés par des mines dans le détroit d’Ormuz",
+      "link": "https://armees.com/ormuz-demiage-strategie-centcom-iran/",
+      "pubDate": "2026-10-30T07:10:00.000Z",
+      "description": "Le 29 octobre 2026, quatre pétroliers ont été endommagés dans le détroit d'Ormuz en moins de 24 heures. Téhéran accuse les navires d'avoir emprunté des routes minées malgré les avertissements, tandis que le Centcom affirme avoir sécurisé les principales voies de navigation. L'UKMTO rapporte des incidents aux causes divergentes, révélant un affrontement stratégique autour du contrôle de ce passage critique.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Les attaques continuent : l’Ukraine frappe la Russie avec une vaste attaque de drones et les dégâts ne cessent d’augmenter",
+      "link": "https://armees.com/les-attaques-continuent-lukraine-frappe-la-russie-avec-une-vaste-attaque-de-drones-et-les-degats-ne-cessent-daugmenter/",
+      "pubDate": "2026-10-30T07:05:24.000Z",
+      "description": "Plus de 1 200 drones contre Moscou en une seule nuit, en pleine sommet Russie-Afrique. Aciérie touchée, usine chimique visée, stocks de Patriot ukrainiens au bord de la rupture : la guerre des drones s'intensifie dangereusement.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Des scientifiques ont découvert huit séries de traces vieilles de 1,4 million d’années et ne s’attendaient pas à identifier leurs auteurs",
+      "link": "https://armees.com/des-scientifiques-ont-decouvert-huit-series-de-traces-vieilles-de-14-million-dannees-et-ne-sattendaient-pas-a-identifier-leurs-auteurs/",
+      "pubDate": "2026-10-30T06:35:25.000Z",
+      "description": "1,8 mètre, 75 kilos : ce cousin de l'humanité était bien plus costaud qu'on l'imaginait. Huit empreintes vieilles de 1,4 million d'années au Kenya bouleversent tout ce qu'on croyait savoir sur *Paranthropus boisei*.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "TotalEnergies fait des profits records. La défense, elle, attend.",
+      "link": "https://armees.com/totalenergies-profits-records-defense-attend/",
+      "pubDate": "2026-10-30T06:20:33.000Z",
+      "description": "TotalEnergies affiche des bénéfices records en pleine économie de guerre. Pendant ce temps, les industriels de défense français peinent à financer leurs lignes de production. La question budgétaire est là, ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Marine nationale : sept systèmes de drones Aliaca passeront au décollage vertical",
+      "link": "https://armees.com/marine-nationale-aliaca-vtol-sept-systemes-drones-30-octobre-2026/",
+      "pubDate": "2026-10-30T06:15:59.000Z",
+      "description": "La DGA a retenu la version à décollage et atterrissage verticaux du drone U010 Aliaca d’Airbus pour les sept systèmes restant à livrer sur un marché existant. Le déploiement doit débuter fin 2026 sur les bâtiments de soutien métropolitains, puis s’étendre outre-mer en 2027.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Mauvaise nouvelle pour la Marine nationale : le coût de ses futurs avions de patrouille maritime a déjà bondi de 65 % avant même le premier vol",
+      "link": "https://armees.com/mauvaise-nouvelle-pour-la-marine-nationale-le-cout-de-ses-futurs-avions-de-patrouille-maritime-a-deja-bondi-de-65-avant-meme-le-premier-vol/",
+      "pubDate": "2026-10-30T06:05:07.000Z",
+      "description": "4,574 milliards d'euros, +65% : la facture du futur avion de patrouille maritime explose. Entre tensions avec Airbus et flotte vieillissante, la Marine joue gros. Le calendrier tiendra-t-il face aux échéances politiques ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Israël : Ben Gvir réclame l’arrestation des chefs arabes après le vote",
+      "link": "https://armees.com/israel-elections-2026-renseignement-securite-shin-bet/",
+      "pubDate": "2026-10-30T04:39:59.000Z",
+      "description": "Les élections législatives israéliennes du 29-30 octobre 2026 débouchent sur un scrutin fragmenté et des accusations d'ingérence étrangère. Le Shin Bet enquête sur un prétendu financement qatari des partis arabes, sans preuves publiques. Avec 19 sièges, ces formations détiennent les clés de la majorité, tandis que Netanyahu (53 sièges) et l'opposition (48 sièges) échouent à atteindre le seuil de 61 députés.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Iran : un réseau de plus de 5 000 entités soutient les achats militaires malgré les sanctions",
+      "link": "https://armees.com/iran-reseau-5000-entites-achats-militaires-sanctions-2026/",
+      "pubDate": "2026-10-30T02:49:45.000Z",
+      "description": "Une enquête de Reuters publiée le 29 octobre révèle l’ampleur d’un dispositif d’approvisionnement lié au ministère iranien de la Défense. Des composants, des explosifs et des véhicules ont continué d’entrer dans le pays, soulevant des questions sur le contrôle des exportations, y compris en Europe.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Marine nationale : Piriou obtient un marché pour 16 remorqueurs, dont quatre commandés ferme",
+      "link": "https://armees.com/marine-piriou-16-remorqueurs-rp30ng-quatre-commandes-2026/",
+      "pubDate": "2026-10-30T02:13:03.000Z",
+      "description": "La Direction générale de l’armement a notifié à Piriou un marché portant sur seize remorqueurs-pousseurs RP30NG. Quatre unités sont commandées ferme et seront construites à Concarneau ; les douze autres restent optionnelles, avec les premières arrivées prévues à partir de 2028.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "SAFE : 21,3 milliards de prêts pour la défense",
       "link": "https://armees.com/safe-21-3-milliards-prets-defense-europe-octobre-2026/",
@@ -87,32 +150,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "HIMARS : une roquette GMLRS redirigée en vol atteint une cible mobile",
-      "link": "https://armees.com/himars-roquette-gmlrs-redirigee-en-vol-cible-mobile-2026/",
-      "pubDate": "2026-10-29T16:30:30.000Z",
-      "description": "Lockheed Martin et l’armée américaine ont testé une roquette GMLRS dont la cible a été modifiée après le tir depuis un lanceur HIMARS. L’essai ouvre une nouvelle piste pour l’artillerie de précision face aux objectifs mobiles, mais son déploiement opérationnel reste à préciser.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le coût des futurs avions de patrouille maritime de la Marine nationale a déjà augmenté de 65 %",
       "link": "https://www.opex360.com/2026/10/29/le-cout-des-futurs-avions-de-patrouille-maritime-de-la-marine-nationale-a-deja-augmente-de-65/",
       "pubDate": "2026-10-29T15:53:06.000Z",
       "description": "Véritable «couteau suisse» de l’Aéronautique navale, l’avion de patrouille maritime [PATMAR] Atlantique 2 est devenu encore plus performant depuis qu’il a été porté au standard 6. Seulement, cette modernisation ayant exclusivement porté sur son système de combat, avec, en particulier, l’intégration du radar à antenne active Searchmaster, cet appareil devra être retiré du service en...\nCet article Le coût des futurs avions de patrouille maritime de la Marine nationale a déjà augmenté de 65 % est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Porte-avions : la Marine nationale face à l’impératif des deux navires",
-      "link": "https://armees.com/permanence-alerte-deux-porte-avions-marine-nationale/",
-      "pubDate": "2026-10-29T14:43:41.000Z",
-      "description": "Le Charles de Gaulle n'affiche que 63% de disponibilité opérationnelle en raison des arrêts techniques majeurs. Un rapport parlementaire recommande la commande d'un second porte-avions avant 2029 pour garantir la permanence d'alerte aéronavale, avec des économies d'échelle estimées à 30%.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Défense européenne : Kongsberg porte son carnet de commandes à 174 milliards de couronnes",
-      "link": "https://armees.com/kongsberg-commandes-record-174-milliards-defense-europeenne-29-octobre-2026/",
-      "pubDate": "2026-10-29T14:16:53.000Z",
-      "description": "Le groupe norvégien Kongsberg a annoncé le 29 octobre un carnet de commandes record de 174,2 milliards de couronnes au troisième trimestre 2026. Portée notamment par les missiles et la défense aérienne, cette progression pose désormais la question des capacités industrielles nécessaires pour livrer les armées européennes.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La Russie a livré douze premiers avions de combat Su-35E à l’Éthiopie",
@@ -122,53 +164,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Soudan : à Nyala, une frappe de drone sur un marché tue des civils, le bilan reste disputé",
-      "link": "https://armees.com/soudan-nyala-frappe-drone-marche-civils-bilan-29-octobre-2026/",
-      "pubDate": "2026-10-29T11:43:13.000Z",
-      "description": "Une frappe attribuée à l’armée soudanaise a touché un marché de Nyala, au Darfour, le 26 octobre. Médecins sans frontières fait état de 36 corps reçus à l’hôpital et de plus de 150 blessés, tandis que les témoignages recueillis sur place décrivent la présence simultanée de combattants et de vendeurs civils. L’attaque illustre la place prise par les drones dans une guerre qui frappe aussi les infrastructures indispensables à la population.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Missiles Ruta : Destinus revendique une production proche de 300 unités par mois",
-      "link": "https://armees.com/destinus-ruta-production-pres-300-missiles-par-mois-octobre-2026/",
-      "pubDate": "2026-10-29T09:39:31.000Z",
-      "description": "Le fabricant européen Destinus affirme avoir dépassé 1 750 missiles de croisière Ruta produits, avec une cadence mensuelle désormais proche de 300 exemplaires. Au-delà des usines, l'entreprise met en avant un autre défi pour les armées : disposer des moyens de stockage, de soutien et de ciblage nécessaires à de tels volumes.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le général Christian Piquemal, qui avait signé en 2021 une tribune controversée de militaires, est mort",
       "link": "https://www.lemonde.fr/disparitions/article/2026/10/29/le-general-christian-piquemal-qui-avait-signe-en-2021-une-tribune-controversee-de-militaires-est-mort_6802303_3382.html",
       "pubDate": "2026-10-29T09:39:10.000Z",
       "description": "Radié des cadres de l’armée en 2016 pour avoir participé à une manifestation interdite organisée par un groupuscule islamophobe allemand, l’ancien légionnaire s’est éteint le 23 octobre, à 85 ans.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "DHS : comment Okta a permis l’exposition de 41 000 agents fédéraux",
-      "link": "https://armees.com/okta-dhs-fuite-41000-agents-cybersecurite-federale/",
-      "pubDate": "2026-10-29T09:18:30.000Z",
-      "description": "Le collectif Department of Peace a exploité une faille dans le système d'authentification Okta du DHS, exposant les données de plus de 41 000 employés fédéraux, dont 21 000 agents de la CBP et 6 600 d'ICE.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Trafic d’armes : l’arsenal de guerre gagne la région parisienne",
-      "link": "https://armees.com/trafic-darmes-guerre-trafic-ile-france-2026-analyse/",
-      "pubDate": "2026-10-29T08:49:21.000Z",
-      "description": "Le trafic d'armes en Île-de-France connaît une transformation stratégique majeure. Selon le rapport du Sirasco publié fin octobre 2026, les pistolets-mitrailleurs et fusils d'assaut représentent désormais 17,9% des saisies, contre 7,9% en 2023. Impression 3D, contrefaçons turques et filières balkaniques redéfinissent les chaînes d'approvisionnement, confrontant les forces de l'ordre à une menace armée inédite par son ampleur et sa létalité.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Hafnium volé, missiles nord-coréens : l’ère des vulnérabilités stratégiques",
-      "link": "https://armees.com/hafnium-missiles-vulnerabilites-strategiques-vole-coreens-nord-ere/",
-      "pubDate": "2026-10-29T08:03:40.000Z",
-      "description": "Une tonne de métal critique dérobée dans une usine française, une dizaine de missiles balistiques tirés par Pyongyang en mer du Japon : en l’espace de quelques jours, deux signaux ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Routes aériennes, géopolitique et défense : qui paie l’addition ?",
-      "link": "https://armees.com/routes-geopolitique-aeriennes-defense-adition-paie-2/",
-      "pubDate": "2026-10-29T07:52:27.000Z",
-      "description": "Les tensions géopolitiques redessinent les routes aériennes mondiales, allongeant les trajets, renchérissant les coûts, fragilisant les flux logistiques militaires. Derrière les cartes révisées des compagnies commerciales se cache une réalité ...",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Safran en embuscade sur la radio du combattant débarqué",
