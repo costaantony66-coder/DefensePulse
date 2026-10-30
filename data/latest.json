@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T15:31:22.948Z",
+  "generatedAt": "2026-10-30T20:05:09.924Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "title": "TRIDENT, un pied dans la contre-batterie de demain",
+      "link": "https://forcesoperations.com/trident-un-pied-dans-la-contre-batterie-de-demain/",
+      "pubDate": "2026-10-30T18:59:58.000Z",
+      "description": "De semaine en semaine, la dernière cohorte de projets de R&D soutenus par le Fonds européen de la Défense (FEDef) se met en ordre de marche. Parmi les derniers ajouts en date, des recherches pilotées par Thales dans le domaine de la contre-batterie. Top départ le 1er décembre. \nThe post TRIDENT, un pied dans la contre-batterie de demain appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "Le français Asman Technology s’apprête à faire voler le DSLR MK1, un drone MALE dédié à la guerre électronique",
+      "link": "https://www.opex360.com/2026/10/30/le-francais-asman-technology-sapprete-a-faire-voler-le-dslr-mk1-un-drone-male-dedie-a-la-guerre-electronique/",
+      "pubDate": "2026-10-30T18:19:11.000Z",
+      "description": "Il y a quinze ans, faute de disposer d’une solution nationale ou européenne, le remplacement des drones MALE [Moyenne Altitude Longue Endurance] donna lieu à de vifs débats entre les partisans d’une «francisation» du Heron TP israélien [avec Dassault Aviation dans la boucle] et ceux plaidant pour l’achat «sur étagère» du MQ-9 Reaper américain. Dans...\nCet article Le français Asman Technology s’apprête à faire voler le DSLR MK1, un drone MALE dédié à la guerre électronique est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "La Gendarmerie nationale devra encore patienter pour renouveler ses FAMAS, qui ne seront plus opérationnels en 2030",
+      "link": "https://www.opex360.com/2026/10/30/la-gendarmerie-nationale-devra-encore-patienter-pour-renouveler-ses-famas-qui-ne-seront-plus-operationnels-en-2030/",
+      "pubDate": "2026-10-30T17:10:10.000Z",
+      "description": "Entre l’appel d’offres émis par la Direction générale de l’armement [DGA] pour acquérir 101 000 nouveaux fusils d’assaut afin de remplacer les FAMAS et l’annonce du lauréat de ce marché, il s’était écoulé près de deux ans et demi. Si elle était restée dans le giron du ministère des Armées, la Gendarmerie nationale aurait pu...\nCet article La Gendarmerie nationale devra encore patienter pour renouveler ses FAMAS, qui ne seront plus opérationnels en 2030 est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Binance piratée : quand la cyberguerre frappe les marchés",
+      "link": "https://armees.com/binance-cyberguerre-piratee-frappe-marches/",
+      "pubDate": "2026-10-30T17:03:40.000Z",
+      "description": "6,36 milliards de dollars volatilisés en vingt minutes. La cyberattaque contre Binance, attribuée à des acteurs nord-coréens, n’est pas qu’un fait divers financier : c’est un acte de guerre économique ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Binance piratée : quand la cyberguerre frappe au portefeuille",
+      "link": "https://armees.com/binance-cyberguerre-piratee-portefeuille-frappe/",
+      "pubDate": "2026-10-30T17:03:04.000Z",
+      "description": "6,36 milliards de dollars volatilisés en vingt minutes. La cyberattaque contre Binance n’est pas seulement le plus grand braquage de l’histoire des cryptomonnaies : c’est un avertissement stratégique adressé à ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : Fire Point affirme pouvoir poursuivre ses missions sans Starlink",
+      "link": "https://armees.com/ukraine-fire-point-affirme-pouvoir-poursuivre-ses-missions-sans-starlink/",
+      "pubDate": "2026-10-30T15:44:54.000Z",
+      "description": "Après les restrictions de connexion SpaceX subies par l'armée ukrainienne, le fabricant Fire Point assure que ses systèmes peuvent achever une mission sans liaison satellitaire. Cette autonomie revendiquée reste partielle et pose une question centrale pour les armées européennes : la maîtrise de leurs moyens de communication.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Un hélicoptère italien de transport CH-47 Chinook s’est écrasé en Bosnie-Herzégovine",
       "link": "https://www.opex360.com/2026/10/30/un-helicoptere-italien-de-transport-ch-47-chinook-sest-ecrase-en-bosnie-herzegovine/",
@@ -129,27 +171,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "TotalEnergies fait des profits records. La défense, elle, attend.",
-      "link": "https://armees.com/totalenergies-profits-records-defense-attend/",
-      "pubDate": "2026-10-30T06:20:33.000Z",
-      "description": "TotalEnergies affiche des bénéfices records en pleine économie de guerre. Pendant ce temps, les industriels de défense français peinent à financer leurs lignes de production. La question budgétaire est là, ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Marine nationale : sept systèmes de drones Aliaca passeront au décollage vertical",
-      "link": "https://armees.com/marine-nationale-aliaca-vtol-sept-systemes-drones-30-octobre-2026/",
-      "pubDate": "2026-10-30T06:15:59.000Z",
-      "description": "La DGA a retenu la version à décollage et atterrissage verticaux du drone U010 Aliaca d’Airbus pour les sept systèmes restant à livrer sur un marché existant. Le déploiement doit débuter fin 2026 sur les bâtiments de soutien métropolitains, puis s’étendre outre-mer en 2027.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Mauvaise nouvelle pour la Marine nationale : le coût de ses futurs avions de patrouille maritime a déjà bondi de 65 % avant même le premier vol",
-      "link": "https://armees.com/mauvaise-nouvelle-pour-la-marine-nationale-le-cout-de-ses-futurs-avions-de-patrouille-maritime-a-deja-bondi-de-65-avant-meme-le-premier-vol/",
-      "pubDate": "2026-10-30T06:05:07.000Z",
-      "description": "4,574 milliards d'euros, +65% : la facture du futur avion de patrouille maritime explose. Entre tensions avec Airbus et flotte vieillissante, la Marine joue gros. Le calendrier tiendra-t-il face aux échéances politiques ?",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Avec le robot sous-marin ROV-Deap Sea, la Marine nationale pourra intervenir à 6 000 mètres de profondeur",
       "link": "https://www.opex360.com/2026/10/29/avec-le-robot-sous-marin-rov-deap-sea-la-marine-nationale-pourra-intervenir-a-6-000-metres-de-profondeur/",
       "pubDate": "2026-10-29T18:23:24.000Z",
@@ -203,20 +224,6 @@
       "link": "https://www.opex360.com/2026/10/28/berlin-fait-un-pas-de-plus-vers-le-programme-davion-de-combat-mene-par-londres-rome-et-tokyo/",
       "pubDate": "2026-10-28T17:37:24.000Z",
       "description": "Comme l’a encore rappelé Catherine Vautrin, la ministre des Armées, lors d’une audition au Sénat, le 27 octobre, le projet de Système aérien de combat du futur [SCAF] se poursuit, la France, l’Allemagne et l’Espagne ayant maintenu leur coopération sur «la connectivité», c’est-à-dire sur le «cloud de combat». Mais encore faut-il que ces trois pays...\nCet article Berlin fait un pas de plus vers le programme d’avion de combat mené par Londres, Rome et Tokyo est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Surprise en Suisse : le choix d’un second système de défense aérienne se fera entre le SAMP/T NG et le Barak MX israélien",
-      "link": "https://www.opex360.com/2026/10/28/surprise-en-suisse-le-choix-dun-second-systeme-de-defense-aerienne-se-fera-entre-le-samp-t-ng-et-le-barak-mx-israelien/",
-      "pubDate": "2026-10-28T16:05:35.000Z",
-      "description": "Après l’affaire des F-35A, les retards ainsi que les surcoûts des systèmes de défense aérienne Patriot ou encore les problèmes des drones MALE Hermes 900, le département suisse de la Défense, de la Protection de la population et des sports [DDPS] n’a «plus le droit à l’erreur», a récemment laissé entendre son chef, Martin Pfister,...\nCet article Surprise en Suisse : le choix d’un second système de défense aérienne se fera entre le SAMP/T NG et le Barak MX israélien est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Les capacités de la force aérienne polonaise sont affectées par une pénurie de pilotes",
-      "link": "https://www.opex360.com/2026/10/28/les-capacites-de-la-force-aerienne-polonaise-sont-affectees-par-une-penurie-de-pilotes/",
-      "pubDate": "2026-10-28T11:47:50.000Z",
-      "description": "On peut regretter le fait que la Loi de programmation militaire [LPM] 2024-30 actualisée ait mis l’accent sur la cohérence et non sur le format des forces armées françaises, à une période où ces dernières sont contraintes de tirer sur la corde pour tenir leurs contrats opérationnels. L’armée de l’Air & de l’Espace [AAE] «surutilise»...\nCet article Les capacités de la force aérienne polonaise sont affectées par une pénurie de pilotes est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -322,13 +329,6 @@
       "link": "https://forcesoperations.com/deluge-en-mer-et-rampart-bientot-de-retour-a-terre/",
       "pubDate": "2026-10-15T18:22:07.000Z",
       "description": "Clap de fin pour Wildfire 26.2, cet exercice de lutte anti-drones conduit en Méditerranée par la Marine nationale. Un rendez-vous incontournable pour l'industrie et l'occasion de progresser sur quelques idées parfois « nées » à terre ou susceptibles d'intéresser l'armée de Terre. \nThe post Deluge en mer et Rampart bientôt de retour à terre appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
-    },
-    {
-      "title": "Nouvelle tranche française et première victoire à l’étranger pour DAMOCLES",
-      "link": "https://forcesoperations.com/nouvelle-tranche-francaise-et-premiere-victoire-a-letranger-pour-damocles/",
-      "pubDate": "2026-10-13T08:41:06.000Z",
-      "description": "Double victoire pour la munition téléopérée MX-10 DAMOCLES développée par KNDS France et Delair. D'un côté, le ministère des Armées renouvelle sa confiance et en reprend une tranche. De l'autre, elle enregistre un premier succès auprès d'une armée étrangère.  Après les 460 unités livrées entre 2025 et 2026, place à un nouveau lot d'envergure équivalente […]\nThe post Nouvelle tranche française et première victoire à l’étranger pour DAMOCLES appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
     },
     {
