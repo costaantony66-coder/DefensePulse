@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T22:56:28.688Z",
+  "generatedAt": "2026-10-30T02:24:04.245Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "title": "SAFE : 21,3 milliards de prêts pour la défense",
+      "link": "https://armees.com/safe-21-3-milliards-prets-defense-europe-octobre-2026/",
+      "pubDate": "2026-10-29T23:36:28.000Z",
+      "description": "La Commission européenne ouvre aux États membres un deuxième appel de prêts SAFE portant sur 21,3 milliards d’euros. Bruxelles veut orienter les projets vers la défense antiaérienne, les drones et les munitions, en encourageant les achats communs avec l’Ukraine.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Drones navals : la Marine française précise ses acquisitions pour 2027 et 2028",
+      "link": "https://armees.com/marine-francaise-drones-navals-smoker-danae-calendrier-2027-2028-30-octobre-2026/",
+      "pubDate": "2026-10-29T22:13:58.000Z",
+      "description": "La Marine nationale et la DGA ont détaillé le 29 octobre les étapes de leur programme de drones navals. Une première phase d'acquisition est prévue à la mi-2027, avant un second volet en 2028 consacré notamment à un drone de surface autonome et aux moyens de commandement.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Mer Noire : un cargo coulé par des drones malgré une alerte venue d’un avion français",
+      "link": "https://armees.com/mer-noire-contship-jet-coule-drones-alerte-avion-francais/",
+      "pubDate": "2026-10-29T20:47:32.000Z",
+      "description": "Le porte-conteneurs Contship Jet a sombré au large de la Bulgarie après une attaque de drones navals le 28 octobre. Les 18 marins ont été secourus, mais l'incident révèle les difficultés de protection du trafic commercial, malgré une alerte transmise par un appareil français.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "WordPress 7.1.4 : l’ANSSI alerte sur des failles de sécurité, dont un risque d’exécution de code",
+      "link": "https://armees.com/wordpress-714-failles-correctifs-anssi-certfr-20261029-2236/",
+      "pubDate": "2026-10-29T20:36:57.000Z",
+      "description": "Le CERT-FR de l’ANSSI a publié le 29 octobre un avis concernant plusieurs vulnérabilités de WordPress corrigées dans la version 7.1.4. Une faille du processus de mise à jour peut permettre l’exécution de code à distance dans certaines conditions ; d’autres touchent la confidentialité et l’affichage de contenus.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Grands fonds marins : la Marine franchit le cap des 5 000 mètres avec son robot ROV-DeepSea",
       "link": "https://armees.com/dga-rov-deepsea-qualification-5000-metres-marine-29-octobre-2026/",
@@ -143,39 +171,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Routes aériennes, géopolitique et défense : qui paie l’addition ?",
-      "link": "https://armees.com/routes-geopolitique-aeriennes-defense-adition-paie/",
-      "pubDate": "2026-10-29T07:52:26.000Z",
-      "description": "Les tensions géopolitiques redessinent les routes aériennes mondiales, allongeant les trajets, renchérissant les coûts, fragilisant les flux logistiques militaires. Derrière les cartes révisées des compagnies commerciales se cache une réalité ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Shenlong : la navette chinoise qui change la guerre spatiale",
-      "link": "https://armees.com/shenlong-navette-chinoise-capacites-militaires-orbite/",
-      "pubDate": "2026-10-29T07:40:16.000Z",
-      "description": "La Defense Intelligence Agency a déclassifié le 26 octobre 2026 une photographie satellite du Shenlong, navette spatiale chinoise réutilisable capable de déployer et capturer des satellites en orbite.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Safran en embuscade sur la radio du combattant débarqué",
       "link": "https://forcesoperations.com/safran-en-embuscade-sur-la-radio-du-combattant-debarque/",
       "pubDate": "2026-10-29T07:20:48.000Z",
       "description": "Safran garde un pied dans les communications tactiques. Peu prolixe sur un domaine souvent associé à Thales ou Airbus, le groupe français y pousse néanmoins une nouvelle solution pour le combattant débarqué. Cette solution, Safran y travaille apparemment depuis près d'une décennie. Baptisée SAFNET, elle n'est pourtant apparue au grand jour que ce mois-ci à […]\nThe post Safran en embuscade sur la radio du combattant débarqué appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "« Nous ne renoncerons pas au Donbas » : Poutine s’adresse directement à deux voisins de l’OTAN, les diplomates réagissent",
-      "link": "https://armees.com/nous-ne-renoncerons-pas-au-donbas-poutine-sadresse-directement-a-deux-voisins-de-lotan-les-diplomates-reagissent/",
-      "pubDate": "2026-10-29T07:05:43.000Z",
-      "description": "Poutine ne lâchera rien sur le Donbas, même face à la Finlande et la Norvège. Pendant que Kiev prépare ses arguments pour Abou Dabi, le Kremlin peaufine déjà sa stratégie. Ce qui se trame pourrait changer la donne.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Sur le pont Charles-de-Gaulle, des aviateurs ont monté un laser anti-drone en quatre heures : « on peut neutraliser une cible sans tirer un seul missile »",
-      "link": "https://armees.com/sur-le-pont-charles-de-gaulle-des-aviateurs-ont-monte-un-laser-anti-drone-en-quatre-heures-on-peut-neutraliser-une-cible-sans-tirer-un-seul-missile/",
-      "pubDate": "2026-10-29T06:35:43.000Z",
-      "description": "Quelques centimes d'électricité pour abattre un drone, contre un missile à un million d'euros : l'écart donne le vertige. Le Charles-de-Gaulle vient de tester en secret une arme qui pourrait tout changer.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Selon un rapport, la flotte de véhicules légers de la Gendarmerie risque de «se heurter à un mur d’obsolescence» en 2028",
