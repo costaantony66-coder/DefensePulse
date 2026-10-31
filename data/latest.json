@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T09:56:44.053Z",
+  "generatedAt": "2026-10-31T15:35:48.778Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,69 @@
     }
   ],
   "items": [
+    {
+      "title": "La Section technique de l’armée de Terre développe déjà le standard 3 du système antidrone Proteus",
+      "link": "https://www.opex360.com/2026/10/31/la-section-technique-de-larmee-de-terre-developpe-deja-le-standard-3-du-systeme-antidrone-proteus/",
+      "pubDate": "2026-10-31T14:43:41.000Z",
+      "description": "En janvier 2025, la Section technique de l’armée de Terre [STAT] présenta le Proteus, un système de lutte antidrone [LAD], mis au point par son groupement «Artillerie», dans le cadre d’un projet lancé quelques mois plus tôt. «L’objectif de ce développement est double : fournir une réponse opérationnelle rapide tout en anticipant les évolutions du...\nCet article La Section technique de l’armée de Terre développe déjà le standard 3 du système antidrone Proteus est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Frégates FDI : Naval Group livre le Nearchos à la Grèce, une troisième livraison attendue fin 2026",
+      "link": "https://armees.com/naval-group-livraison-fregate-nearchos-grece-lorient-30-octobre-2026/",
+      "pubDate": "2026-10-31T14:08:19.000Z",
+      "description": "La marine grecque a reçu le 30 octobre à Lorient sa deuxième frégate de défense et d’intervention construite par Naval Group. Cette remise intervient dix mois après celle du Kimon et précède une troisième livraison annoncée avant la fin de l’année, dans le cadre d’un programme industriel franco-hellénique.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Nigeria : deux positions militaires attaquées, l’armée annonce 48 combattants djihadistes tués",
+      "link": "https://armees.com/nigeria-borno-yobe-bases-attaque-48-combattants-30-octobre-2026/",
+      "pubDate": "2026-10-31T13:46:35.000Z",
+      "description": "Des combattants de Boko Haram et de l’ISWAP ont attaqué deux positions de l’armée nigériane dans la nuit du 29 au 30 octobre, dans les États de Borno et de Yobe. Abuja affirme avoir repoussé les assauts et tué 48 insurgés. Ces combats illustrent la pression persistante sur les forces engagées dans le bassin du lac Tchad, où l’Union européenne renforce son soutien sécuritaire.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Hélicoptères Apache AH-64 : Boeing décroche jusqu’à 500 millions de dollars de soutien technique jusqu’en 2031",
+      "link": "https://armees.com/apache-ah64-boeing-500-millions-soutien-2031/",
+      "pubDate": "2026-10-31T12:44:51.000Z",
+      "description": "L’armée américaine a rendu public le 27 octobre un avenant de 499,8 millions de dollars au contrat de soutien technique des hélicoptères Apache AH-64. Ce plafond contractuel accompagne la modernisation de la flotte, tandis que la Pologne prépare l’arrivée de ses appareils au sein de l’OTAN.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Désarmée en 2022, l’ex-frégate Latouche-Tréville est désormais utilisée par la DGA pour des essais de choc",
+      "link": "https://www.opex360.com/2026/10/31/desarmee-en-2022-lex-fregate-latouche-treville-est-desormais-utilisee-par-la-dga-pour-des-essais-de-choc/",
+      "pubDate": "2026-10-31T11:45:58.000Z",
+      "description": "En février 2025, dans le cadre de la préparation de ses unités à un engagement de haute intensité et après avoir envoyé par le fond l’ex-aviso «Premier maître L’Her» avec une torpille F21 Artémis lancée par un sous-marin nucléaire d’attaque, la Marine nationale fit subir un «essai de choc» à la frégate de type La...\nCet article Désarmée en 2022, l’ex-frégate Latouche-Tréville est désormais utilisée par la DGA pour des essais de choc est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Chine : Pékin annonce le premier appontage du drone furtif GJ-21 sur le Sichuan",
+      "link": "https://armees.com/chine-pekin-annonce-le-premier-appontage-du-drone-furtif-gj-21-sur-le-sichuan/",
+      "pubDate": "2026-10-31T11:32:10.000Z",
+      "description": "La marine chinoise affirme avoir réussi les premiers décollage et appontage de son drone furtif GJ-21 à bord du navire d’assaut amphibie Sichuan, de type 076. Annoncé le 30 octobre, cet essai marque une étape dans l’aviation navale sans pilote, dont les capacités opérationnelles restent à éprouver.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "IA agentique : l’ANSSI publie sept principes pour encadrer les actions autonomes",
+      "link": "https://armees.com/anssi-sept-principes-securite-ia-agentique-31-octobre-2026-1232/",
+      "pubDate": "2026-10-31T10:33:29.000Z",
+      "description": "L’Agence nationale de la sécurité des systèmes d’information a publié le 30 octobre un référentiel de sept principes pour sécuriser les systèmes d’intelligence artificielle capables d’utiliser des outils et d’exécuter des actions. Elle préconise des autorisations indépendantes du modèle, une validation humaine pour les opérations critiques et un arrêt d’urgence.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Santé mondiale : The Lancet classe le conflit nucléaire parmi les menaces d’extinction",
+      "link": "https://armees.com/risque-nucleaire-lancet-menace-sante/",
+      "pubDate": "2026-10-31T10:26:00.000Z",
+      "description": "The Lancet classe le conflit nucléaire entraînant une famine mondiale parmi les trois menaces d'extinction pour l'humanité d'ici 2100. Un rapport de 146 chercheurs de 30 pays qui repositionne la guerre nucléaire comme enjeu de santé publique globale, appelant à repenser les doctrines de dissuasion.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Le Rafale M réussit ses premiers essais à bord du porte-avions indien INS Vikrant",
+      "link": "https://www.opex360.com/2026/10/31/le-rafale-m-reussit-ses-premiers-essais-a-bord-du-porte-avions-indien-ins-vikrant/",
+      "pubDate": "2026-10-31T10:22:10.000Z",
+      "description": "En avril 1993, près de deux ans et demi après son vol inaugural, le Rafale Marine M01, avec le pilote d’essais Yves Kerhervé aux commandes, marqua l’histoire de l’aéronautique navale française en effectuant ses premiers appontages et catapultages à bord du porte-avions Foch, en Méditerranée. Le 29 octobre, soit plus de trente ans après, un...\nCet article Le Rafale M réussit ses premiers essais à bord du porte-avions indien INS Vikrant est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
     {
       "title": "Renouveler les systèmes de décontamination : acte III",
       "link": "https://forcesoperations.com/renouveler-les-systemes-de-decontamination-acte-iii/",
@@ -101,48 +164,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Éthiopie : douze Su-35 russes livrés, des S-400 annoncés près du dispositif français de Djibouti",
-      "link": "https://armees.com/ethiopie-douze-su35-russes-s400-forces-francaises-djibouti/",
-      "pubDate": "2026-10-31T00:42:47.000Z",
-      "description": "Addis-Abeba affirme avoir reçu douze avions de combat Su-35 de Russie et prévoit l’acquisition de quatre batteries S-400. Cette modernisation intervient dans une Corne de l’Afrique sous tension, à proximité de Djibouti, où la France dispose d’une importante implantation militaire.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "MINURSO : deux vetos à l’ONU laissent la mission du Sahara occidental sans prolongation",
-      "link": "https://armees.com/minurso-sahara-occidental-vetos-onu-mandat-31-octobre-2026/",
-      "pubDate": "2026-10-30T23:28:48.000Z",
-      "description": "Le Conseil de sécurité n’a adopté aucun des deux textes soumis le 30 octobre sur l’avenir de la MINURSO. Le blocage entre Moscou et Washington place la présence des observateurs militaires au Sahara occidental dans une incertitude immédiate, à l’approche de l’expiration du mandat le 31 octobre.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "MINURSO : la mission de l’ONU au Sahara occidental risque de perdre son mandat le 31 octobre",
-      "link": "https://armees.com/minurso-sahara-occidental-mandat-onu-veto-31-octobre-2026/",
-      "pubDate": "2026-10-30T22:44:03.000Z",
-      "description": "Le Conseil de sécurité n’a adopté aucun des deux projets de résolution soumis le 30 octobre sur le Sahara occidental. Le veto russe au texte américain, puis le rejet du projet russe, placent la mission de surveillance de l’ONU devant une échéance immédiate, avec des conséquences possibles pour la sécurité régionale.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Rafale Marine : premier appontage réussi sur l’INS Vikrant, un cap décisif pour l’Inde",
-      "link": "https://armees.com/rafale-marine-premier-appontage-reussi-sur-lins-vikrant-un-cap-decisif-pour-linde/",
-      "pubDate": "2026-10-30T22:27:59.000Z",
-      "description": "Un Rafale Marine a apponté le 29 octobre 2026 sur le porte-avions indien INS Vikrant dès sa première tentative. Cet essai ouvre une phase technique essentielle pour adapter le chasseur français aux bâtiments indiens, dont le mode de décollage diffère de celui du Charles de Gaulle.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Logiciels espions : le CERT-FR recense une nouvelle vague d’alertes Apple du 29 octobre",
-      "link": "https://armees.com/cert-fr-apple-notifications-menace-29-octobre-2026-301026-2236/",
-      "pubDate": "2026-10-30T20:37:56.000Z",
-      "description": "Le CERT-FR, rattaché à l’ANSSI, a ajouté la campagne du 29 octobre 2026 à son suivi des notifications Apple liées aux logiciels espions mercenaires. Les personnes alertées sont invitées à préserver les éléments utiles à l’analyse et à solliciter une assistance spécialisée.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Défense aérienne : la Bulgarie rejoint l’initiative de l’OTAN contre les drones à très basse altitude",
-      "link": "https://armees.com/defense-aerienne-la-bulgarie-rejoint-linitiative-de-lotan-contre-les-drones-a-tres-basse-altitude/",
-      "pubDate": "2026-10-30T20:33:03.000Z",
-      "description": "La Bulgarie a signé le 30 octobre un document d’adhésion à un programme de l’OTAN consacré aux drones, missiles de croisière et autres menaces volant sous 150 mètres. Le projet vise des capacités communes de détection et d’interception ; la ratification bulgare reste une étape à accomplir.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "TRIDENT, un pied dans la contre-batterie de demain",
       "link": "https://forcesoperations.com/trident-un-pied-dans-la-contre-batterie-de-demain/",
       "pubDate": "2026-10-30T18:59:58.000Z",
@@ -199,13 +220,6 @@
       "sourceKey": "opex"
     },
     {
-      "title": "La Russie a livré douze premiers avions de combat Su-35E à l’Éthiopie",
-      "link": "https://www.opex360.com/2026/10/29/la-russie-a-livre-douze-premiers-avions-de-combat-su-35e-a-lethiopie/",
-      "pubDate": "2026-10-29T11:59:33.000Z",
-      "description": "En mars 2019, lors d’une visite officielle à Addis-Abeba – la première d’un président français depuis celle effectuée par Georges Pompidou, quarante-six ans plus tôt – Emmanuel Macron annonça la signature d’un accord inédit de coopération en matière de défense avec l’Éthiopie. Cet accord «ouvre notamment la voie à un accompagnement spécifique de la France...\nCet article La Russie a livré douze premiers avions de combat Su-35E à l’Éthiopie est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
       "title": "Le général Christian Piquemal, qui avait signé en 2021 une tribune controversée de militaires, est mort",
       "link": "https://www.lemonde.fr/disparitions/article/2026/10/29/le-general-christian-piquemal-qui-avait-signe-en-2021-une-tribune-controversee-de-militaires-est-mort_6802303_3382.html",
       "pubDate": "2026-10-29T09:39:10.000Z",
@@ -218,20 +232,6 @@
       "pubDate": "2026-10-29T07:20:48.000Z",
       "description": "Safran garde un pied dans les communications tactiques. Peu prolixe sur un domaine souvent associé à Thales ou Airbus, le groupe français y pousse néanmoins une nouvelle solution pour le combattant débarqué. Cette solution, Safran y travaille apparemment depuis près d'une décennie. Baptisée SAFNET, elle n'est pourtant apparue au grand jour que ce mois-ci à […]\nThe post Safran en embuscade sur la radio du combattant débarqué appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Selon un rapport, la flotte de véhicules légers de la Gendarmerie risque de «se heurter à un mur d’obsolescence» en 2028",
-      "link": "https://www.opex360.com/2026/10/28/selon-un-rapport-la-flotte-de-vehicules-legers-de-la-gendarmerie-risque-de-se-heurter-a-un-mur-dobsolescence-en-2028/",
-      "pubDate": "2026-10-28T18:30:10.000Z",
-      "description": "Si le projet de loi de finances pour 2027 [PLF 27] est adopté, la Gendarmerie nationale pourra passer une commande de 23 hélicoptères H145 D3 auprès d’Airbus Helicopters pour environ 355 millions d’euros… et s’épargner ainsi une rupture temporaire de capacité, ses AS350 Écureuil étant arrivés au bout de leur potentiel. Cela étant, les budgets...\nCet article Selon un rapport, la flotte de véhicules légers de la Gendarmerie risque de «se heurter à un mur d’obsolescence» en 2028 est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Berlin fait un pas de plus vers le programme d’avion de combat mené par Londres, Rome et Tokyo",
-      "link": "https://www.opex360.com/2026/10/28/berlin-fait-un-pas-de-plus-vers-le-programme-davion-de-combat-mene-par-londres-rome-et-tokyo/",
-      "pubDate": "2026-10-28T17:37:24.000Z",
-      "description": "Comme l’a encore rappelé Catherine Vautrin, la ministre des Armées, lors d’une audition au Sénat, le 27 octobre, le projet de Système aérien de combat du futur [SCAF] se poursuit, la France, l’Allemagne et l’Espagne ayant maintenu leur coopération sur «la connectivité», c’est-à-dire sur le «cloud de combat». Mais encore faut-il que ces trois pays...\nCet article Berlin fait un pas de plus vers le programme d’avion de combat mené par Londres, Rome et Tokyo est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "2027, nouvelle année de rattrapage pour le génie",
