@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:31:27.018Z",
+  "generatedAt": "2026-10-31T22:47:56.356Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Stormshield Management Center : le CERT-FR signale une faille d’exécution de code à distance",
+      "link": "https://armees.com/stormshield-management-center-cert-fr-faille-node2shell-31-octobre-2026-2031/",
+      "pubDate": "2026-10-31T18:32:57.000Z",
+      "description": "Le CERT-FR a publié le 30 octobre un avis sur une vulnérabilité touchant Stormshield Management Center avant la version 3.9.4. L’éditeur décrit un risque d’exécution de code sur le serveur d’administration et recommande de restreindre immédiatement l’accès à son interface.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Ukraine : jusqu’à 100 millions de hryvnias par projet pour de nouveaux radars, 75 millions pour des missiles",
       "link": "https://armees.com/ukraine-brave1-subventions-radars-missiles-air-air-octobre-2026/",
@@ -161,13 +168,6 @@
       "link": "https://armees.com/ukraine-500-missiles-patriot-pac3-21-milliards-livraisons-2026/",
       "pubDate": "2026-10-31T05:46:50.000Z",
       "description": "Washington a approuvé le 30 octobre une vente potentielle de 500 intercepteurs Patriot PAC-3 MSE à l’Ukraine, pour 2,1 milliards de dollars. L’opération serait financée par des alliés et des fonds adossés à un prêt européen, mais les délais industriels risquent de reporter les livraisons de plusieurs années.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : Washington autorise 500 missiles Patriot pour 2,1 milliards de dollars, le calendrier reste ouvert",
-      "link": "https://armees.com/ukraine-500-missiles-patriot-pac3-vente-etats-unis-2-1-milliards-octobre-2026/",
-      "pubDate": "2026-10-31T04:31:01.000Z",
-      "description": "Les États-Unis ont approuvé le 30 octobre la vente potentielle de 500 intercepteurs Patriot PAC-3 MSE à l’Ukraine, pour un montant estimé à 2,1 milliards de dollars. Financé par des partenaires de Kyiv, ce programme ne précise pas encore quand les missiles pourront être livrés.",
       "sourceKey": "armees_com"
     },
     {
