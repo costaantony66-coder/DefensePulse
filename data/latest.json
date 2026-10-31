@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T15:35:48.778Z",
+  "generatedAt": "2026-10-31T19:31:27.018Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Ukraine : jusqu’à 100 millions de hryvnias par projet pour de nouveaux radars, 75 millions pour des missiles",
+      "link": "https://armees.com/ukraine-brave1-subventions-radars-missiles-air-air-octobre-2026/",
+      "pubDate": "2026-10-31T17:32:22.000Z",
+      "description": "L’Ukraine ouvre deux concours de financement pour développer des radars nationaux et des missiles air-air pouvant notamment être lancés depuis des drones. Kyiv cherche à rendre l’interception des menaces aériennes plus abordable, avec des candidatures attendues jusqu’au 5 novembre.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine, Patriot, G20 : l’Occident joue sa crédibilité",
+      "link": "https://armees.com/ukraine-patriot-occident-credibilite-g20-joue/",
+      "pubDate": "2026-10-31T17:18:55.000Z",
+      "description": "Alors que Washington approuve une vente de 2,1 milliards de dollars d’intercepteurs Patriot à Kiev, que des évacués d’Oleshky arrivent enfin en territoire ukrainien libre, et que Bruxelles s’inquiète d’une ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cédric Chetaille, contre-amiral : « Nous assistons à une forme de nouvelle “guerre des étoiles” sous-marine »",
+      "link": "https://www.lemonde.fr/international/article/2026/10/31/cedric-chetaille-contre-amiral-nous-assistons-a-une-forme-de-nouvelle-guerre-des-etoiles-sous-marine_6803715_3210.html",
+      "pubDate": "2026-10-31T16:00:09.000Z",
+      "description": "Le fond des océans fait l’objet d’une inédite compétition militaire. La multiplication de réseaux de capteurs à des fins de surveillance ou d’espionnage risque de bouleverser les tactiques navales, explique l’ancien commandant de sous-marins nucléaires dans un entretien au « Monde ».",
+      "sourceKey": "geo"
+    },
     {
       "title": "La Section technique de l’armée de Terre développe déjà le standard 3 du système antidrone Proteus",
       "link": "https://www.opex360.com/2026/10/31/la-section-technique-de-larmee-de-terre-developpe-deja-le-standard-3-du-systeme-antidrone-proteus/",
@@ -147,20 +168,6 @@
       "link": "https://armees.com/ukraine-500-missiles-patriot-pac3-vente-etats-unis-2-1-milliards-octobre-2026/",
       "pubDate": "2026-10-31T04:31:01.000Z",
       "description": "Les États-Unis ont approuvé le 30 octobre la vente potentielle de 500 intercepteurs Patriot PAC-3 MSE à l’Ukraine, pour un montant estimé à 2,1 milliards de dollars. Financé par des partenaires de Kyiv, ce programme ne précise pas encore quand les missiles pourront être livrés.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Face aux essaims de drones, l’OTAN teste une chaîne de riposte multinationale en Lettonie",
-      "link": "https://armees.com/otan-fuse-2026-essaims-drones-capteurs-riposte-lettonie/",
-      "pubDate": "2026-10-31T03:36:19.000Z",
-      "description": "L’OTAN a présenté le 30 octobre les premiers enseignements de ses expérimentations en Lettonie, consacrées à la connexion des capteurs, des réseaux et des systèmes antidrones de plusieurs alliés. Son président du Comité militaire souhaite voir une chaîne multinationale opérationnelle sur le flanc oriental dès 2027.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cybersécurité : Suricata 8.0.8 corrige 32 vulnérabilités, dont six de gravité élevée",
-      "link": "https://armees.com/suricata-8-0-8-32-vulnerabilites-cert-fr-311026-0337/",
-      "pubDate": "2026-10-31T01:38:36.000Z",
-      "description": "La fondation OISF a publié le 29 octobre 2026 une mise à jour de sécurité de Suricata, logiciel de détection et de prévention des intrusions réseau. Le CERT-FR de l’ANSSI recommande de se référer aux correctifs de l’éditeur pour les versions antérieures à 8.0.8, tandis que la branche 7 arrive en fin de maintenance.",
       "sourceKey": "armees_com"
     },
     {
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/01/en-france-un-rapport-parlementaire-appelle-l-union-europeenne-a-s-approprier-l-otan-pour-en-faire-son-bras-arme_6786485_3210.html",
       "pubDate": "2026-10-01T09:00:02.000Z",
       "description": "Pour se détacher du parapluie américain, les députés préconisent notamment de renforcer les coopérations industrielles et d’assumer la dissuasion nucléaire sur le continent à la place des Etats-Unis.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Aux Etats-Unis, Pete Hegseth, secrétaire à la défense, revendique une réduction de 20 % du nombre de hauts gradés et poursuit la reconfiguration de l’armée",
-      "link": "https://www.lemonde.fr/international/article/2026/10/01/aux-etats-unis-pete-hegseth-le-secretaire-a-la-defense-revendique-une-reduction-de-20-du-nombre-de-hauts-grades-et-poursuit-la-reconfiguration-de-l-armee_6786428_3210.html",
-      "pubDate": "2026-10-01T03:28:40.000Z",
-      "description": "Dans un discours aux accents virilistes, mercredi, le chef du Pentagone a confirmé les termes de la révolution culturelle menée dans les rangs militaires et a annoncé une série de mesures visant à préparer le pays aux guerres du futur.",
       "sourceKey": "geo"
     }
   ]
