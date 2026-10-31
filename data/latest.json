@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T23:51:01.959Z",
+  "generatedAt": "2026-10-31T03:38:21.147Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "title": "Cybersécurité : Suricata 8.0.8 corrige 32 vulnérabilités, dont six de gravité élevée",
+      "link": "https://armees.com/suricata-8-0-8-32-vulnerabilites-cert-fr-311026-0337/",
+      "pubDate": "2026-10-31T01:38:36.000Z",
+      "description": "La fondation OISF a publié le 29 octobre 2026 une mise à jour de sécurité de Suricata, logiciel de détection et de prévention des intrusions réseau. Le CERT-FR de l’ANSSI recommande de se référer aux correctifs de l’éditeur pour les versions antérieures à 8.0.8, tandis que la branche 7 arrive en fin de maintenance.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Éthiopie : douze Su-35 russes livrés, des S-400 annoncés près du dispositif français de Djibouti",
+      "link": "https://armees.com/ethiopie-douze-su35-russes-s400-forces-francaises-djibouti/",
+      "pubDate": "2026-10-31T00:42:47.000Z",
+      "description": "Addis-Abeba affirme avoir reçu douze avions de combat Su-35 de Russie et prévoit l’acquisition de quatre batteries S-400. Cette modernisation intervient dans une Corne de l’Afrique sous tension, à proximité de Djibouti, où la France dispose d’une importante implantation militaire.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "MINURSO : deux vetos à l’ONU laissent la mission du Sahara occidental sans prolongation",
+      "link": "https://armees.com/minurso-sahara-occidental-vetos-onu-mandat-31-octobre-2026/",
+      "pubDate": "2026-10-30T23:28:48.000Z",
+      "description": "Le Conseil de sécurité n’a adopté aucun des deux textes soumis le 30 octobre sur l’avenir de la MINURSO. Le blocage entre Moscou et Washington place la présence des observateurs militaires au Sahara occidental dans une incertitude immédiate, à l’approche de l’expiration du mandat le 31 octobre.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "MINURSO : la mission de l’ONU au Sahara occidental risque de perdre son mandat le 31 octobre",
+      "link": "https://armees.com/minurso-sahara-occidental-mandat-onu-veto-31-octobre-2026/",
+      "pubDate": "2026-10-30T22:44:03.000Z",
+      "description": "Le Conseil de sécurité n’a adopté aucun des deux projets de résolution soumis le 30 octobre sur le Sahara occidental. Le veto russe au texte américain, puis le rejet du projet russe, placent la mission de surveillance de l’ONU devant une échéance immédiate, avec des conséquences possibles pour la sécurité régionale.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Rafale Marine : premier appontage réussi sur l’INS Vikrant, un cap décisif pour l’Inde",
+      "link": "https://armees.com/rafale-marine-premier-appontage-reussi-sur-lins-vikrant-un-cap-decisif-pour-linde/",
+      "pubDate": "2026-10-30T22:27:59.000Z",
+      "description": "Un Rafale Marine a apponté le 29 octobre 2026 sur le porte-avions indien INS Vikrant dès sa première tentative. Cet essai ouvre une phase technique essentielle pour adapter le chasseur français aux bâtiments indiens, dont le mode de décollage diffère de celui du Charles de Gaulle.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Logiciels espions : le CERT-FR recense une nouvelle vague d’alertes Apple du 29 octobre",
       "link": "https://armees.com/cert-fr-apple-notifications-menace-29-octobre-2026-301026-2236/",
@@ -133,41 +168,6 @@
       "link": "https://armees.com/armes-explosifs-decret-2026-1002-controles-ventes-en-ligne-30-octobre-2026/",
       "pubDate": "2026-10-30T10:34:00.000Z",
       "description": "Un décret publié le 29 octobre réorganise le Service central des armes et explosifs autour de cinq bureaux. Le ministère de l’Intérieur précise les responsabilités en matière de classement des armes, de contrôle des professionnels et de suivi des ventes sur internet.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Espionnage chinois : la taupe qui voulait pénétrer le cœur de Nvidia",
-      "link": "https://armees.com/espionnage-chinois-puces-ia-renseignement-americain/",
-      "pubDate": "2026-10-30T09:27:18.000Z",
-      "description": "Les agences de renseignement américaines ont mené pendant un an une opération de surveillance contre Alice Huang, cadre de Megaspeed soupçonnée d'espionnage chinois.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "États-Unis : le limogeage du général Sylvia fragilise le Pentagone",
-      "link": "https://armees.com/general-sylvia-pentagone-strategie-planification-2026/",
-      "pubDate": "2026-10-30T08:53:47.000Z",
-      "description": "Le général Brett Sylvia, directeur de la stratégie au Joint Chiefs of Staff, a été limogé après avoir échoué à trois tests polygraphiques concernant des fuites d'informations classifiées sur les guerres en Iran et en Ukraine. Ce limogeage s'inscrit dans une purge militaire menée par l'administration Trump depuis 2025, marquée par une réduction de 20% des généraux et amiraux. L'éviction d'un poste aussi stratégique fragilise la planification défense américaine en pleine tension géopolitique.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Les Etats-Unis renforcent leur contrôle d’Ebola",
-      "link": "https://armees.com/biosecurite-etats-unis-controle-frontieres-ebola/",
-      "pubDate": "2026-10-30T08:01:00.000Z",
-      "description": "À partir du 3 novembre 2026, tous les passagers des vols internationaux à destination des États-Unis doivent présenter une attestation certifiant l'absence de séjour en République démocratique du Congo durant les 21 jours précédents. Cette mesure anti-Ebola, décidée par les CDC, s'applique universellement et transfère aux compagnies aériennes la responsabilité du contrôle, sous peine de refus d'embarquement. Les fausses déclarations exposent à cinq ans de prison.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Quatre pétroliers endommagés par des mines dans le détroit d’Ormuz",
-      "link": "https://armees.com/ormuz-demiage-strategie-centcom-iran/",
-      "pubDate": "2026-10-30T07:10:00.000Z",
-      "description": "Le 29 octobre 2026, quatre pétroliers ont été endommagés dans le détroit d'Ormuz en moins de 24 heures. Téhéran accuse les navires d'avoir emprunté des routes minées malgré les avertissements, tandis que le Centcom affirme avoir sécurisé les principales voies de navigation. L'UKMTO rapporte des incidents aux causes divergentes, révélant un affrontement stratégique autour du contrôle de ce passage critique.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Les attaques continuent : l’Ukraine frappe la Russie avec une vaste attaque de drones et les dégâts ne cessent d’augmenter",
-      "link": "https://armees.com/les-attaques-continuent-lukraine-frappe-la-russie-avec-une-vaste-attaque-de-drones-et-les-degats-ne-cessent-daugmenter/",
-      "pubDate": "2026-10-30T07:05:24.000Z",
-      "description": "Plus de 1 200 drones contre Moscou en une seule nuit, en pleine sommet Russie-Afrique. Aciérie touchée, usine chimique visée, stocks de Patriot ukrainiens au bord de la rupture : la guerre des drones s'intensifie dangereusement.",
       "sourceKey": "armees_com"
     },
     {
