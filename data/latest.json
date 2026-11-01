@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T19:53:03.324Z",
+  "generatedAt": "2026-11-01T23:16:29.072Z",
   "sources": [
     {
       "key": "opex",
@@ -24,6 +24,20 @@
   ],
   "items": [
     {
+      "title": "Ukraine : six missiles Banderol neutralisés et 326 drones lancés en pleine journée",
+      "link": "https://armees.com/ukraine-326-drones-six-missiles-banderol-defense-aerienne-1-novembre-2026/",
+      "pubDate": "2026-11-01T21:34:58.000Z",
+      "description": "Le 1er novembre, les forces aériennes ukrainiennes ont annoncé avoir neutralisé six missiles S8000 Banderol et 274 des 326 drones engagés par la Russie entre 6 h 30 et 19 heures. Parmi les appareils détectés figuraient 55 drones à propulsion réactive.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : 433 drones russes dans la nuit, l’offensive aérienne se prolonge le 1er novembre",
+      "link": "https://armees.com/ukraine-433-drones-russes-1-novembre-2026-defense-aerienne/",
+      "pubDate": "2026-11-01T20:45:45.000Z",
+      "description": "L’armée de l’air ukrainienne affirme avoir neutralisé 371 des 433 drones lancés depuis le 31 octobre au soir. Une nouvelle séquence de frappes a suivi dimanche, illustrant la pression sur les défenses antiaériennes et les infrastructures énergétiques du pays.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Manche : un drone Protector britannique a surveillé des navires russes, une première pour la RAF",
       "link": "https://armees.com/manche-drone-protector-raf-surveillance-navires-russes-novembre-2026/",
       "pubDate": "2026-11-01T17:46:01.000Z",
@@ -40,7 +54,7 @@
     {
       "title": "« Guerre hybride », une expression considérée comme un euphémisme et prétexte à l’inaction par de nombreux Européens",
       "link": "https://www.lemonde.fr/international/article/2026/11/01/guerre-hybride-une-expression-consideree-comme-un-euphemisme-et-pretexte-a-l-inaction-par-de-nombreux-europeens_6804510_3210.html",
-      "pubDate": "2026-11-01T15:07:35.000Z",
+      "pubDate": "2026-11-01T15:07:30.000Z",
       "description": "Sabotages, ingérences, survols de drones : face à la multiplication des opérations attribuées à Moscou, de plus en plus de responsables européens contestent l’emploi de l’expression « guerre hybride », jugée trop floue et bien commode pour justifier l’inaction.",
       "sourceKey": "geo"
     },
@@ -140,20 +154,6 @@
       "link": "https://armees.com/taiwan-garde-cotes-chinois-patrouille-est-ile-31-octobre-2026/",
       "pubDate": "2026-11-01T03:49:37.000Z",
       "description": "Deux navires des garde-côtes chinois ont patrouillé le 31 octobre dans les eaux à l’est de Taïwan, sous surveillance des forces taïwanaises. Taipei dénonce des messages radio destinés à imposer une juridiction contestée sur une zone stratégique pour les ravitaillements maritimes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "GitLab : le CERT-FR alerte sur des certificats compromis et trois composants à corriger",
-      "link": "https://armees.com/gitlab-certfr-emudhra-certificats-compromis-runner-ai-gateway-011126-0540/",
-      "pubDate": "2026-11-01T03:41:55.000Z",
-      "description": "Le CERT-FR de l’ANSSI a signalé le 30 octobre une vulnérabilité de contournement des contrôles de sécurité dans GitLab. L’éditeur a retiré sa confiance à huit certificats intermédiaires eMudhra compromis et demande aux administrateurs de mettre à jour GitLab, Runner et AI Gateway séparément.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Protection civile : seuls 49 % des Européens se disent bien préparés aux catastrophes",
-      "link": "https://armees.com/eurobarometre-protection-civile-preparation-catastrophes-europe-011126-0340/",
-      "pubDate": "2026-11-01T01:44:21.000Z",
-      "description": "Un Eurobaromètre publié le 30 octobre par la Commission européenne révèle un décalage entre la demande de solidarité et la préparation individuelle aux crises. Si 91 % des personnes interrogées souhaitent renforcer la coordination européenne, moins d’une sur deux estime être bien préparée à une catastrophe près de chez elle.",
       "sourceKey": "armees_com"
     },
     {
