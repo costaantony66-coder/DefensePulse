@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T15:25:59.256Z",
+  "generatedAt": "2026-11-01T19:53:03.324Z",
   "sources": [
     {
       "key": "opex",
@@ -24,11 +24,39 @@
   ],
   "items": [
     {
+      "title": "Manche : un drone Protector britannique a surveillé des navires russes, une première pour la RAF",
+      "link": "https://armees.com/manche-drone-protector-raf-surveillance-navires-russes-novembre-2026/",
+      "pubDate": "2026-11-01T17:46:01.000Z",
+      "description": "La Royal Air Force a engagé pour la première fois son drone Protector RG1 dans une mission opérationnelle de surveillance maritime au-dessus de la Manche. Révélée le 31 octobre, cette opération menée avec la Royal Navy illustre l'évolution du suivi des bâtiments russes dans les approches maritimes de l'Europe.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Guerre hybride : l’Europe joue avec les mots pendant que Moscou agit",
+      "link": "https://armees.com/guerre-europe-moscou-hybride-joue-mots-agit/",
+      "pubDate": "2026-11-01T17:16:44.000Z",
+      "description": "Sabotages, ingérences, survols de drones : la Russie mène une guerre sans en porter le nom, et l’Europe s’abrite derrière un vocabulaire flou pour justifier son inaction. Appeler les choses ...",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "« Guerre hybride », une expression considérée comme un euphémisme et prétexte à l’inaction par de nombreux Européens",
       "link": "https://www.lemonde.fr/international/article/2026/11/01/guerre-hybride-une-expression-consideree-comme-un-euphemisme-et-pretexte-a-l-inaction-par-de-nombreux-europeens_6804510_3210.html",
       "pubDate": "2026-11-01T15:07:35.000Z",
       "description": "Sabotages, ingérences, survols de drones : face à la multiplication des opérations attribuées à Moscou, de plus en plus de responsables européens contestent l’emploi de l’expression « guerre hybride », jugée trop floue et bien commode pour justifier l’inaction.",
       "sourceKey": "geo"
+    },
+    {
+      "title": "Drones navals SMOKERS : la DGA prépare une production pouvant atteindre 50 unités par an",
+      "link": "https://armees.com/drones-navals-smokers-dga-production-50-par-an/",
+      "pubDate": "2026-11-01T14:34:34.000Z",
+      "description": "La Direction générale de l’armement a ouvert une consultation pour industrialiser SMOKERS, sa munition navale téléopérée développée en interne. Le dossier envisage une dizaine d’exemplaires par an en temps de paix, avec une capacité portée à 50 selon les besoins des forces.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "AWACS français : un nouveau simulateur à Lannion pour former les équipages jusqu’au retrait des E-3F",
+      "link": "https://armees.com/awacs-e3f-simulateur-lannion-exail-afi-klm-formation-2026-11-01/",
+      "pubDate": "2026-11-01T14:17:26.000Z",
+      "description": "AFI KLM E&M et Exail ont annoncé le 29 octobre la livraison à la DGA d’un simulateur de vol complet pour les avions radar E-3F AWACS. Installé dans la chaîne de formation des équipages français, il doit soutenir la disponibilité d’une flotte appelée à être remplacée d’ici 2035.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "La Direction générale de l’armement lance un appel d’offres pour industrialiser son drone naval kamikaze «SMOKERS»",
@@ -126,34 +154,6 @@
       "link": "https://armees.com/eurobarometre-protection-civile-preparation-catastrophes-europe-011126-0340/",
       "pubDate": "2026-11-01T01:44:21.000Z",
       "description": "Un Eurobaromètre publié le 30 octobre par la Commission européenne révèle un décalage entre la demande de solidarité et la préparation individuelle aux crises. Si 91 % des personnes interrogées souhaitent renforcer la coordination européenne, moins d’une sur deux estime être bien préparée à une catastrophe près de chez elle.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Nessus : le CERT-FR alerte sur une faille de lecture de fichiers dans le scanner de vulnérabilités",
-      "link": "https://armees.com/nessus-cve-2026-119317-cert-fr-lecture-fichiers-linux-011126-0240/",
-      "pubDate": "2026-11-01T00:43:08.000Z",
-      "description": "Le CERT-FR de l’ANSSI a signalé le 30 octobre une vulnérabilité affectant les modules de Tenable Nessus sur Linux. Un utilisateur déjà authentifié, autorisé à créer des analyses, pourrait lire des fichiers du serveur avec les droits du service Nessus ; un correctif est disponible dans le flux de plugins.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Corée du Nord : quatre types d’ogives à sous-munitions annoncés après un nouvel essai balistique",
-      "link": "https://armees.com/coree-nord-quatre-ogives-sous-munitions-essai-balistique-novembre-2026/",
-      "pubDate": "2026-11-01T00:32:58.000Z",
-      "description": "Pyongyang affirme avoir testé le 31 octobre une ogive à sous-munitions destinée à ses missiles balistiques tactiques. L’armée nord-coréenne devrait pouvoir disposer de quatre catégories de ces charges avant la fin de 2026, selon son administration des missiles.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Casernes de gendarmerie : un nouveau cadre pour les loyers et les baux immobiliers",
-      "link": "https://armees.com/casernes-gendarmerie-cadre-locatif-baux-loyers-decret-2026-1013-311026-2331/",
-      "pubDate": "2026-10-31T21:33:57.000Z",
-      "description": "Un décret et un arrêté publiés le 31 octobre 2026 réorganisent les règles applicables aux casernes de gendarmerie louées par l’État. Durée des baux, calcul des loyers, suivi financier et éventuelle option d’achat concernent directement les collectivités et bailleurs engagés dans ces opérations.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Stormshield Management Center : le CERT-FR signale une faille d’exécution de code à distance",
-      "link": "https://armees.com/stormshield-management-center-cert-fr-faille-node2shell-31-octobre-2026-2031/",
-      "pubDate": "2026-10-31T18:32:57.000Z",
-      "description": "Le CERT-FR a publié le 30 octobre un avis sur une vulnérabilité touchant Stormshield Management Center avant la version 3.9.4. L’éditeur décrit un risque d’exécution de code sur le serveur d’administration et recommande de restreindre immédiatement l’accès à son interface.",
       "sourceKey": "armees_com"
     },
     {
