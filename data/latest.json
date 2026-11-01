@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T08:32:15.399Z",
+  "generatedAt": "2026-11-01T15:25:59.256Z",
   "sources": [
     {
       "key": "opex",
@@ -24,6 +24,48 @@
   ],
   "items": [
     {
+      "title": "« Guerre hybride », une expression considérée comme un euphémisme et prétexte à l’inaction par de nombreux Européens",
+      "link": "https://www.lemonde.fr/international/article/2026/11/01/guerre-hybride-une-expression-consideree-comme-un-euphemisme-et-pretexte-a-l-inaction-par-de-nombreux-europeens_6804510_3210.html",
+      "pubDate": "2026-11-01T15:07:35.000Z",
+      "description": "Sabotages, ingérences, survols de drones : face à la multiplication des opérations attribuées à Moscou, de plus en plus de responsables européens contestent l’emploi de l’expression « guerre hybride », jugée trop floue et bien commode pour justifier l’inaction.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "La Direction générale de l’armement lance un appel d’offres pour industrialiser son drone naval kamikaze «SMOKERS»",
+      "link": "https://www.opex360.com/2026/11/01/la-direction-generale-de-larmement-lance-un-appel-doffres-pour-industrialiser-son-drone-naval-kamikaze-smokers/",
+      "pubDate": "2026-11-01T12:17:52.000Z",
+      "description": "En avril 2025, la Marine nationale lança sa première munition navale téléopérée [ou drone naval «kamikaze»] contre la coque renforcée d’un chaland de transport de matériel [CTM] désarmé dans le cadre d’une expérimentation visant à développer de nouveaux concepts opérationnels, inspirés par les retours d’expérience [RETEX] de la guerre en Ukraine. Cette munition navale téléopérée...\nCet article La Direction générale de l’armement lance un appel d’offres pour industrialiser son drone naval kamikaze «SMOKERS» est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Un document confirme l’intérêt de la force aérienne italienne pour l’avion de transport A400M «Atlas» d’Airbus",
+      "link": "https://www.opex360.com/2026/11/01/un-document-confirme-linteret-de-la-force-aerienne-italienne-pour-lavion-de-transport-a400m-atlas-dairbus/",
+      "pubDate": "2026-11-01T12:14:40.000Z",
+      "description": "Ces derniers mois, le constructeur aéronautique brésilien Embraer a remporté plusieurs marchés en Europe avec son avion de transport militaire C-390 Millenium, parfois aux dépens de l’A400M Atlas d’Airbus. Cependant, ce dernier semble intéresser de plus en plus de pays européens, soucieux de remplacer leurs C-130 Hercules et/ou de renforcer leurs capacités de transport aérien...\nCet article Un document confirme l’intérêt de la force aérienne italienne pour l’avion de transport A400M «Atlas» d’Airbus est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Tchad : deux Mirage 2000 français annoncés pour une escale et des formations militaires",
+      "link": "https://armees.com/tchad-deux-mirage-2000-francais-escale-formations-octobre-2026/",
+      "pubDate": "2026-11-01T09:51:05.000Z",
+      "description": "L’état-major français a annoncé le 29 octobre le passage prochain de deux Mirage 2000 et d’un avion de transport CASA au Tchad. Cette escale de courte durée, associée à des formations, marque une étape concrète du rapprochement militaire engagé entre Paris et N’Djamena après le retrait français de 2025.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "GitLab : huit certificats compromis imposent une mise à jour des serveurs et des outils CI/CD",
+      "link": "https://armees.com/gitlab-emudhra-certificats-compromis-runner-ai-gateway-cert-fr-011126-0936/",
+      "pubDate": "2026-11-01T07:36:47.000Z",
+      "description": "GitLab a diffusé le 29 octobre des correctifs après la compromission des clés privées de huit certificats intermédiaires eMudhra. Le CERT-FR de l’ANSSI signale un risque de contournement des contrôles de sécurité ; les installations auto-hébergées doivent vérifier séparément GitLab, Runner et AI Gateway.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Mer Noire : Washington étudie une trêve maritime proposée par la Turquie et l’Inde",
+      "link": "https://armees.com/mer-noire-washington-treve-maritime-turquie-inde-rubio-31-octobre-2026/",
+      "pubDate": "2026-11-01T07:32:03.000Z",
+      "description": "Les États-Unis examinent des propositions turque et indienne visant à suspendre certaines attaques contre les navires en mer Noire. Annoncée par Marco Rubio le 31 octobre, cette piste cherche à sécuriser les transports de céréales et d’énergie, mais aucun accord n’a été conclu.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Ce que les scientifiques ont trouvé dans cette grotte depuis 57 000 ans n’a pas été fait par des humains",
       "link": "https://armees.com/ce-que-les-scientifiques-ont-trouve-dans-cette-grotte-depuis-57-000-ans-na-pas-ete-fait-par-des-humains/",
       "pubDate": "2026-11-01T07:05:17.000Z",
@@ -42,6 +84,13 @@
       "link": "https://armees.com/chine-europe-france-depense-panique/",
       "pubDate": "2026-11-01T06:19:38.000Z",
       "description": "La Chine entre en déflation mentale. Ses ménages épargnent, taillent dans leurs dépenses, hésitent. À des milliers de kilomètres, l’Europe tremble et promet des milliards pour sa défense. Mais entre ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Airbus Defence and Space : les prises de commandes bondissent de 70 % sur neuf mois",
+      "link": "https://armees.com/airbus-defence-space-commandes-hausse-70-pour-cent-neuf-mois-2026/",
+      "pubDate": "2026-11-01T06:16:17.000Z",
+      "description": "Airbus Defence and Space a enregistré 11,47 milliards d’euros de commandes de janvier à septembre 2026, contre 6,75 milliards un an auparavant. Les résultats publiés le 28 octobre montrent aussi une amélioration de la rentabilité, sans signifier que ces contrats ont déjà été livrés.",
       "sourceKey": "armees_com"
     },
     {
@@ -108,20 +157,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Ukraine : jusqu’à 100 millions de hryvnias par projet pour de nouveaux radars, 75 millions pour des missiles",
-      "link": "https://armees.com/ukraine-brave1-subventions-radars-missiles-air-air-octobre-2026/",
-      "pubDate": "2026-10-31T17:32:22.000Z",
-      "description": "L’Ukraine ouvre deux concours de financement pour développer des radars nationaux et des missiles air-air pouvant notamment être lancés depuis des drones. Kyiv cherche à rendre l’interception des menaces aériennes plus abordable, avec des candidatures attendues jusqu’au 5 novembre.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine, Patriot, G20 : l’Occident joue sa crédibilité",
-      "link": "https://armees.com/ukraine-patriot-occident-credibilite-g20-joue/",
-      "pubDate": "2026-10-31T17:18:55.000Z",
-      "description": "Alors que Washington approuve une vente de 2,1 milliards de dollars d’intercepteurs Patriot à Kiev, que des évacués d’Oleshky arrivent enfin en territoire ukrainien libre, et que Bruxelles s’inquiète d’une ...",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Cédric Chetaille, contre-amiral : « Nous assistons à une forme de nouvelle “guerre des étoiles” sous-marine »",
       "link": "https://www.lemonde.fr/international/article/2026/10/31/cedric-chetaille-contre-amiral-nous-assistons-a-une-forme-de-nouvelle-guerre-des-etoiles-sous-marine_6803715_3210.html",
       "pubDate": "2026-10-31T16:00:09.000Z",
@@ -134,20 +169,6 @@
       "pubDate": "2026-10-31T14:43:41.000Z",
       "description": "En janvier 2025, la Section technique de l’armée de Terre [STAT] présenta le Proteus, un système de lutte antidrone [LAD], mis au point par son groupement «Artillerie», dans le cadre d’un projet lancé quelques mois plus tôt. «L’objectif de ce développement est double : fournir une réponse opérationnelle rapide tout en anticipant les évolutions du...\nCet article La Section technique de l’armée de Terre développe déjà le standard 3 du système antidrone Proteus est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Frégates FDI : Naval Group livre le Nearchos à la Grèce, une troisième livraison attendue fin 2026",
-      "link": "https://armees.com/naval-group-livraison-fregate-nearchos-grece-lorient-30-octobre-2026/",
-      "pubDate": "2026-10-31T14:08:19.000Z",
-      "description": "La marine grecque a reçu le 30 octobre à Lorient sa deuxième frégate de défense et d’intervention construite par Naval Group. Cette remise intervient dix mois après celle du Kimon et précède une troisième livraison annoncée avant la fin de l’année, dans le cadre d’un programme industriel franco-hellénique.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Nigeria : deux positions militaires attaquées, l’armée annonce 48 combattants djihadistes tués",
-      "link": "https://armees.com/nigeria-borno-yobe-bases-attaque-48-combattants-30-octobre-2026/",
-      "pubDate": "2026-10-31T13:46:35.000Z",
-      "description": "Des combattants de Boko Haram et de l’ISWAP ont attaqué deux positions de l’armée nigériane dans la nuit du 29 au 30 octobre, dans les États de Borno et de Yobe. Abuja affirme avoir repoussé les assauts et tué 48 insurgés. Ces combats illustrent la pression persistante sur les forces engagées dans le bassin du lac Tchad, où l’Union européenne renforce son soutien sécuritaire.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Désarmée en 2022, l’ex-frégate Latouche-Tréville est désormais utilisée par la DGA pour des essais de choc",
@@ -210,20 +231,6 @@
       "link": "https://www.opex360.com/2026/10/29/avec-le-robot-sous-marin-rov-deap-sea-la-marine-nationale-pourra-intervenir-a-6-000-metres-de-profondeur/",
       "pubDate": "2026-10-29T18:23:24.000Z",
       "description": "Alors qu’elle était à la pointe de l’exploration des fonds marins après la Seconde Guerre Mondiale, la Marine nationale perdit une grande partie de ses capacités d’intervention dans ce domaine au cours des années 1970, avec la fin du «groupe des bathyscaphes». Or, avec les menaces qui pèsent désormais sur les infrastructures sous-marines critiques, la...\nCet article Avec le robot sous-marin ROV-Deap Sea, la Marine nationale pourra intervenir à 6 000 mètres de profondeur est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Le canadien Bombardier s’entend avec BAE Systems en vue d’établir une coopération sur l’aviation de combat du futur",
-      "link": "https://www.opex360.com/2026/10/29/le-canadien-bombardier-sentend-avec-bae-systems-en-vue-detablir-une-cooperation-sur-laviation-de-combat-du-futur/",
-      "pubDate": "2026-10-29T17:16:12.000Z",
-      "description": "Selon le Financial Times, faute d’avoir pu s’entendre avec l’espagnol Indra, Airbus s’apprête à avoir une discussion avec le britannique BAE Systems pour évoquer de possibles collaborations dans le domaine de l’aviation de combat du futur ainsi qu’une éventuelle participation au Global Combat Air Programme [GCAP], mené par le Royaume-Uni, l’Italie et le Japon. Il...\nCet article Le canadien Bombardier s’entend avec BAE Systems en vue d’établir une coopération sur l’aviation de combat du futur est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Le coût des futurs avions de patrouille maritime de la Marine nationale a déjà augmenté de 65 %",
-      "link": "https://www.opex360.com/2026/10/29/le-cout-des-futurs-avions-de-patrouille-maritime-de-la-marine-nationale-a-deja-augmente-de-65/",
-      "pubDate": "2026-10-29T15:53:06.000Z",
-      "description": "Véritable «couteau suisse» de l’Aéronautique navale, l’avion de patrouille maritime [PATMAR] Atlantique 2 est devenu encore plus performant depuis qu’il a été porté au standard 6. Seulement, cette modernisation ayant exclusivement porté sur son système de combat, avec, en particulier, l’intégration du radar à antenne active Searchmaster, cet appareil devra être retiré du service en...\nCet article Le coût des futurs avions de patrouille maritime de la Marine nationale a déjà augmenté de 65 % est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/01/ia-militaire-la-france-a-l-assaut-de-la-domination-americaine-sur-les-reseaux-classifies-de-l-otan_6786550_3210.html",
       "pubDate": "2026-10-01T15:34:08.000Z",
       "description": "Le projet Arcadia, présenté le 29 septembre, vise à fusionner massivement les données des armées françaises pour accroître leur efficacité opérationnelle. Une âpre bataille est lancée contre les groupes américains Palantir et Anduril dans le cadre de la modernisation des structures de l’Alliance atlantique.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "L’UE doit « s’approprier l’OTAN » pour en faire « son bras armé » préconise un rapport parlementaire français",
-      "link": "https://www.lemonde.fr/international/article/2026/10/01/en-france-un-rapport-parlementaire-appelle-l-union-europeenne-a-s-approprier-l-otan-pour-en-faire-son-bras-arme_6786485_3210.html",
-      "pubDate": "2026-10-01T09:00:02.000Z",
-      "description": "Pour se détacher du parapluie américain, les députés préconisent notamment de renforcer les coopérations industrielles et d’assumer la dissuasion nucléaire sur le continent à la place des Etats-Unis.",
       "sourceKey": "geo"
     }
   ]
