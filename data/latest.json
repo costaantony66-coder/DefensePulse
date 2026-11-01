@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:45:05.745Z",
+  "generatedAt": "2026-11-01T08:32:15.399Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,76 @@
     }
   ],
   "items": [
+    {
+      "title": "Ce que les scientifiques ont trouvé dans cette grotte depuis 57 000 ans n’a pas été fait par des humains",
+      "link": "https://armees.com/ce-que-les-scientifiques-ont-trouve-dans-cette-grotte-depuis-57-000-ans-na-pas-ete-fait-par-des-humains/",
+      "pubDate": "2026-11-01T07:05:17.000Z",
+      "description": "Scellée pendant 57 000 ans, une grotte du Val de Loire révèle des gravures qui bousculent tout ce qu'on croyait savoir sur les Néandertaliens. Simples griffures ou véritable art préhistorique ? La réponse surprend.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Asman Technology prépare le vol du DSLR MK1 : ce drone français de guerre électronique que personne n’attendait divise déjà les experts défense",
+      "link": "https://armees.com/asman-technology-prepare-le-vol-du-dslr-mk1-ce-drone-francais-de-guerre-electronique-que-personne-nattendait-divise-deja-les-experts-defense/",
+      "pubDate": "2026-11-01T06:35:47.000Z",
+      "description": "Sans composant américain, sans subvention de la DGA, mais avec 21 heures d'autonomie : le drone Sentinelle MK1 avance seul dans l'ombre des cinq favoris de l'État. Son premier vol pourrait tout changer.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La Chine dépense moins, l’Europe panique : et la France ?",
+      "link": "https://armees.com/chine-europe-france-depense-panique/",
+      "pubDate": "2026-11-01T06:19:38.000Z",
+      "description": "La Chine entre en déflation mentale. Ses ménages épargnent, taillent dans leurs dépenses, hésitent. À des milliers de kilomètres, l’Europe tremble et promet des milliards pour sa défense. Mais entre ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Après un exploit à -25°C sur la banquise du Groenland, cet Airbus A400M de l’armée française atterrit à Perpignan",
+      "link": "https://armees.com/apres-un-exploit-a-25c-sur-la-banquise-du-groenland-cet-airbus-a400m-de-larmee-francaise-atterrit-a-perpignan/",
+      "pubDate": "2026-11-01T06:05:21.000Z",
+      "description": "Sans ski ni piste aménagée, un A400M français s'est posé par -25°C sur la banquise groenlandaise. Un exploit inédit que l'appareil vient tout juste rejouer... à Perpignan. Pourquoi cette escale ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine, G20, ONU : qui paie vraiment la sécurité mondiale ?",
+      "link": "https://armees.com/ukraine-onu-vraiment-g20-securite-mondiale-paie/",
+      "pubDate": "2026-11-01T06:03:17.000Z",
+      "description": "Alors que Washington choisit de réintégrer Moscou dans le concert diplomatique du G20, que la mission onusienne au Sahara occidental rend l’âme et que des civils ukrainiens s’évacuent sous cessez-le-feu ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Taïwan : deux navires chinois patrouillent à l’est de l’île, Taipei dénonce une pression maritime",
+      "link": "https://armees.com/taiwan-garde-cotes-chinois-patrouille-est-ile-31-octobre-2026/",
+      "pubDate": "2026-11-01T03:49:37.000Z",
+      "description": "Deux navires des garde-côtes chinois ont patrouillé le 31 octobre dans les eaux à l’est de Taïwan, sous surveillance des forces taïwanaises. Taipei dénonce des messages radio destinés à imposer une juridiction contestée sur une zone stratégique pour les ravitaillements maritimes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "GitLab : le CERT-FR alerte sur des certificats compromis et trois composants à corriger",
+      "link": "https://armees.com/gitlab-certfr-emudhra-certificats-compromis-runner-ai-gateway-011126-0540/",
+      "pubDate": "2026-11-01T03:41:55.000Z",
+      "description": "Le CERT-FR de l’ANSSI a signalé le 30 octobre une vulnérabilité de contournement des contrôles de sécurité dans GitLab. L’éditeur a retiré sa confiance à huit certificats intermédiaires eMudhra compromis et demande aux administrateurs de mettre à jour GitLab, Runner et AI Gateway séparément.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Protection civile : seuls 49 % des Européens se disent bien préparés aux catastrophes",
+      "link": "https://armees.com/eurobarometre-protection-civile-preparation-catastrophes-europe-011126-0340/",
+      "pubDate": "2026-11-01T01:44:21.000Z",
+      "description": "Un Eurobaromètre publié le 30 octobre par la Commission européenne révèle un décalage entre la demande de solidarité et la préparation individuelle aux crises. Si 91 % des personnes interrogées souhaitent renforcer la coordination européenne, moins d’une sur deux estime être bien préparée à une catastrophe près de chez elle.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Nessus : le CERT-FR alerte sur une faille de lecture de fichiers dans le scanner de vulnérabilités",
+      "link": "https://armees.com/nessus-cve-2026-119317-cert-fr-lecture-fichiers-linux-011126-0240/",
+      "pubDate": "2026-11-01T00:43:08.000Z",
+      "description": "Le CERT-FR de l’ANSSI a signalé le 30 octobre une vulnérabilité affectant les modules de Tenable Nessus sur Linux. Un utilisateur déjà authentifié, autorisé à créer des analyses, pourrait lire des fichiers du serveur avec les droits du service Nessus ; un correctif est disponible dans le flux de plugins.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Corée du Nord : quatre types d’ogives à sous-munitions annoncés après un nouvel essai balistique",
+      "link": "https://armees.com/coree-nord-quatre-ogives-sous-munitions-essai-balistique-novembre-2026/",
+      "pubDate": "2026-11-01T00:32:58.000Z",
+      "description": "Pyongyang affirme avoir testé le 31 octobre une ogive à sous-munitions destinée à ses missiles balistiques tactiques. L’armée nord-coréenne devrait pouvoir disposer de quatre catégories de ces charges avant la fin de 2026, selon son administration des missiles.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Casernes de gendarmerie : un nouveau cadre pour les loyers et les baux immobiliers",
       "link": "https://armees.com/casernes-gendarmerie-cadre-locatif-baux-loyers-decret-2026-1013-311026-2331/",
@@ -80,39 +150,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Hélicoptères Apache AH-64 : Boeing décroche jusqu’à 500 millions de dollars de soutien technique jusqu’en 2031",
-      "link": "https://armees.com/apache-ah64-boeing-500-millions-soutien-2031/",
-      "pubDate": "2026-10-31T12:44:51.000Z",
-      "description": "L’armée américaine a rendu public le 27 octobre un avenant de 499,8 millions de dollars au contrat de soutien technique des hélicoptères Apache AH-64. Ce plafond contractuel accompagne la modernisation de la flotte, tandis que la Pologne prépare l’arrivée de ses appareils au sein de l’OTAN.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Désarmée en 2022, l’ex-frégate Latouche-Tréville est désormais utilisée par la DGA pour des essais de choc",
       "link": "https://www.opex360.com/2026/10/31/desarmee-en-2022-lex-fregate-latouche-treville-est-desormais-utilisee-par-la-dga-pour-des-essais-de-choc/",
       "pubDate": "2026-10-31T11:45:58.000Z",
       "description": "En février 2025, dans le cadre de la préparation de ses unités à un engagement de haute intensité et après avoir envoyé par le fond l’ex-aviso «Premier maître L’Her» avec une torpille F21 Artémis lancée par un sous-marin nucléaire d’attaque, la Marine nationale fit subir un «essai de choc» à la frégate de type La...\nCet article Désarmée en 2022, l’ex-frégate Latouche-Tréville est désormais utilisée par la DGA pour des essais de choc est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Chine : Pékin annonce le premier appontage du drone furtif GJ-21 sur le Sichuan",
-      "link": "https://armees.com/chine-pekin-annonce-le-premier-appontage-du-drone-furtif-gj-21-sur-le-sichuan/",
-      "pubDate": "2026-10-31T11:32:10.000Z",
-      "description": "La marine chinoise affirme avoir réussi les premiers décollage et appontage de son drone furtif GJ-21 à bord du navire d’assaut amphibie Sichuan, de type 076. Annoncé le 30 octobre, cet essai marque une étape dans l’aviation navale sans pilote, dont les capacités opérationnelles restent à éprouver.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "IA agentique : l’ANSSI publie sept principes pour encadrer les actions autonomes",
-      "link": "https://armees.com/anssi-sept-principes-securite-ia-agentique-31-octobre-2026-1232/",
-      "pubDate": "2026-10-31T10:33:29.000Z",
-      "description": "L’Agence nationale de la sécurité des systèmes d’information a publié le 30 octobre un référentiel de sept principes pour sécuriser les systèmes d’intelligence artificielle capables d’utiliser des outils et d’exécuter des actions. Elle préconise des autorisations indépendantes du modèle, une validation humaine pour les opérations critiques et un arrêt d’urgence.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Santé mondiale : The Lancet classe le conflit nucléaire parmi les menaces d’extinction",
-      "link": "https://armees.com/risque-nucleaire-lancet-menace-sante/",
-      "pubDate": "2026-10-31T10:26:00.000Z",
-      "description": "The Lancet classe le conflit nucléaire entraînant une famine mondiale parmi les trois menaces d'extinction pour l'humanité d'ici 2100. Un rapport de 146 chercheurs de 30 pays qui repositionne la guerre nucléaire comme enjeu de santé publique globale, appelant à repenser les doctrines de dissuasion.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le Rafale M réussit ses premiers essais à bord du porte-avions indien INS Vikrant",
@@ -127,48 +169,6 @@
       "pubDate": "2026-10-31T08:49:45.000Z",
       "description": "Après la décontamination des véhicules et des aéronefs, place à celle des combattants. Un nouvel appel d'offres vient d'être lancé par la Direction générale de l'armement (DGA), cette fois pour l'acquisition d'une capacité au profit des petits détachements. \nThe post Renouveler les systèmes de décontamination : acte III appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Corée du Nord : Kim Jong-un dévoile de nouveaux drones et place l’IA au cœur de son arsenal",
-      "link": "https://armees.com/coree-du-nord-kim-jong-un-drones-ia-demonstration-octobre-2026/",
-      "pubDate": "2026-10-31T07:49:03.000Z",
-      "description": "Lors d’une exposition militaire organisée le 29 octobre, Pyongyang a présenté plusieurs familles de drones et effectué des démonstrations de tirs. Cette accélération de la guerre sans pilote, sur fond de coopération militaire avec Moscou, intéresse directement les armées européennes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La plus longue éclipse solaire du siècle arrive : le jour deviendra nuit et ne reviendra pas avant 157 ans",
-      "link": "https://armees.com/la-plus-longue-eclipse-solaire-du-siecle-arrive-le-jour-deviendra-nuit-et-ne-reviendra-pas-avant-157-ans/",
-      "pubDate": "2026-10-31T07:05:04.000Z",
-      "description": "6 minutes et 23 secondes d'obscurité totale, du jamais-vu depuis 1991. Le 2 août 2027, l'Afrique du Nord et l'Europe vivront l'éclipse du siècle. Prochaine chance comparable ? 2114.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Des archéologues mettent au jour des pierres de 80 tonnes sous la mer, identifiées comme les restes d’une des sept merveilles du monde antique",
-      "link": "https://armees.com/des-archeologues-mettent-au-jour-des-pierres-de-80-tonnes-sous-la-mer-identifiees-comme-les-restes-dune-des-sept-merveilles-du-monde-antique/",
-      "pubDate": "2026-10-31T06:35:11.000Z",
-      "description": "Vingt-deux blocs de 80 tonnes chacun viennent de ressurgir des eaux d'Alexandrie. Que cachent-ils de l'une des Sept Merveilles du monde antique ? La réponse prend enfin forme, pierre par pierre.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Souveraineté en Bourse : l’Europe dépense enfin, mais comment ?",
-      "link": "https://armees.com/comment-souverainete-bourse-europe-depense-enfin/",
-      "pubDate": "2026-10-31T06:23:50.000Z",
-      "description": "La guerre en Ukraine et l’instabilité au Moyen-Orient ont transformé la défense et la cybersécurité en thèmes d’investissement majeurs. Les capitaux affluent. Mais entre l’argent annoncé et l’argent bien dépensé, ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Drones militaires : l’Europe prépare deux centres d’essais en Lettonie et aux Pays-Bas pour 2027",
-      "link": "https://armees.com/drones-militaires-centres-essais-lettonie-pays-bas-2027-31-octobre-2026/",
-      "pubDate": "2026-10-31T06:14:09.000Z",
-      "description": "L’Agence européenne de défense précise l’implantation de deux pôles destinés à tester des drones et des systèmes antidrones en conditions opérationnelles, l’un sur terre et dans les airs, l’autre en mer. Les premiers exercices sont annoncés pour 2027, avec l’ambition de rapprocher les méthodes d’évaluation des armées européennes et de l’OTAN.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "2 080 missiles Tomahawk partis du jour au lendemain, la Marine est aujourd’hui désespérée pour protéger ses sous-marins classe Ohio",
-      "link": "https://armees.com/2-080-missiles-tomahawk-partis-du-jour-au-lendemain-la-marine-est-aujourdhui-desesperee-pour-proteger-ses-sous-marins-classe-ohio/",
-      "pubDate": "2026-10-31T06:05:30.000Z",
-      "description": "Un sous-marin part, et c'est toute la Marine américaine qui découvre un trou de 2 080 cellules de lancement. Remplacer cette capacité ? Il faudrait 3,5 sous-marins Virginia pour un seul Ohio.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "TRIDENT, un pied dans la contre-batterie de demain",
