@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T22:47:56.356Z",
+  "generatedAt": "2026-11-01T01:45:05.745Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Casernes de gendarmerie : un nouveau cadre pour les loyers et les baux immobiliers",
+      "link": "https://armees.com/casernes-gendarmerie-cadre-locatif-baux-loyers-decret-2026-1013-311026-2331/",
+      "pubDate": "2026-10-31T21:33:57.000Z",
+      "description": "Un décret et un arrêté publiés le 31 octobre 2026 réorganisent les règles applicables aux casernes de gendarmerie louées par l’État. Durée des baux, calcul des loyers, suivi financier et éventuelle option d’achat concernent directement les collectivités et bailleurs engagés dans ces opérations.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Stormshield Management Center : le CERT-FR signale une faille d’exécution de code à distance",
       "link": "https://armees.com/stormshield-management-center-cert-fr-faille-node2shell-31-octobre-2026-2031/",
@@ -161,13 +168,6 @@
       "link": "https://armees.com/2-080-missiles-tomahawk-partis-du-jour-au-lendemain-la-marine-est-aujourdhui-desesperee-pour-proteger-ses-sous-marins-classe-ohio/",
       "pubDate": "2026-10-31T06:05:30.000Z",
       "description": "Un sous-marin part, et c'est toute la Marine américaine qui découvre un trou de 2 080 cellules de lancement. Remplacer cette capacité ? Il faudrait 3,5 sous-marins Virginia pour un seul Ohio.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "500 missiles Patriot pour l’Ukraine : le feu vert américain à 2,1 milliards ne règle pas l’urgence",
-      "link": "https://armees.com/ukraine-500-missiles-patriot-pac3-21-milliards-livraisons-2026/",
-      "pubDate": "2026-10-31T05:46:50.000Z",
-      "description": "Washington a approuvé le 30 octobre une vente potentielle de 500 intercepteurs Patriot PAC-3 MSE à l’Ukraine, pour 2,1 milliards de dollars. L’opération serait financée par des alliés et des fonds adossés à un prêt européen, mais les délais industriels risquent de reporter les livraisons de plusieurs années.",
       "sourceKey": "armees_com"
     },
     {
