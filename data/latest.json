@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T09:54:35.986Z",
+  "generatedAt": "2026-11-02T19:55:27.806Z",
   "sources": [
     {
       "key": "opex",
@@ -24,10 +24,143 @@
   ],
   "items": [
     {
+      "title": "Saab étend les capacités de sa vedette rapide de combat CB90 à la lutte antinavire et à la défense aérienne",
+      "link": "https://www.opex360.com/2026/11/02/saab-etend-les-capacites-de-sa-vedette-rapide-de-combat-cb90-a-la-lutte-antinavire-et-a-la-defense-aerienne/",
+      "pubDate": "2026-11-02T18:32:01.000Z",
+      "description": "Initialement, la vedette CB90, proposée par le groupe suédois Saab, a été conçue pour transporter rapidement un demi-peloton d’infanterie de marine [soit dix-huit combattants] vers une plage de débarquement et, accessoirement, pour des missions de surveillance. Affichant un déplacement de 24,5 tonnes à pleine charge, la CB90 est dotée de deux moteurs diesel Scania de...\nCet article Saab étend les capacités de sa vedette rapide de combat CB90 à la lutte antinavire et à la défense aérienne est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Missiles hypersoniques : Hypersonica lève 100 millions d’euros pour accélérer les essais européens",
+      "link": "https://armees.com/hypersonica-100-millions-euros-levee-fonds-missiles-hypersoniques-novembre-2026/",
+      "pubDate": "2026-11-02T18:16:02.000Z",
+      "description": "La société germano-britannique Hypersonica annonce une levée de 100 millions d’euros pour développer ses systèmes de frappe hypersonique. L’investissement renforce une filière européenne encore loin de disposer de missiles opérationnels issus de ce programme.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Une filiale du groupe français Thales va livrer des modules de lutte contre les mines à la marine américaine",
+      "link": "https://www.opex360.com/2026/11/02/une-filiale-du-groupe-francais-thales-va-livrer-des-modules-de-lutte-contre-les-mines-a-la-marine-americaine/",
+      "pubDate": "2026-11-02T17:03:02.000Z",
+      "description": "Avec ses sonars [CAPTAS, SAMDIS, etc.], ses bouées acoustiques, ses solutions dronisées et ses systèmes de mission dopés à l’intelligence artificielle, la réputation de Thales dans les domaines de lutte anti-sous-marine et de la guerre des mines n’est plus à faire. Et elle ne pourra qu’être renforcée si le groupe parvient à prendre le contrôle...\nCet article Une filiale du groupe français Thales va livrer des modules de lutte contre les mines à la marine américaine est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Missiles hypersoniques : Hypersonica lève 100 millions d’euros pour accélérer son programme européen",
+      "link": "https://armees.com/hypersonica-100-millions-euros-missiles-hypersoniques-defense-europeenne-2026/",
+      "pubDate": "2026-11-02T15:46:41.000Z",
+      "description": "La société germano-britannique Hypersonica a annoncé le 2 novembre une levée de 100 millions d’euros pour développer des systèmes hypersoniques de frappe à longue distance. Elle vise une capacité opérationnelle à l’horizon 2029, dans un secteur stratégique pour la défense européenne.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Les forces aériennes américaines et canadiennes se préparent à défendre les îles Aléoutiennes lors d’un exercice inédit",
+      "link": "https://www.opex360.com/2026/11/02/les-forces-aeriennes-americaines-et-canadiennes-se-preparent-a-defendre-les-iles-aleoutiennes-lors-dun-exercice-inedit/",
+      "pubDate": "2026-11-02T15:35:47.000Z",
+      "description": "Situées entre le Kamtchatka [Russie] et l’Alaska, les îles Aléoutiennes, dont la plupart appartiennent aux États-Unis, sont stratégiques dans la mesure où, marquant la limite entre l’océan Pacifique et la mer de Béring, elles permettent de contrôler l’accès au détroit de Béring, naguère considéré comme pouvant être un possible lieu de confrontation durant la Guerre...\nCet article Les forces aériennes américaines et canadiennes se préparent à défendre les îles Aléoutiennes lors d’un exercice inédit est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Rafale F5 : la DGA reçoit un avion banc d’essais pour préparer les futurs capteurs",
+      "link": "https://armees.com/rafale-b374-dga-avion-banc-essais-standard-f5-2026-11-02/",
+      "pubDate": "2026-11-02T14:23:45.000Z",
+      "description": "La Direction générale de l’armement a reçu un Rafale B374 destiné à devenir un laboratoire volant pour les évolutions de l’avion de combat. Livré au standard F4.1, il doit être transformé avant de contribuer aux essais des équipements du futur standard F5, notamment un nouveau radar.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Forums des métiers aéronautiques et de défense : rendre les équipes et les parcours lisibles",
+      "link": "https://armees.com/forums-metiers-aeronautiques-defense-021126/",
+      "pubDate": "2026-11-02T13:56:28.000Z",
+      "description": "Un visiteur s’arrête devant une maquette, un autre cherche une formation, un troisième souhaite parler du quotidien d’un atelier. Dans un forum consacré aux métiers de l’aéronautique et de la défense, ces demandes peuvent se croiser sur le même espace. L’organisation doit aider chacun à trouver la bonne personne sans supposer qu’il connaît déjà les intitulés de métiers, les entreprises ou les parcours possibles.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "WordPress 7.1.4 : l’ANSSI signale des failles pouvant permettre une exécution de code à distance",
+      "link": "https://armees.com/wordpress-714-anssi-certfr-vulnerabilites-correctifs-20261102-1536/",
+      "pubDate": "2026-11-02T13:36:05.000Z",
+      "description": "Le CERT-FR, rattaché à l’ANSSI, a publié le 29 octobre un avis sur plusieurs failles de WordPress antérieures à la version 7.1.4. L’éditeur recommande une mise à jour immédiate et précise la portée des correctifs pour les anciennes branches.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Blocus naval américain : comment l’Iran a réussi à passer en force",
+      "link": "https://armees.com/blocus-naval-iran-limites-interception-tankers-2026/",
+      "pubDate": "2026-11-02T12:30:09.000Z",
+      "description": "Depuis juillet 2026, neuf navires-citernes iraniens ont franchi le blocus naval américain pour livrer du gaz de pétrole liquéfié (GPL) à la Chine via la Malaisie. Le cas du tanker SOGL, transportant 500 000 barils, révèle les failles du dispositif américain face aux tactiques d'évasion sophistiquées de la flotte fantôme iranienne : désactivation des systèmes de suivi, faux pavillons et transferts en haute mer.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cyberattaque des frigos : la faille qui expose les équipements connectés en Europe",
+      "link": "https://armees.com/cyberattaque-frigos-europe-faille-equipements-connectes-novembre-2026/",
+      "pubDate": "2026-11-02T12:30:00.000Z",
+      "description": "Après les supermarchés français en octobre, des magasins européens signalent des incidents sur leurs installations frigorifiques. Le CERT-FR alerte sur des contrôleurs accessibles depuis Internet.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : après la trêve d’Olechky, Kiev accuse Moscou d’avoir renforcé ses positions militaires",
+      "link": "https://armees.com/ukraine-apres-la-treve-dolechky-kiev-accuse-moscou-davoir-renforce-ses-positions-militaires/",
+      "pubDate": "2026-11-02T11:33:24.000Z",
+      "description": "Au lendemain de la fin de la trêve humanitaire d’Olechky, l’état-major ukrainien affirme que les forces russes ont profité de la pause pour faire tourner des unités, fortifier leurs positions et acheminer des munitions. Le Kremlin renvoie les questions sur ses troupes au ministère de la Défense.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "DGA Essais en vol a reçu un Rafale F4.1 « ABE » pour préparer le standard F5",
+      "link": "https://www.opex360.com/2026/11/02/dga-essais-en-vol-a-recu-son-premier-rafale-f4-1-pour-preparer-le-standard-f5/",
+      "pubDate": "2026-11-02T11:33:22.000Z",
+      "description": "Pour développer et évaluer les capteurs, les logiciels et autres systèmes électroniques embarqués à bord du Rafale, le centre d’essais en vol de la Direction générale de l’armement [DGA EV] dispose notamment d’un avion banc d’essais de nouvelle génération [ABE NG] de type Fokker 100, équipé notamment du radar à antenne active RBE2. Mais pas...\nCet article DGA Essais en vol a reçu un Rafale F4.1 « ABE » pour préparer le standard F5 est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "L’Ukraine et la Russie victimes de cyberattaques massives",
+      "link": "https://armees.com/cyberattaque-ukraine-russie-systemes-alerte-2026/",
+      "pubDate": "2026-11-02T10:48:34.000Z",
+      "description": "Dans la nuit du 1er au 2 novembre 2026, quelques heures après l'expiration du cessez-le-feu d'Olechky, l'Ukraine et la Russie ont simultanément subi des cyberattaques massives contre leurs applications officielles d'alerte aux populations. Les pirates ont diffusé de fausses alertes nucléaires et chimiques via l'application ukrainienne, tandis que le système russe subissait une offensive similaire. Une offensive coordonnée qui révèle la vulnérabilité des infrastructures critiques de défense civile.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Iran : Trump menace de frappes, Téhéran répond par des avertissements",
+      "link": "https://armees.com/frappes-aeriennes-trump-iran-strategie-militaire-2026/",
+      "pubDate": "2026-11-02T10:44:25.000Z",
+      "description": "Donald Trump affirme pouvoir neutraliser les installations iraniennes en dix minutes, une promesse qui défie la réalité tactique. Téhéran riposte en levant les restrictions géographiques et en menaçant les infrastructures numériques du détroit d'Ormuz.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un accord-cadre et de la visibilité pour le VL MICA de MBDA",
+      "link": "https://forcesoperations.com/un-accord-cadre-et-de-la-visibilite-pour-le-vl-mica-de-mbda/",
+      "pubDate": "2026-11-02T10:25:35.000Z",
+      "description": "Le système de défense sol-air VL MICA a désormais son accord-cadre. Valorisé à plusieurs milliards d’euros, ce dernier devient le vecteur par lequel la France et ses partenaires pourront se fournir auprès de MBDA.\nThe post Un accord-cadre et de la visibilité pour le VL MICA de MBDA appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "Drones malveillants : l’État réorganise la protection des sites sensibles",
+      "link": "https://armees.com/lutte-anti-drones-sgdsn-sites-sensibles-instruction-2026-11-02-1139/",
+      "pubDate": "2026-11-02T09:41:17.000Z",
+      "description": "Depuis le 1er novembre 2026, une instruction interministérielle fixe une nouvelle organisation de la lutte contre les drones malveillants. Le SGDSN coordonne la stratégie nationale, tandis que le ministère de l’Intérieur centralise les signalements et que les opérateurs d’importance vitale doivent adapter leur protection.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Drones navals : Thales remporte un contrat de 53,9 millions de dollars auprès de l’US Navy",
+      "link": "https://armees.com/thales-us-navy-drones-surface-mines-539-millions-contrat-2026/",
+      "pubDate": "2026-11-02T08:48:42.000Z",
+      "description": "La filiale américaine de Thales, Advanced Acoustic Concepts, fournira à la marine des États-Unis deux modules de chasse aux mines à distance pour 53,9 millions de dollars. Ces équipements, utilisables depuis des navires habités ou des drones de surface, pourraient donner lieu à des commandes supplémentaires portant le contrat à 196,2 millions de dollars.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Sahara : l’ONU abandonne sa plus longue mission de maintien de la paix",
       "link": "https://armees.com/minurso-mission-onu-effondrement-maintien-paix-2026/",
       "pubDate": "2026-11-02T07:08:56.000Z",
       "description": "La mission MINURSO au Sahara occidental s'est éteinte le 2 novembre 2026 après 35 ans d'existence, victime de vetos croisés entre les États-Unis et la Russie au Conseil de sécurité.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Soudan : deux postes électriques détruits par des drones, une nouvelle pression sur l’armée",
+      "link": "https://armees.com/soudan-drones-postes-electriques-al-dabbah-abou-hamad-novembre-2026/",
+      "pubDate": "2026-11-02T06:56:07.000Z",
+      "description": "Des frappes de drones ont mis hors service, le 1er novembre, des installations électriques à Al-Dabbah et Abou Hamad, dans des régions contrôlées par l’armée soudanaise. Attribuées aux Forces de soutien rapide par les autorités et des observateurs locaux, ces attaques illustrent l’extension de la guerre aux infrastructures vitales.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Trump-Poutine en Chine : Rubio et Lavrov évoquent un échange au sommet de l’APEC",
+      "link": "https://armees.com/rubio-lavrov-rencontre-trump-poutine-apec-chine-novembre-2026/",
+      "pubDate": "2026-11-02T06:40:53.000Z",
+      "description": "Marco Rubio a confirmé avoir brièvement évoqué avec Sergueï Lavrov une possible rencontre entre Donald Trump et Vladimir Poutine lors du sommet de l’APEC des 18 et 19 novembre en Chine. Aucun rendez-vous n’est annoncé, alors que les divergences sur la guerre en Ukraine demeurent profondes.",
       "sourceKey": "armees_com"
     },
     {
@@ -38,27 +171,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Sécurité de l’emploi : quand l’armée recrute les cerveaux que l’État gaspille",
-      "link": "https://armees.com/securite-emploi-recrute-armee-cerveaux-gaspille-etat/",
-      "pubDate": "2026-11-02T06:18:52.000Z",
-      "description": "Le chômage des jeunes diplômés repart à la hausse en France. Et leur réflexe ? Courir vers la sécurité. Mais quand cette sécurité prend l’uniforme, on aurait tort de se ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Attentat à Moscou : TikTok et Telegram trahissent un terroriste de 17 ans",
-      "link": "https://armees.com/fsb-attentat-tsaritsyno-renseignement-operationnel-2026/",
-      "pubDate": "2026-11-02T06:06:26.000Z",
-      "description": "Le 31 octobre 2026, le FSB arrête un mineur préparant un attentat au musée Tsaritsyno de Moscou, moins de 24 heures après une alerte de l'ambassade américaine.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Rafale, l’avion de chasse français, accomplit une première historique sur le porte-avions indien",
-      "link": "https://armees.com/rafale-lavion-de-chasse-francais-accomplit-une-premiere-historique-sur-le-porte-avions-indien/",
-      "pubDate": "2026-11-02T06:05:44.000Z",
-      "description": "Sans catapulte ni filet de sécurité classique, le Rafale M vient de réussir un pari technique inédit sur le porte-avions indien. Une prouesse qui annonce un contrat de 7 milliards d'euros et peut-être bien plus encore.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Industrie navale militaire : l’Allemagne affiche ses nouvelles ambitions",
       "link": "https://www.lemonde.fr/economie/article/2026/11/02/industrie-navale-militaire-l-allemagne-affiche-ses-nouvelles-ambitions_6805019_3234.html",
       "pubDate": "2026-11-02T06:00:00.000Z",
@@ -66,88 +178,11 @@
       "sourceKey": "geo"
     },
     {
-      "title": "NASA : 378 jours d’isolement pour devancer la Chine dans l’espace",
-      "link": "https://armees.com/superiorite-spatiale-artemis-usa-competition-2026/",
-      "pubDate": "2026-11-02T05:59:00.000Z",
-      "description": "La NASA achève le 31 octobre 2026 sa mission CHAPEA 2 après 378 jours d'isolement simulant Mars. Quatre volontaires sortent d'un habitat de 158 m² au Texas, fournissant des données stratégiques pour Artemis et la course spatiale face à la Chine.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Bulgarie : Iotova à 57,6 %, les drones en mer Noire au cœur des enjeux militaires",
-      "link": "https://armees.com/bulgarie-iotova-presidentielle-drones-mer-noire-otan-defense-2026/",
-      "pubDate": "2026-11-02T05:44:11.000Z",
-      "description": "Iliana Iotova arrive largement en tête du second tour de la présidentielle bulgare, selon un dépouillement officiel presque achevé. À la tête des armées, elle devra poursuivre la coordination avec les alliés de l’OTAN alors que des drones frappent des navires commerciaux en mer Noire.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Dans les chantiers navals français, un nouvel âge d’or grâce aux commandes militaires",
       "link": "https://www.lemonde.fr/economie/article/2026/11/02/dans-les-chantiers-navals-francais-un-nouvel-age-d-or-grace-aux-commandes-militaires_6804984_3234.html",
       "pubDate": "2026-11-02T05:30:10.000Z",
       "description": "Alors qu’Euronaval, le plus grand salon naval de défense du monde, s’ouvre mardi à Villepinte (Seine-Saint-Denis), la filière hexagonale ne s’est jamais aussi bien portée. A tel point que les industriels ont dû revoir leur organisation pour répondre à l’envolée de la demande.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Euronaval 2026 : un décret encadre les contrôles de sécurité des accès professionnels",
-      "link": "https://armees.com/euronaval-2026-decret-controle-acces-professionnels-securite-021126/",
-      "pubDate": "2026-11-02T04:40:56.000Z",
-      "description": "Pour la 30e édition d’Euronaval, l’État soumet les accès non réservés aux spectateurs à une procédure d’autorisation fondée sur une enquête administrative. Le décret vise la conférence du 2 novembre à Paris et plusieurs espaces du salon à Villepinte du 3 au 6 novembre.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Corée du Nord : Pyongyang promet d’accélérer sa dissuasion nucléaire après l’exercice Iron Mace",
-      "link": "https://armees.com/coree-nord-iron-mace-dissuasion-nucleaire-declaration-2-novembre-2026/",
-      "pubDate": "2026-11-02T04:34:24.000Z",
-      "description": "La Corée du Nord a dénoncé le 2 novembre l'exercice de planification nucléaire et conventionnelle Iron Mace mené par les États-Unis et la Corée du Sud. Un responsable du programme d'armement nord-coréen annonce la poursuite accélérée du renforcement des forces nucléaires, sans détailler de nouvelle mesure opérationnelle.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Iran : à Doha, un plan pour rouvrir Ormuz en deux jours face au risque de nouvelles frappes",
-      "link": "https://armees.com/iran-doha-plan-reouverture-ormuz-deux-jours-risque-frappes/",
-      "pubDate": "2026-11-02T03:30:52.000Z",
-      "description": "Des négociateurs iraniens et des médiateurs qataris ont poursuivi leurs discussions le 1er novembre autour d’une réouverture conditionnelle du détroit d’Ormuz en deux jours. La diplomatie reprend alors que Washington n’exclut pas de nouvelles opérations militaires après les élections américaines du 3 novembre.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Lettonie : un drone intercepteur BLAZE s’autodétruit à la frontière russe après une intrusion aérienne",
-      "link": "https://armees.com/lettonie-drone-intercepteur-blaze-autodestruction-frontiere-russe-1-novembre-2026/",
-      "pubDate": "2026-11-02T01:51:21.000Z",
-      "description": "Un objet volant non identifié a traversé l’espace aérien letton le 1er novembre, de la frontière biélorusse vers la Russie. Les forces armées lettones ont engagé un drone intercepteur BLAZE, puis déclenché son autodestruction pour éviter qu’il ne franchisse lui-même la frontière russe.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "MongoDB : l’ANSSI signale trois failles dans les outils, le pilote Java et Laravel",
-      "link": "https://armees.com/mongodb-cert-fr-trois-vulnerabilites-database-tools-java-laravel-20261102-0037/",
-      "pubDate": "2026-11-01T22:39:46.000Z",
-      "description": "Le CERT-FR a publié le 30 octobre un avis sur trois vulnérabilités touchant des composants de l’écosystème MongoDB. Les correctifs concernent Database Tools, le pilote Java et l’intégration Laravel, avec des vérifications distinctes pour les équipes de sécurité.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : six missiles Banderol neutralisés et 326 drones lancés en pleine journée",
-      "link": "https://armees.com/ukraine-326-drones-six-missiles-banderol-defense-aerienne-1-novembre-2026/",
-      "pubDate": "2026-11-01T21:34:58.000Z",
-      "description": "Le 1er novembre, les forces aériennes ukrainiennes ont annoncé avoir neutralisé six missiles S8000 Banderol et 274 des 326 drones engagés par la Russie entre 6 h 30 et 19 heures. Parmi les appareils détectés figuraient 55 drones à propulsion réactive.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : 433 drones russes dans la nuit, l’offensive aérienne se prolonge le 1er novembre",
-      "link": "https://armees.com/ukraine-433-drones-russes-1-novembre-2026-defense-aerienne/",
-      "pubDate": "2026-11-01T20:45:45.000Z",
-      "description": "L’armée de l’air ukrainienne affirme avoir neutralisé 371 des 433 drones lancés depuis le 31 octobre au soir. Une nouvelle séquence de frappes a suivi dimanche, illustrant la pression sur les défenses antiaériennes et les infrastructures énergétiques du pays.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Manche : un drone Protector britannique a surveillé des navires russes, une première pour la RAF",
-      "link": "https://armees.com/manche-drone-protector-raf-surveillance-navires-russes-novembre-2026/",
-      "pubDate": "2026-11-01T17:46:01.000Z",
-      "description": "La Royal Air Force a engagé pour la première fois son drone Protector RG1 dans une mission opérationnelle de surveillance maritime au-dessus de la Manche. Révélée le 31 octobre, cette opération menée avec la Royal Navy illustre l'évolution du suivi des bâtiments russes dans les approches maritimes de l'Europe.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre hybride : l’Europe joue avec les mots pendant que Moscou agit",
-      "link": "https://armees.com/guerre-europe-moscou-hybride-joue-mots-agit/",
-      "pubDate": "2026-11-01T17:16:44.000Z",
-      "description": "Sabotages, ingérences, survols de drones : la Russie mène une guerre sans en porter le nom, et l’Europe s’abrite derrière un vocabulaire flou pour justifier son inaction. Appeler les choses ...",
-      "sourceKey": "armees_com"
     },
     {
       "title": "« Guerre hybride », une expression considérée comme un euphémisme et prétexte à l’inaction par de nombreux Européens",
@@ -217,34 +252,6 @@
       "link": "https://www.opex360.com/2026/10/30/le-francais-asman-technology-sapprete-a-faire-voler-le-dslr-mk1-un-drone-male-dedie-a-la-guerre-electronique/",
       "pubDate": "2026-10-30T18:19:11.000Z",
       "description": "Il y a quinze ans, faute de disposer d’une solution nationale ou européenne, le remplacement des drones MALE [Moyenne Altitude Longue Endurance] donna lieu à de vifs débats entre les partisans d’une «francisation» du Heron TP israélien [avec Dassault Aviation dans la boucle] et ceux plaidant pour l’achat «sur étagère» du MQ-9 Reaper américain. Dans...\nCet article Le français Asman Technology s’apprête à faire voler le DSLR MK1, un drone MALE dédié à la guerre électronique est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "La Gendarmerie nationale devra encore patienter pour renouveler ses FAMAS, qui ne seront plus opérationnels en 2030",
-      "link": "https://www.opex360.com/2026/10/30/la-gendarmerie-nationale-devra-encore-patienter-pour-renouveler-ses-famas-qui-ne-seront-plus-operationnels-en-2030/",
-      "pubDate": "2026-10-30T17:10:10.000Z",
-      "description": "Entre l’appel d’offres émis par la Direction générale de l’armement [DGA] pour acquérir 101 000 nouveaux fusils d’assaut afin de remplacer les FAMAS et l’annonce du lauréat de ce marché, il s’était écoulé près de deux ans et demi. Si elle était restée dans le giron du ministère des Armées, la Gendarmerie nationale aurait pu...\nCet article La Gendarmerie nationale devra encore patienter pour renouveler ses FAMAS, qui ne seront plus opérationnels en 2030 est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Un hélicoptère italien de transport CH-47 Chinook s’est écrasé en Bosnie-Herzégovine",
-      "link": "https://www.opex360.com/2026/10/30/un-helicoptere-italien-de-transport-ch-47-chinook-sest-ecrase-en-bosnie-herzegovine/",
-      "pubDate": "2026-10-30T15:24:14.000Z",
-      "description": "Le 29 octobre, en fin d’après-midi, un hélicoptère italien de transport lourd s’est écrasé dans la région de Brčko, située dans le nord de la Bosnie-Herzégovine alors que quinze personnes se trouvaient à son bord. Appartenant au Commandement de l’aviation de l’armée italienne [Comando Aviazone dell’Esercito], cet appareil était engagé dans la force de l’Union...\nCet article Un hélicoptère italien de transport CH-47 Chinook s’est écrasé en Bosnie-Herzégovine est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Le ministère des Armées a de nouveau retenu Piriou pour livrer des remorqueurs RP30 NG à la Marine nationale",
-      "link": "https://www.opex360.com/2026/10/30/le-ministere-des-armees-a-de-nouveau-retenu-piriou-pour-livrer-des-remorqueurs-rp30-ng-a-la-marine-nationale/",
-      "pubDate": "2026-10-30T11:39:35.000Z",
-      "description": "Ce n’est certes pas le programme le plus emblématique du ministère des Armées… mais, sans lui, il serait impossible à la Marine nationale de faire prendre la mer à ses navires de surface ainsi qu’à ses sous-marins. Ainsi, en mai 2020, la Direction générale de l’armement [DGA] notifia la commande de quinze remorqueurs portuaires RP30...\nCet article Le ministère des Armées a de nouveau retenu Piriou pour livrer des remorqueurs RP30 NG à la Marine nationale est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Avec le robot sous-marin ROV-Deap Sea, la Marine nationale pourra intervenir à 6 000 mètres de profondeur",
-      "link": "https://www.opex360.com/2026/10/29/avec-le-robot-sous-marin-rov-deap-sea-la-marine-nationale-pourra-intervenir-a-6-000-metres-de-profondeur/",
-      "pubDate": "2026-10-29T18:23:24.000Z",
-      "description": "Alors qu’elle était à la pointe de l’exploration des fonds marins après la Seconde Guerre Mondiale, la Marine nationale perdit une grande partie de ses capacités d’intervention dans ce domaine au cours des années 1970, avec la fin du «groupe des bathyscaphes». Or, avec les menaces qui pèsent désormais sur les infrastructures sous-marines critiques, la...\nCet article Avec le robot sous-marin ROV-Deap Sea, la Marine nationale pourra intervenir à 6 000 mètres de profondeur est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -343,13 +350,6 @@
       "link": "https://forcesoperations.com/une-carapace-anti-drones-maison-pour-le-vbci/",
       "pubDate": "2026-10-19T15:40:39.000Z",
       "description": "La carapace du VBCI va se renforcer pour mieux résister aux drones armés et autres munitions téléopérées. L'équation privilégiée par l'unité derrière ce bouclier en phase de production, le 16e bataillon de chasseurs à pied (16e BCP) ? De la récup', de l'internalisation et un peu d'huile de coude. \nThe post Une carapace anti-drones “maison” pour le VBCI appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
-    },
-    {
-      "title": "L’artillerie française en ordre de marche pour tonner aujourd’hui et se projeter sur 2040",
-      "link": "https://forcesoperations.com/lartillerie-francaise-en-ordre-de-marche-pour-tonner-aujourdhui-et-se-projeter-sur-2040/",
-      "pubDate": "2026-10-18T13:00:00.000Z",
-      "description": "Une décennie de remontée en puissance démarre pour l’artillerie française. De l’appui-feu indirect à la défense sol-air, des capteurs à des unités densifiées ou démultipliées, c’est toute une arme qui, si la programmation est tenue, évolue pour gagner en masse, réussir à reprendre pied dans la profondeur et anticiper l’avenir.  Un focus réalisé en collaboration […]\nThe post L’artillerie française en ordre de marche pour tonner aujourd’hui et se projeter sur 2040 appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
     },
     {
