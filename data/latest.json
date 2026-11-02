@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T23:16:29.072Z",
+  "generatedAt": "2026-11-02T02:34:30.274Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "MongoDB : l’ANSSI signale trois failles dans les outils, le pilote Java et Laravel",
+      "link": "https://armees.com/mongodb-cert-fr-trois-vulnerabilites-database-tools-java-laravel-20261102-0037/",
+      "pubDate": "2026-11-01T22:39:46.000Z",
+      "description": "Le CERT-FR a publié le 30 octobre un avis sur trois vulnérabilités touchant des composants de l’écosystème MongoDB. Les correctifs concernent Database Tools, le pilote Java et l’intégration Laravel, avec des vérifications distinctes pour les équipes de sécurité.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Ukraine : six missiles Banderol neutralisés et 326 drones lancés en pleine journée",
       "link": "https://armees.com/ukraine-326-drones-six-missiles-banderol-defense-aerienne-1-novembre-2026/",
@@ -147,13 +154,6 @@
       "link": "https://armees.com/ukraine-onu-vraiment-g20-securite-mondiale-paie/",
       "pubDate": "2026-11-01T06:03:17.000Z",
       "description": "Alors que Washington choisit de réintégrer Moscou dans le concert diplomatique du G20, que la mission onusienne au Sahara occidental rend l’âme et que des civils ukrainiens s’évacuent sous cessez-le-feu ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Taïwan : deux navires chinois patrouillent à l’est de l’île, Taipei dénonce une pression maritime",
-      "link": "https://armees.com/taiwan-garde-cotes-chinois-patrouille-est-ile-31-octobre-2026/",
-      "pubDate": "2026-11-01T03:49:37.000Z",
-      "description": "Deux navires des garde-côtes chinois ont patrouillé le 31 octobre dans les eaux à l’est de Taïwan, sous surveillance des forces taïwanaises. Taipei dénonce des messages radio destinés à imposer une juridiction contestée sur une zone stratégique pour les ravitaillements maritimes.",
       "sourceKey": "armees_com"
     },
     {
