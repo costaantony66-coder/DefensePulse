@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T16:54:53.196Z",
+  "generatedAt": "2026-11-03T22:10:15.118Z",
   "sources": [
     {
       "key": "opex",
@@ -24,9 +24,30 @@
   ],
   "items": [
     {
+      "title": "Naval Group dévoile le concept d’un navire de 8 000 tonnes, doté de plus de 100 missiles et d’un canon électromagnétique",
+      "link": "https://www.opex360.com/2026/11/03/naval-group-devoile-le-concept-dun-navire-de-8-000-tonnes-dote-de-plus-de-100-missiles-et-dun-canon-electromagnetique/",
+      "pubDate": "2026-11-03T18:22:17.000Z",
+      "description": "L’an passé, alors que la future Loi de programmation militaire [LPM] devrait porter la dotation de la Marine nationale à dix-huit navires dits de premier rang [contre quinze actuellement], le député Yannick Chenevard, rapporteur du programme 178 «Emploi et préparation des forces – Marine», s’était interrogé sur le type des trois frégates supplémentaires susceptibles d’être...\nCet article Naval Group dévoile le concept d’un navire de 8 000 tonnes, doté de plus de 100 missiles et d’un canon électromagnétique est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Naval Group dévoile un concept de navire de guerre conçu autour des drones",
+      "link": "https://armees.com/naval-group-scx-26-navire-drones-euronaval-2026/",
+      "pubDate": "2026-11-03T18:11:22.000Z",
+      "description": "Au salon Euronaval, Naval Group a présenté le SCX-26, un concept de bâtiment militaire donnant une place centrale aux drones. Cette proposition illustre la transformation des besoins navals, sans constituer à ce stade une commande ni un programme de construction annoncé.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Destinée à la Marine nationale, la version VTOL du drone Aliaca a été qualifiée par la Direction générale de l’armement",
+      "link": "https://www.opex360.com/2026/11/03/destinee-a-la-marine-nationale-la-version-vtol-du-drone-aliaca-a-ete-qualifiee-par-la-direction-generale-de-larmement/",
+      "pubDate": "2026-11-03T17:04:45.000Z",
+      "description": "Commandé à vingt-six exemplaires [onze en 2021 et quinze en 2024] auprès de Survey Copter, filiale d’Airbus Helicopters, afin d’équiper les frégates de surveillance, les patrouilleurs de haute-mer et les sémaphores, le système de mini-drones aériens embarqués pour la Marine [SMDM] Aliaca a donné, jusqu’à présent, pleinement satisfaction depuis son entrée en service. Utilisé pour...\nCet article Destinée à la Marine nationale, la version VTOL du drone Aliaca a été qualifiée par la Direction générale de l’armement est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
       "title": "Renault poursuit son avancée dans les drones militaires",
       "link": "https://www.lemonde.fr/economie/article/2026/11/03/renault-poursuit-son-avancee-dans-les-drones-militaires_6805629_3234.html",
-      "pubDate": "2026-11-03T16:45:08.000Z",
+      "pubDate": "2026-11-03T16:45:07.000Z",
       "description": "Déjà engagé dans deux projets de drones aériens, le constructeur automobile s’associe au groupe de blindés belge John Cockerill pour produire un robot terrestre.",
       "sourceKey": "geo"
     },
@@ -36,6 +57,13 @@
       "pubDate": "2026-11-03T15:40:29.000Z",
       "description": "Lors d’une audition au Sénat, en novembre 2022, le général Stéphane Mille, alors chef d’état-major de l’armée de l’Air & de l’Espace [CEMAAE] avait dit envisager de recourir à des prestataires privés pour la préparation opérationnelle des équipages de l’aviation de combat, cette fonction, dite Red Air [ou «force adverse»] étant assurée par l’escadron d’entraînement...\nCet article Des avions A-4 Skyhawk seront mis en œuvre pour assurer la préparation opérationnelle des pilotes militaires français est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Somalie : le retrait ougandais oblige la mission africaine à reprendre quatre positions stratégiques",
+      "link": "https://armees.com/somalie-retrait-ouganda-quatre-bases-mogadiscio-2026/",
+      "pubDate": "2026-11-03T15:14:47.000Z",
+      "description": "L’Ouganda retire des troupes déployées en Somalie. La mission de l’Union africaine prévoit de reprendre quatre bases situées aux abords de Mogadiscio, où la menace du groupe Al-Chabab rend toute transition militaire particulièrement sensible.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Autoradios connectés : le nouveau vecteur d’espionnage militaire",
@@ -143,20 +171,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Iran : de nouvelles frappes américaines signalées sur l’île stratégique de Qeshm",
-      "link": "https://armees.com/iran-de-nouvelles-frappes-americaines-signalees-sur-lile-strategique-de-qeshm/",
-      "pubDate": "2026-11-03T05:49:25.000Z",
-      "description": "Des frappes américaines ont été rapportées dans la nuit du 2 au 3 novembre sur l’île iranienne de Qeshm, à proximité du détroit d’Ormuz. Washington les présente, selon la presse américaine, comme des opérations défensives visant des moyens antiaériens, tandis que les discussions diplomatiques se poursuivent.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Russie : le double-tap de Komyshuvakha révèle une doctrine éprouvée",
-      "link": "https://armees.com/double-tap-bombardement-komyshuvakha-tactique-russe/",
-      "pubDate": "2026-11-03T04:50:04.000Z",
-      "description": "Le 3 novembre 2026, la Russie a frappé en deux vagues successives un centre d'aide humanitaire à Komyshuvakha (Zaporizhzhia), tuant 26 personnes dont des sauveteurs.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Saab étend les capacités de sa vedette rapide de combat CB90 à la lutte antinavire et à la défense aérienne",
       "link": "https://www.opex360.com/2026/11/02/saab-etend-les-capacites-de-sa-vedette-rapide-de-combat-cb90-a-la-lutte-antinavire-et-a-la-defense-aerienne/",
       "pubDate": "2026-11-02T18:32:01.000Z",
@@ -232,20 +246,6 @@
       "pubDate": "2026-10-31T16:00:09.000Z",
       "description": "Le fond des océans fait l’objet d’une inédite compétition militaire. La multiplication de réseaux de capteurs à des fins de surveillance ou d’espionnage risque de bouleverser les tactiques navales, explique l’ancien commandant de sous-marins nucléaires dans un entretien au « Monde ».",
       "sourceKey": "geo"
-    },
-    {
-      "title": "La Section technique de l’armée de Terre développe déjà le standard 3 du système antidrone Proteus",
-      "link": "https://www.opex360.com/2026/10/31/la-section-technique-de-larmee-de-terre-developpe-deja-le-standard-3-du-systeme-antidrone-proteus/",
-      "pubDate": "2026-10-31T14:43:41.000Z",
-      "description": "En janvier 2025, la Section technique de l’armée de Terre [STAT] présenta le Proteus, un système de lutte antidrone [LAD], mis au point par son groupement «Artillerie», dans le cadre d’un projet lancé quelques mois plus tôt. «L’objectif de ce développement est double : fournir une réponse opérationnelle rapide tout en anticipant les évolutions du...\nCet article La Section technique de l’armée de Terre développe déjà le standard 3 du système antidrone Proteus est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Désarmée en 2022, l’ex-frégate Latouche-Tréville est désormais utilisée par la DGA pour des essais de choc",
-      "link": "https://www.opex360.com/2026/10/31/desarmee-en-2022-lex-fregate-latouche-treville-est-desormais-utilisee-par-la-dga-pour-des-essais-de-choc/",
-      "pubDate": "2026-10-31T11:45:58.000Z",
-      "description": "En février 2025, dans le cadre de la préparation de ses unités à un engagement de haute intensité et après avoir envoyé par le fond l’ex-aviso «Premier maître L’Her» avec une torpille F21 Artémis lancée par un sous-marin nucléaire d’attaque, la Marine nationale fit subir un «essai de choc» à la frégate de type La...\nCet article Désarmée en 2022, l’ex-frégate Latouche-Tréville est désormais utilisée par la DGA pour des essais de choc est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Renouveler les systèmes de décontamination : acte III",
