@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T19:55:27.806Z",
+  "generatedAt": "2026-11-03T01:56:34.422Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Ukraine : au moins 26 morts après des frappes sur un point d’aide et un abri à Komychouvakha",
+      "link": "https://armees.com/ukraine-au-moins-26-morts-apres-des-frappes-sur-un-point-daide-et-un-abri-a-komychouvakha/",
+      "pubDate": "2026-11-02T21:49:11.000Z",
+      "description": "Une série de bombardements russes a frappé le 2 novembre une école utilisée pour distribuer de l’aide humanitaire et un abri à Komychouvakha, dans le sud-est de l’Ukraine. Les autorités ukrainiennes font état d’au moins 26 morts ; les opérations de secours se poursuivent, tandis que Kyiv dénonce une seconde vague de frappes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Tenable Identity Exposure : l’ANSSI alerte sur trois failles, une réinstallation est nécessaire après la mise à jour",
+      "link": "https://armees.com/tenable-identity-exposure-anssi-trois-failles-reinstaller-ioa-20261102-2336/",
+      "pubDate": "2026-11-02T21:38:19.000Z",
+      "description": "Le CERT-FR de l’ANSSI signale trois vulnérabilités dans Tenable Identity Exposure, dont une faille critique pouvant donner des privilèges élevés sur un contrôleur de domaine. L’éditeur a publié des versions corrigées, mais précise qu’un composant de surveillance Active Directory doit aussi être réinstallé.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Tenable Identity Exposure : l’ANSSI signale une faille critique touchant les contrôleurs de domaine",
+      "link": "https://armees.com/tenable-identity-exposure-anssi-controleur-domaine-cve-2026-119314-20261102-2239/",
+      "pubDate": "2026-11-02T20:41:57.000Z",
+      "description": "Le CERT-FR a publié le 2 novembre un avis sur trois vulnérabilités de Tenable Identity Exposure, dont une faille notée 9,9 sur 10 permettant l’exécution de commandes avec les privilèges SYSTEM sous certaines conditions. L’éditeur propose deux versions corrigées et demande une intervention supplémentaire sur les scripts de détection installés dans Active Directory.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : 24 morts dans des frappes sur un centre d’aide, deux secouristes parmi les victimes",
+      "link": "https://armees.com/ukraine-komyshuvakha-24-morts-ecole-aide-secouristes-novembre-2026/",
+      "pubDate": "2026-11-02T18:35:56.000Z",
+      "description": "Des bombes russes ont frappé lundi 2 novembre une école utilisée pour distribuer de l’aide humanitaire à Komyshuvakha, dans la région de Zaporijjia, selon les autorités ukrainiennes. Le bilan communiqué par les secours est monté à 24 morts, dont deux membres d’une équipe de sauvetage.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Saab étend les capacités de sa vedette rapide de combat CB90 à la lutte antinavire et à la défense aérienne",
       "link": "https://www.opex360.com/2026/11/02/saab-etend-les-capacites-de-sa-vedette-rapide-de-combat-cb90-a-la-lutte-antinavire-et-a-la-defense-aerienne/",
@@ -140,34 +168,6 @@
       "link": "https://armees.com/thales-us-navy-drones-surface-mines-539-millions-contrat-2026/",
       "pubDate": "2026-11-02T08:48:42.000Z",
       "description": "La filiale américaine de Thales, Advanced Acoustic Concepts, fournira à la marine des États-Unis deux modules de chasse aux mines à distance pour 53,9 millions de dollars. Ces équipements, utilisables depuis des navires habités ou des drones de surface, pourraient donner lieu à des commandes supplémentaires portant le contrat à 196,2 millions de dollars.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Sahara : l’ONU abandonne sa plus longue mission de maintien de la paix",
-      "link": "https://armees.com/minurso-mission-onu-effondrement-maintien-paix-2026/",
-      "pubDate": "2026-11-02T07:08:56.000Z",
-      "description": "La mission MINURSO au Sahara occidental s'est éteinte le 2 novembre 2026 après 35 ans d'existence, victime de vetos croisés entre les États-Unis et la Russie au Conseil de sécurité.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Soudan : deux postes électriques détruits par des drones, une nouvelle pression sur l’armée",
-      "link": "https://armees.com/soudan-drones-postes-electriques-al-dabbah-abou-hamad-novembre-2026/",
-      "pubDate": "2026-11-02T06:56:07.000Z",
-      "description": "Des frappes de drones ont mis hors service, le 1er novembre, des installations électriques à Al-Dabbah et Abou Hamad, dans des régions contrôlées par l’armée soudanaise. Attribuées aux Forces de soutien rapide par les autorités et des observateurs locaux, ces attaques illustrent l’extension de la guerre aux infrastructures vitales.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Trump-Poutine en Chine : Rubio et Lavrov évoquent un échange au sommet de l’APEC",
-      "link": "https://armees.com/rubio-lavrov-rencontre-trump-poutine-apec-chine-novembre-2026/",
-      "pubDate": "2026-11-02T06:40:53.000Z",
-      "description": "Marco Rubio a confirmé avoir brièvement évoqué avec Sergueï Lavrov une possible rencontre entre Donald Trump et Vladimir Poutine lors du sommet de l’APEC des 18 et 19 novembre en Chine. Aucun rendez-vous n’est annoncé, alors que les divergences sur la guerre en Ukraine demeurent profondes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "En 1942, la Grande-Bretagne a essayé un navire de glace long de 610 mètres pour contrer les sous-marins allemands",
-      "link": "https://armees.com/en-1942-la-grande-bretagne-a-essaye-un-navire-de-glace-long-de-610-metres-pour-contrer-les-sous-marins-allemands/",
-      "pubDate": "2026-11-02T06:35:54.000Z",
-      "description": "Un porte-avions en glace capable de flotter sur l'Atlantique : la Grande-Bretagne y a vraiment cru en pleine guerre. Pourquoi ce projet pharaonique a-t-il fini abandonné sur un lac canadien ?",
       "sourceKey": "armees_com"
     },
     {
