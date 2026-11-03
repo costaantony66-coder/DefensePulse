@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T01:56:34.422Z",
+  "generatedAt": "2026-11-03T08:59:41.883Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Nvidia, la Chine et notre souveraineté technologique militaire",
+      "link": "https://armees.com/nvidia-chine-souverainete-technologique-notre-militaire/",
+      "pubDate": "2026-11-03T06:22:42.000Z",
+      "description": "Nvidia ordonne à ses clients cloud de réduire leur exposition chinoise. Derrière l’anecdote commerciale se cache une réalité stratégique que la France refuse encore de regarder en face : notre ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La DGA reçoit le Rafale B374 pour les essais du standard F5",
+      "link": "https://armees.com/rafale-b374-dga-essais-vol-souverainete-aeronavale/",
+      "pubDate": "2026-11-03T06:18:00.000Z",
+      "description": "La Direction générale de l'armement a réceptionné le 2 novembre 2026 le Rafale B374, son premier avion banc d'essais affecté en propre. Dernier appareil de la quatrième tranche de production, il sera transformé jusqu'en 2028 pour devenir le laboratoire volant du futur Rafale F5, testant notamment le radar RBE2 XG de nouvelle génération.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Safran va guider les missiles nucléaires français sans GPS : cette technologie de navigation que même un brouillage ennemi ne peut tromper",
+      "link": "https://armees.com/safran-va-guider-les-missiles-nucleaires-francais-sans-gps-cette-technologie-de-navigation-que-meme-un-brouillage-ennemi-ne-peut-tromper/",
+      "pubDate": "2026-11-03T06:05:10.000Z",
+      "description": "Sans GPS, sans signal, sans la moindre faille : comment Safran guide sous-marins, missiles et Rafale nucléaires français avec une précision redoutable ? 120 millions d'euros investis, 30 000 gyroscopes visés d'ici 2032.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Iran : de nouvelles frappes américaines signalées sur l’île stratégique de Qeshm",
+      "link": "https://armees.com/iran-de-nouvelles-frappes-americaines-signalees-sur-lile-strategique-de-qeshm/",
+      "pubDate": "2026-11-03T05:49:25.000Z",
+      "description": "Des frappes américaines ont été rapportées dans la nuit du 2 au 3 novembre sur l’île iranienne de Qeshm, à proximité du détroit d’Ormuz. Washington les présente, selon la presse américaine, comme des opérations défensives visant des moyens antiaériens, tandis que les discussions diplomatiques se poursuivent.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Russie : le double-tap de Komyshuvakha révèle une doctrine éprouvée",
+      "link": "https://armees.com/double-tap-bombardement-komyshuvakha-tactique-russe/",
+      "pubDate": "2026-11-03T04:50:04.000Z",
+      "description": "Le 3 novembre 2026, la Russie a frappé en deux vagues successives un centre d'aide humanitaire à Komyshuvakha (Zaporizhzhia), tuant 26 personnes dont des sauveteurs.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cybersécurité : l’ANSSI signale trois failles Ivanti Connect Secure activement exploitées",
+      "link": "https://armees.com/anssi-ivanti-connect-secure-trois-failles-exploitees-20261103-0536/",
+      "pubDate": "2026-11-03T03:36:39.000Z",
+      "description": "Le CERT-FR a publié le 2 novembre un nouvel avis concernant trois vulnérabilités d’Ivanti Connect Secure, présentées par l’éditeur comme activement exploitées. Les administrateurs doivent vérifier les versions installées et appliquer les correctifs adaptés.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Ukraine : au moins 26 morts après des frappes sur un point d’aide et un abri à Komychouvakha",
       "link": "https://armees.com/ukraine-au-moins-26-morts-apres-des-frappes-sur-un-point-daide-et-un-abri-a-komychouvakha/",
@@ -115,20 +157,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Cyberattaque des frigos : la faille qui expose les équipements connectés en Europe",
-      "link": "https://armees.com/cyberattaque-frigos-europe-faille-equipements-connectes-novembre-2026/",
-      "pubDate": "2026-11-02T12:30:00.000Z",
-      "description": "Après les supermarchés français en octobre, des magasins européens signalent des incidents sur leurs installations frigorifiques. Le CERT-FR alerte sur des contrôleurs accessibles depuis Internet.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : après la trêve d’Olechky, Kiev accuse Moscou d’avoir renforcé ses positions militaires",
-      "link": "https://armees.com/ukraine-apres-la-treve-dolechky-kiev-accuse-moscou-davoir-renforce-ses-positions-militaires/",
-      "pubDate": "2026-11-02T11:33:24.000Z",
-      "description": "Au lendemain de la fin de la trêve humanitaire d’Olechky, l’état-major ukrainien affirme que les forces russes ont profité de la pause pour faire tourner des unités, fortifier leurs positions et acheminer des munitions. Le Kremlin renvoie les questions sur ses troupes au ministère de la Défense.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "DGA Essais en vol a reçu un Rafale F4.1 « ABE » pour préparer le standard F5",
       "link": "https://www.opex360.com/2026/11/02/dga-essais-en-vol-a-recu-son-premier-rafale-f4-1-pour-preparer-le-standard-f5/",
       "pubDate": "2026-11-02T11:33:22.000Z",
@@ -136,39 +164,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "L’Ukraine et la Russie victimes de cyberattaques massives",
-      "link": "https://armees.com/cyberattaque-ukraine-russie-systemes-alerte-2026/",
-      "pubDate": "2026-11-02T10:48:34.000Z",
-      "description": "Dans la nuit du 1er au 2 novembre 2026, quelques heures après l'expiration du cessez-le-feu d'Olechky, l'Ukraine et la Russie ont simultanément subi des cyberattaques massives contre leurs applications officielles d'alerte aux populations. Les pirates ont diffusé de fausses alertes nucléaires et chimiques via l'application ukrainienne, tandis que le système russe subissait une offensive similaire. Une offensive coordonnée qui révèle la vulnérabilité des infrastructures critiques de défense civile.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Iran : Trump menace de frappes, Téhéran répond par des avertissements",
-      "link": "https://armees.com/frappes-aeriennes-trump-iran-strategie-militaire-2026/",
-      "pubDate": "2026-11-02T10:44:25.000Z",
-      "description": "Donald Trump affirme pouvoir neutraliser les installations iraniennes en dix minutes, une promesse qui défie la réalité tactique. Téhéran riposte en levant les restrictions géographiques et en menaçant les infrastructures numériques du détroit d'Ormuz.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Un accord-cadre et de la visibilité pour le VL MICA de MBDA",
       "link": "https://forcesoperations.com/un-accord-cadre-et-de-la-visibilite-pour-le-vl-mica-de-mbda/",
       "pubDate": "2026-11-02T10:25:35.000Z",
       "description": "Le système de défense sol-air VL MICA a désormais son accord-cadre. Valorisé à plusieurs milliards d’euros, ce dernier devient le vecteur par lequel la France et ses partenaires pourront se fournir auprès de MBDA.\nThe post Un accord-cadre et de la visibilité pour le VL MICA de MBDA appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Drones malveillants : l’État réorganise la protection des sites sensibles",
-      "link": "https://armees.com/lutte-anti-drones-sgdsn-sites-sensibles-instruction-2026-11-02-1139/",
-      "pubDate": "2026-11-02T09:41:17.000Z",
-      "description": "Depuis le 1er novembre 2026, une instruction interministérielle fixe une nouvelle organisation de la lutte contre les drones malveillants. Le SGDSN coordonne la stratégie nationale, tandis que le ministère de l’Intérieur centralise les signalements et que les opérateurs d’importance vitale doivent adapter leur protection.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Drones navals : Thales remporte un contrat de 53,9 millions de dollars auprès de l’US Navy",
-      "link": "https://armees.com/thales-us-navy-drones-surface-mines-539-millions-contrat-2026/",
-      "pubDate": "2026-11-02T08:48:42.000Z",
-      "description": "La filiale américaine de Thales, Advanced Acoustic Concepts, fournira à la marine des États-Unis deux modules de chasse aux mines à distance pour 53,9 millions de dollars. Ces équipements, utilisables depuis des navires habités ou des drones de surface, pourraient donner lieu à des commandes supplémentaires portant le contrat à 196,2 millions de dollars.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Industrie navale militaire : l’Allemagne affiche ses nouvelles ambitions",
