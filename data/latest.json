@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T08:59:41.883Z",
+  "generatedAt": "2026-11-03T16:54:53.196Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,104 @@
     }
   ],
   "items": [
+    {
+      "title": "Renault poursuit son avancée dans les drones militaires",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/03/renault-poursuit-son-avancee-dans-les-drones-militaires_6805629_3234.html",
+      "pubDate": "2026-11-03T16:45:08.000Z",
+      "description": "Déjà engagé dans deux projets de drones aériens, le constructeur automobile s’associe au groupe de blindés belge John Cockerill pour produire un robot terrestre.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Des avions A-4 Skyhawk seront mis en œuvre pour assurer la préparation opérationnelle des pilotes militaires français",
+      "link": "https://www.opex360.com/2026/11/03/des-avions-a4-skyhawk-preparation-operationnelle-des-pilotes-militaires-francais/",
+      "pubDate": "2026-11-03T15:40:29.000Z",
+      "description": "Lors d’une audition au Sénat, en novembre 2022, le général Stéphane Mille, alors chef d’état-major de l’armée de l’Air & de l’Espace [CEMAAE] avait dit envisager de recourir à des prestataires privés pour la préparation opérationnelle des équipages de l’aviation de combat, cette fonction, dite Red Air [ou «force adverse»] étant assurée par l’escadron d’entraînement...\nCet article Des avions A-4 Skyhawk seront mis en œuvre pour assurer la préparation opérationnelle des pilotes militaires français est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Autoradios connectés : le nouveau vecteur d’espionnage militaire",
+      "link": "https://armees.com/espionnage-autoradio-android-securite-defense/",
+      "pubDate": "2026-11-03T13:17:47.000Z",
+      "description": "Un autoradio Android acheté en ligne contenait des malwares capables d'enregistrer les appels et de suivre la localisation en temps réel. Pour les militaires et les personnels de défense, cette vulnérabilité représente un risque stratégique majeur : l'espionnage via des appareils connectés bon marché infiltre désormais les flottes officielles et les véhicules personnels.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "États-Unis : destruction d’un lanceur sol-air iranien sur l’île de Qeshm",
+      "link": "https://armees.com/frappes-qeshm-capacites-militaires-us-iran-2026/",
+      "pubDate": "2026-11-03T12:26:14.000Z",
+      "description": "Le 2 novembre 2026, l'armée américaine a détruit un lanceur de missiles sol-air iranien sur l'île de Qeshm en réponse à des tirs contre des aéronefs américains. Washington a volontairement gardé cette opération secrète, révélant une doctrine de frappes défensives répétées mais discrètes dans le Golfe. Entre posture militaire et ouverture diplomatique affichée, l'administration Trump tente de maintenir la pression sur l'Iran sans déclencher d'escalade majeure.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Spécialiste de l’armement terrestre, KNDS s’associe à SeaOwl pour développer un drone de combat naval",
+      "link": "https://www.opex360.com/2026/11/03/specialiste-de-larmement-terrestre-knds-sassocie-a-seaowl-pour-developper-un-drone-de-combat-naval/",
+      "pubDate": "2026-11-03T11:50:35.000Z",
+      "description": "Dans un fascicule publié par le ministère des Armées à l’occasion de l’édition 2026 du salon Euronaval, le chef d’état-major de la Marine nationale [CEMM], l’amiral Christophe Cluzel, explique que «notre temps est marqué par des cycles d’innovation de plus en plus rapides» et que la «supériorité opérationnelle reposera demain autant sur [la] capacité à...\nCet article Spécialiste de l’armement terrestre, KNDS s’associe à SeaOwl pour développer un drone de combat naval est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Drones navals : KNDS et SeaOwl dévoilent un engin armé capable de parcourir 200 km",
+      "link": "https://armees.com/drones-navals-knds-et-seaowl-devoilent-un-engin-arme-capable-de-parcourir-200-km/",
+      "pubDate": "2026-11-03T10:44:01.000Z",
+      "description": "Au salon Euronaval, le groupe franco-allemand KNDS et l'entreprise française SeaOwl annoncent un accord pour développer et expérimenter un drone de surface armé. Vitesse annoncée de 35 nœuds, charge utile de 30 kg et décision de tir réservée à un opérateur : le projet illustre l'accélération de la robotisation du combat naval.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Défense : avant le début d’Euronaval, Safran décroche trois contrats",
+      "link": "https://armees.com/safran-hrg-dissuasion-nucleaire-snle-missile-rafale/",
+      "pubDate": "2026-11-03T10:19:27.000Z",
+      "description": "Safran Electronics & Defense remporte trois contrats majeurs pour équiper les futurs SNLE de troisième génération, le missile M51.4 et les Rafale F4 avec sa technologie de gyroscope résonant hémisphérique (HRG). Annoncés avant Euronaval 2026, ces programmes unifient la triade nucléaire française autour d'une navigation inertielle commune, garantissant souveraineté technologique et précision stratégique.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un soldat russe reçoit deux lunettes pour piloter des drones : le FSB affirme y avoir découvert des explosifs cachés",
+      "link": "https://armees.com/un-soldat-russe-recoit-deux-lunettes-pour-piloter-des-drones-le-fsb-affirme-y-avoir-decouvert-des-explosifs-caches/",
+      "pubDate": "2026-11-03T09:20:18.000Z",
+      "description": "Les appareils avaient été fournis par une bénévole qui aidait les militaires russes. Leur examen aurait permis de découvrir plusieurs autres colis suspects, expédiés à travers le pays. M",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Gaz : 60 milliards de m³ perdus, l’Europe vulnérable jusqu’en 2027",
+      "link": "https://armees.com/detroit-ormuz-fermeture-securite-energetique-europe-2026/",
+      "pubDate": "2026-11-03T09:12:00.000Z",
+      "description": "L'AIE révèle que les stocks de gaz européens plafonnent à 75%, leur plus bas niveau depuis 2013. La fermeture du détroit d'Ormuz depuis février 2026 a privé l'Europe de plus de 60 milliards de mètres cubes de GNL en provenance du Qatar et des Émirats arabes unis, exposant le continent à une vulnérabilité stratégique majeure jusqu'en 2027.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Euronaval 2026 : KNDS et SeaOwl dévoilent un drone naval armé capable d’atteindre 200 km",
+      "link": "https://armees.com/euronaval-2026-knds-et-seaowl-devoilent-un-drone-naval-arme-capable-datteindre-200-km/",
+      "pubDate": "2026-11-03T08:46:20.000Z",
+      "description": "À Euronaval, KNDS et SeaOwl ont annoncé le 3 novembre un partenariat pour développer et expérimenter un drone de surface doté d'une charge militaire de 30 kg. Présenté avec une portée de combat pouvant atteindre 200 km, le système doit encore franchir les étapes de développement et d'essais.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : 1 100 militaires français en Pologne pour tester le déploiement d’une force multinationale",
+      "link": "https://armees.com/ukraine-1-100-militaires-francais-en-pologne-pour-tester-le-deploiement-dune-force-multinationale/",
+      "pubDate": "2026-11-03T08:36:06.000Z",
+      "description": "La force multinationale destinée à soutenir la sécurité de l’Ukraine prépare son premier exercice grandeur nature en Pologne. Sous pilotage franco-britannique, cette manœuvre doit tester la coordination des contingents avant tout éventuel déploiement après un cessez-le-feu.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Safran : 120 M€ pour tripler la production de gyroscopes stratégiques",
+      "link": "https://armees.com/safran-triade-nucleaire-snle-m51-rafale-2026/",
+      "pubDate": "2026-11-03T08:34:45.000Z",
+      "description": "Safran Electronics & Defense a été sélectionné le 2 novembre 2026 pour équiper les trois composantes de la dissuasion nucléaire française : SNLE de troisième génération, missile M51.4 et Rafale F4.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "«Ce météorite est vraiment unique» : la NASA étudie une roche martienne qui garde des preuves d’eau remontant à 4,1 milliards d’années",
+      "link": "https://armees.com/ce-meteorite-est-vraiment-unique-la-nasa-etudie-une-roche-martienne-qui-garde-des-preuves-deau-remontant-a-41-milliards-dannees/",
+      "pubDate": "2026-11-03T07:05:00.000Z",
+      "description": "Une roche de 800 grammes trouvée au Sahara révèle un secret vieux de 4,1 milliards d'années sur Mars. Son eau souterraine, sa croûte inédite : ce que cache Teghaza 001 va surprendre les scientifiques.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un avion de chasse Su-57 russe avancé explose sur un aérodrome, selon l’Ukraine",
+      "link": "https://armees.com/un-avion-de-chasse-su-57-russe-avance-explose-sur-un-aerodrome-selon-lukraine/",
+      "pubDate": "2026-11-03T06:35:00.000Z",
+      "description": "Un Su-57 à 150 millions de dollars qui explose au démarrage des moteurs : coïncidence ou symptôme d'un problème de carburant plus profond pour l'aviation russe ? Les détails de cette affaire interrogent.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Nvidia, la Chine et notre souveraineté technologique militaire",
       "link": "https://armees.com/nvidia-chine-souverainete-technologique-notre-militaire/",
@@ -59,53 +157,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Cybersécurité : l’ANSSI signale trois failles Ivanti Connect Secure activement exploitées",
-      "link": "https://armees.com/anssi-ivanti-connect-secure-trois-failles-exploitees-20261103-0536/",
-      "pubDate": "2026-11-03T03:36:39.000Z",
-      "description": "Le CERT-FR a publié le 2 novembre un nouvel avis concernant trois vulnérabilités d’Ivanti Connect Secure, présentées par l’éditeur comme activement exploitées. Les administrateurs doivent vérifier les versions installées et appliquer les correctifs adaptés.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : au moins 26 morts après des frappes sur un point d’aide et un abri à Komychouvakha",
-      "link": "https://armees.com/ukraine-au-moins-26-morts-apres-des-frappes-sur-un-point-daide-et-un-abri-a-komychouvakha/",
-      "pubDate": "2026-11-02T21:49:11.000Z",
-      "description": "Une série de bombardements russes a frappé le 2 novembre une école utilisée pour distribuer de l’aide humanitaire et un abri à Komychouvakha, dans le sud-est de l’Ukraine. Les autorités ukrainiennes font état d’au moins 26 morts ; les opérations de secours se poursuivent, tandis que Kyiv dénonce une seconde vague de frappes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Tenable Identity Exposure : l’ANSSI alerte sur trois failles, une réinstallation est nécessaire après la mise à jour",
-      "link": "https://armees.com/tenable-identity-exposure-anssi-trois-failles-reinstaller-ioa-20261102-2336/",
-      "pubDate": "2026-11-02T21:38:19.000Z",
-      "description": "Le CERT-FR de l’ANSSI signale trois vulnérabilités dans Tenable Identity Exposure, dont une faille critique pouvant donner des privilèges élevés sur un contrôleur de domaine. L’éditeur a publié des versions corrigées, mais précise qu’un composant de surveillance Active Directory doit aussi être réinstallé.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Tenable Identity Exposure : l’ANSSI signale une faille critique touchant les contrôleurs de domaine",
-      "link": "https://armees.com/tenable-identity-exposure-anssi-controleur-domaine-cve-2026-119314-20261102-2239/",
-      "pubDate": "2026-11-02T20:41:57.000Z",
-      "description": "Le CERT-FR a publié le 2 novembre un avis sur trois vulnérabilités de Tenable Identity Exposure, dont une faille notée 9,9 sur 10 permettant l’exécution de commandes avec les privilèges SYSTEM sous certaines conditions. L’éditeur propose deux versions corrigées et demande une intervention supplémentaire sur les scripts de détection installés dans Active Directory.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : 24 morts dans des frappes sur un centre d’aide, deux secouristes parmi les victimes",
-      "link": "https://armees.com/ukraine-komyshuvakha-24-morts-ecole-aide-secouristes-novembre-2026/",
-      "pubDate": "2026-11-02T18:35:56.000Z",
-      "description": "Des bombes russes ont frappé lundi 2 novembre une école utilisée pour distribuer de l’aide humanitaire à Komyshuvakha, dans la région de Zaporijjia, selon les autorités ukrainiennes. Le bilan communiqué par les secours est monté à 24 morts, dont deux membres d’une équipe de sauvetage.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Saab étend les capacités de sa vedette rapide de combat CB90 à la lutte antinavire et à la défense aérienne",
       "link": "https://www.opex360.com/2026/11/02/saab-etend-les-capacites-de-sa-vedette-rapide-de-combat-cb90-a-la-lutte-antinavire-et-a-la-defense-aerienne/",
       "pubDate": "2026-11-02T18:32:01.000Z",
       "description": "Initialement, la vedette CB90, proposée par le groupe suédois Saab, a été conçue pour transporter rapidement un demi-peloton d’infanterie de marine [soit dix-huit combattants] vers une plage de débarquement et, accessoirement, pour des missions de surveillance. Affichant un déplacement de 24,5 tonnes à pleine charge, la CB90 est dotée de deux moteurs diesel Scania de...\nCet article Saab étend les capacités de sa vedette rapide de combat CB90 à la lutte antinavire et à la défense aérienne est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Missiles hypersoniques : Hypersonica lève 100 millions d’euros pour accélérer les essais européens",
-      "link": "https://armees.com/hypersonica-100-millions-euros-levee-fonds-missiles-hypersoniques-novembre-2026/",
-      "pubDate": "2026-11-02T18:16:02.000Z",
-      "description": "La société germano-britannique Hypersonica annonce une levée de 100 millions d’euros pour développer ses systèmes de frappe hypersonique. L’investissement renforce une filière européenne encore loin de disposer de missiles opérationnels issus de ce programme.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Une filiale du groupe français Thales va livrer des modules de lutte contre les mines à la marine américaine",
@@ -115,46 +171,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Missiles hypersoniques : Hypersonica lève 100 millions d’euros pour accélérer son programme européen",
-      "link": "https://armees.com/hypersonica-100-millions-euros-missiles-hypersoniques-defense-europeenne-2026/",
-      "pubDate": "2026-11-02T15:46:41.000Z",
-      "description": "La société germano-britannique Hypersonica a annoncé le 2 novembre une levée de 100 millions d’euros pour développer des systèmes hypersoniques de frappe à longue distance. Elle vise une capacité opérationnelle à l’horizon 2029, dans un secteur stratégique pour la défense européenne.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Les forces aériennes américaines et canadiennes se préparent à défendre les îles Aléoutiennes lors d’un exercice inédit",
       "link": "https://www.opex360.com/2026/11/02/les-forces-aeriennes-americaines-et-canadiennes-se-preparent-a-defendre-les-iles-aleoutiennes-lors-dun-exercice-inedit/",
       "pubDate": "2026-11-02T15:35:47.000Z",
       "description": "Situées entre le Kamtchatka [Russie] et l’Alaska, les îles Aléoutiennes, dont la plupart appartiennent aux États-Unis, sont stratégiques dans la mesure où, marquant la limite entre l’océan Pacifique et la mer de Béring, elles permettent de contrôler l’accès au détroit de Béring, naguère considéré comme pouvant être un possible lieu de confrontation durant la Guerre...\nCet article Les forces aériennes américaines et canadiennes se préparent à défendre les îles Aléoutiennes lors d’un exercice inédit est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Rafale F5 : la DGA reçoit un avion banc d’essais pour préparer les futurs capteurs",
-      "link": "https://armees.com/rafale-b374-dga-avion-banc-essais-standard-f5-2026-11-02/",
-      "pubDate": "2026-11-02T14:23:45.000Z",
-      "description": "La Direction générale de l’armement a reçu un Rafale B374 destiné à devenir un laboratoire volant pour les évolutions de l’avion de combat. Livré au standard F4.1, il doit être transformé avant de contribuer aux essais des équipements du futur standard F5, notamment un nouveau radar.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Forums des métiers aéronautiques et de défense : rendre les équipes et les parcours lisibles",
-      "link": "https://armees.com/forums-metiers-aeronautiques-defense-021126/",
-      "pubDate": "2026-11-02T13:56:28.000Z",
-      "description": "Un visiteur s’arrête devant une maquette, un autre cherche une formation, un troisième souhaite parler du quotidien d’un atelier. Dans un forum consacré aux métiers de l’aéronautique et de la défense, ces demandes peuvent se croiser sur le même espace. L’organisation doit aider chacun à trouver la bonne personne sans supposer qu’il connaît déjà les intitulés de métiers, les entreprises ou les parcours possibles.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "WordPress 7.1.4 : l’ANSSI signale des failles pouvant permettre une exécution de code à distance",
-      "link": "https://armees.com/wordpress-714-anssi-certfr-vulnerabilites-correctifs-20261102-1536/",
-      "pubDate": "2026-11-02T13:36:05.000Z",
-      "description": "Le CERT-FR, rattaché à l’ANSSI, a publié le 29 octobre un avis sur plusieurs failles de WordPress antérieures à la version 7.1.4. L’éditeur recommande une mise à jour immédiate et précise la portée des correctifs pour les anciennes branches.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Blocus naval américain : comment l’Iran a réussi à passer en force",
-      "link": "https://armees.com/blocus-naval-iran-limites-interception-tankers-2026/",
-      "pubDate": "2026-11-02T12:30:09.000Z",
-      "description": "Depuis juillet 2026, neuf navires-citernes iraniens ont franchi le blocus naval américain pour livrer du gaz de pétrole liquéfié (GPL) à la Chine via la Malaisie. Le cas du tanker SOGL, transportant 500 000 barils, révèle les failles du dispositif américain face aux tactiques d'évasion sophistiquées de la flotte fantôme iranienne : désactivation des systèmes de suivi, faux pavillons et transferts en haute mer.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "DGA Essais en vol a reçu un Rafale F4.1 « ABE » pour préparer le standard F5",
@@ -227,13 +248,6 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Le Rafale M réussit ses premiers essais à bord du porte-avions indien INS Vikrant",
-      "link": "https://www.opex360.com/2026/10/31/le-rafale-m-reussit-ses-premiers-essais-a-bord-du-porte-avions-indien-ins-vikrant/",
-      "pubDate": "2026-10-31T10:22:10.000Z",
-      "description": "En avril 1993, près de deux ans et demi après son vol inaugural, le Rafale Marine M01, avec le pilote d’essais Yves Kerhervé aux commandes, marqua l’histoire de l’aéronautique navale française en effectuant ses premiers appontages et catapultages à bord du porte-avions Foch, en Méditerranée. Le 29 octobre, soit plus de trente ans après, un...\nCet article Le Rafale M réussit ses premiers essais à bord du porte-avions indien INS Vikrant est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
       "title": "Renouveler les systèmes de décontamination : acte III",
       "link": "https://forcesoperations.com/renouveler-les-systemes-de-decontamination-acte-iii/",
       "pubDate": "2026-10-31T08:49:45.000Z",
@@ -246,13 +260,6 @@
       "pubDate": "2026-10-30T18:59:58.000Z",
       "description": "De semaine en semaine, la dernière cohorte de projets de R&D soutenus par le Fonds européen de la Défense (FEDef) se met en ordre de marche. Parmi les derniers ajouts en date, des recherches pilotées par Thales dans le domaine de la contre-batterie. Top départ le 1er décembre. \nThe post TRIDENT, un pied dans la contre-batterie de demain appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Le français Asman Technology s’apprête à faire voler le DSLR MK1, un drone MALE dédié à la guerre électronique",
-      "link": "https://www.opex360.com/2026/10/30/le-francais-asman-technology-sapprete-a-faire-voler-le-dslr-mk1-un-drone-male-dedie-a-la-guerre-electronique/",
-      "pubDate": "2026-10-30T18:19:11.000Z",
-      "description": "Il y a quinze ans, faute de disposer d’une solution nationale ou européenne, le remplacement des drones MALE [Moyenne Altitude Longue Endurance] donna lieu à de vifs débats entre les partisans d’une «francisation» du Heron TP israélien [avec Dassault Aviation dans la boucle] et ceux plaidant pour l’achat «sur étagère» du MQ-9 Reaper américain. Dans...\nCet article Le français Asman Technology s’apprête à faire voler le DSLR MK1, un drone MALE dédié à la guerre électronique est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Le général Christian Piquemal, qui avait signé en 2021 une tribune controversée de militaires, est mort",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/07/apres-l-attaque-dejouee-de-fairford-au-royaume-uni-les-bases-aeriennes-francaises-se-preparent-a-la-guerre-hybride_6789556_3210.html",
       "pubDate": "2026-10-07T07:00:08.000Z",
       "description": "En France, du 28 septembre au 2 octobre, toutes les bases aériennes se sont entraînées à limiter leur vulnérabilité face aux risques d’attaques de drones, d’intrusions ou de cyberattaques. Le site de Mérignac, siège du commandement territorial de l’armée de l’air et de l’espace, était au cœur de cet exercice.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Emmanuel Macron assiste, de façon inattendue, au lancement d’un missile depuis un sous-marin nucléaire",
-      "link": "https://www.lemonde.fr/international/article/2026/10/06/emmanuel-macron-assiste-de-facon-inattendue-au-lancement-d-un-missile-m-51-depuis-la-mer_6789041_3210.html",
-      "pubDate": "2026-10-06T15:50:36.000Z",
-      "description": "Le chef de l’Etat a vanté « une formidable démonstration de crédibilité, et une étape qui est importante », alors que la Russie intensifie sa guerre hybride contre l’Europe et continue de jouer la menace nucléaire.",
       "sourceKey": "geo"
     }
   ]
