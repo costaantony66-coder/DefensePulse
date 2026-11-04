@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T02:22:41.847Z",
+  "generatedAt": "2026-11-04T09:47:30.672Z",
   "sources": [
     {
       "key": "opex",
@@ -24,6 +24,104 @@
   ],
   "items": [
     {
+      "title": "Renault fait la guerre, l’Europe paie l’addition russe",
+      "link": "https://armees.com/renault-europe-guerre-adition-paie-russe/",
+      "pubDate": "2026-11-04T09:20:01.000Z",
+      "description": "Pendant que Renault se reconvertit en fabricant de drones et de robots militaires, la Russie pilonne une nouvelle fois les infrastructures énergétiques ukrainiennes. Deux actualités en apparence distinctes, mais qui ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Trump coupe l’aide à Israël : l’Europe militaire en état d’urgence",
+      "link": "https://armees.com/trump-israel-europe-coupe-aide-militaire-urgence-etat/",
+      "pubDate": "2026-11-04T09:02:53.000Z",
+      "description": "Le jour des midterms, Donald Trump lâche une bombe diplomatique : l’aide militaire américaine à Israël sera « coupée à la fin de l’année ». 3,8 milliards de dollars qui ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Sept avions visés par des alertes à la bombe en Europe, des Eurofighter décollent en urgence",
+      "link": "https://armees.com/alertes-bombe-avions-europe-eurofighter-novembre-2026/",
+      "pubDate": "2026-11-04T09:00:00.000Z",
+      "description": "Sept vols commerciaux ont été visés par des alertes à la bombe le 3 novembre 2026, provoquant le déploiement d'avions de chasse, des déroutements et la fermeture temporaire d'un aéroport. De l'Italie à la Pologne, les armées européennes ont été mobilisées pour des menaces qui se sont toutes révélées infondées.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Déficit à 5,7% : la défense française peut-elle survivre à l’austérité ?",
+      "link": "https://armees.com/deficit-francaise-defense-survivre-austerite/",
+      "pubDate": "2026-11-04T08:51:15.000Z",
+      "description": "Le déficit français file vers 5,7 % du PIB. La machine productive est à l’arrêt. Et pendant ce temps, la Loi de Programmation Militaire engage 413 milliards d’euros jusqu’en 2030. ...",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Renault Forefront Concept : pilier de la robotisation militaire française",
+      "link": "https://armees.com/pendragon-2027-robotique-combat-armee-terre/",
+      "pubDate": "2026-11-04T08:43:21.000Z",
+      "description": "L'armée de Terre française évalue actuellement le Renault Forefront Concept, drone terrestre électrique téléopéré développé avec John Cockerill. Intégré au programme Pendragon, ce démonstrateur de 400 kilomètres d'autonomie préfigure la création d'une unité robotique de combat en 2027, transformant les tactiques militaires françaises.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Don du sang : quand les pirates informatiques menacent la souveraineté sanitaire",
+      "link": "https://armees.com/infrastructure-critique-piratage-sang-defense-france/",
+      "pubDate": "2026-11-04T08:31:53.000Z",
+      "description": "Dans la nuit du 1er au 2 novembre 2026, des pirates ont tenté de détruire des réserves stratégiques de don du sang en reprogrammant les chambres froides de l'EFS à 110°C au lieu de -30°C. Révélée par Le Canard enchaîné, l'attaque contre le prestataire Coolworld illustre une mutation des cybermenaces : les adversaires sabotent désormais les infrastructures vitales plutôt que de voler des données. Un incident qui interroge la souveraineté sanitaire française et la résilience de ses systèmes critiques face aux menaces hybrides.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pyongyang renforce son arsenal tout en claquant la porte à Trump",
+      "link": "https://armees.com/coree-nord-nouveaux-missiles-dissuasion-2026/",
+      "pubDate": "2026-11-04T08:04:30.000Z",
+      "description": "Kim Yo Jong, sœur du dirigeant nord-coréen, a fermé la porte au dialogue avec Washington ce 4 novembre 2026, qualifiant les États-Unis d'« hostiles » et de « peu fiables ». Parallèlement, la Corée du Nord multiplie les essais d'armements stratégiques : missiles de croisière à ogives dispersantes, drones d'attaque, torpilles guidées et navire de guerre aux capacités inédites. Une escalade militaire qui redéfinit l'équilibre des forces en Asie du Nord-Est.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pourquoi les forces aériennes américaines et canadiennes se déploient sur les îles Aléoutiennes : un exercice inédit qui envoie un signal direct à la Russie et à la Chine",
+      "link": "https://armees.com/pourquoi-les-forces-aeriennes-americaines-et-canadiennes-se-deploient-sur-les-iles-aleoutiennes-un-exercice-inedit-qui-envoie-un-signal-direct-a-la-russie-et-a-la-chine/",
+      "pubDate": "2026-11-04T06:35:19.000Z",
+      "description": "Première depuis les années 90 : des F-16 américains ont redécollé d'une base « austère » des Aléoutiennes. Pendant huit jours, Washington et Ottawa ont testé leur capacité à défendre l'Amérique du Nord face aux patrouilles russes et chinoises repérées dans le secteur.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Euronaval 2026 : de nouvelles commandes de missiles Aster et Exocet annoncées",
+      "link": "https://armees.com/euronaval-2026-commandes-missiles-aster-exocet-3-novembre/",
+      "pubDate": "2026-11-04T06:11:04.000Z",
+      "description": "À l'ouverture d'Euronaval le 3 novembre, Catherine Vautrin a annoncé de nouvelles commandes de missiles Aster et Exocet. La ministre a également évoqué un programme de drones navals dès 2027 et appelé les industriels à accélérer leur production.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Guerre en Ukraine : « Était-ce une bombe nucléaire ? », des soldats russes stupéfaits par la violence d’une explosion dans un entrepôt en Russie",
+      "link": "https://armees.com/guerre-en-ukraine-etait-ce-une-bombe-nucleaire-des-soldats-russes-stupefaits-par-la-violence-dune-explosion-dans-un-entrepot-en-russie/",
+      "pubDate": "2026-11-04T06:05:04.000Z",
+      "description": "« Une bombe nucléaire ? » Un soldat russe, terrifié, filme le souffle d'une explosion si violente que l'isolation en mousse a failli s'envoler. Localisation, armes, pertes : tout reste flou. Les détails de cette frappe hors norme vous attendent.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cybersécurité : le NCSC alerte sur des cyberattaques étatiques dopées à l’IA d’ici 2028",
+      "link": "https://armees.com/ncsc-cyberattaques-etatiques-ia-russie-chine-2028/",
+      "pubDate": "2026-11-04T06:00:00.000Z",
+      "description": "Le NCSC britannique estime très probable que la Russie, la Chine et d’autres États utilisent couramment l’intelligence artificielle dans leurs opérations cyber d’ici 2028. Son rapport décrit une menace plus rapide contre les infrastructures critiques et les intérêts stratégiques.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cyberattaques contre des équipements frigorifiques : le risque industriel gagne les commerces européens",
+      "link": "https://armees.com/cyberattaques-froid-commercial-europe-controleurs-connectes-20261104-0736/",
+      "pubDate": "2026-11-04T05:36:29.000Z",
+      "description": "Des commerces de plusieurs pays européens ont signalé des manipulations à distance de leurs systèmes frigorifiques, selon une enquête de l’Associated Press publiée le 4 novembre. Ces incidents illustrent la vulnérabilité des équipements connectés dont dépendent la chaîne du froid et la continuité d’activité.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Israël : 3,8 milliards coupés, le Dôme de Fer en danger ?",
+      "link": "https://armees.com/aide-militaire-israel-systemes-armes-capacites-defensives/",
+      "pubDate": "2026-11-04T04:33:58.000Z",
+      "description": "Donald Trump annonce le 3 novembre 2026 la fin de l'aide militaire américaine de 3,8 milliards de dollars annuels à Israël, mettant en péril le financement de systèmes d'armes critiques. Au-delà des justifications économiques, cette décision soulève des questions stratégiques majeures : comment Israël maintiendra-t-il ses capacités défensives face aux menaces régionales sans ce soutien financier représentant 16% de son budget de défense ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Naval Group dévoile le SCX-26, un concept de navire de guerre pensé autour des drones",
+      "link": "https://armees.com/naval-group-scx26-concept-drones-euronaval-2026/",
+      "pubDate": "2026-11-04T03:00:00.000Z",
+      "description": "Présenté le 3 novembre au salon Euronaval, le SCX-26 illustre la place croissante des systèmes autonomes dans les marines militaires. Il s'agit d'un concept industriel, et non de l'annonce d'un bâtiment déjà commandé ou construit.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Naval Group affirme avoir accru de près de 50 % la valeur de sa production militaire navale en deux ans",
       "link": "https://armees.com/naval-group-production-militaire-navale-hausse-50-pourcent-2026-2/",
       "pubDate": "2026-11-04T01:20:00.000Z",
@@ -31,17 +129,10 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Naval Group affirme avoir augmenté de près de 50 % sa production militaire navale en deux ans",
-      "link": "https://armees.com/naval-group-production-militaire-navale-hausse-50-pourcent-2026/",
-      "pubDate": "2026-11-04T00:00:00.000Z",
-      "description": "À l'occasion d'Euronaval, le constructeur français indique que la valeur de sa production militaire navale a progressé de près de moitié en deux ans. Cette accélération accompagne le réarmement des flottes, mais ne signifie pas que le nombre de navires livrés a augmenté dans les mêmes proportions.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "GLPI : trois nouvelles failles touchent les droits des utilisateurs et les tableaux de bord",
-      "link": "https://armees.com/glpi-trois-failles-droits-utilisateurs-xss-certfr-20261103-2339/",
-      "pubDate": "2026-11-03T21:40:11.000Z",
-      "description": "Le CERT-FR a signalé le 3 novembre trois vulnérabilités de GLPI, après la publication des bulletins techniques de l’éditeur le 2 novembre. Les défauts concernent notamment la gestion des privilèges et un script intersites ; les administrateurs doivent contrôler les versions et les correctifs.",
+      "title": "PostgreSQL : l’ANSSI signale onze failles dans le pilote ODBC",
+      "link": "https://armees.com/postgresql-odbc-anssi-onze-vulnerabilites-certfr-20261104-0236/",
+      "pubDate": "2026-11-04T00:37:10.000Z",
+      "description": "Le CERT-FR a publié le 3 novembre un avis sur plusieurs vulnérabilités du pilote ODBC de PostgreSQL. La version 18.00.0006 corrige ces défauts, dont des risques d’injection SQL et de contournement des protections.",
       "sourceKey": "armees_com"
     },
     {
@@ -50,13 +141,6 @@
       "pubDate": "2026-11-03T18:22:17.000Z",
       "description": "L’an passé, alors que la future Loi de programmation militaire [LPM] devrait porter la dotation de la Marine nationale à dix-huit navires dits de premier rang [contre quinze actuellement], le député Yannick Chenevard, rapporteur du programme 178 «Emploi et préparation des forces – Marine», s’était interrogé sur le type des trois frégates supplémentaires susceptibles d’être...\nCet article Naval Group dévoile le concept d’un navire de 8 000 tonnes, doté de plus de 100 missiles et d’un canon électromagnétique est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Naval Group dévoile un concept de navire de guerre conçu autour des drones",
-      "link": "https://armees.com/naval-group-scx-26-navire-drones-euronaval-2026/",
-      "pubDate": "2026-11-03T18:11:22.000Z",
-      "description": "Au salon Euronaval, Naval Group a présenté le SCX-26, un concept de bâtiment militaire donnant une place centrale aux drones. Cette proposition illustre la transformation des besoins navals, sans constituer à ce stade une commande ni un programme de construction annoncé.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Destinée à la Marine nationale, la version VTOL du drone Aliaca a été qualifiée par la Direction générale de l’armement",
@@ -80,95 +164,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Somalie : le retrait ougandais oblige la mission africaine à reprendre quatre positions stratégiques",
-      "link": "https://armees.com/somalie-retrait-ouganda-quatre-bases-mogadiscio-2026/",
-      "pubDate": "2026-11-03T15:14:47.000Z",
-      "description": "L’Ouganda retire des troupes déployées en Somalie. La mission de l’Union africaine prévoit de reprendre quatre bases situées aux abords de Mogadiscio, où la menace du groupe Al-Chabab rend toute transition militaire particulièrement sensible.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Autoradios connectés : le nouveau vecteur d’espionnage militaire",
-      "link": "https://armees.com/espionnage-autoradio-android-securite-defense/",
-      "pubDate": "2026-11-03T13:17:47.000Z",
-      "description": "Un autoradio Android acheté en ligne contenait des malwares capables d'enregistrer les appels et de suivre la localisation en temps réel. Pour les militaires et les personnels de défense, cette vulnérabilité représente un risque stratégique majeur : l'espionnage via des appareils connectés bon marché infiltre désormais les flottes officielles et les véhicules personnels.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "États-Unis : destruction d’un lanceur sol-air iranien sur l’île de Qeshm",
-      "link": "https://armees.com/frappes-qeshm-capacites-militaires-us-iran-2026/",
-      "pubDate": "2026-11-03T12:26:14.000Z",
-      "description": "Le 2 novembre 2026, l'armée américaine a détruit un lanceur de missiles sol-air iranien sur l'île de Qeshm en réponse à des tirs contre des aéronefs américains. Washington a volontairement gardé cette opération secrète, révélant une doctrine de frappes défensives répétées mais discrètes dans le Golfe. Entre posture militaire et ouverture diplomatique affichée, l'administration Trump tente de maintenir la pression sur l'Iran sans déclencher d'escalade majeure.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Spécialiste de l’armement terrestre, KNDS s’associe à SeaOwl pour développer un drone de combat naval",
       "link": "https://www.opex360.com/2026/11/03/specialiste-de-larmement-terrestre-knds-sassocie-a-seaowl-pour-developper-un-drone-de-combat-naval/",
       "pubDate": "2026-11-03T11:50:35.000Z",
       "description": "Dans un fascicule publié par le ministère des Armées à l’occasion de l’édition 2026 du salon Euronaval, le chef d’état-major de la Marine nationale [CEMM], l’amiral Christophe Cluzel, explique que «notre temps est marqué par des cycles d’innovation de plus en plus rapides» et que la «supériorité opérationnelle reposera demain autant sur [la] capacité à...\nCet article Spécialiste de l’armement terrestre, KNDS s’associe à SeaOwl pour développer un drone de combat naval est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Drones navals : KNDS et SeaOwl dévoilent un engin armé capable de parcourir 200 km",
-      "link": "https://armees.com/drones-navals-knds-et-seaowl-devoilent-un-engin-arme-capable-de-parcourir-200-km/",
-      "pubDate": "2026-11-03T10:44:01.000Z",
-      "description": "Au salon Euronaval, le groupe franco-allemand KNDS et l'entreprise française SeaOwl annoncent un accord pour développer et expérimenter un drone de surface armé. Vitesse annoncée de 35 nœuds, charge utile de 30 kg et décision de tir réservée à un opérateur : le projet illustre l'accélération de la robotisation du combat naval.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Défense : avant le début d’Euronaval, Safran décroche trois contrats",
-      "link": "https://armees.com/safran-hrg-dissuasion-nucleaire-snle-missile-rafale/",
-      "pubDate": "2026-11-03T10:19:27.000Z",
-      "description": "Safran Electronics & Defense remporte trois contrats majeurs pour équiper les futurs SNLE de troisième génération, le missile M51.4 et les Rafale F4 avec sa technologie de gyroscope résonant hémisphérique (HRG). Annoncés avant Euronaval 2026, ces programmes unifient la triade nucléaire française autour d'une navigation inertielle commune, garantissant souveraineté technologique et précision stratégique.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un soldat russe reçoit deux lunettes pour piloter des drones : le FSB affirme y avoir découvert des explosifs cachés",
-      "link": "https://armees.com/un-soldat-russe-recoit-deux-lunettes-pour-piloter-des-drones-le-fsb-affirme-y-avoir-decouvert-des-explosifs-caches/",
-      "pubDate": "2026-11-03T09:20:18.000Z",
-      "description": "Les appareils avaient été fournis par une bénévole qui aidait les militaires russes. Leur examen aurait permis de découvrir plusieurs autres colis suspects, expédiés à travers le pays. M",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Gaz : 60 milliards de m³ perdus, l’Europe vulnérable jusqu’en 2027",
-      "link": "https://armees.com/detroit-ormuz-fermeture-securite-energetique-europe-2026/",
-      "pubDate": "2026-11-03T09:12:00.000Z",
-      "description": "L'AIE révèle que les stocks de gaz européens plafonnent à 75%, leur plus bas niveau depuis 2013. La fermeture du détroit d'Ormuz depuis février 2026 a privé l'Europe de plus de 60 milliards de mètres cubes de GNL en provenance du Qatar et des Émirats arabes unis, exposant le continent à une vulnérabilité stratégique majeure jusqu'en 2027.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Euronaval 2026 : KNDS et SeaOwl dévoilent un drone naval armé capable d’atteindre 200 km",
-      "link": "https://armees.com/euronaval-2026-knds-et-seaowl-devoilent-un-drone-naval-arme-capable-datteindre-200-km/",
-      "pubDate": "2026-11-03T08:46:20.000Z",
-      "description": "À Euronaval, KNDS et SeaOwl ont annoncé le 3 novembre un partenariat pour développer et expérimenter un drone de surface doté d'une charge militaire de 30 kg. Présenté avec une portée de combat pouvant atteindre 200 km, le système doit encore franchir les étapes de développement et d'essais.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : 1 100 militaires français en Pologne pour tester le déploiement d’une force multinationale",
-      "link": "https://armees.com/ukraine-1-100-militaires-francais-en-pologne-pour-tester-le-deploiement-dune-force-multinationale/",
-      "pubDate": "2026-11-03T08:36:06.000Z",
-      "description": "La force multinationale destinée à soutenir la sécurité de l’Ukraine prépare son premier exercice grandeur nature en Pologne. Sous pilotage franco-britannique, cette manœuvre doit tester la coordination des contingents avant tout éventuel déploiement après un cessez-le-feu.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Safran : 120 M€ pour tripler la production de gyroscopes stratégiques",
-      "link": "https://armees.com/safran-triade-nucleaire-snle-m51-rafale-2026/",
-      "pubDate": "2026-11-03T08:34:45.000Z",
-      "description": "Safran Electronics & Defense a été sélectionné le 2 novembre 2026 pour équiper les trois composantes de la dissuasion nucléaire française : SNLE de troisième génération, missile M51.4 et Rafale F4.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "«Ce météorite est vraiment unique» : la NASA étudie une roche martienne qui garde des preuves d’eau remontant à 4,1 milliards d’années",
-      "link": "https://armees.com/ce-meteorite-est-vraiment-unique-la-nasa-etudie-une-roche-martienne-qui-garde-des-preuves-deau-remontant-a-41-milliards-dannees/",
-      "pubDate": "2026-11-03T07:05:00.000Z",
-      "description": "Une roche de 800 grammes trouvée au Sahara révèle un secret vieux de 4,1 milliards d'années sur Mars. Son eau souterraine, sa croûte inédite : ce que cache Teghaza 001 va surprendre les scientifiques.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un avion de chasse Su-57 russe avancé explose sur un aérodrome, selon l’Ukraine",
-      "link": "https://armees.com/un-avion-de-chasse-su-57-russe-avance-explose-sur-un-aerodrome-selon-lukraine/",
-      "pubDate": "2026-11-03T06:35:00.000Z",
-      "description": "Un Su-57 à 150 millions de dollars qui explose au démarrage des moteurs : coïncidence ou symptôme d'un problème de carburant plus profond pour l'aviation russe ? Les détails de cette affaire interrogent.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Saab étend les capacités de sa vedette rapide de combat CB90 à la lutte antinavire et à la défense aérienne",
