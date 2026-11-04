@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T09:47:30.672Z",
+  "generatedAt": "2026-11-04T17:40:50.231Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "title": "Renault et John Cockerill dévoilent le drone terrestre polyvalent «Forefront Concept»",
+      "link": "https://www.opex360.com/2026/11/04/renault-et-john-cockerill-devoilent-le-drone-terrestre-polyvalent-forefront-concept/",
+      "pubDate": "2026-11-04T15:19:16.000Z",
+      "description": "D’abord hésitant, pour ne pas froisser une partie des syndicats, le groupe Renault s’investit de plus en plus dans le secteur de l’armement. Ainsi, depuis qu’il a accepté, à la demande de la Direction générale de l’armement [DGA], de s’impliquer dans le projet de drone d’attaque à longue distance «Chorus» au côté de Turgis Gaillard,...\nCet article Renault et John Cockerill dévoilent le drone terrestre polyvalent «Forefront Concept» est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Pourquoi les Émirats Arabes Unis investissent dans le futur chasseur français Rafale F5",
+      "link": "https://armees.com/rafale-f5-emirats-arabes-unis-financement-strategie/",
+      "pubDate": "2026-11-04T14:48:40.000Z",
+      "description": "Les Émirats Arabes Unis financent des composants clés du Rafale F5, standard français attendu en 2033. Au-delà du soutien budgétaire, Abou Dhabi sécurise son accès à une technologie de combat de pointe intégrant IA et combat collaboratif, tout en renforçant sa position stratégique dans le Golfe. Paris préserve sa souveraineté industrielle grâce à une architecture modulaire où Dassault Aviation garde le contrôle de l'architecture globale.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Victoire en vue dans les munitions téléopérées de moyenne portée",
+      "link": "https://forcesoperations.com/victoire-en-vue-dans-les-munitions-teleoperees-de-moyenne-portee/",
+      "pubDate": "2026-11-04T14:11:37.000Z",
+      "description": "Après THUNDART, Safran aurait à nouveau fait mouche les armées françaises en matière d'appui-feu. Le groupe français l'emporte cette fois sur les munitions téléopérées de moyenne portée, murmure-t-on dans les allées du salon Euronaval.\nThe post Victoire en vue dans les munitions téléopérées de moyenne portée appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "Euronaval 2026 : la Marine française accélère sa mutation en flotte autonome",
+      "link": "https://armees.com/marine-francaise-dronisation-2028-autonomie-navale/",
+      "pubDate": "2026-11-04T13:37:40.000Z",
+      "description": "Euronaval 2026 consacre la dronisation comme tendance majeure de la défense navale avec plus de 700 exposants (+ 45% vs 2024). La Marine nationale française accélère sa mutation vers une flotte autonome : intégration de drones aériens, de surface et sous-marins sur l'ensemble des bâtiments d'ici 2028, orchestrés par un système de combat basé sur l'intelligence artificielle et la fusion de données.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La Direction générale de l’armement a effectué un second tir de la fusée-sonde SyLEx avec succès",
+      "link": "https://www.opex360.com/2026/11/04/la-direction-generale-de-larmement-a-effectue-un-second-tir-de-la-fusee-sonde-sylex-avec-succes/",
+      "pubDate": "2026-11-04T10:56:05.000Z",
+      "description": "Pour réaliser le premier essai du planeur hypersonique V-MAX [pour Véhicule Manœuvrant Expérimental] depuis son centre de Biscarrosse, en juin 2023, la Direction générale de l’armement [DGA] avait dû solliciter le concours du Naval Surface Warfare Center, Port Hueneme Division [NSWC PHD] de la marine américaine pour disposer d’une fusée-sonde à trois étages dite «Terrier-Oriole-Oriole»....\nCet article La Direction générale de l’armement a effectué un second tir de la fusée-sonde SyLEx avec succès est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Sécurité maritime : l’Union européenne protège plus de 760 navires en mer Rouge, mais manque encore de moyens",
+      "link": "https://armees.com/ue-securite-maritime-rapport-3-novembre-2026-aspides/",
+      "pubDate": "2026-11-04T10:10:56.000Z",
+      "description": "Un rapport conjoint publié le 3 novembre dresse le bilan de la stratégie maritime européenne. Il souligne l’activité des missions navales face aux attaques et aux trafics, tout en reconnaissant un déficit de moyens navals et aériens.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un Su-57 russe aurait brûlé : pourquoi cette perte fragiliserait une flotte déjà très réduite",
+      "link": "https://armees.com/su-57-russe-incendie-impact-strategique-flotte-reduite/",
+      "pubDate": "2026-11-04T09:30:00.000Z",
+      "description": "Un chasseur furtif russe Su-57 aurait été détruit le 29 octobre 2026 sur la base d'Akhtoubinsk. Au-delà de l'incident technique, cette disparition potentielle intervient alors que la Russie ne dispose que d'un nombre limité d'appareils de cinquième génération. Un revers pour une aviation qui peine déjà à renouveler ses moyens les plus sophistiqués.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Renault fait la guerre, l’Europe paie l’addition russe",
       "link": "https://armees.com/renault-europe-guerre-adition-paie-russe/",
@@ -108,34 +157,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Israël : 3,8 milliards coupés, le Dôme de Fer en danger ?",
-      "link": "https://armees.com/aide-militaire-israel-systemes-armes-capacites-defensives/",
-      "pubDate": "2026-11-04T04:33:58.000Z",
-      "description": "Donald Trump annonce le 3 novembre 2026 la fin de l'aide militaire américaine de 3,8 milliards de dollars annuels à Israël, mettant en péril le financement de systèmes d'armes critiques. Au-delà des justifications économiques, cette décision soulève des questions stratégiques majeures : comment Israël maintiendra-t-il ses capacités défensives face aux menaces régionales sans ce soutien financier représentant 16% de son budget de défense ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Naval Group dévoile le SCX-26, un concept de navire de guerre pensé autour des drones",
-      "link": "https://armees.com/naval-group-scx26-concept-drones-euronaval-2026/",
-      "pubDate": "2026-11-04T03:00:00.000Z",
-      "description": "Présenté le 3 novembre au salon Euronaval, le SCX-26 illustre la place croissante des systèmes autonomes dans les marines militaires. Il s'agit d'un concept industriel, et non de l'annonce d'un bâtiment déjà commandé ou construit.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Naval Group affirme avoir accru de près de 50 % la valeur de sa production militaire navale en deux ans",
-      "link": "https://armees.com/naval-group-production-militaire-navale-hausse-50-pourcent-2026-2/",
-      "pubDate": "2026-11-04T01:20:00.000Z",
-      "description": "À l'ouverture du salon Euronaval, Naval Group fait état d'une hausse proche de 50 % de la valeur de sa production militaire navale sur deux ans. Cette progression déclarée concerne les navires et sous-marins, et ne doit pas être confondue avec une hausse équivalente du nombre d'unités livrées.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "PostgreSQL : l’ANSSI signale onze failles dans le pilote ODBC",
-      "link": "https://armees.com/postgresql-odbc-anssi-onze-vulnerabilites-certfr-20261104-0236/",
-      "pubDate": "2026-11-04T00:37:10.000Z",
-      "description": "Le CERT-FR a publié le 3 novembre un avis sur plusieurs vulnérabilités du pilote ODBC de PostgreSQL. La version 18.00.0006 corrige ces défauts, dont des risques d’injection SQL et de contournement des protections.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Naval Group dévoile le concept d’un navire de 8 000 tonnes, doté de plus de 100 missiles et d’un canon électromagnétique",
       "link": "https://www.opex360.com/2026/11/03/naval-group-devoile-le-concept-dun-navire-de-8-000-tonnes-dote-de-plus-de-100-missiles-et-dun-canon-electromagnetique/",
       "pubDate": "2026-11-03T18:22:17.000Z",
@@ -215,7 +236,7 @@
     {
       "title": "Dans les chantiers navals français, un nouvel âge d’or grâce aux commandes militaires",
       "link": "https://www.lemonde.fr/economie/article/2026/11/02/dans-les-chantiers-navals-francais-un-nouvel-age-d-or-grace-aux-commandes-militaires_6804984_3234.html",
-      "pubDate": "2026-11-02T05:30:10.000Z",
+      "pubDate": "2026-11-02T05:30:09.000Z",
       "description": "Alors qu’Euronaval, le plus grand salon naval de défense du monde, s’ouvre mardi à Villepinte (Seine-Saint-Denis), la filière hexagonale ne s’est jamais aussi bien portée. A tel point que les industriels ont dû revoir leur organisation pour répondre à l’envolée de la demande.",
       "sourceKey": "geo"
     },
@@ -225,20 +246,6 @@
       "pubDate": "2026-11-01T15:07:30.000Z",
       "description": "Sabotages, ingérences, survols de drones : face à la multiplication des opérations attribuées à Moscou, de plus en plus de responsables européens contestent l’emploi de l’expression « guerre hybride », jugée trop floue et bien commode pour justifier l’inaction.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "La Direction générale de l’armement lance un appel d’offres pour industrialiser son drone naval kamikaze «SMOKERS»",
-      "link": "https://www.opex360.com/2026/11/01/la-direction-generale-de-larmement-lance-un-appel-doffres-pour-industrialiser-son-drone-naval-kamikaze-smokers/",
-      "pubDate": "2026-11-01T12:17:52.000Z",
-      "description": "En avril 2025, la Marine nationale lança sa première munition navale téléopérée [ou drone naval «kamikaze»] contre la coque renforcée d’un chaland de transport de matériel [CTM] désarmé dans le cadre d’une expérimentation visant à développer de nouveaux concepts opérationnels, inspirés par les retours d’expérience [RETEX] de la guerre en Ukraine. Cette munition navale téléopérée...\nCet article La Direction générale de l’armement lance un appel d’offres pour industrialiser son drone naval kamikaze «SMOKERS» est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Un document confirme l’intérêt de la force aérienne italienne pour l’avion de transport A400M «Atlas» d’Airbus",
-      "link": "https://www.opex360.com/2026/11/01/un-document-confirme-linteret-de-la-force-aerienne-italienne-pour-lavion-de-transport-a400m-atlas-dairbus/",
-      "pubDate": "2026-11-01T12:14:40.000Z",
-      "description": "Ces derniers mois, le constructeur aéronautique brésilien Embraer a remporté plusieurs marchés en Europe avec son avion de transport militaire C-390 Millenium, parfois aux dépens de l’A400M Atlas d’Airbus. Cependant, ce dernier semble intéresser de plus en plus de pays européens, soucieux de remplacer leurs C-130 Hercules et/ou de renforcer leurs capacités de transport aérien...\nCet article Un document confirme l’intérêt de la force aérienne italienne pour l’avion de transport A400M «Atlas» d’Airbus est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Cédric Chetaille, contre-amiral : « Nous assistons à une forme de nouvelle “guerre des étoiles” sous-marine »",
@@ -351,13 +358,6 @@
       "pubDate": "2026-10-20T04:00:24.000Z",
       "description": "Portées par la demande due à la guerre en Ukraine, les usines slovaques de fabrication d’obus tournent à plein régime. Notamment celles du groupe tchèque CSG, devenu un colosse européen de l’industrie de la défense.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Une carapace anti-drones “maison” pour le VBCI",
-      "link": "https://forcesoperations.com/une-carapace-anti-drones-maison-pour-le-vbci/",
-      "pubDate": "2026-10-19T15:40:39.000Z",
-      "description": "La carapace du VBCI va se renforcer pour mieux résister aux drones armés et autres munitions téléopérées. L'équation privilégiée par l'unité derrière ce bouclier en phase de production, le 16e bataillon de chasseurs à pied (16e BCP) ? De la récup', de l'internalisation et un peu d'huile de coude. \nThe post Une carapace anti-drones “maison” pour le VBCI appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
     },
     {
       "title": "A Verdun, avec les premiers appelés du service national, nouveaux ambassadeurs de l’« esprit de défense »",
