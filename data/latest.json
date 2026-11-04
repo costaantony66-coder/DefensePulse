@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T22:10:15.118Z",
+  "generatedAt": "2026-11-04T02:22:41.847Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,27 @@
     }
   ],
   "items": [
+    {
+      "title": "Naval Group affirme avoir accru de près de 50 % la valeur de sa production militaire navale en deux ans",
+      "link": "https://armees.com/naval-group-production-militaire-navale-hausse-50-pourcent-2026-2/",
+      "pubDate": "2026-11-04T01:20:00.000Z",
+      "description": "À l'ouverture du salon Euronaval, Naval Group fait état d'une hausse proche de 50 % de la valeur de sa production militaire navale sur deux ans. Cette progression déclarée concerne les navires et sous-marins, et ne doit pas être confondue avec une hausse équivalente du nombre d'unités livrées.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Naval Group affirme avoir augmenté de près de 50 % sa production militaire navale en deux ans",
+      "link": "https://armees.com/naval-group-production-militaire-navale-hausse-50-pourcent-2026/",
+      "pubDate": "2026-11-04T00:00:00.000Z",
+      "description": "À l'occasion d'Euronaval, le constructeur français indique que la valeur de sa production militaire navale a progressé de près de moitié en deux ans. Cette accélération accompagne le réarmement des flottes, mais ne signifie pas que le nombre de navires livrés a augmenté dans les mêmes proportions.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "GLPI : trois nouvelles failles touchent les droits des utilisateurs et les tableaux de bord",
+      "link": "https://armees.com/glpi-trois-failles-droits-utilisateurs-xss-certfr-20261103-2339/",
+      "pubDate": "2026-11-03T21:40:11.000Z",
+      "description": "Le CERT-FR a signalé le 3 novembre trois vulnérabilités de GLPI, après la publication des bulletins techniques de l’éditeur le 2 novembre. Les défauts concernent notamment la gestion des privilèges et un script intersites ; les administrateurs doivent contrôler les versions et les correctifs.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Naval Group dévoile le concept d’un navire de 8 000 tonnes, doté de plus de 100 missiles et d’un canon électromagnétique",
       "link": "https://www.opex360.com/2026/11/03/naval-group-devoile-le-concept-dun-navire-de-8-000-tonnes-dote-de-plus-de-100-missiles-et-dun-canon-electromagnetique/",
@@ -147,27 +168,6 @@
       "link": "https://armees.com/un-avion-de-chasse-su-57-russe-avance-explose-sur-un-aerodrome-selon-lukraine/",
       "pubDate": "2026-11-03T06:35:00.000Z",
       "description": "Un Su-57 à 150 millions de dollars qui explose au démarrage des moteurs : coïncidence ou symptôme d'un problème de carburant plus profond pour l'aviation russe ? Les détails de cette affaire interrogent.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Nvidia, la Chine et notre souveraineté technologique militaire",
-      "link": "https://armees.com/nvidia-chine-souverainete-technologique-notre-militaire/",
-      "pubDate": "2026-11-03T06:22:42.000Z",
-      "description": "Nvidia ordonne à ses clients cloud de réduire leur exposition chinoise. Derrière l’anecdote commerciale se cache une réalité stratégique que la France refuse encore de regarder en face : notre ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La DGA reçoit le Rafale B374 pour les essais du standard F5",
-      "link": "https://armees.com/rafale-b374-dga-essais-vol-souverainete-aeronavale/",
-      "pubDate": "2026-11-03T06:18:00.000Z",
-      "description": "La Direction générale de l'armement a réceptionné le 2 novembre 2026 le Rafale B374, son premier avion banc d'essais affecté en propre. Dernier appareil de la quatrième tranche de production, il sera transformé jusqu'en 2028 pour devenir le laboratoire volant du futur Rafale F5, testant notamment le radar RBE2 XG de nouvelle génération.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Safran va guider les missiles nucléaires français sans GPS : cette technologie de navigation que même un brouillage ennemi ne peut tromper",
-      "link": "https://armees.com/safran-va-guider-les-missiles-nucleaires-francais-sans-gps-cette-technologie-de-navigation-que-meme-un-brouillage-ennemi-ne-peut-tromper/",
-      "pubDate": "2026-11-03T06:05:10.000Z",
-      "description": "Sans GPS, sans signal, sans la moindre faille : comment Safran guide sous-marins, missiles et Rafale nucléaires français avec une précision redoutable ? 120 millions d'euros investis, 30 000 gyroscopes visés d'ici 2032.",
       "sourceKey": "armees_com"
     },
     {
