@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T23:04:06.754Z",
+  "generatedAt": "2026-11-05T03:30:47.541Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "title": "La France lance un pacte pour accélérer le développement des drones navals militaires",
+      "link": "https://armees.com/pacte-drones-navals-defense-france-4-novembre-2026/",
+      "pubDate": "2026-11-05T02:15:13.000Z",
+      "description": "Le ministère des Armées a annoncé le 4 novembre 2026 le lancement d’un pacte consacré aux drones navals de défense. Cette initiative intervient pendant le salon Euronaval et accompagne la montée en puissance des systèmes sans équipage dans les opérations maritimes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Symfony : neuf avis de sécurité et de nouveaux correctifs signalés par le CERT-FR",
+      "link": "https://armees.com/symfony-cert-fr-neuf-avis-correctifs-20261105-0236/",
+      "pubDate": "2026-11-05T00:36:36.000Z",
+      "description": "Le CERT-FR a publié le 4 novembre un avis sur plusieurs vulnérabilités affectant des composants du framework PHP Symfony. Les risques recensés comprennent le déni de service, la divulgation de données et le contournement de protections ; les administrateurs doivent vérifier précisément les versions déployées.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cybersécurité : le CERT-FR alerte sur plusieurs failles dans les produits Elastic",
+      "link": "https://armees.com/cert-fr-elastic-vulnerabilites-avis-1461-novembre-2026-0033/",
+      "pubDate": "2026-11-04T22:34:02.000Z",
+      "description": "Le CERT-FR a publié le 4 novembre 2026 un avis concernant plusieurs vulnérabilités dans l'écosystème Elastic. Exécution de code à distance, confidentialité des données et disponibilité des services figurent parmi les risques recensés pour les versions affectées.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un seul tir de torpille : le sous-marin espagnol Isaac Peral coule un ancien patrouilleur",
+      "link": "https://armees.com/sous-marin-isaac-peral-torpille-infanta-elena-sinkex-26/",
+      "pubDate": "2026-11-04T22:20:00.000Z",
+      "description": "La marine espagnole a annoncé le 4 novembre la destruction d'un bâtiment désarmé pendant l'exercice SINKEX 26 dans l'Atlantique. Ce tir réel constitue une démonstration opérationnelle pour l'Isaac Peral, premier sous-marin de la nouvelle classe S-80.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Un seul torpille suffit au sous-marin espagnol Isaac Peral pour couler un ancien patrouilleur",
       "link": "https://armees.com/isaac-peral-s81-torpille-infanta-elena-sinkex-26/",
@@ -140,34 +168,6 @@
       "link": "https://armees.com/deficit-francaise-defense-survivre-austerite/",
       "pubDate": "2026-11-04T08:51:15.000Z",
       "description": "Le déficit français file vers 5,7 % du PIB. La machine productive est à l’arrêt. Et pendant ce temps, la Loi de Programmation Militaire engage 413 milliards d’euros jusqu’en 2030. ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Renault Forefront Concept : pilier de la robotisation militaire française",
-      "link": "https://armees.com/pendragon-2027-robotique-combat-armee-terre/",
-      "pubDate": "2026-11-04T08:43:21.000Z",
-      "description": "L'armée de Terre française évalue actuellement le Renault Forefront Concept, drone terrestre électrique téléopéré développé avec John Cockerill. Intégré au programme Pendragon, ce démonstrateur de 400 kilomètres d'autonomie préfigure la création d'une unité robotique de combat en 2027, transformant les tactiques militaires françaises.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Don du sang : quand les pirates informatiques menacent la souveraineté sanitaire",
-      "link": "https://armees.com/infrastructure-critique-piratage-sang-defense-france/",
-      "pubDate": "2026-11-04T08:31:53.000Z",
-      "description": "Dans la nuit du 1er au 2 novembre 2026, des pirates ont tenté de détruire des réserves stratégiques de don du sang en reprogrammant les chambres froides de l'EFS à 110°C au lieu de -30°C. Révélée par Le Canard enchaîné, l'attaque contre le prestataire Coolworld illustre une mutation des cybermenaces : les adversaires sabotent désormais les infrastructures vitales plutôt que de voler des données. Un incident qui interroge la souveraineté sanitaire française et la résilience de ses systèmes critiques face aux menaces hybrides.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Pyongyang renforce son arsenal tout en claquant la porte à Trump",
-      "link": "https://armees.com/coree-nord-nouveaux-missiles-dissuasion-2026/",
-      "pubDate": "2026-11-04T08:04:30.000Z",
-      "description": "Kim Yo Jong, sœur du dirigeant nord-coréen, a fermé la porte au dialogue avec Washington ce 4 novembre 2026, qualifiant les États-Unis d'« hostiles » et de « peu fiables ». Parallèlement, la Corée du Nord multiplie les essais d'armements stratégiques : missiles de croisière à ogives dispersantes, drones d'attaque, torpilles guidées et navire de guerre aux capacités inédites. Une escalade militaire qui redéfinit l'équilibre des forces en Asie du Nord-Est.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Pourquoi les forces aériennes américaines et canadiennes se déploient sur les îles Aléoutiennes : un exercice inédit qui envoie un signal direct à la Russie et à la Chine",
-      "link": "https://armees.com/pourquoi-les-forces-aeriennes-americaines-et-canadiennes-se-deploient-sur-les-iles-aleoutiennes-un-exercice-inedit-qui-envoie-un-signal-direct-a-la-russie-et-a-la-chine/",
-      "pubDate": "2026-11-04T06:35:19.000Z",
-      "description": "Première depuis les années 90 : des F-16 américains ont redécollé d'une base « austère » des Aléoutiennes. Pendant huit jours, Washington et Ottawa ont testé leur capacité à défendre l'Amérique du Nord face aux patrouilles russes et chinoises repérées dans le secteur.",
       "sourceKey": "armees_com"
     },
     {
