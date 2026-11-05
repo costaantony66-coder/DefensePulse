@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T11:27:32.485Z",
+  "generatedAt": "2026-11-05T18:56:21.365Z",
   "sources": [
     {
       "key": "opex",
@@ -24,18 +24,74 @@
   ],
   "items": [
     {
+      "title": "La France va-t-elle finalement maintenir sa participation au projet de corvette européenne ?",
+      "link": "https://www.opex360.com/2026/11/05/la-france-va-t-elle-finalement-maintenir-sa-participation-au-projet-de-corvette-europeenne/",
+      "pubDate": "2026-11-05T18:42:08.000Z",
+      "description": "La France va-t-elle finalement maintenir sa participation au projet de corvette européenne [EPC, encore appelé Multi Modular Patrol Corvette – MMPC], qu’elle a lancé, en 2019, avec l’Italie et la Grèce dans le cadre de la Coopération structurée permanente [CSP ou PESCO] afin de bénéficier de financements européens ? Rejoint, depuis, par l’Espagne et la...\nCet article La France va-t-elle finalement maintenir sa participation au projet de corvette européenne ? est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "La DGA notifie à Naval Group et à MBDA un contrat pour doubler la puissance de feu des frégates de défense et d’intervention",
+      "link": "https://www.opex360.com/2026/11/05/la-dga-notifie-a-naval-group-et-a-mbda-un-contrat-pour-doubler-la-puissance-de-feu-des-fregates-de-defense-et-dintervention/",
+      "pubDate": "2026-11-05T17:35:08.000Z",
+      "description": "«Le cordonnier est le plus mal chaussé», dit un dicton. Et cela s’est vérifié avec les Frégates de défense et d’intervention [FDI ou classe «Ronarc’h»]. En effet, avec trente-deux missiles surface-air Aster 30 B1, de deux triples lance-torpilles pour MU-90 et un système antiaérien à courte portée RAM [Rolling Airframe Missile], le modèle commandé par...\nCet article La DGA notifie à Naval Group et à MBDA un contrat pour doubler la puissance de feu des frégates de défense et d’intervention est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Le ministère des Armées va notifier un accord-cadre à MBDA pour acquérir davantage de missiles mer-mer Exocet",
+      "link": "https://www.opex360.com/2026/11/05/le-ministere-des-armees-va-notifier-un-accord-cadre-a-mbda-pour-acquerir-davantage-de-missiles-mer-mer-exocet/",
+      "pubDate": "2026-11-05T15:39:04.000Z",
+      "description": "La Loi de programmation militaire [LPM] 2019-25 avait prévu de doter la Marine nationale de 55 exemplaires de la dernière évolution du missile antisurface Exocet, appelée MM40 B3C. Seulement, en raison des conséquences de la pandémie de covid-19 sur les capacités industrielles de leur fabricant, à savoir MBDA France, les huit premières unités ne furent...\nCet article Le ministère des Armées va notifier un accord-cadre à MBDA pour acquérir davantage de missiles mer-mer Exocet est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Le CNRS coupe les ponts avec Microsoft : 50 000 boîtes mail rapatriées",
+      "link": "https://armees.com/souverainete-numerique-cnrs-sortie-gafam-france/",
+      "pubDate": "2026-11-05T14:30:00.000Z",
+      "description": "Le CNRS vient de franchir un cap stratégique en migrant ses 50 000 boîtes mail de Microsoft Exchange vers PARTAGE, une plateforme française opérée par RENATER et basée sur le logiciel libre Zimbra. Cette décision, qui concerne 35 000 agents, renforce la souveraineté numérique française avec un hébergement 100% national et génère 3,5 millions d'euros d'économies annuelles.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ce que l’on sait des alertes à la bombe qui ont perturbé le trafic aérien en Europe",
+      "link": "https://www.lemonde.fr/international/article/2026/11/05/ce-que-l-on-sait-des-alertes-a-la-bombe-qui-ont-perturbe-le-trafic-aerien-en-europe_6806848_3211.html",
+      "pubDate": "2026-11-05T14:29:47.000Z",
+      "description": "A midi jeudi, douze vols avaient été visés par des alertes à la bombe, ont signalé plusieurs autorités et compagnies. Tous les vols se sont posés en sécurité, ont-elles confirmé.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Israël : la crise de la conscription ultra-orthodoxe fragilise Tsahal",
+      "link": "https://armees.com/conscription-israel-idf-effectifs-enjeu-defense/",
+      "pubDate": "2026-11-05T13:58:16.000Z",
+      "description": "Le refus du Judaïsme unifié de la Torah de recommander Benjamin Netanyahu pour former le gouvernement marque une rupture historique après trente ans d'alliance. Au cœur du différend : l'échec à légaliser l'exemption de conscription militaire pour les étudiants religieux ultra-orthodoxes. Cette crise politique fragilise directement les effectifs des forces de défense israéliennes, engagées sur plusieurs fronts simultanés.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Rheinmetall chute en Bourse : le réarmement européen confronté à la réalité des délais militaires",
+      "link": "https://armees.com/rheinmetall-chute-en-bourse-le-rearmement-europeen-confronte-a-la-realite-des-delais-militaires/",
+      "pubDate": "2026-11-05T12:01:08.000Z",
+      "description": "Les difficultés de Rheinmetall éclairent également une faiblesse structurelle de l'effort européen : l'absence de synchronisation complète entre les stratégies nationales d'équipement.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Le ministère des Armées loue deux navires civils pour doter la Marine nationale d’une capacité hauturière de guerre des mines",
+      "link": "https://www.opex360.com/2026/11/05/le-ministere-des-armees-loue-deux-navires-civils-pour-doter-la-marine-nationale-dune-capacite-hauturiere-de-guerre-des-mines/",
+      "pubDate": "2026-11-05T11:44:49.000Z",
+      "description": "En 2016, la Belgique et les Pays-Bas notifièrent à un groupement formé par Naval Group et ECA Robotics [devenu Exail] le marché relatif au développement d’une future capacité de guerre des mines, celle-ci devant reposer sur douze nouveaux chasseurs de mines de type «rMCM» [ou classe City] ainsi que sur des drones navals. Il s’agissait...\nCet article Le ministère des Armées loue deux navires civils pour doter la Marine nationale d’une capacité hauturière de guerre des mines est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Alertes à la bombe en Europe : au moins 16 vols perturbés ce jeudi 5 novembre",
+      "link": "https://armees.com/alertes-bombe-europe-16-vols-perturbes-5-novembre-2026/",
+      "pubDate": "2026-11-05T11:18:30.000Z",
+      "description": "Au moins 16 vols européens ont été concernés par des alertes à la bombe ce jeudi 5 novembre 2026 à 13 heures. Déroutements, escortes militaires et contrôles ont été déclenchés, notamment à Évreux.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Cyberattaques prorusses contre les frigos : la guerre hybride expose les failles de la défense européenne",
       "link": "https://armees.com/cyberattaques-prorusses-contre-les-frigos-la-guerre-hybride-expose-les-failles-de-la-defense-europeenne/",
       "pubDate": "2026-11-05T10:23:00.000Z",
       "description": "NoName057(16) et Z-Pentest revendiquent les cyberattaques contre les installations frigorifiques européennes. Derrière ces opérations présumées se dessine une vulnérabilité préoccupante : des équipements civils exposés peuvent perturber les approvisionnements et certains services de santé.",
       "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un A320 reliant Dublin à Rome s’est « posé en sécurité » à Evreux après une alerte à la bombe, des incidents similaires se succèdent en Europe",
-      "link": "https://www.lemonde.fr/international/article/2026/11/05/alertes-a-la-bombe-un-a320-reliant-dublin-a-rome-s-est-pose-en-securite-a-evreux-des-incidents-similaires-se-succedent-en-europe_6806848_3210.html",
-      "pubDate": "2026-11-05T10:17:01.000Z",
-      "description": "Deux alertes à la bombe ont visé jeudi deux autres vols différents, le premier de Finnair reliant Helsinki à Rome et le second de Wizz Air reliant Milan à Varsovie, et dérouté sur Vienne, a annoncé l’agence de presse italienne Ansa.",
-      "sourceKey": "geo"
     },
     {
       "title": "Commissaires des armées : les inscriptions aux concours 2027 sont ouvertes, avec deux calendriers distincts",
@@ -115,38 +171,10 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Symfony : neuf avis de sécurité et de nouveaux correctifs signalés par le CERT-FR",
-      "link": "https://armees.com/symfony-cert-fr-neuf-avis-correctifs-20261105-0236/",
-      "pubDate": "2026-11-05T00:36:36.000Z",
-      "description": "Le CERT-FR a publié le 4 novembre un avis sur plusieurs vulnérabilités affectant des composants du framework PHP Symfony. Les risques recensés comprennent le déni de service, la divulgation de données et le contournement de protections ; les administrateurs doivent vérifier précisément les versions déployées.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cybersécurité : le CERT-FR alerte sur plusieurs failles dans les produits Elastic",
-      "link": "https://armees.com/cert-fr-elastic-vulnerabilites-avis-1461-novembre-2026-0033/",
-      "pubDate": "2026-11-04T22:34:02.000Z",
-      "description": "Le CERT-FR a publié le 4 novembre 2026 un avis concernant plusieurs vulnérabilités dans l'écosystème Elastic. Exécution de code à distance, confidentialité des données et disponibilité des services figurent parmi les risques recensés pour les versions affectées.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un seul tir de torpille : le sous-marin espagnol Isaac Peral coule un ancien patrouilleur",
-      "link": "https://armees.com/sous-marin-isaac-peral-torpille-infanta-elena-sinkex-26/",
-      "pubDate": "2026-11-04T22:20:00.000Z",
-      "description": "La marine espagnole a annoncé le 4 novembre la destruction d'un bâtiment désarmé pendant l'exercice SINKEX 26 dans l'Atlantique. Ce tir réel constitue une démonstration opérationnelle pour l'Isaac Peral, premier sous-marin de la nouvelle classe S-80.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un seul torpille suffit au sous-marin espagnol Isaac Peral pour couler un ancien patrouilleur",
-      "link": "https://armees.com/isaac-peral-s81-torpille-infanta-elena-sinkex-26/",
-      "pubDate": "2026-11-04T21:20:00.000Z",
-      "description": "La marine espagnole a annoncé le 4 novembre avoir coulé l'ancien patrouilleur Infanta Elena avec un torpille tirée par son sous-marin S-81 Isaac Peral. Cet exercice à munitions réelles visait à éprouver ses systèmes de combat et sa coordination avec d'autres unités.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le ministère des Armées lance la réalisation d’un démonstrateur du drone sous-marin de combat UCUV",
       "link": "https://www.opex360.com/2026/11/04/le-ministere-des-armees-lance-la-realisation-dun-demonstrateur-du-drone-sous-marin-de-combat-ucuv/",
       "pubDate": "2026-11-04T18:41:43.000Z",
-      "description": "Le projet de doter la Marine nationale d’une drone sous-marin armé est déjà assez ancien puisqu’il figurait dans le document de référence de l’orientation de l’innovation de défense [DrOID] publié en 2022 par l’Agence de l’innovation de défense [AID]. En effet, selon ce dernier, il était en effet question de lancer des travaux sur «démonstrateur...\nCet article Le ministère des Armées lance la réalisation d’un démonstrateur du drone sous-marin de combat UCUV est apparu en premier sur Zone Militaire.",
+      "description": "Le projet de doter la Marine nationale d’un drone sous-marin armé est déjà assez ancien puisqu’il figurait dans le document de référence de l’orientation de l’innovation de défense [DrOID] publié en 2022 par l’Agence de l’innovation de défense [AID]. En effet, selon ce dernier, il était question de lancer des travaux sur un «démonstrateur de...\nCet article Le ministère des Armées lance la réalisation d’un démonstrateur du drone sous-marin de combat UCUV est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -197,34 +225,6 @@
       "pubDate": "2026-11-03T16:45:07.000Z",
       "description": "Déjà engagé dans deux projets de drones aériens, le constructeur automobile s’associe au groupe de blindés belge John Cockerill pour produire un robot terrestre.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Des avions A-4 Skyhawk seront mis en œuvre pour assurer la préparation opérationnelle des pilotes militaires français",
-      "link": "https://www.opex360.com/2026/11/03/des-avions-a4-skyhawk-preparation-operationnelle-des-pilotes-militaires-francais/",
-      "pubDate": "2026-11-03T15:40:29.000Z",
-      "description": "Lors d’une audition au Sénat, en novembre 2022, le général Stéphane Mille, alors chef d’état-major de l’armée de l’Air & de l’Espace [CEMAAE] avait dit envisager de recourir à des prestataires privés pour la préparation opérationnelle des équipages de l’aviation de combat, cette fonction, dite Red Air [ou «force adverse»] étant assurée par l’escadron d’entraînement...\nCet article Des avions A-4 Skyhawk seront mis en œuvre pour assurer la préparation opérationnelle des pilotes militaires français est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Spécialiste de l’armement terrestre, KNDS s’associe à SeaOwl pour développer un drone de combat naval",
-      "link": "https://www.opex360.com/2026/11/03/specialiste-de-larmement-terrestre-knds-sassocie-a-seaowl-pour-developper-un-drone-de-combat-naval/",
-      "pubDate": "2026-11-03T11:50:35.000Z",
-      "description": "Dans un fascicule publié par le ministère des Armées à l’occasion de l’édition 2026 du salon Euronaval, le chef d’état-major de la Marine nationale [CEMM], l’amiral Christophe Cluzel, explique que «notre temps est marqué par des cycles d’innovation de plus en plus rapides» et que la «supériorité opérationnelle reposera demain autant sur [la] capacité à...\nCet article Spécialiste de l’armement terrestre, KNDS s’associe à SeaOwl pour développer un drone de combat naval est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Saab étend les capacités de sa vedette rapide de combat CB90 à la lutte antinavire et à la défense aérienne",
-      "link": "https://www.opex360.com/2026/11/02/saab-etend-les-capacites-de-sa-vedette-rapide-de-combat-cb90-a-la-lutte-antinavire-et-a-la-defense-aerienne/",
-      "pubDate": "2026-11-02T18:32:01.000Z",
-      "description": "Initialement, la vedette CB90, proposée par le groupe suédois Saab, a été conçue pour transporter rapidement un demi-peloton d’infanterie de marine [soit dix-huit combattants] vers une plage de débarquement et, accessoirement, pour des missions de surveillance. Affichant un déplacement de 24,5 tonnes à pleine charge, la CB90 est dotée de deux moteurs diesel Scania de...\nCet article Saab étend les capacités de sa vedette rapide de combat CB90 à la lutte antinavire et à la défense aérienne est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Une filiale du groupe français Thales va livrer des modules de lutte contre les mines à la marine américaine",
-      "link": "https://www.opex360.com/2026/11/02/une-filiale-du-groupe-francais-thales-va-livrer-des-modules-de-lutte-contre-les-mines-a-la-marine-americaine/",
-      "pubDate": "2026-11-02T17:03:02.000Z",
-      "description": "Avec ses sonars [CAPTAS, SAMDIS, etc.], ses bouées acoustiques, ses solutions dronisées et ses systèmes de mission dopés à l’intelligence artificielle, la réputation de Thales dans les domaines de lutte anti-sous-marine et de la guerre des mines n’est plus à faire. Et elle ne pourra qu’être renforcée si le groupe parvient à prendre le contrôle...\nCet article Une filiale du groupe français Thales va livrer des modules de lutte contre les mines à la marine américaine est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Un accord-cadre et de la visibilité pour le VL MICA de MBDA",
