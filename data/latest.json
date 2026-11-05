@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T18:56:21.365Z",
+  "generatedAt": "2026-11-05T23:55:59.669Z",
   "sources": [
     {
       "key": "opex",
@@ -24,6 +24,20 @@
   ],
   "items": [
     {
+      "title": "Cyberespionnage : ce que le bilan 2025 de l’ANSSI révèle pour la défense",
+      "link": "https://armees.com/cyberespionnage-anssi-defense-mesures-2026-11-05-2155/",
+      "pubDate": "2026-11-05T20:02:32.000Z",
+      "description": "Espionnage numérique, accès distants, sous-traitance : les enseignements du panorama ANSSI publié en mars 2026 et les mesures concrètes pour les organisations sensibles.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’Italie prépare une nouvelle aide militaire à l’Ukraine, avec les missiles Aster en question",
+      "link": "https://armees.com/italie-aide-militaire-ukraine-aster-novembre-2026/",
+      "pubDate": "2026-11-05T20:00:00.000Z",
+      "description": "Rome prépare son treizième paquet d’aide militaire à Kiev, le premier annoncé cette année. Son contenu reste classifié, mais la défense antiaérienne et la reconduction du soutien italien après décembre sont au centre des discussions.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "La France va-t-elle finalement maintenir sa participation au projet de corvette européenne ?",
       "link": "https://www.opex360.com/2026/11/05/la-france-va-t-elle-finalement-maintenir-sa-participation-au-projet-de-corvette-europeenne/",
       "pubDate": "2026-11-05T18:42:08.000Z",
@@ -31,11 +45,25 @@
       "sourceKey": "opex"
     },
     {
+      "title": "Rheinmetall revoit ses ambitions à la baisse malgré des résultats records : les blindés Boxer au cœur du retard",
+      "link": "https://armees.com/rheinmetall-previsions-2026-retards-boxer-arminius-5-novembre/",
+      "pubDate": "2026-11-05T18:00:00.000Z",
+      "description": "Le groupe allemand a abaissé sa prévision de chiffre d’affaires 2026 à 13,2 milliards d’euros, malgré une forte progression de ses ventes et bénéfices sur neuf mois. Le report du programme Arminius de la Bundeswehr et des livraisons de munitions révèle le décalage entre budgets militaires et commandes exécutées.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "La DGA notifie à Naval Group et à MBDA un contrat pour doubler la puissance de feu des frégates de défense et d’intervention",
       "link": "https://www.opex360.com/2026/11/05/la-dga-notifie-a-naval-group-et-a-mbda-un-contrat-pour-doubler-la-puissance-de-feu-des-fregates-de-defense-et-dintervention/",
       "pubDate": "2026-11-05T17:35:08.000Z",
       "description": "«Le cordonnier est le plus mal chaussé», dit un dicton. Et cela s’est vérifié avec les Frégates de défense et d’intervention [FDI ou classe «Ronarc’h»]. En effet, avec trente-deux missiles surface-air Aster 30 B1, de deux triples lance-torpilles pour MU-90 et un système antiaérien à courte portée RAM [Rolling Airframe Missile], le modèle commandé par...\nCet article La DGA notifie à Naval Group et à MBDA un contrat pour doubler la puissance de feu des frégates de défense et d’intervention est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Cyberespionnage : cinq protections prioritaires pour les acteurs sensibles",
+      "link": "https://armees.com/cyberespionnage-cinq-protections-acteurs-sensibles-2026-11-05-1855/",
+      "pubDate": "2026-11-05T16:52:49.000Z",
+      "description": "Face aux risques de cyberespionnage, les recommandations officielles de l’ANSSI permettent de hiérarchiser les protections des entreprises et organisations sensibles.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Le ministère des Armées va notifier un accord-cadre à MBDA pour acquérir davantage de missiles mer-mer Exocet",
@@ -140,34 +168,6 @@
       "link": "https://armees.com/au-maroc-un-fossile-de-773-000-ans-revolutionne-lhistoire-des-debuts-de-lhumanite/",
       "pubDate": "2026-11-05T06:35:48.000Z",
       "description": "Au Maroc, des mâchoires vieilles de 773 000 ans viennent combler un vide de 500 000 ans dans l'histoire humaine. Ces fossiles appartiendraient-ils à l'ancêtre commun mystérieux de Sapiens, Néandertal et Denisova ? Les scientifiques hésitent encore.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Réactions des leaders politiques mondiaux face à la victoire des démocrates aux élections de mi-mandat aux États-Unis",
-      "link": "https://armees.com/reactions-des-leaders-politiques-mondiaux-face-a-la-victoire-des-democrates-aux-elections-de-mi-mandat-aux-etats-unis/",
-      "pubDate": "2026-11-05T06:05:12.000Z",
-      "description": "Du Kremlin à Téhéran, de Paris à Pékin, chaque capitale y va de sa lecture. Entre satisfaction, prudence et menaces à peine voilées, les réactions mondiales dévoilent déjà les tensions à venir pour Trump.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Budget des armées : 701 millions d’euros de surcoûts opérationnels dans le collectif de fin 2026",
-      "link": "https://armees.com/armees-surcouts-operationnels-701-millions-plfg-2026-20261105-0640/",
-      "pubDate": "2026-11-05T04:40:56.000Z",
-      "description": "Le gouvernement chiffre à 701 millions d’euros les surcoûts opérationnels supportés par les armées en 2026. Le projet de loi de finances de fin de gestion présenté le 4 novembre prévoit des ajustements de crédits pour y répondre, sous réserve de son examen parlementaire.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Manifestations du 5 novembre : 70 000 policiers et gendarmes mobilisés, des parcours encadrés",
-      "link": "https://armees.com/manifestations-5-novembre-2026-dispositif-securite-70000-policiers-gendarmes/",
-      "pubDate": "2026-11-05T04:22:35.000Z",
-      "description": "Pour les manifestations du 5 novembre 2026, Laurent Nuñez reconduit un dispositif national de 70 000 policiers et gendarmes, avec 110 unités mobiles, des blindés et des moyens spécialisés. À Paris, Toulouse, dans le Gard et en Seine-et-Marne, les décisions locales précisent les restrictions.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La France lance un pacte pour accélérer le développement des drones navals militaires",
-      "link": "https://armees.com/pacte-drones-navals-defense-france-4-novembre-2026/",
-      "pubDate": "2026-11-05T02:15:13.000Z",
-      "description": "Le ministère des Armées a annoncé le 4 novembre 2026 le lancement d’un pacte consacré aux drones navals de défense. Cette initiative intervient pendant le salon Euronaval et accompagne la montée en puissance des systèmes sans équipage dans les opérations maritimes.",
       "sourceKey": "armees_com"
     },
     {
