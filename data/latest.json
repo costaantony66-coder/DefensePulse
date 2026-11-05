@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T03:30:47.541Z",
+  "generatedAt": "2026-11-05T11:27:32.485Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,90 @@
     }
   ],
   "items": [
+    {
+      "title": "Cyberattaques prorusses contre les frigos : la guerre hybride expose les failles de la défense européenne",
+      "link": "https://armees.com/cyberattaques-prorusses-contre-les-frigos-la-guerre-hybride-expose-les-failles-de-la-defense-europeenne/",
+      "pubDate": "2026-11-05T10:23:00.000Z",
+      "description": "NoName057(16) et Z-Pentest revendiquent les cyberattaques contre les installations frigorifiques européennes. Derrière ces opérations présumées se dessine une vulnérabilité préoccupante : des équipements civils exposés peuvent perturber les approvisionnements et certains services de santé.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un A320 reliant Dublin à Rome s’est « posé en sécurité » à Evreux après une alerte à la bombe, des incidents similaires se succèdent en Europe",
+      "link": "https://www.lemonde.fr/international/article/2026/11/05/alertes-a-la-bombe-un-a320-reliant-dublin-a-rome-s-est-pose-en-securite-a-evreux-des-incidents-similaires-se-succedent-en-europe_6806848_3210.html",
+      "pubDate": "2026-11-05T10:17:01.000Z",
+      "description": "Deux alertes à la bombe ont visé jeudi deux autres vols différents, le premier de Finnair reliant Helsinki à Rome et le second de Wizz Air reliant Milan à Varsovie, et dérouté sur Vienne, a annoncé l’agence de presse italienne Ansa.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Commissaires des armées : les inscriptions aux concours 2027 sont ouvertes, avec deux calendriers distincts",
+      "link": "https://armees.com/concours-commissaires-armees-2027-inscriptions-calendrier-novembre-2026/",
+      "pubDate": "2026-11-05T10:09:34.000Z",
+      "description": "Les candidatures aux concours externes de commissaire des armées ont ouvert le 4 novembre 2026. Les dates limites diffèrent selon que les candidats présentent le concours sur épreuves ou sur titres, et les étapes de sélection ne se déroulent pas aux mêmes périodes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Alerte à la bombe : un Airbus A320 dérouté vers une base militaire française, l’armée de l’Air concernée",
+      "link": "https://armees.com/alerte-bombe-airbus-a320-base-aerienne-evreux-5-novembre-2026/",
+      "pubDate": "2026-11-05T09:19:00.000Z",
+      "description": "Un avion de ligne reliant Dublin à Rome a été dérouté vers la base aérienne d'Évreux ce jeudi 5 novembre 2026 après une alerte à la bombe. L'appareil, qui transportait des passagers au-dessus de la France, a déclaré une urgence en plein vol. Une situation préoccupante quelques jours après une série de menaces similaires en Europe.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Corée du Sud : extension de la mission Cheonghae à Ormuz pour contrer la menace des mines",
+      "link": "https://armees.com/coree-du-sud-cheonghae-extension-de-la-mission/",
+      "pubDate": "2026-11-05T09:16:10.000Z",
+      "description": "La Corée du Sud étend sa mission antipiraterie Cheonghae jusqu'au détroit d'Ormuz, déployant un P-8 Poseidon, des équipes de déminage, des drones navals et des robots sous-marins. L'annonce du 5 novembre 2026 intervient après l'incendie de trois navires dans le détroit. Séoul maintient une posture non combattante tout en protégeant ses intérêts commerciaux face à la menace des mines et des drones adverses.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "SonicWall GMS : l’ANSSI signale deux failles dans un logiciel qui ne sera plus corrigé",
+      "link": "https://armees.com/sonicwall-gms-fin-vie-failles-anssi-20261105-1036/",
+      "pubDate": "2026-11-05T08:34:30.000Z",
+      "description": "Le CERT-FR a publié le 4 novembre un avis sur deux vulnérabilités de SonicWall Global Management System (GMS), touchant les versions 9.5.2 et antérieures. Le logiciel étant en fin de vie, l’éditeur n’annonce plus de correctifs de sécurité pour cette gamme : les organisations utilisatrices doivent réexaminer leur exposition et leur stratégie de remplacement.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ils ont pu voir sous le sable du Sahara, les premières images dévoilent un monde disparu avec ses rivières et ses lacs",
+      "link": "https://armees.com/ils-ont-pu-voir-sous-le-sable-du-sahara-les-premieres-images-devoilent-un-monde-disparu-avec-ses-rivieres-et-ses-lacs/",
+      "pubDate": "2026-11-05T07:05:24.000Z",
+      "description": "Un cratère de météorite, des rivières englouties, un delta fantôme : sous le Sahara dort un monde entier que la technologie vient enfin de percer à jour, cinq mètres sous le sable.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cyberattaques, pannes, crises majeures : l’Europe veut des secours capables de fonctionner malgré tout",
+      "link": "https://armees.com/europe-cyberattaques-pannes-centres-secours-72-heures-2026/",
+      "pubDate": "2026-11-05T06:40:00.000Z",
+      "description": "La Commission européenne demande aux États de renforcer la résistance de leurs centres de protection civile et aux citoyens de pouvoir tenir au moins 72 heures sans assistance immédiate. Présentées le 3 novembre 2026, ces mesures visent autant les catastrophes naturelles que les cyberattaques et les menaces hybrides.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Au Maroc, un fossile de 773 000 ans révolutionne l’histoire des débuts de l’humanité",
+      "link": "https://armees.com/au-maroc-un-fossile-de-773-000-ans-revolutionne-lhistoire-des-debuts-de-lhumanite/",
+      "pubDate": "2026-11-05T06:35:48.000Z",
+      "description": "Au Maroc, des mâchoires vieilles de 773 000 ans viennent combler un vide de 500 000 ans dans l'histoire humaine. Ces fossiles appartiendraient-ils à l'ancêtre commun mystérieux de Sapiens, Néandertal et Denisova ? Les scientifiques hésitent encore.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Réactions des leaders politiques mondiaux face à la victoire des démocrates aux élections de mi-mandat aux États-Unis",
+      "link": "https://armees.com/reactions-des-leaders-politiques-mondiaux-face-a-la-victoire-des-democrates-aux-elections-de-mi-mandat-aux-etats-unis/",
+      "pubDate": "2026-11-05T06:05:12.000Z",
+      "description": "Du Kremlin à Téhéran, de Paris à Pékin, chaque capitale y va de sa lecture. Entre satisfaction, prudence et menaces à peine voilées, les réactions mondiales dévoilent déjà les tensions à venir pour Trump.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Budget des armées : 701 millions d’euros de surcoûts opérationnels dans le collectif de fin 2026",
+      "link": "https://armees.com/armees-surcouts-operationnels-701-millions-plfg-2026-20261105-0640/",
+      "pubDate": "2026-11-05T04:40:56.000Z",
+      "description": "Le gouvernement chiffre à 701 millions d’euros les surcoûts opérationnels supportés par les armées en 2026. Le projet de loi de finances de fin de gestion présenté le 4 novembre prévoit des ajustements de crédits pour y répondre, sous réserve de son examen parlementaire.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Manifestations du 5 novembre : 70 000 policiers et gendarmes mobilisés, des parcours encadrés",
+      "link": "https://armees.com/manifestations-5-novembre-2026-dispositif-securite-70000-policiers-gendarmes/",
+      "pubDate": "2026-11-05T04:22:35.000Z",
+      "description": "Pour les manifestations du 5 novembre 2026, Laurent Nuñez reconduit un dispositif national de 70 000 policiers et gendarmes, avec 110 unités mobiles, des blindés et des moyens spécialisés. À Paris, Toulouse, dans le Gard et en Seine-et-Marne, les décisions locales précisent les restrictions.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "La France lance un pacte pour accélérer le développement des drones navals militaires",
       "link": "https://armees.com/pacte-drones-navals-defense-france-4-novembre-2026/",
@@ -66,32 +150,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "La France lance un démonstrateur de drone sous-marin océanique polyvalent",
-      "link": "https://armees.com/france-developpement-demonstrateur-drone-sous-marin-oceanique-20261104/",
-      "pubDate": "2026-11-04T18:10:07.000Z",
-      "description": "La Direction générale de l’armement a annoncé le 3 novembre 2026 le lancement du développement d’un démonstrateur de drone sous-marin océanique polyvalent. Cette étape doit permettre d’explorer les capacités futures des systèmes autonomes en mer, sans préjuger de leur entrée en service.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Safran va fournir les turboréacteurs du drone de combat supersonique canadien Falcon",
       "link": "https://www.opex360.com/2026/11/04/safran-va-fournir-les-turboreacteurs-du-drone-de-combat-supersonique-canadien-falcon/",
       "pubDate": "2026-11-04T17:58:47.000Z",
       "description": "Créée dans les années 2000 et spécialisée dans le développement d’applications civiles avant de s’orienter vers le marché de la défense il y a maintenant cinq ans, la société UVAD Technologies développe le Falcon, drone de combat supersonique. Et cela avec le soutien du gouvernement canadien. Le Falcon «représente une avancée révolutionnaire dans le domaine...\nCet article Safran va fournir les turboréacteurs du drone de combat supersonique canadien Falcon est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Le sous-marin espagnol Isaac Peral coule un ancien patrouilleur avec une torpille",
-      "link": "https://armees.com/isaac-peral-torpille-infanta-elena-sinkex-26-2026/",
-      "pubDate": "2026-11-04T17:40:00.000Z",
-      "description": "L'Armada espagnole a annoncé le succès d'un tir réel du sous-marin S-81 Isaac Peral contre l'ancien patrouilleur Infanta Elena dans l'Atlantique. L'exercice SINKEX 26 teste ses capacités d'attaque et sa coordination avec d'autres forces.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Missiles Patriot : Boeing prévoit de tripler la production des autodirecteurs PAC-3",
-      "link": "https://armees.com/boeing-patriot-pac-3-autodirecteurs-production-contrat-2026/",
-      "pubDate": "2026-11-04T16:55:23.000Z",
-      "description": "Un contrat annoncé par Boeing en octobre 2026 prévoit d'accélérer la fabrication des autodirecteurs des intercepteurs Patriot PAC-3 MSE. Le montant et la portée industrielle ne doivent pas être confondus avec des livraisons déjà effectuées.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Renault et John Cockerill dévoilent le drone terrestre polyvalent «Forefront Concept»",
@@ -101,13 +164,6 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Pourquoi les Émirats Arabes Unis investissent dans le futur chasseur français Rafale F5",
-      "link": "https://armees.com/rafale-f5-emirats-arabes-unis-financement-strategie/",
-      "pubDate": "2026-11-04T14:48:40.000Z",
-      "description": "Les Émirats Arabes Unis financent des composants clés du Rafale F5, standard français attendu en 2033. Au-delà du soutien budgétaire, Abou Dhabi sécurise son accès à une technologie de combat de pointe intégrant IA et combat collaboratif, tout en renforçant sa position stratégique dans le Golfe. Paris préserve sa souveraineté industrielle grâce à une architecture modulaire où Dassault Aviation garde le contrôle de l'architecture globale.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Victoire en vue dans les munitions téléopérées de moyenne portée",
       "link": "https://forcesoperations.com/victoire-en-vue-dans-les-munitions-teleoperees-de-moyenne-portee/",
       "pubDate": "2026-11-04T14:11:37.000Z",
@@ -115,60 +171,11 @@
       "sourceKey": "fob"
     },
     {
-      "title": "Euronaval 2026 : la Marine française accélère sa mutation en flotte autonome",
-      "link": "https://armees.com/marine-francaise-dronisation-2028-autonomie-navale/",
-      "pubDate": "2026-11-04T13:37:40.000Z",
-      "description": "Euronaval 2026 consacre la dronisation comme tendance majeure de la défense navale avec plus de 700 exposants (+ 45% vs 2024). La Marine nationale française accélère sa mutation vers une flotte autonome : intégration de drones aériens, de surface et sous-marins sur l'ensemble des bâtiments d'ici 2028, orchestrés par un système de combat basé sur l'intelligence artificielle et la fusion de données.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La Direction générale de l’armement a effectué un second tir de la fusée-sonde SyLEx avec succès",
       "link": "https://www.opex360.com/2026/11/04/la-direction-generale-de-larmement-a-effectue-un-second-tir-de-la-fusee-sonde-sylex-avec-succes/",
       "pubDate": "2026-11-04T10:56:05.000Z",
       "description": "Pour réaliser le premier essai du planeur hypersonique V-MAX [pour Véhicule Manœuvrant Expérimental] depuis son centre de Biscarrosse, en juin 2023, la Direction générale de l’armement [DGA] avait dû solliciter le concours du Naval Surface Warfare Center, Port Hueneme Division [NSWC PHD] de la marine américaine pour disposer d’une fusée-sonde à trois étages dite «Terrier-Oriole-Oriole»....\nCet article La Direction générale de l’armement a effectué un second tir de la fusée-sonde SyLEx avec succès est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Sécurité maritime : l’Union européenne protège plus de 760 navires en mer Rouge, mais manque encore de moyens",
-      "link": "https://armees.com/ue-securite-maritime-rapport-3-novembre-2026-aspides/",
-      "pubDate": "2026-11-04T10:10:56.000Z",
-      "description": "Un rapport conjoint publié le 3 novembre dresse le bilan de la stratégie maritime européenne. Il souligne l’activité des missions navales face aux attaques et aux trafics, tout en reconnaissant un déficit de moyens navals et aériens.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un Su-57 russe aurait brûlé : pourquoi cette perte fragiliserait une flotte déjà très réduite",
-      "link": "https://armees.com/su-57-russe-incendie-impact-strategique-flotte-reduite/",
-      "pubDate": "2026-11-04T09:30:00.000Z",
-      "description": "Un chasseur furtif russe Su-57 aurait été détruit le 29 octobre 2026 sur la base d'Akhtoubinsk. Au-delà de l'incident technique, cette disparition potentielle intervient alors que la Russie ne dispose que d'un nombre limité d'appareils de cinquième génération. Un revers pour une aviation qui peine déjà à renouveler ses moyens les plus sophistiqués.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Renault fait la guerre, l’Europe paie l’addition russe",
-      "link": "https://armees.com/renault-europe-guerre-adition-paie-russe/",
-      "pubDate": "2026-11-04T09:20:01.000Z",
-      "description": "Pendant que Renault se reconvertit en fabricant de drones et de robots militaires, la Russie pilonne une nouvelle fois les infrastructures énergétiques ukrainiennes. Deux actualités en apparence distinctes, mais qui ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Trump coupe l’aide à Israël : l’Europe militaire en état d’urgence",
-      "link": "https://armees.com/trump-israel-europe-coupe-aide-militaire-urgence-etat/",
-      "pubDate": "2026-11-04T09:02:53.000Z",
-      "description": "Le jour des midterms, Donald Trump lâche une bombe diplomatique : l’aide militaire américaine à Israël sera « coupée à la fin de l’année ». 3,8 milliards de dollars qui ...",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Sept avions visés par des alertes à la bombe en Europe, des Eurofighter décollent en urgence",
-      "link": "https://armees.com/alertes-bombe-avions-europe-eurofighter-novembre-2026/",
-      "pubDate": "2026-11-04T09:00:00.000Z",
-      "description": "Sept vols commerciaux ont été visés par des alertes à la bombe le 3 novembre 2026, provoquant le déploiement d'avions de chasse, des déroutements et la fermeture temporaire d'un aéroport. De l'Italie à la Pologne, les armées européennes ont été mobilisées pour des menaces qui se sont toutes révélées infondées.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Déficit à 5,7% : la défense française peut-elle survivre à l’austérité ?",
-      "link": "https://armees.com/deficit-francaise-defense-survivre-austerite/",
-      "pubDate": "2026-11-04T08:51:15.000Z",
-      "description": "Le déficit français file vers 5,7 % du PIB. La machine productive est à l’arrêt. Et pendant ce temps, la Loi de Programmation Militaire engage 413 milliards d’euros jusqu’en 2030. ...",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Naval Group dévoile le concept d’un navire de 8 000 tonnes, doté de plus de 100 missiles et d’un canon électromagnétique",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/les-decodeurs/article/2026/10/08/mehmet-sahan-un-francais-attaque-par-son-ex-employeur-thales-croupit-dans-l-enfer-des-prisons-azerbaidjanaises-depuis-2022_6789932_4355770.html",
       "pubDate": "2026-10-08T04:00:31.000Z",
       "description": "« A Bakou, le prisonnier français oublié » (1/2). Mehmet Sahan, un Franco-Turc qui a dirigé pendant sept ans le bureau de Thales en Azerbaïdjan, est détenu dans ce pays depuis février 2022, après une plainte de son employeur. Craignant pour sa vie, ses avocats demandent son rapatriement. Premier volet de notre enquête.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Après l’attaque déjouée de Fairford, au Royaume-Uni, les bases aériennes françaises se préparent à la « guerre hybride »",
-      "link": "https://www.lemonde.fr/international/article/2026/10/07/apres-l-attaque-dejouee-de-fairford-au-royaume-uni-les-bases-aeriennes-francaises-se-preparent-a-la-guerre-hybride_6789556_3210.html",
-      "pubDate": "2026-10-07T07:00:08.000Z",
-      "description": "En France, du 28 septembre au 2 octobre, toutes les bases aériennes se sont entraînées à limiter leur vulnérabilité face aux risques d’attaques de drones, d’intrusions ou de cyberattaques. Le site de Mérignac, siège du commandement territorial de l’armée de l’air et de l’espace, était au cœur de cet exercice.",
       "sourceKey": "geo"
     }
   ]
