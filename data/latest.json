@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T23:55:59.669Z",
+  "generatedAt": "2026-11-06T04:52:39.125Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Un nouveau tir de SyLEx prépare le futur missile nucléaire français M51.4",
+      "link": "https://armees.com/nouveau-tir-sylex-m514-biscarrosse-novembre-2026/",
+      "pubDate": "2026-11-06T02:08:36.000Z",
+      "description": "Dans la nuit du 3 au 4 novembre, la Direction générale de l’armement a réussi un nouveau tir de la fusée-sonde SyLEx depuis Biscarrosse. Cet essai exo-atmosphérique a servi à expérimenter des technologies destinées notamment au futur missile M51.4, sans constituer un tir de ce missile.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Mer Noire : la France prolonge la mission de son Atlantique 2 en Roumanie après les attaques de cargos",
+      "link": "https://armees.com/mer-noire-atlantique-2-prolongation-roumanie-6-novembre-2026/",
+      "pubDate": "2026-11-06T00:59:13.000Z",
+      "description": "Prévue initialement jusqu’au 6 novembre, la mission de surveillance maritime de l’Atlantique 2 français en Roumanie est prolongée de plusieurs semaines.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Cyberespionnage : ce que le bilan 2025 de l’ANSSI révèle pour la défense",
       "link": "https://armees.com/cyberespionnage-anssi-defense-mesures-2026-11-05-2155/",
@@ -154,20 +168,6 @@
       "link": "https://armees.com/ils-ont-pu-voir-sous-le-sable-du-sahara-les-premieres-images-devoilent-un-monde-disparu-avec-ses-rivieres-et-ses-lacs/",
       "pubDate": "2026-11-05T07:05:24.000Z",
       "description": "Un cratère de météorite, des rivières englouties, un delta fantôme : sous le Sahara dort un monde entier que la technologie vient enfin de percer à jour, cinq mètres sous le sable.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cyberattaques, pannes, crises majeures : l’Europe veut des secours capables de fonctionner malgré tout",
-      "link": "https://armees.com/europe-cyberattaques-pannes-centres-secours-72-heures-2026/",
-      "pubDate": "2026-11-05T06:40:00.000Z",
-      "description": "La Commission européenne demande aux États de renforcer la résistance de leurs centres de protection civile et aux citoyens de pouvoir tenir au moins 72 heures sans assistance immédiate. Présentées le 3 novembre 2026, ces mesures visent autant les catastrophes naturelles que les cyberattaques et les menaces hybrides.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Au Maroc, un fossile de 773 000 ans révolutionne l’histoire des débuts de l’humanité",
-      "link": "https://armees.com/au-maroc-un-fossile-de-773-000-ans-revolutionne-lhistoire-des-debuts-de-lhumanite/",
-      "pubDate": "2026-11-05T06:35:48.000Z",
-      "description": "Au Maroc, des mâchoires vieilles de 773 000 ans viennent combler un vide de 500 000 ans dans l'histoire humaine. Ces fossiles appartiendraient-ils à l'ancêtre commun mystérieux de Sapiens, Néandertal et Denisova ? Les scientifiques hésitent encore.",
       "sourceKey": "armees_com"
     },
     {
