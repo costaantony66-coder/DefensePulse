@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T19:40:39.640Z",
+  "generatedAt": "2026-11-06T23:54:15.088Z",
   "sources": [
     {
       "key": "opex",
@@ -24,6 +24,13 @@
   ],
   "items": [
     {
+      "title": "La France assurera dès janvier la défense aérienne du hub logistique de Rzeszów en Pologne",
+      "link": "https://armees.com/france-defense-aerienne-rzeszow-pologne-janvier-2027/",
+      "pubDate": "2026-11-06T22:09:54.000Z",
+      "description": "À compter du 1er janvier 2027, la France prendra la responsabilité de la défense aérienne autour de l'aéroport polonais de Rzeszów-Jasionka, plateforme essentielle pour l'aide à l'Ukraine. La mission permettra aussi de tester la coopération des moyens français avec les systèmes Patriot.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "La France, Chypre et la Suède ont signé un accord-cadre pour l’acquisition conjointe de missiles antichars Akeron MP",
       "link": "https://www.opex360.com/2026/11/06/la-france-chypre-et-la-suede-ont-signe-un-accord-cadre-pour-lacquisition-conjointe-de-missiles-antichars-akeron-mp/",
       "pubDate": "2026-11-06T18:32:50.000Z",
@@ -41,7 +48,7 @@
       "title": "L’Allemagne va entrer au capital de KNDS et contrôlera le géant de l’armement terrestre à parité avec la France",
       "link": "https://www.lemonde.fr/economie/article/2026/11/06/l-allemagne-va-entrer-au-capital-de-knds-et-controlera-le-geant-de-l-armement-terrestre-a-parite-avec-la-france_6807842_3234.html",
       "pubDate": "2026-11-06T17:14:29.000Z",
-      "description": "Berlin a trouvé un accord de principe avec la famille copropriétaire du groupe d’armement franco-allemand pour lui acheter la participation de 50 % qu’elle détient dans l’entreprise. L’Etat allemand rejoint donc l’Etat français, déjà propriétaire de la moitié du capital de KNDS",
+      "description": "Berlin a trouvé un accord de principe avec la famille copropriétaire du groupe d’armement franco-allemand pour lui acheter la participation de 50 % qu’elle détient dans l’entreprise. L’Etat allemand rejoint donc l’Etat français, déjà propriétaire de la moitié du capital de KNDS.",
       "sourceKey": "geo"
     },
     {
@@ -175,13 +182,6 @@
       "link": "https://armees.com/moscou-nie-deroutement-petroliers-russes-etats-unis/",
       "pubDate": "2026-11-06T06:30:00.000Z",
       "description": "Le Kremlin dément le changement de route de pétroliers chargés de gazole russe vers les États-Unis. Pourtant, les données de navigation montrent deux trajectoires modifiées.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre des mines : les drones français pourront explorer les fonds jusqu’à 300 mètres",
-      "link": "https://armees.com/guerre-mines-drones-slam-f-300-metres-novembre-2026/",
-      "pubDate": "2026-11-06T06:15:38.000Z",
-      "description": "La Marine nationale détaille son futur dispositif de lutte contre les mines, associant drones de surface, engins sous-marins et sonars multi-angles. Huit modules doivent progressivement transformer les opérations, avec une décision de neutralisation qui restera humaine.",
       "sourceKey": "armees_com"
     },
     {
