@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T04:52:39.125Z",
+  "generatedAt": "2026-11-06T12:39:08.057Z",
   "sources": [
     {
       "key": "opex",
@@ -24,31 +24,129 @@
   ],
   "items": [
     {
-      "title": "Un nouveau tir de SyLEx prépare le futur missile nucléaire français M51.4",
-      "link": "https://armees.com/nouveau-tir-sylex-m514-biscarrosse-novembre-2026/",
-      "pubDate": "2026-11-06T02:08:36.000Z",
-      "description": "Dans la nuit du 3 au 4 novembre, la Direction générale de l’armement a réussi un nouveau tir de la fusée-sonde SyLEx depuis Biscarrosse. Cet essai exo-atmosphérique a servi à expérimenter des technologies destinées notamment au futur missile M51.4, sans constituer un tir de ce missile.",
+      "title": "Armement terrestre : La nationalisation totale du groupe franco-allemand KNDS se précise",
+      "link": "https://www.opex360.com/2026/11/06/armement-terrestre-la-nationalisation-totale-du-groupe-franco-allemand-knds-se-precise/",
+      "pubDate": "2026-11-06T11:38:27.000Z",
+      "description": "Spécialiste franco-allemand de l’armement terrestre, KNDS est un groupe public et privé dans la mesure où, actuellement, il appartient, à parts égales, à l’État français, via Giat Industries, et à la famille Bode-Wegmann. Cette dernière ayant l’intention de céder ses parts, cette configuration va évoluer. En juin, Paris et Berlin ont annoncé avoir trouvé un...\nCet article Armement terrestre : La nationalisation totale du groupe franco-allemand KNDS se précise est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Le VBAE à l’heure des choix",
+      "link": "https://forcesoperations.com/le-vbae-a-lheure-des-choix/",
+      "pubDate": "2026-11-06T10:55:28.000Z",
+      "description": "Tic tac… L'heure tourne et le véhicule blindé d'aide à l'engagement (VBAE) n'a toujours pas passé la seconde. Si le besoin reste intact de part et d'autre de la frontière franco-belge, le dossier navigue entre incertitude politico-budgétaire et reconfiguration industrielle. \nThe post Le VBAE à l’heure des choix appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "Ukraine : 65 drones à réaction parmi les 128 appareils lancés dans la nuit du 5 novembre",
+      "link": "https://armees.com/ukraine-65-drones-reaction-attaque-5-novembre-2026/",
+      "pubDate": "2026-11-06T10:00:00.000Z",
+      "description": "L’armée de l’air ukrainienne a recensé 128 drones et deux missiles russes pendant la nuit du 4 au 5 novembre. Parmi les drones, 65 étaient propulsés par réaction, une proportion qui souligne la difficulté croissante de la défense aérienne.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Mer Noire : la France prolonge la mission de son Atlantique 2 en Roumanie après les attaques de cargos",
-      "link": "https://armees.com/mer-noire-atlantique-2-prolongation-roumanie-6-novembre-2026/",
-      "pubDate": "2026-11-06T00:59:13.000Z",
-      "description": "Prévue initialement jusqu’au 6 novembre, la mission de surveillance maritime de l’Atlantique 2 français en Roumanie est prolongée de plusieurs semaines.",
+      "title": "États-Unis : six bases militaires frappées par des cyberattaques sur la chaîne du froid",
+      "link": "https://armees.com/etats-unis-bases-militaires-cyberattaques-logistique/",
+      "pubDate": "2026-11-06T09:58:04.000Z",
+      "description": "En août 2026, six bases militaires américaines ont subi des pannes simultanées de leurs systèmes de réfrigération, dans le cadre d'une campagne coordonnée visant également des infrastructures civiles en Europe. Ces attaques révèlent une nouvelle forme de guerre hybride ciblant les vulnérabilités logistiques des forces armées occidentales.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Cyberespionnage : ce que le bilan 2025 de l’ANSSI révèle pour la défense",
-      "link": "https://armees.com/cyberespionnage-anssi-defense-mesures-2026-11-05-2155/",
-      "pubDate": "2026-11-05T20:02:32.000Z",
-      "description": "Espionnage numérique, accès distants, sous-traitance : les enseignements du panorama ANSSI publié en mars 2026 et les mesures concrètes pour les organisations sensibles.",
+      "title": "Un avion dérouté sur la base militaire d’Évreux après une alerte à la bombe",
+      "link": "https://armees.com/evreux-base-militaire-vol-aer-lingus-menace-5-novembre-2026/",
+      "pubDate": "2026-11-06T09:40:00.000Z",
+      "description": "Un vol Aer Lingus reliant Dublin à Rome a été dérouté vers la base aérienne d'Évreux le 5 novembre à la suite d'une menace d'explosif. Les 151 passagers et six membres d'équipage ont quitté l'appareil indemnes. L'incident s'inscrit dans une série d'alertes touchant plusieurs vols européens.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "L’Italie prépare une nouvelle aide militaire à l’Ukraine, avec les missiles Aster en question",
-      "link": "https://armees.com/italie-aide-militaire-ukraine-aster-novembre-2026/",
-      "pubDate": "2026-11-05T20:00:00.000Z",
-      "description": "Rome prépare son treizième paquet d’aide militaire à Kiev, le premier annoncé cette année. Son contenu reste classifié, mais la défense antiaérienne et la reconduction du soutien italien après décembre sont au centre des discussions.",
+      "title": "Russie : 700 missiles balistiques en stock malgré les sanctions",
+      "link": "https://armees.com/iskander-m-missiles-balistiques-russes-defense-ukraine/",
+      "pubDate": "2026-11-06T08:43:19.000Z",
+      "description": "Le renseignement ukrainien révèle que la Russie dispose de 700 missiles balistiques et produit 110 unités supplémentaires chaque mois, malgré les sanctions internationales. Face à cet arsenal dominé par les Iskander-M (Mach 6-7) et les RM-48U hypersoniques, seuls les systèmes Patriot et SAMP/T peuvent intercepter efficacement, créant une asymétrie tactique critique pour Kiev.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Marchés de Noël 2026 : plusieurs avertissements sécuritaires lancés en Europe à l’approche des fêtes",
+      "link": "https://armees.com/marches-noel-2026-avertissements-securite-europe/",
+      "pubDate": "2026-11-06T08:05:11.000Z",
+      "description": "À quelques semaines de Noël, la police antiterroriste britannique appelle à la vigilance autour des rassemblements festifs. En Allemagne, les drones inquiètent, tandis que la France prépare des dispositifs renforcés. Aucun projet d’attentat ciblé n’a été publiquement confirmé.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un soldat russe déguisé en militaire ukrainien capturé sans qu’un seul coup de feu soit tiré",
+      "link": "https://armees.com/soldat-russe-uniforme-ukrainien-capture-forces-speciales-novembre-2026/",
+      "pubDate": "2026-11-06T07:18:53.000Z",
+      "description": "Un soldat russe portant l'uniforme de l'armée ukrainienne a été capturé par les forces spéciales de Kyiv, selon une annonce publiée le 5 novembre 2026. Repéré à cause de déchets abandonnés sur sa position, l'homme aurait été convaincu de se rendre sans combattre. Une opération qui soulève aussi la question de l'utilisation des uniformes ennemis pendant la guerre.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un navire britannique ouvre le feu au large des Falkland : « On ne s’attendait pas à ça », les marins argentins sous le choc",
+      "link": "https://armees.com/un-navire-britannique-ouvre-le-feu-au-large-des-falkland-on-ne-sattendait-pas-a-ca-les-marins-argentins-sous-le-choc/",
+      "pubDate": "2026-11-06T06:35:26.000Z",
+      "description": "120 obus réels tirés au large des Falkland, un tribunal international saisi par l'Argentine, Milei qui hausse le ton à l'ONU... La tension autour de ces îles grimpe d'un cran, et Londres ne compte pas céder.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Moscou nie le déroutement de ses pétroliers vers les États-Unis malgré les données maritimes",
+      "link": "https://armees.com/moscou-nie-deroutement-petroliers-russes-etats-unis/",
+      "pubDate": "2026-11-06T06:30:00.000Z",
+      "description": "Le Kremlin dément le changement de route de pétroliers chargés de gazole russe vers les États-Unis. Pourtant, les données de navigation montrent deux trajectoires modifiées.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Guerre des mines : les drones français pourront explorer les fonds jusqu’à 300 mètres",
+      "link": "https://armees.com/guerre-mines-drones-slam-f-300-metres-novembre-2026/",
+      "pubDate": "2026-11-06T06:15:38.000Z",
+      "description": "La Marine nationale détaille son futur dispositif de lutte contre les mines, associant drones de surface, engins sous-marins et sonars multi-angles. Huit modules doivent progressivement transformer les opérations, avec une décision de neutralisation qui restera humaine.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un sous-marin espagnol saborde un patrouilleur dans l’Atlantique avec une torpille",
+      "link": "https://armees.com/un-sous-marin-espagnol-saborde-un-patrouilleur-dans-latlantique-avec-une-torpille/",
+      "pubDate": "2026-11-06T06:05:17.000Z",
+      "description": "Une seule torpille, un navire englouti en quelques minutes. L'Isaac Peral vient de prouver sa redoutable efficacité au large des Canaries. Les détails de ce tir qui change la donne pour la Marine espagnole.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "X-70 Fractal : l’avion secret de la NASA qui redéfinit le combat aérien",
+      "link": "https://armees.com/x70-fractal-nasa-controle-vol-militaire/",
+      "pubDate": "2026-11-06T06:02:01.000Z",
+      "description": "La NASA a dévoilé le 4 novembre 2026 le X-70 Fractal, un avion expérimental piloté conçu pour explorer des capacités de manœuvrabilité inédites en vol habité.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cyberespionnage : pourquoi les réseaux diplomatiques restent une cible stratégique",
+      "link": "https://armees.com/cyberespionnage-reseaux-diplomatiques-anssi-2026-11-06/",
+      "pubDate": "2026-11-06T05:55:28.000Z",
+      "description": "Le panorama 2025 de l'ANSSI, publié en mars 2026, souligne la persistance des opérations d'espionnage numérique visant les réseaux diplomatiques et les équipements exposés.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Guerre hybride : découverte d’une nouvelle campagne de piratage russe",
+      "link": "https://armees.com/apt29-svr-guerre-hybride-cyberattaque-defense/",
+      "pubDate": "2026-11-06T05:44:00.000Z",
+      "description": "Le groupe de piratage APT29, lié au SVR russe, a mené en octobre 2026 une campagne de cyberespionnage visant plusieurs milliers de smartphones Android et iOS. Découverte par Sekoia, l'opération cible diplomates, décideurs militaires et acteurs ukrainiens via l'exploitation de failles déjà corrigées, sans aucune interaction utilisateur requise.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Peine de mort en Californie : toutes les sentences seront suspendues",
+      "link": "https://armees.com/commutation-peines-mort-californie-548-condamnes/",
+      "pubDate": "2026-11-06T05:39:26.000Z",
+      "description": "Le 5 novembre 2026, le gouverneur californien Gavin Newsom a commué les peines de mort de 548 condamnés, constituant la plus grande grâce collective de l'histoire américaine.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Fausses alertes à la bombe en Europe : 27 vols visés et l’ombre inquiétante d’un mouvement extrémiste russe",
+      "link": "https://armees.com/fausses-alertes-bombe-europe-27-vols-etat-masculin-russie/",
+      "pubDate": "2026-11-06T03:43:10.000Z",
+      "description": "Au moins 27 vols européens ont été ciblés par de fausses alertes à la bombe le 5 novembre 2026. Des messages signés « combattants de l’État masculin » évoquent un mouvement extrémiste russe, sans attribution confirmée.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Déplacements sensibles : comment protéger un smartphone professionnel contre l’espionnage",
+      "link": "https://armees.com/smartphone-deplacement-sensible-espionnage-protection-anssi-2026-11-06-0455/",
+      "pubDate": "2026-11-06T02:59:39.000Z",
+      "description": "Pour les personnels exposés, la sécurité d'un téléphone en déplacement repose sur la préparation, la maîtrise des connexions et une réaction organisée aux alertes.",
       "sourceKey": "armees_com"
     },
     {
@@ -59,25 +157,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Rheinmetall revoit ses ambitions à la baisse malgré des résultats records : les blindés Boxer au cœur du retard",
-      "link": "https://armees.com/rheinmetall-previsions-2026-retards-boxer-arminius-5-novembre/",
-      "pubDate": "2026-11-05T18:00:00.000Z",
-      "description": "Le groupe allemand a abaissé sa prévision de chiffre d’affaires 2026 à 13,2 milliards d’euros, malgré une forte progression de ses ventes et bénéfices sur neuf mois. Le report du programme Arminius de la Bundeswehr et des livraisons de munitions révèle le décalage entre budgets militaires et commandes exécutées.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La DGA notifie à Naval Group et à MBDA un contrat pour doubler la puissance de feu des frégates de défense et d’intervention",
       "link": "https://www.opex360.com/2026/11/05/la-dga-notifie-a-naval-group-et-a-mbda-un-contrat-pour-doubler-la-puissance-de-feu-des-fregates-de-defense-et-dintervention/",
       "pubDate": "2026-11-05T17:35:08.000Z",
       "description": "«Le cordonnier est le plus mal chaussé», dit un dicton. Et cela s’est vérifié avec les Frégates de défense et d’intervention [FDI ou classe «Ronarc’h»]. En effet, avec trente-deux missiles surface-air Aster 30 B1, de deux triples lance-torpilles pour MU-90 et un système antiaérien à courte portée RAM [Rolling Airframe Missile], le modèle commandé par...\nCet article La DGA notifie à Naval Group et à MBDA un contrat pour doubler la puissance de feu des frégates de défense et d’intervention est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Cyberespionnage : cinq protections prioritaires pour les acteurs sensibles",
-      "link": "https://armees.com/cyberespionnage-cinq-protections-acteurs-sensibles-2026-11-05-1855/",
-      "pubDate": "2026-11-05T16:52:49.000Z",
-      "description": "Face aux risques de cyberespionnage, les recommandations officielles de l’ANSSI permettent de hiérarchiser les protections des entreprises et organisations sensibles.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le ministère des Armées va notifier un accord-cadre à MBDA pour acquérir davantage de missiles mer-mer Exocet",
@@ -87,13 +171,6 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Le CNRS coupe les ponts avec Microsoft : 50 000 boîtes mail rapatriées",
-      "link": "https://armees.com/souverainete-numerique-cnrs-sortie-gafam-france/",
-      "pubDate": "2026-11-05T14:30:00.000Z",
-      "description": "Le CNRS vient de franchir un cap stratégique en migrant ses 50 000 boîtes mail de Microsoft Exchange vers PARTAGE, une plateforme française opérée par RENATER et basée sur le logiciel libre Zimbra. Cette décision, qui concerne 35 000 agents, renforce la souveraineté numérique française avec un hébergement 100% national et génère 3,5 millions d'euros d'économies annuelles.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Ce que l’on sait des alertes à la bombe qui ont perturbé le trafic aérien en Europe",
       "link": "https://www.lemonde.fr/international/article/2026/11/05/ce-que-l-on-sait-des-alertes-a-la-bombe-qui-ont-perturbe-le-trafic-aerien-en-europe_6806848_3211.html",
       "pubDate": "2026-11-05T14:29:47.000Z",
@@ -101,74 +178,11 @@
       "sourceKey": "geo"
     },
     {
-      "title": "Israël : la crise de la conscription ultra-orthodoxe fragilise Tsahal",
-      "link": "https://armees.com/conscription-israel-idf-effectifs-enjeu-defense/",
-      "pubDate": "2026-11-05T13:58:16.000Z",
-      "description": "Le refus du Judaïsme unifié de la Torah de recommander Benjamin Netanyahu pour former le gouvernement marque une rupture historique après trente ans d'alliance. Au cœur du différend : l'échec à légaliser l'exemption de conscription militaire pour les étudiants religieux ultra-orthodoxes. Cette crise politique fragilise directement les effectifs des forces de défense israéliennes, engagées sur plusieurs fronts simultanés.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Rheinmetall chute en Bourse : le réarmement européen confronté à la réalité des délais militaires",
-      "link": "https://armees.com/rheinmetall-chute-en-bourse-le-rearmement-europeen-confronte-a-la-realite-des-delais-militaires/",
-      "pubDate": "2026-11-05T12:01:08.000Z",
-      "description": "Les difficultés de Rheinmetall éclairent également une faiblesse structurelle de l'effort européen : l'absence de synchronisation complète entre les stratégies nationales d'équipement.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le ministère des Armées loue deux navires civils pour doter la Marine nationale d’une capacité hauturière de guerre des mines",
       "link": "https://www.opex360.com/2026/11/05/le-ministere-des-armees-loue-deux-navires-civils-pour-doter-la-marine-nationale-dune-capacite-hauturiere-de-guerre-des-mines/",
       "pubDate": "2026-11-05T11:44:49.000Z",
       "description": "En 2016, la Belgique et les Pays-Bas notifièrent à un groupement formé par Naval Group et ECA Robotics [devenu Exail] le marché relatif au développement d’une future capacité de guerre des mines, celle-ci devant reposer sur douze nouveaux chasseurs de mines de type «rMCM» [ou classe City] ainsi que sur des drones navals. Il s’agissait...\nCet article Le ministère des Armées loue deux navires civils pour doter la Marine nationale d’une capacité hauturière de guerre des mines est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Alertes à la bombe en Europe : au moins 16 vols perturbés ce jeudi 5 novembre",
-      "link": "https://armees.com/alertes-bombe-europe-16-vols-perturbes-5-novembre-2026/",
-      "pubDate": "2026-11-05T11:18:30.000Z",
-      "description": "Au moins 16 vols européens ont été concernés par des alertes à la bombe ce jeudi 5 novembre 2026 à 13 heures. Déroutements, escortes militaires et contrôles ont été déclenchés, notamment à Évreux.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cyberattaques prorusses contre les frigos : la guerre hybride expose les failles de la défense européenne",
-      "link": "https://armees.com/cyberattaques-prorusses-contre-les-frigos-la-guerre-hybride-expose-les-failles-de-la-defense-europeenne/",
-      "pubDate": "2026-11-05T10:23:00.000Z",
-      "description": "NoName057(16) et Z-Pentest revendiquent les cyberattaques contre les installations frigorifiques européennes. Derrière ces opérations présumées se dessine une vulnérabilité préoccupante : des équipements civils exposés peuvent perturber les approvisionnements et certains services de santé.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Commissaires des armées : les inscriptions aux concours 2027 sont ouvertes, avec deux calendriers distincts",
-      "link": "https://armees.com/concours-commissaires-armees-2027-inscriptions-calendrier-novembre-2026/",
-      "pubDate": "2026-11-05T10:09:34.000Z",
-      "description": "Les candidatures aux concours externes de commissaire des armées ont ouvert le 4 novembre 2026. Les dates limites diffèrent selon que les candidats présentent le concours sur épreuves ou sur titres, et les étapes de sélection ne se déroulent pas aux mêmes périodes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Alerte à la bombe : un Airbus A320 dérouté vers une base militaire française, l’armée de l’Air concernée",
-      "link": "https://armees.com/alerte-bombe-airbus-a320-base-aerienne-evreux-5-novembre-2026/",
-      "pubDate": "2026-11-05T09:19:00.000Z",
-      "description": "Un avion de ligne reliant Dublin à Rome a été dérouté vers la base aérienne d'Évreux ce jeudi 5 novembre 2026 après une alerte à la bombe. L'appareil, qui transportait des passagers au-dessus de la France, a déclaré une urgence en plein vol. Une situation préoccupante quelques jours après une série de menaces similaires en Europe.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Corée du Sud : extension de la mission Cheonghae à Ormuz pour contrer la menace des mines",
-      "link": "https://armees.com/coree-du-sud-cheonghae-extension-de-la-mission/",
-      "pubDate": "2026-11-05T09:16:10.000Z",
-      "description": "La Corée du Sud étend sa mission antipiraterie Cheonghae jusqu'au détroit d'Ormuz, déployant un P-8 Poseidon, des équipes de déminage, des drones navals et des robots sous-marins. L'annonce du 5 novembre 2026 intervient après l'incendie de trois navires dans le détroit. Séoul maintient une posture non combattante tout en protégeant ses intérêts commerciaux face à la menace des mines et des drones adverses.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "SonicWall GMS : l’ANSSI signale deux failles dans un logiciel qui ne sera plus corrigé",
-      "link": "https://armees.com/sonicwall-gms-fin-vie-failles-anssi-20261105-1036/",
-      "pubDate": "2026-11-05T08:34:30.000Z",
-      "description": "Le CERT-FR a publié le 4 novembre un avis sur deux vulnérabilités de SonicWall Global Management System (GMS), touchant les versions 9.5.2 et antérieures. Le logiciel étant en fin de vie, l’éditeur n’annonce plus de correctifs de sécurité pour cette gamme : les organisations utilisatrices doivent réexaminer leur exposition et leur stratégie de remplacement.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ils ont pu voir sous le sable du Sahara, les premières images dévoilent un monde disparu avec ses rivières et ses lacs",
-      "link": "https://armees.com/ils-ont-pu-voir-sous-le-sable-du-sahara-les-premieres-images-devoilent-un-monde-disparu-avec-ses-rivieres-et-ses-lacs/",
-      "pubDate": "2026-11-05T07:05:24.000Z",
-      "description": "Un cratère de météorite, des rivières englouties, un delta fantôme : sous le Sahara dort un monde entier que la technologie vient enfin de percer à jour, cinq mètres sous le sable.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le ministère des Armées lance la réalisation d’un démonstrateur du drone sous-marin de combat UCUV",
@@ -210,13 +224,6 @@
       "link": "https://www.opex360.com/2026/11/03/naval-group-devoile-le-concept-dun-navire-de-8-000-tonnes-dote-de-plus-de-100-missiles-et-dun-canon-electromagnetique/",
       "pubDate": "2026-11-03T18:22:17.000Z",
       "description": "L’an passé, alors que la future Loi de programmation militaire [LPM] devrait porter la dotation de la Marine nationale à dix-huit navires dits de premier rang [contre quinze actuellement], le député Yannick Chenevard, rapporteur du programme 178 «Emploi et préparation des forces – Marine», s’était interrogé sur le type des trois frégates supplémentaires susceptibles d’être...\nCet article Naval Group dévoile le concept d’un navire de 8 000 tonnes, doté de plus de 100 missiles et d’un canon électromagnétique est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Destinée à la Marine nationale, la version VTOL du drone Aliaca a été qualifiée par la Direction générale de l’armement",
-      "link": "https://www.opex360.com/2026/11/03/destinee-a-la-marine-nationale-la-version-vtol-du-drone-aliaca-a-ete-qualifiee-par-la-direction-generale-de-larmement/",
-      "pubDate": "2026-11-03T17:04:45.000Z",
-      "description": "Commandé à vingt-six exemplaires [onze en 2021 et quinze en 2024] auprès de Survey Copter, filiale d’Airbus Helicopters, afin d’équiper les frégates de surveillance, les patrouilleurs de haute-mer et les sémaphores, le système de mini-drones aériens embarqués pour la Marine [SMDM] Aliaca a donné, jusqu’à présent, pleinement satisfaction depuis son entrée en service. Utilisé pour...\nCet article Destinée à la Marine nationale, la version VTOL du drone Aliaca a été qualifiée par la Direction générale de l’armement est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -344,13 +351,6 @@
       "pubDate": "2026-10-21T08:51:29.000Z",
       "description": "Les incidents ont eu lieu lors de l’exercice interarmées Typhon de défense et de protection du port militaire de Toulon, qui s’est tenu du 5 au 16 octobre, ce qui confirme une information d’Ici Provence.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Premiers tours d’hélices dans la 4e BAC pour les drones intercepteurs de drones",
-      "link": "https://forcesoperations.com/premiers-tours-dhelices-dans-la-4e-bac-pour-les-drones-intercepteurs-de-drones/",
-      "pubDate": "2026-10-20T16:13:41.000Z",
-      "description": "Décollage réussi pour le premier drone intercepteur de drones pris en main par la 4e brigade d'aérocombat (4e BAC). Équipages et télépilotes entameront bientôt une première campagne d'interceptions depuis les airs.  Voilà un moment que le 3e régiment d’hélicoptères (3e RHC) d'Étain a pris le sujet à bras le corps.  C'est là qu'a atterrit, début […]\nThe post Premiers tours d’hélices dans la 4e BAC pour les drones intercepteurs de drones appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
     },
     {
       "title": "Au Moyen-Orient, l’armée américaine contrainte de se redéployer sous le feu des missiles iraniens",
