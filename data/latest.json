@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T11:06:44.180Z",
+  "generatedAt": "2026-11-07T16:51:31.567Z",
   "sources": [
     {
       "key": "opex",
@@ -24,11 +24,53 @@
   ],
   "items": [
     {
+      "title": "Le ministère des Armées accélère la mise au point d’un canon électromagnétique pour la Marine avec le projet SPALE",
+      "link": "https://www.opex360.com/2026/11/07/le-ministere-des-armees-accelere-la-mise-au-point-dun-canon-electromagnetique-pour-la-marine-avec-le-projet-spale/",
+      "pubDate": "2026-11-07T15:11:58.000Z",
+      "description": "En mars, il a été rapporté que l’US Navy avait discrètement relancé le développement d’un canon électromagnétique [ou «railgun»], qu’elle avait suspendu en 2021 pour des raisons budgétaires, après plus de quinze années de recherches menées par l’Office of Naval Research [ONR], BAE Systems et General Atomics. Dans le même temps, d’autres pays ont avancé...\nCet article Le ministère des Armées accélère la mise au point d’un canon électromagnétique pour la Marine avec le projet SPALE est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Le Maroc possède d’immenses réserves de phosphate, mais une pénurie de soufre freine ses usines",
+      "link": "https://armees.com/le-maroc-possede-dimmenses-reserves-de-phosphate-mais-une-penurie-de-soufre-freine-ses-usines/",
+      "pubDate": "2026-11-07T13:07:00.000Z",
+      "description": "La crise du détroit d'Ormuz a mis en difficulté l'un des principaux producteurs mondiaux d'engrais phosphatés. Malgré ses importantes ressources minières, le Maroc dépend d'approvisionnements étrangers en soufre pour transformer son phosphate. Une vulnérabilité industrielle qui dépasse largement le secteur agricole.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Le chasseur-bombardier F-35B a largué un missile air-air [inerte] METEOR pour la première fois",
+      "link": "https://www.opex360.com/2026/11/07/le-chasseur-bombardier-f-35b-a-largue-un-missile-air-air-inerte-meteor-pour-la-premiere-fois/",
+      "pubDate": "2026-11-07T12:31:05.000Z",
+      "description": "Pour le moment, la Royal Air Force et la Fleet Air Arm ne peuvent pas exploiter pleinement les capacités de leurs chasseurs-bombardiers F-35B [la version à décollage court et à atterrissage vertical] car ces derniers ne sont pas encore qualifiés pour emporter les missiles SPEAR 3 [air-sol] et METEOR [air-air], produits par MBDA. Et cela...\nCet article Le chasseur-bombardier F-35B a largué un missile air-air [inerte] METEOR pour la première fois est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Contrat record pour les équipes belges de Thales",
+      "link": "https://forcesoperations.com/contrat-record-pour-les-equipes-belges-de-thales/",
+      "pubDate": "2026-11-07T11:08:36.000Z",
+      "description": "Thales Belgium livrera plusieurs centaines de paniers de roquettes supplémentaires à l'Inde, une commande au volume record pour une filiale également en passe d'y localiser une capacité de production. \nThe post Contrat record pour les équipes belges de Thales appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
       "title": "À son tour, Sierra Nevada renonce à l’appel d’offres de l’US Navy pour remplacer l’avion d’entraînement T45C Goshawk",
       "link": "https://www.opex360.com/2026/11/07/a-son-tour-sierra-nevada-renonce-a-lappel-doffres-de-lus-navy-pour-remplacer-lavion-dentrainement-t45c-goshawk/",
       "pubDate": "2026-11-07T11:02:23.000Z",
       "description": "Les récents débats sur le porte-avions de nouvelle génération [PANG] «France Libre» ont surtout porté sur le risque de dépendance à l’égard des États-Unis avec la décision de doter ce futur navire de catapultes électromagnétiques [EMALS] conçues par General Atomics. Risque que l’amiral Christophe Cluzel, le chef d’état-major de la Marine nationale [CEMM] a écarté,...\nCet article À son tour, Sierra Nevada renonce à l’appel d’offres de l’US Navy pour remplacer l’avion d’entraînement T45C Goshawk est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Alertes à la bombe dans les avions : pourquoi des chasseurs français ont escorté un vol vers Évreux",
+      "link": "https://armees.com/alertes-bombe-avions-chasseurs-francais-evreux-novembre-2026/",
+      "pubDate": "2026-11-07T10:20:00.000Z",
+      "description": "Une série de menaces visant des avions civils en Europe a entraîné des décollages d'urgence de chasseurs et des déroutements. En France, un appareil Aer Lingus a été escorté vers la base d'Évreux, sans découverte d'explosifs signalée.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Mikhail Andropov, le mystérieux signataire des menaces à la bombe qui visent l’Europe",
+      "link": "https://armees.com/mikhail-andropov-menaces-bombe-europe-medias/",
+      "pubDate": "2026-11-07T09:18:58.000Z",
+      "description": "Des courriels signés « Mikhail Andropov » ont provoqué l'évacuation de plusieurs rédactions européennes le 6 novembre 2026. Leur auteur revendique également les alertes à la bombe qui ont perturbé des dizaines de vols. Son identité reste inconnue, tandis que les autorités examinent l'hypothèse d'une campagne de déstabilisation.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Cyberattaque contre Arkéa : le risque des accès techniques pour les infrastructures sensibles",
@@ -150,20 +192,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "OpenSSH : l’ANSSI alerte sur un contournement de l’authentification sous Linux",
-      "link": "https://armees.com/openssh-musl-pam-contournement-authentification-anssi-20261106/",
-      "pubDate": "2026-11-06T13:34:29.000Z",
-      "description": "Le CERT-FR a lancé le 5 novembre une alerte concernant OpenSSH sur certaines configurations Linux utilisant musl sans PAM. La version 10.6p2 apporte un correctif ; les administrateurs doivent identifier les serveurs concernés et examiner leurs journaux d’accès.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Marine nationale : deux navires Protée affrétés pour déployer les drones antimines en haute mer",
-      "link": "https://armees.com/navires-protee-dga-abeilles-chantiers-atlantique-guerre-mines-2026/",
-      "pubDate": "2026-11-06T13:01:11.000Z",
-      "description": "La DGA a retenu Chantiers de l'Atlantique et Abeilles International pour deux navires Protée attendus d'ici 2028. Une solution civile et militaire pour la guerre des mines.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Une nouvelle vague d’alertes à la bombe vise des vols commerciaux en Europe ainsi que des médias",
       "link": "https://www.lemonde.fr/international/article/2026/11/06/alertes-a-la-bombe-quatre-vols-commerciaux-survolant-la-france-se-sont-poses-sans-encombre_6807787_3210.html",
       "pubDate": "2026-11-06T12:41:25.000Z",
@@ -176,13 +204,6 @@
       "pubDate": "2026-11-06T11:38:27.000Z",
       "description": "Spécialiste franco-allemand de l’armement terrestre, KNDS est un groupe public et privé dans la mesure où, actuellement, il appartient, à parts égales, à l’État français, via Giat Industries, et à la famille Bode-Wegmann. Cette dernière ayant l’intention de céder ses parts, cette configuration va évoluer. En juin, Paris et Berlin ont annoncé avoir trouvé un...\nCet article Armement terrestre : La nationalisation totale du groupe franco-allemand KNDS se précise est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Quatre avions menacés en France ce vendredi : l’Europe face à une possible opération de guerre hybride",
-      "link": "https://armees.com/alertes-bombe-6-novembre-france-europe-guerre-hybride-securite-aerienne/",
-      "pubDate": "2026-11-06T11:23:59.000Z",
-      "description": "Ce vendredi 6 novembre 2026, une nouvelle vague d'alertes à la bombe frappe le transport aérien européen. Quatre avions survolant la France sont concernés, tandis que des vols sont visés en République tchèque, en Italie, au Portugal et au Danemark. Les autorités soupçonnent une possible campagne de déstabilisation visant à mobiliser les dispositifs de sûreté aérienne.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le VBAE à l’heure des choix",
@@ -218,20 +239,6 @@
       "pubDate": "2026-11-05T14:29:47.000Z",
       "description": "A midi jeudi, douze vols avaient été visés par des alertes à la bombe, ont signalé plusieurs autorités et compagnies. Tous les vols se sont posés en sécurité, ont-elles confirmé.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Le ministère des Armées loue deux navires civils pour doter la Marine nationale d’une capacité hauturière de guerre des mines",
-      "link": "https://www.opex360.com/2026/11/05/le-ministere-des-armees-loue-deux-navires-civils-pour-doter-la-marine-nationale-dune-capacite-hauturiere-de-guerre-des-mines/",
-      "pubDate": "2026-11-05T11:44:49.000Z",
-      "description": "En 2016, la Belgique et les Pays-Bas notifièrent à un groupement formé par Naval Group et ECA Robotics [devenu Exail] le marché relatif au développement d’une future capacité de guerre des mines, celle-ci devant reposer sur douze nouveaux chasseurs de mines de type «rMCM» [ou classe City] ainsi que sur des drones navals. Il s’agissait...\nCet article Le ministère des Armées loue deux navires civils pour doter la Marine nationale d’une capacité hauturière de guerre des mines est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Le ministère des Armées lance la réalisation d’un démonstrateur du drone sous-marin de combat UCUV",
-      "link": "https://www.opex360.com/2026/11/04/le-ministere-des-armees-lance-la-realisation-dun-demonstrateur-du-drone-sous-marin-de-combat-ucuv/",
-      "pubDate": "2026-11-04T18:41:43.000Z",
-      "description": "Le projet de doter la Marine nationale d’un drone sous-marin armé est déjà assez ancien puisqu’il figurait dans le document de référence de l’orientation de l’innovation de défense [DrOID] publié en 2022 par l’Agence de l’innovation de défense [AID]. En effet, selon ce dernier, il était question de lancer des travaux sur un «démonstrateur de...\nCet article Le ministère des Armées lance la réalisation d’un démonstrateur du drone sous-marin de combat UCUV est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Victoire en vue dans les munitions téléopérées de moyenne portée",
@@ -350,13 +357,6 @@
       "link": "https://forcesoperations.com/des-jumelles-safran-dans-les-mains-des-observateurs-avances-suedois/",
       "pubDate": "2026-10-23T10:06:26.000Z",
       "description": "Un an. C'est le délai qu'il aura fallu à Safran Electronics & Defense pour produire et livrer une nouvelle capacité de désignation d'objectifs aux forces armées suédoises, capacité fondée sur une évolution de sa jumelle Moskito TI.\nThe post Des jumelles Safran dans les mains des observateurs avancés suédois appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
-    },
-    {
-      "title": "Coup de pouce parlementaire pour la robotique terrestre",
-      "link": "https://forcesoperations.com/coup-de-pouce-parlementaire-pour-la-robotique-terrestre/",
-      "pubDate": "2026-10-22T15:18:56.000Z",
-      "description": "Quelques amendements au projet de loi de finances pour 2027 ont reçu hier le feu vert des députés de la Commission de la défense nationale et des forces armées. L'un d'entre eux, s'il parvient au bout du processus, contribuera à ajouter des crédits supplémentaires au profit de la robotique terrestre.\nThe post Coup de pouce parlementaire pour la robotique terrestre appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
     },
     {
