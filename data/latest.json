@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T16:51:31.567Z",
+  "generatedAt": "2026-11-07T20:38:01.734Z",
   "sources": [
     {
       "key": "opex",
@@ -29,6 +29,20 @@
       "pubDate": "2026-11-07T15:11:58.000Z",
       "description": "En mars, il a été rapporté que l’US Navy avait discrètement relancé le développement d’un canon électromagnétique [ou «railgun»], qu’elle avait suspendu en 2021 pour des raisons budgétaires, après plus de quinze années de recherches menées par l’Office of Naval Research [ONR], BAE Systems et General Atomics. Dans le même temps, d’autres pays ont avancé...\nCet article Le ministère des Armées accélère la mise au point d’un canon électromagnétique pour la Marine avec le projet SPALE est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Espionnage économique : les précautions recommandées par la DGSI aux entreprises",
+      "link": "https://armees.com/espionnage-economique-entreprises-dgsi-audits-donnees-sensibles-2026/",
+      "pubDate": "2026-11-07T15:00:30.000Z",
+      "description": "Réseaux sociaux, audits étrangers, déplacements professionnels : la DGSI détaille les points de vigilance pour protéger les informations stratégiques des entreprises.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pologne : cinq morts dans une fusillade sur la grande place de Cracovie",
+      "link": "https://armees.com/pologne-fusillade-cracovie-7-novembre-2026/",
+      "pubDate": "2026-11-07T14:45:11.000Z",
+      "description": "Une fusillade survenue samedi 7 novembre 2026 sur la place principale de Cracovie a fait au moins cinq morts et douze blessés, selon la police citée par l’Associated Press. Un suspect a été interpellé. Le mobile de l’attaque reste inconnu.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Le Maroc possède d’immenses réserves de phosphate, mais une pénurie de soufre freine ses usines",
@@ -175,20 +189,6 @@
       "link": "https://armees.com/missile-france-livraisons-suffren-mbda-mdcn-mk2/",
       "pubDate": "2026-11-06T15:05:00.000Z",
       "description": "La France commande auprès de MBDA le missile de croisière naval MdCN Mk2, doté d'une portée supérieure à 1.000 km et intégrant l'intelligence artificielle. Livraisons prévues dès 2030 pour équiper frégates FREMM et sous-marins Suffren.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Frégates FDI : la France contractualise le passage de 16 à 32 missiles Aster",
-      "link": "https://armees.com/fdi-commande-32-missiles-aster-novembre-2026/",
-      "pubDate": "2026-11-06T14:07:00.000Z",
-      "description": "La Direction générale de l’armement a finalisé avec Naval Group et MBDA une commande destinée à doubler la capacité antiaérienne des frégates de défense et d’intervention. La décision annoncée le 5 novembre concrétise une évolution déjà envisagée pour ces bâtiments de la Marine nationale.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ormuz : la crise des engrais révèle une dépendance stratégique qui dépasse le pétrole",
-      "link": "https://armees.com/ormuz-engrais-dependance-strategique-souverainete-soufre-phosphates/",
-      "pubDate": "2026-11-06T14:02:00.000Z",
-      "description": "Une note de l’IRIS publiée le 5 novembre 2026 met en évidence une vulnérabilité industrielle majeure : la dépendance de nombreux États aux matières premières nécessaires à la fabrication des engrais. Le cas du Maroc, contraint de réduire sa production malgré ses ressources phosphatées, illustre les limites de la souveraineté minière.",
       "sourceKey": "armees_com"
     },
     {
