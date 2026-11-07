@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T04:03:41.857Z",
+  "generatedAt": "2026-11-07T11:06:44.180Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "title": "À son tour, Sierra Nevada renonce à l’appel d’offres de l’US Navy pour remplacer l’avion d’entraînement T45C Goshawk",
+      "link": "https://www.opex360.com/2026/11/07/a-son-tour-sierra-nevada-renonce-a-lappel-doffres-de-lus-navy-pour-remplacer-lavion-dentrainement-t45c-goshawk/",
+      "pubDate": "2026-11-07T11:02:23.000Z",
+      "description": "Les récents débats sur le porte-avions de nouvelle génération [PANG] «France Libre» ont surtout porté sur le risque de dépendance à l’égard des États-Unis avec la décision de doter ce futur navire de catapultes électromagnétiques [EMALS] conçues par General Atomics. Risque que l’amiral Christophe Cluzel, le chef d’état-major de la Marine nationale [CEMM] a écarté,...\nCet article À son tour, Sierra Nevada renonce à l’appel d’offres de l’US Navy pour remplacer l’avion d’entraînement T45C Goshawk est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Cyberattaque contre Arkéa : le risque des accès techniques pour les infrastructures sensibles",
+      "link": "https://armees.com/cyberattaque-arkea-acces-techniques-infrastructures-sensibles-7-novembre-2026/",
+      "pubDate": "2026-11-07T07:01:42.000Z",
+      "description": "Après la cyberattaque reconnue par Crédit Mutuel Arkéa, les accès techniques et les prestataires tiers interrogent la sécurité des infrastructures critiques.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Les États-Unis comptent fournir à l’Ukraine plus de 1 000 missiles de croisière utilisables depuis ses F-16",
+      "link": "https://armees.com/les-etats-unis-comptent-fournir-a-lukraine-plus-de-1-000-missiles-de-croisiere-utilisables-depuis-ses-f-16/",
+      "pubDate": "2026-11-07T06:35:08.000Z",
+      "description": "Plus de 1 000 missiles capables de frapper à 460 km même sous brouillage GPS : Washington presse les industriels pour l'Ukraine. Un contrat éclair, 15 mois pour tout livrer. Kiev frappe-t-elle déjà avec ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Une fusée lancée depuis les Landes parcourt plus de 400 km pour concevoir un missile nucléaire",
+      "link": "https://armees.com/une-fusee-lancee-depuis-les-landes-parcourt-plus-de-400-km-pour-concevoir-un-missile-nucleaire/",
+      "pubDate": "2026-11-07T06:05:00.000Z",
+      "description": "Une fusée française grimpe à 400 km d'altitude pour préparer le missile nucléaire de demain. Derrière ce tir discret se cache une capacité que la France avait perdue depuis des décennies. L'histoire mérite le détour.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cisco : l’ANSSI signale des failles d’exécution de code dans plusieurs équipements réseau",
+      "link": "https://armees.com/cisco-certfr-failles-execution-code-reseau-20261107-0631/",
+      "pubDate": "2026-11-07T04:32:28.000Z",
+      "description": "Le CERT-FR a publié le 6 novembre un avis concernant plusieurs produits Cisco, dont Duo Access Gateway, Expressway et des équipements sans fil industriels. Les administrateurs doivent identifier les versions concernées et consulter les correctifs disponibles auprès de l’éditeur.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Les États-Unis offrent jusqu’à 20 millions de dollars pour des informations sur le nucléaire iranien",
+      "link": "https://armees.com/etats-unis-20-millions-dollars-informations-nucleaire-iranien/",
+      "pubDate": "2026-11-07T04:30:00.000Z",
+      "description": "Washington promet jusqu’à 20 millions de dollars pour des renseignements sur le programme nucléaire iranien. L’offre, relayée par le CENTCOM, porte notamment sur les installations, les équipements et les personnels associés.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : Kiev alerte sur une possible frappe contre les ponts du Dnipro et le réseau électrique",
+      "link": "https://armees.com/ukraine-alerte-ponts-dnipro-reseau-electrique-patriot-7-novembre-2026/",
+      "pubDate": "2026-11-07T03:58:01.000Z",
+      "description": "Le 6 novembre, Volodymyr Zelensky a évoqué des renseignements sur une nouvelle attaque russe visant des infrastructures civiles. Kiev demande des intercepteurs Patriot supplémentaires.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Défense antidrones : la jeune entreprise française Alta Ares décroche six lots d’un accord-cadre de l’OTAN",
       "link": "https://armees.com/alta-ares-six-lots-accord-cadre-otan-antidrones-novembre-2026/",
@@ -143,48 +192,6 @@
       "sourceKey": "fob"
     },
     {
-      "title": "Ukraine : 65 drones à réaction parmi les 128 appareils lancés dans la nuit du 5 novembre",
-      "link": "https://armees.com/ukraine-65-drones-reaction-attaque-5-novembre-2026/",
-      "pubDate": "2026-11-06T10:00:00.000Z",
-      "description": "L’armée de l’air ukrainienne a recensé 128 drones et deux missiles russes pendant la nuit du 4 au 5 novembre. Parmi les drones, 65 étaient propulsés par réaction, une proportion qui souligne la difficulté croissante de la défense aérienne.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "États-Unis : six bases militaires frappées par des cyberattaques sur la chaîne du froid",
-      "link": "https://armees.com/etats-unis-bases-militaires-cyberattaques-logistique/",
-      "pubDate": "2026-11-06T09:58:04.000Z",
-      "description": "En août 2026, six bases militaires américaines ont subi des pannes simultanées de leurs systèmes de réfrigération, dans le cadre d'une campagne coordonnée visant également des infrastructures civiles en Europe. Ces attaques révèlent une nouvelle forme de guerre hybride ciblant les vulnérabilités logistiques des forces armées occidentales.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un avion dérouté sur la base militaire d’Évreux après une alerte à la bombe",
-      "link": "https://armees.com/evreux-base-militaire-vol-aer-lingus-menace-5-novembre-2026/",
-      "pubDate": "2026-11-06T09:40:00.000Z",
-      "description": "Un vol Aer Lingus reliant Dublin à Rome a été dérouté vers la base aérienne d'Évreux le 5 novembre à la suite d'une menace d'explosif. Les 151 passagers et six membres d'équipage ont quitté l'appareil indemnes. L'incident s'inscrit dans une série d'alertes touchant plusieurs vols européens.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Russie : 700 missiles balistiques en stock malgré les sanctions",
-      "link": "https://armees.com/iskander-m-missiles-balistiques-russes-defense-ukraine/",
-      "pubDate": "2026-11-06T08:43:19.000Z",
-      "description": "Le renseignement ukrainien révèle que la Russie dispose de 700 missiles balistiques et produit 110 unités supplémentaires chaque mois, malgré les sanctions internationales. Face à cet arsenal dominé par les Iskander-M (Mach 6-7) et les RM-48U hypersoniques, seuls les systèmes Patriot et SAMP/T peuvent intercepter efficacement, créant une asymétrie tactique critique pour Kiev.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Marchés de Noël 2026 : plusieurs avertissements sécuritaires lancés en Europe à l’approche des fêtes",
-      "link": "https://armees.com/marches-noel-2026-avertissements-securite-europe/",
-      "pubDate": "2026-11-06T08:05:11.000Z",
-      "description": "À quelques semaines de Noël, la police antiterroriste britannique appelle à la vigilance autour des rassemblements festifs. En Allemagne, les drones inquiètent, tandis que la France prépare des dispositifs renforcés. Aucun projet d’attentat ciblé n’a été publiquement confirmé.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un soldat russe déguisé en militaire ukrainien capturé sans qu’un seul coup de feu soit tiré",
-      "link": "https://armees.com/soldat-russe-uniforme-ukrainien-capture-forces-speciales-novembre-2026/",
-      "pubDate": "2026-11-06T07:18:53.000Z",
-      "description": "Un soldat russe portant l'uniforme de l'armée ukrainienne a été capturé par les forces spéciales de Kyiv, selon une annonce publiée le 5 novembre 2026. Repéré à cause de déchets abandonnés sur sa position, l'homme aurait été convaincu de se rendre sans combattre. Une opération qui soulève aussi la question de l'utilisation des uniformes ennemis pendant la guerre.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La France va-t-elle finalement maintenir sa participation au projet de corvette européenne ?",
       "link": "https://www.opex360.com/2026/11/05/la-france-va-t-elle-finalement-maintenir-sa-participation-au-projet-de-corvette-europeenne/",
       "pubDate": "2026-11-05T18:42:08.000Z",
@@ -224,13 +231,6 @@
       "link": "https://www.opex360.com/2026/11/04/le-ministere-des-armees-lance-la-realisation-dun-demonstrateur-du-drone-sous-marin-de-combat-ucuv/",
       "pubDate": "2026-11-04T18:41:43.000Z",
       "description": "Le projet de doter la Marine nationale d’un drone sous-marin armé est déjà assez ancien puisqu’il figurait dans le document de référence de l’orientation de l’innovation de défense [DrOID] publié en 2022 par l’Agence de l’innovation de défense [AID]. En effet, selon ce dernier, il était question de lancer des travaux sur un «démonstrateur de...\nCet article Le ministère des Armées lance la réalisation d’un démonstrateur du drone sous-marin de combat UCUV est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Safran va fournir les turboréacteurs du drone de combat supersonique canadien Falcon",
-      "link": "https://www.opex360.com/2026/11/04/safran-va-fournir-les-turboreacteurs-du-drone-de-combat-supersonique-canadien-falcon/",
-      "pubDate": "2026-11-04T17:58:47.000Z",
-      "description": "Créée dans les années 2000 et spécialisée dans le développement d’applications civiles avant de s’orienter vers le marché de la défense il y a maintenant cinq ans, la société UVAD Technologies développe le Falcon, drone de combat supersonique. Et cela avec le soutien du gouvernement canadien. Le Falcon «représente une avancée révolutionnaire dans le domaine...\nCet article Safran va fournir les turboréacteurs du drone de combat supersonique canadien Falcon est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
