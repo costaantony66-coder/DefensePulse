@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T11:20:29.526Z",
+  "generatedAt": "2026-11-08T17:13:23.281Z",
   "sources": [
     {
       "key": "opex",
@@ -24,6 +24,20 @@
   ],
   "items": [
     {
+      "title": "Missiles Akeron MP : Chypre, la France et la Suède signent un accord-cadre d’acquisition",
+      "link": "https://armees.com/akeron-mp-accord-cadre-chypre-france-suede-novembre-2026/",
+      "pubDate": "2026-11-08T14:08:51.000Z",
+      "description": "La DGA annonce le 6 novembre un accord-cadre entre Chypre, la France et la Suède pour l'acquisition de missiles Akeron MP. Une coopération européenne dont les volumes et les échéances restent à préciser.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Le porte-avions britannique HMS Queen Elizabeth a lancé ses premiers drones d’attaque",
+      "link": "https://www.opex360.com/2026/11/08/le-porte-avions-britannique-hms-queen-elizabeth-a-lance-ses-premiers-drones-dattaque/",
+      "pubDate": "2026-11-08T12:13:27.000Z",
+      "description": "Lors du salon de l’armement DSEI 25, le chef d’état-major de la Royal Navy, le général Gwyn Jenkins, avait fixé un cap : «déployer des navires sans équipage autant que possible» et «déployer des navires avec équipage seulement si c’est nécessaire». Ainsi, avait-il soutenu, la «dronisation [et donc l’hybridation des forces navales] permettra de créer...\nCet article Le porte-avions britannique HMS Queen Elizabeth a lancé ses premiers drones d’attaque est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
       "title": "ArianeGroup suggère d’armer la Frégate de défense et d’intervention avec des missiles balistiques antinavires",
       "link": "https://www.opex360.com/2026/11/08/arianegroup-suggere-darmer-la-fregate-de-defense-et-dintervention-avec-des-missiles-balistiques-antinavires/",
       "pubDate": "2026-11-08T11:10:01.000Z",
@@ -31,10 +45,31 @@
       "sourceKey": "opex"
     },
     {
+      "title": "À Londres, 10 000 anciens combattants attendus pour le dimanche du Souvenir",
+      "link": "https://armees.com/londres-10000-anciens-combattants-dimanche-souvenir-2026/",
+      "pubDate": "2026-11-08T11:00:00.000Z",
+      "description": "Le Royaume-Uni rend hommage ce 8 novembre aux militaires et civils morts dans les conflits. Deux minutes de silence à 11 heures, dépôt de gerbes et défilé d'anciens combattants structurent la cérémonie nationale au Cénotaphe de Londres.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Mil Mi-28 : comprendre les différences entre les hélicoptères Havoc N, NE et NM",
+      "link": "https://armees.com/mil-mi-28-havoc-differences-versions-n-ne-nm-2026/",
+      "pubDate": "2026-11-08T10:00:54.000Z",
+      "description": "Mi-28N, Mi-28NE et Mi-28NM : caractéristiques, armement et limites des identifications à partir d'images.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Mélenchon veut sortir la France du commandement intégré de l’OTAN : ce que cela changerait",
       "link": "https://armees.com/melenchon-sortie-commandement-integre-otan-2027-8-novembre/",
       "pubDate": "2026-11-08T09:00:00.000Z",
       "description": "Au Bourget, le 7 novembre, Jean-Luc Mélenchon a réaffirmé son projet de retrait progressif de l’OTAN, en commençant par son commandement militaire intégré. Cette proposition présidentielle pose une question concrète : comment la France organiserait-elle sa coopération militaire avec ses alliés européens ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Mattermost Server : de nouvelles vulnérabilités signalées par le CERT-FR",
+      "link": "https://armees.com/mattermost-server-certfr-avis-1479-novembre-2026-0811/",
+      "pubDate": "2026-11-08T08:38:48.000Z",
+      "description": "Le CERT-FR a publié le 6 novembre 2026 un avis de sécurité concernant Mattermost Server. Les organisations qui utilisent cette messagerie collaborative doivent vérifier les versions installées et consulter les correctifs de l'éditeur.",
       "sourceKey": "armees_com"
     },
     {
@@ -143,34 +178,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Une fusée lancée depuis les Landes parcourt plus de 400 km pour concevoir un missile nucléaire",
-      "link": "https://armees.com/une-fusee-lancee-depuis-les-landes-parcourt-plus-de-400-km-pour-concevoir-un-missile-nucleaire/",
-      "pubDate": "2026-11-07T06:05:00.000Z",
-      "description": "Une fusée française grimpe à 400 km d'altitude pour préparer le missile nucléaire de demain. Derrière ce tir discret se cache une capacité que la France avait perdue depuis des décennies. L'histoire mérite le détour.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cisco : l’ANSSI signale des failles d’exécution de code dans plusieurs équipements réseau",
-      "link": "https://armees.com/cisco-certfr-failles-execution-code-reseau-20261107-0631/",
-      "pubDate": "2026-11-07T04:32:28.000Z",
-      "description": "Le CERT-FR a publié le 6 novembre un avis concernant plusieurs produits Cisco, dont Duo Access Gateway, Expressway et des équipements sans fil industriels. Les administrateurs doivent identifier les versions concernées et consulter les correctifs disponibles auprès de l’éditeur.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Les États-Unis offrent jusqu’à 20 millions de dollars pour des informations sur le nucléaire iranien",
-      "link": "https://armees.com/etats-unis-20-millions-dollars-informations-nucleaire-iranien/",
-      "pubDate": "2026-11-07T04:30:00.000Z",
-      "description": "Washington promet jusqu’à 20 millions de dollars pour des renseignements sur le programme nucléaire iranien. L’offre, relayée par le CENTCOM, porte notamment sur les installations, les équipements et les personnels associés.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : Kiev alerte sur une possible frappe contre les ponts du Dnipro et le réseau électrique",
-      "link": "https://armees.com/ukraine-alerte-ponts-dnipro-reseau-electrique-patriot-7-novembre-2026/",
-      "pubDate": "2026-11-07T03:58:01.000Z",
-      "description": "Le 6 novembre, Volodymyr Zelensky a évoqué des renseignements sur une nouvelle attaque russe visant des infrastructures civiles. Kiev demande des intercepteurs Patriot supplémentaires.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La France, Chypre et la Suède ont signé un accord-cadre pour l’acquisition conjointe de missiles antichars Akeron MP",
       "link": "https://www.opex360.com/2026/11/06/la-france-chypre-et-la-suede-ont-signe-un-accord-cadre-pour-lacquisition-conjointe-de-missiles-antichars-akeron-mp/",
       "pubDate": "2026-11-06T18:32:50.000Z",
@@ -224,13 +231,6 @@
       "link": "https://www.opex360.com/2026/11/05/la-france-va-t-elle-finalement-maintenir-sa-participation-au-projet-de-corvette-europeenne/",
       "pubDate": "2026-11-05T18:42:08.000Z",
       "description": "La France va-t-elle finalement maintenir sa participation au projet de corvette européenne [EPC, encore appelé Multi Modular Patrol Corvette – MMPC], qu’elle a lancé, en 2019, avec l’Italie et la Grèce dans le cadre de la Coopération structurée permanente [CSP ou PESCO] afin de bénéficier de financements européens ? Rejoint, depuis, par l’Espagne et la...\nCet article La France va-t-elle finalement maintenir sa participation au projet de corvette européenne ? est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "La DGA notifie à Naval Group et à MBDA un contrat pour doubler la puissance de feu des frégates de défense et d’intervention",
-      "link": "https://www.opex360.com/2026/11/05/la-dga-notifie-a-naval-group-et-a-mbda-un-contrat-pour-doubler-la-puissance-de-feu-des-fregates-de-defense-et-dintervention/",
-      "pubDate": "2026-11-05T17:35:08.000Z",
-      "description": "«Le cordonnier est le plus mal chaussé», dit un dicton. Et cela s’est vérifié avec les Frégates de défense et d’intervention [FDI ou classe «Ronarc’h»]. En effet, avec trente-deux missiles surface-air Aster 30 B1, deux triples lance-torpilles pour MU-90 et un système antiaérien à courte portée RAM [Rolling Airframe Missile], le modèle commandé par la...\nCet article La DGA notifie à Naval Group et à MBDA un contrat pour doubler la puissance de feu des frégates de défense et d’intervention est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
