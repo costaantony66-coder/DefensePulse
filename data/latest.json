@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T17:13:23.281Z",
+  "generatedAt": "2026-11-08T21:12:56.760Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Un soldat espagnol meurt pendant un entraînement militaire à Saragosse",
+      "link": "https://armees.com/soldat-espagnol-deces-entrainement-saragosse-8-novembre-2026/",
+      "pubDate": "2026-11-08T17:20:00.000Z",
+      "description": "L'armée de terre espagnole a annoncé le 8 novembre la mort d'un militaire de la brigade Guzmán el Bueno X pendant une activité d'instruction au centre de San Gregorio, près de Saragosse. Les circonstances exactes du décès font l'objet d'une enquête.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "OpenSSH : l’ANSSI alerte sur un contournement d’authentification sous Linux",
+      "link": "https://armees.com/openssh-cve-2026-123158-alerte-cert-fr-musl-08112026/",
+      "pubDate": "2026-11-08T15:37:06.000Z",
+      "description": "Le CERT-FR a signalé le 5 novembre 2026 une vulnérabilité d’OpenSSH affectant certaines configurations Linux utilisant musl. L’alerte, précisée le 6 novembre, recommande une mise à jour et le redémarrage du service SSH.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Missiles Akeron MP : Chypre, la France et la Suède signent un accord-cadre d’acquisition",
       "link": "https://armees.com/akeron-mp-accord-cadre-chypre-france-suede-novembre-2026/",
@@ -161,20 +175,6 @@
       "link": "https://armees.com/mikhail-andropov-menaces-bombe-europe-medias/",
       "pubDate": "2026-11-07T09:18:58.000Z",
       "description": "Des courriels signés « Mikhail Andropov » ont provoqué l'évacuation de plusieurs rédactions européennes le 6 novembre 2026. Leur auteur revendique également les alertes à la bombe qui ont perturbé des dizaines de vols. Son identité reste inconnue, tandis que les autorités examinent l'hypothèse d'une campagne de déstabilisation.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cyberattaque contre Arkéa : le risque des accès techniques pour les infrastructures sensibles",
-      "link": "https://armees.com/cyberattaque-arkea-acces-techniques-infrastructures-sensibles-7-novembre-2026/",
-      "pubDate": "2026-11-07T07:01:42.000Z",
-      "description": "Après la cyberattaque reconnue par Crédit Mutuel Arkéa, les accès techniques et les prestataires tiers interrogent la sécurité des infrastructures critiques.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Les États-Unis comptent fournir à l’Ukraine plus de 1 000 missiles de croisière utilisables depuis ses F-16",
-      "link": "https://armees.com/les-etats-unis-comptent-fournir-a-lukraine-plus-de-1-000-missiles-de-croisiere-utilisables-depuis-ses-f-16/",
-      "pubDate": "2026-11-07T06:35:08.000Z",
-      "description": "Plus de 1 000 missiles capables de frapper à 460 km même sous brouillage GPS : Washington presse les industriels pour l'Ukraine. Un contrat éclair, 15 mois pour tout livrer. Kiev frappe-t-elle déjà avec ?",
       "sourceKey": "armees_com"
     },
     {
