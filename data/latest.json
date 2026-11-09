@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T07:37:31.393Z",
+  "generatedAt": "2026-11-09T17:47:04.721Z",
   "sources": [
     {
       "key": "opex",
@@ -24,80 +24,143 @@
   ],
   "items": [
     {
-      "title": "Des archéologues fouillent la dune du Pilat et tombent sur des vestiges de l’Âge de fer que personne ne soupçonnait sous le sable",
-      "link": "https://armees.com/des-archeologues-fouillent-la-dune-du-pilat-et-tombent-sur-des-vestiges-de-lage-de-fer-que-personne-ne-soupconnait-sous-le-sable/",
-      "pubDate": "2026-11-09T07:05:33.000Z",
-      "description": "Sous le sable de la dune du Pilat, des pêcheurs de l'Âge de fer ont laissé leurs outils. Filets, céramiques, habitat enfoui : un pan entier du littoral refait surface après 2 500 ans de silence.",
+      "title": "Le ministère des Armées lance la réalisation de deux satellites d’observation IRIS pour 1,5 milliard d’euros",
+      "link": "https://www.opex360.com/2026/11/09/le-ministere-des-armees-lance-la-realisation-de-deux-satellites-dobservation-iris-pour-15-milliard-deuros/",
+      "pubDate": "2026-11-09T17:35:00.000Z",
+      "description": "Lors de l’examen du projet d’actualisation de la Loi de programmation militaire [LPM] 2024-30, en mai dernier, le chef d’état-major des armées [CEMA], le général Fabien Mandon, s’était dit inquiet du retard pris par les programmes CELESTE et IRIS, lancés par la Direction générale de l’armement [DGA] pour renouveler les constellations satellitaires CERES [pour Capacités...\nCet article Le ministère des Armées lance la réalisation de deux satellites d’observation IRIS pour 1,5 milliard d’euros est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "RAID, GIGN et BRI : qui intervient dans une prise d’otages ou une opération antiterroriste ?",
+      "link": "https://armees.com/raid-gign-bri-differences-missions-intervention-guide-20261109-1755/",
+      "pubDate": "2026-11-09T16:12:01.000Z",
+      "description": "Trois sigles, trois organisations et des missions qui se recoupent parfois : comment distinguer RAID, GIGN et BRI, et comprendre leur rôle dans la réponse française aux crises graves.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Allemagne : Christian Freuding nommé futur chef d’état-major des armées",
-      "link": "https://armees.com/allemagne-christian-freuding-chef-etat-major-fevrier-2027/",
-      "pubDate": "2026-11-09T06:13:21.000Z",
-      "description": "Berlin a annoncé le 5 novembre la nomination de Christian Freuding à la tête des forces armées allemandes à compter de février 2027. Cette transition intervient alors que son prédécesseur doit rejoindre la direction militaire de l’OTAN.",
+      "title": "Le Portugal envisage d’accueillir une école allemande de pilotage dédiée au chasseur-bombardier F-35",
+      "link": "https://www.opex360.com/2026/11/09/le-portugal-envisage-daccueillir-une-ecole-allemande-de-pilotage-dediee-au-chasseur-bombardier-f-35/",
+      "pubDate": "2026-11-09T15:50:44.000Z",
+      "description": "Pour le moment, la force aérienne portugaise [FAP – Força Aérea Portuguesa] attend l’adoption d’une nouvelle loi de programmation militaire pour remplacer ses vingt-quatre F-16AM/BM à bout de souffle. Cependant, même si aucun appel d’offres n’a été émis par Lisbonne, plusieurs industriels ont déjà pris leurs marques. En effet, Dassault Aviation [Rafale], le consortium Eurofighter,...\nCet article Le Portugal envisage d’accueillir une école allemande de pilotage dédiée au chasseur-bombardier F-35 est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Koalijca 26.2 : premier test grandeur nature pour la Coalition des volontaires",
+      "link": "https://forcesoperations.com/koalijca-26-2-premier-test-grandeur-nature-pour-la-coalition-des-volontaires/",
+      "pubDate": "2026-11-09T14:33:13.000Z",
+      "description": "C'est l'heure de vérité pour une dizaine de pays de la Coalition des volontaires. L'exercice Koalicja 26.2 démarre aujourd’hui, un premier exercice grandeur nature pour cette force multinationale chargée de garantir l'intégrité de l'Ukraine en cas d'arrêt des hostilités avec la Russie. \nThe post Koalijca 26.2 : premier test grandeur nature pour la Coalition des volontaires appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "Frégates suédoises : Saab décroche 2 milliards de couronnes d’équipements auprès de Naval Group",
+      "link": "https://armees.com/fregates-suedoises-saab-naval-group-systemes-combat-2-milliards-9-novembre-2026/",
+      "pubDate": "2026-11-09T14:29:39.000Z",
+      "description": "Saab a signé le 6 novembre un contrat d'environ 2 milliards de couronnes suédoises avec Naval Group. Radars, conduite de tir, missiles et torpilles équiperont les quatre FDI destinées à la Suède, avec des livraisons entre 2027 et 2034.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Black Sky : la BBC prépare un plan d’urgence en cas de panne électrique générale au Royaume-Uni",
-      "link": "https://armees.com/black-sky-bbc-plan-urgence-panne-electrique-royaume-uni/",
-      "pubDate": "2026-11-09T05:54:58.000Z",
-      "description": "La BBC a détaillé son dispositif « Black Sky » destiné à maintenir des émissions radio en cas de panne électrique nationale au Royaume-Uni. Un studio autonome, une centaine de personnels mobilisables et au moins trois jours de réserves sont prévus.",
+      "title": "11-Novembre : comment demander la mention « Mort pour la France » et quels droits pour les proches ?",
+      "link": "https://armees.com/11-novembre-2026-mention-mort-pour-la-france-demarches-familles-091126-1555/",
+      "pubDate": "2026-11-09T14:20:34.000Z",
+      "description": "À l'approche des cérémonies du 11-Novembre, la mention « Mort pour la France » répond à des critères précis. Le ministère des Armées et l'ONaCVG détaillent la procédure et les droits qui peuvent en découler pour les familles.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Russie : comment Moscou a bâti une forteresse de drones en 90 jours",
-      "link": "https://armees.com/millerovo-base-drones-geran-strategie-russe-2026/",
-      "pubDate": "2026-11-09T05:52:42.000Z",
-      "description": "En moins de trois mois, la Russie a transformé un terrain agricole près de Millerovo en base de lancement de drones Geran-5 capable de 100 attaques quotidiennes.",
+      "title": "Au Liban-Sud, de nouvelles frappes et une accusation israélienne contre la Finul",
+      "link": "https://armees.com/liban-sud-frappes-9-novembre-2026-israel-accuse-finul/",
+      "pubDate": "2026-11-09T14:20:00.000Z",
+      "description": "Des frappes israéliennes ont visé plusieurs localités du sud du Liban le 9 novembre. Parallèlement, l'armée israélienne affirme avoir découvert des dépôts d'armes près de positions de la Finul. Ces accusations ne constituent pas une preuve indépendante d'une défaillance de la mission onusienne, dont la transition reste sensible pour la France.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Les Houthis frappent le quartier financier de Riyad",
-      "link": "https://armees.com/missiles-houthis-defenses-aeriennes-arabie-saoudite-2026/",
-      "pubDate": "2026-11-09T05:33:23.000Z",
-      "description": "Le 8 novembre 2026, les Houthis ont frappé Riyad avec quatre missiles, endommageant la tour Aramco dans le district financier.",
+      "title": "La Russie utilise des vidéos truquées par IA pour annoncer des conquêtes en Ukraine",
+      "link": "https://armees.com/russie-videos-truquees-ia-conquetes-ukraine/",
+      "pubDate": "2026-11-09T13:22:57.000Z",
+      "description": "À Dobropillia, une vidéo relayée par le ministère russe de la Défense montre des soldats brandissant un drapeau russe. Selon une enquête du Financial Times, l'un des plans porte des traces de manipulation, alors que Moscou avait annoncé la prise de cette ville encore défendue par les Ukrainiens.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Mattermost Server : le CERT-FR signale de nouvelles vulnérabilités et précise les versions à corriger",
-      "link": "https://armees.com/cert-fr-mattermost-server-vulnerabilites-6-novembre-2026-1479/",
-      "pubDate": "2026-11-09T03:37:28.000Z",
-      "description": "Dans un avis du 6 novembre, le CERT-FR alerte sur plusieurs vulnérabilités affectant quatre branches de Mattermost Server. Les administrateurs sont invités à confronter leurs versions aux seuils indiqués et à consulter les correctifs de l’éditeur.",
+      "title": "Cybersécurité des collectivités : la CNIL prononce dix sanctions pour des failles de protection",
+      "link": "https://armees.com/cnil-collectivites-dix-sanctions-cybersecurite-9-novembre-2026-1444/",
+      "pubDate": "2026-11-09T12:45:10.000Z",
+      "description": "La CNIL a annoncé le 9 novembre dix sanctions simplifiées visant des collectivités territoriales et un établissement public. Les contrôles révèlent des faiblesses d’authentification, de gestion des accès et de surveillance des réseaux, ainsi que des analyses d’impact manquantes.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "La NASA prépare une base lunaire : pourquoi le pôle Sud devient un enjeu stratégique face à la Chine",
-      "link": "https://armees.com/nasa-base-lunaire-enjeu-strategique-chine-2026/",
-      "pubDate": "2026-11-09T03:21:09.000Z",
-      "description": "Les États-Unis accélèrent leur installation sur la Lune. Le 7 novembre 2026, la NASA a annoncé de nouveaux contrats pour des atterrisseurs, des véhicules de transport et des satellites de communication.",
+      "title": "La Belgique réactive la 51e Escadrille de défense aérienne et confirme la commande de 20 canons Skyranger à Rheinmetall",
+      "link": "https://www.opex360.com/2026/11/09/la-belgique-reactive-la-51e-escadrille-de-defense-aerienne-et-confirme-la-commande-de-20-canons-skyranger-a-rheinmetall/",
+      "pubDate": "2026-11-09T11:29:56.000Z",
+      "description": "Créée en 1959 au sein de la force aérienne belge, la 51e Escadrille était chargée de mettre en œuvre des systèmes américains de défense sol-air à moyenne et haute altitude MIM-14 Nike Hercules. Trente ans plus tard, le Mur de Berlin à peine tombé, elle fut dissoute, ce qui marqua la fin de la défense...\nCet article La Belgique réactive la 51e Escadrille de défense aérienne et confirme la commande de 20 canons Skyranger à Rheinmetall est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "11-Novembre : qui peut obtenir la carte du combattant et quels droits ouvre-t-elle ?",
+      "link": "https://armees.com/11-novembre-2026-carte-du-combattant-conditions-droits-demarches-1255/",
+      "pubDate": "2026-11-09T11:02:28.000Z",
+      "description": "À l’approche du 11-Novembre, les conditions d’obtention de la carte du combattant concernent aussi les personnes engagées en opérations extérieures. Droits, justificatifs et démarches.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Splunk : le CERT-FR signale plusieurs failles menaçant les données et les systèmes",
-      "link": "https://armees.com/splunk-certfr-vulnerabilites-donnees-systemes-20261108-2236/",
-      "pubDate": "2026-11-08T20:36:55.000Z",
-      "description": "Un avis du CERT-FR daté du 6 novembre 2026 recense plusieurs vulnérabilités dans les produits Splunk. Certaines exposent les systèmes à une exécution de code à distance ou à des atteintes à la confidentialité et à l’intégrité des données.",
+      "title": "Un drone a endommagé à Tchernobyl une arche conçue pour durer cent ans",
+      "link": "https://armees.com/tchernobyl-drone-arche-cent-ans-reparations/",
+      "pubDate": "2026-11-09T11:01:11.000Z",
+      "description": "La frappe du 14 février 2025 a compromis le confinement du réacteur détruit et les équipements destinés à démanteler son ancien sarcophage. La restauration est désormais évaluée à au moins 500 millions d’euros, avec un objectif de remise en état complète d’ici 2030.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Un soldat espagnol meurt pendant un entraînement militaire à Saragosse",
-      "link": "https://armees.com/soldat-espagnol-deces-entrainement-saragosse-8-novembre-2026/",
-      "pubDate": "2026-11-08T17:20:00.000Z",
-      "description": "L'armée de terre espagnole a annoncé le 8 novembre la mort d'un militaire de la brigade Guzmán el Bueno X pendant une activité d'instruction au centre de San Gregorio, près de Saragosse. Les circonstances exactes du décès font l'objet d'une enquête.",
+      "title": "Industrie de défense : la DGA et l’Apec concluent un accord de trois ans pour recruter des cadres",
+      "link": "https://armees.com/dga-apec-accord-trois-ans-recrutement-cadres-defense-novembre-2026/",
+      "pubDate": "2026-11-09T10:17:19.000Z",
+      "description": "La Direction générale de l’armement et l’Apec ont officialisé le 4 novembre un partenariat de trois ans au salon Euronaval, détaillé dans leurs communications des 6 et 9 novembre. L’objectif est d’aider les entreprises de la défense, notamment les PME, à trouver et fidéliser les cadres nécessaires à leur activité.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "OpenSSH : l’ANSSI alerte sur un contournement d’authentification sous Linux",
-      "link": "https://armees.com/openssh-cve-2026-123158-alerte-cert-fr-musl-08112026/",
-      "pubDate": "2026-11-08T15:37:06.000Z",
-      "description": "Le CERT-FR a signalé le 5 novembre 2026 une vulnérabilité d’OpenSSH affectant certaines configurations Linux utilisant musl. L’alerte, précisée le 6 novembre, recommande une mise à jour et le redémarrage du service SSH.",
+      "title": "Bleuet de France : la collecte du 11-Novembre 2026 s’étend dans les unités de gendarmerie",
+      "link": "https://armees.com/bleuet-france-collecte-11-novembre-2026-gendarmerie-regions-091126/",
+      "pubDate": "2026-11-09T10:03:15.000Z",
+      "description": "La campagne de dons du Bleuet de France se tient du 4 au 15 novembre 2026. La Gendarmerie nationale annonce de nouveaux stands en région.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Missiles Akeron MP : Chypre, la France et la Suède signent un accord-cadre d’acquisition",
-      "link": "https://armees.com/akeron-mp-accord-cadre-chypre-france-suede-novembre-2026/",
-      "pubDate": "2026-11-08T14:08:51.000Z",
-      "description": "La DGA annonce le 6 novembre un accord-cadre entre Chypre, la France et la Suède pour l'acquisition de missiles Akeron MP. Une coopération européenne dont les volumes et les échéances restent à préciser.",
+      "title": "Guerre en Ukraine : Moscou cible à nouveau les infrastructures énergétiques de Kiev",
+      "link": "https://armees.com/strategie-russe-destruction-guerre-en-ukraine/",
+      "pubDate": "2026-11-09T09:20:39.000Z",
+      "description": "Entre le 6 et le 8 novembre 2026, la Russie a lancé deux vagues massives de frappes contre les infrastructures énergétiques ukrainiennes, privant plus de 850 000 civils d'électricité. Ces attaques répétées, menées à 48 heures d'intervalle, révèlent une stratégie militaire d'usure visant à affaiblir les capacités de résilience ukrainiennes avant l'hiver et en amont de négociations trilatérales prévues à Abou Dhabi les 10-11 novembre.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "À l’approche du 13-Novembre, comment l’opération Sentinelle a changé en 2026",
+      "link": "https://armees.com/operation-sentinelle-13-novembre-2026-evolution-missions-protection/",
+      "pubDate": "2026-11-09T09:12:38.000Z",
+      "description": "Onze ans après les attentats du 13 novembre 2015, Sentinelle protège toujours le territoire. Ses missions se sont élargies au-delà de l’antiterrorisme.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Lanceurs pour missiles guidés de pointe : ces documents établissent que la Russie a orchestré la livraison d’armes à l’Iran",
+      "link": "https://armees.com/lanceurs-pour-missiles-guides-de-pointe-ces-documents-etablissent-que-la-russie-a-orchestre-la-livraison-darmes-a-liran/",
+      "pubDate": "2026-11-09T08:05:00.000Z",
+      "description": "90 lanceurs de missiles, des satellites, des composants d'armement : malgré ses propres besoins en Ukraine, la Russie n'aurait jamais cessé d'armer Téhéran. Des documents inédits révèlent l'ampleur réelle de ce partenariat que Moscou dément farouchement.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Guerre en Ukraine : les pertes russes pèsent de plus en plus sur le renouvellement des troupes",
+      "link": "https://armees.com/guerre-en-ukraine-les-pertes-russes-pesent-de-plus-en-plus-sur-le-renouvellement-des-troupes/",
+      "pubDate": "2026-11-09T07:58:06.000Z",
+      "description": "Une fuite présumée de données administratives russes fait état de près de 400 000 décès liés à la guerre en Ukraine depuis février 2022. Si ces chiffres restent à authentifier définitivement, ils renforcent les interrogations sur la capacité de Moscou à remplacer ses soldats tout en maintenant ses opérations offensives.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Les États-Unis veulent contrôler les voies terrestres menant à l’Iran pour stopper le transit d’armes sophistiquées",
+      "link": "https://armees.com/les-etats-unis-veulent-controler-les-voies-terrestres-menant-a-liran-pour-stopper-le-transit-darmes-sophistiquees/",
+      "pubDate": "2026-11-09T07:35:00.000Z",
+      "description": "25 milliards de dollars de pétrole déjà bloqués, sept pays frontaliers sous surveillance, et Téhéran qui jure que ça ne marchera jamais. Qui a raison ? La suite révèle une escalade explosive dans le détroit d'Ormuz.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Attentat à Cracovie : six morts, le tireur décédé, une enquête pour terrorisme",
+      "link": "https://armees.com/attentat-cracovie-six-morts-tireur-decede-enquete-terrorisme/",
+      "pubDate": "2026-11-09T07:26:51.000Z",
+      "description": "Six personnes ont été tuées et quinze blessées samedi 7 novembre 2026 à Cracovie. L'assaillant, un Polonais de 24 ans, est mort lundi matin. Les enquêteurs examinent un possible mobile idéologique et la mort de trois membres de sa famille.",
       "sourceKey": "armees_com"
     },
     {
@@ -113,41 +176,6 @@
       "pubDate": "2026-11-08T11:10:01.000Z",
       "description": "En 2018, alors chef d’état-major de la Marine nationale [CEMM], l’amiral Christophe Prazuck avait relativisé la menace du missile balistique antinavire chinois DF-21, dont il était fait grand cas car présenté comme étant un «tueur de porte-avions». En effet, une fois lancé, un missile balistique suit une trajectoire suborbitale «en cloche», pour ensuite plonger vers...\nCet article ArianeGroup suggère d’armer la Frégate de défense et d’intervention avec des missiles balistiques antinavires est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "À Londres, 10 000 anciens combattants attendus pour le dimanche du Souvenir",
-      "link": "https://armees.com/londres-10000-anciens-combattants-dimanche-souvenir-2026/",
-      "pubDate": "2026-11-08T11:00:00.000Z",
-      "description": "Le Royaume-Uni rend hommage ce 8 novembre aux militaires et civils morts dans les conflits. Deux minutes de silence à 11 heures, dépôt de gerbes et défilé d'anciens combattants structurent la cérémonie nationale au Cénotaphe de Londres.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Mil Mi-28 : comprendre les différences entre les hélicoptères Havoc N, NE et NM",
-      "link": "https://armees.com/mil-mi-28-havoc-differences-versions-n-ne-nm-2026/",
-      "pubDate": "2026-11-08T10:00:54.000Z",
-      "description": "Mi-28N, Mi-28NE et Mi-28NM : caractéristiques, armement et limites des identifications à partir d'images.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Mélenchon veut sortir la France du commandement intégré de l’OTAN : ce que cela changerait",
-      "link": "https://armees.com/melenchon-sortie-commandement-integre-otan-2027-8-novembre/",
-      "pubDate": "2026-11-08T09:00:00.000Z",
-      "description": "Au Bourget, le 7 novembre, Jean-Luc Mélenchon a réaffirmé son projet de retrait progressif de l’OTAN, en commençant par son commandement militaire intégré. Cette proposition présidentielle pose une question concrète : comment la France organiserait-elle sa coopération militaire avec ses alliés européens ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Mattermost Server : de nouvelles vulnérabilités signalées par le CERT-FR",
-      "link": "https://armees.com/mattermost-server-certfr-avis-1479-novembre-2026-0811/",
-      "pubDate": "2026-11-08T08:38:48.000Z",
-      "description": "Le CERT-FR a publié le 6 novembre 2026 un avis de sécurité concernant Mattermost Server. Les organisations qui utilisent cette messagerie collaborative doivent vérifier les versions installées et consulter les correctifs de l'éditeur.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "« On en voit passer tous les jours maintenant » : un nouvel A400M étranger repéré dans les Pyrénées-Orientales, les habitants veulent des réponses",
-      "link": "https://armees.com/on-en-voit-passer-tous-les-jours-maintenant-un-nouvel-a400m-etranger-repere-dans-les-pyrenees-orientales-les-habitants-veulent-des-reponses/",
-      "pubDate": "2026-11-08T07:05:46.000Z",
-      "description": "Pourquoi un A400M britannique multiplie-t-il les loopings au-dessus des Pyrénées-Orientales ? Depuis octobre, le ciel catalan ne désemplit pas d'avions militaires. Explication surprenante d'un phénomène loin d'être anodin.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le ministère des Armées accélère la mise au point d’un canon électromagnétique pour la Marine avec le projet SPALE",
@@ -199,13 +227,6 @@
       "sourceKey": "geo"
     },
     {
-      "title": "Marine nationale : Le ministère des Armées va commander un nouveau standard du missile de croisière naval à MBDA",
-      "link": "https://www.opex360.com/2026/11/06/marine-nationale-le-ministere-des-armees-va-commander-un-nouveau-standard-du-missile-de-croisiere-naval-a-mbda/",
-      "pubDate": "2026-11-06T15:19:50.000Z",
-      "description": "Quand le contrat de développement et de production fut notifié à MBDA par la Direction générale de l’armement [DGA], le ministère des Armées envisageait d’acquérir 250 missiles de croisières navals [MdCN ou SCALP Naval] pour armer les dix-sept frégates multimissions [FREMM] qui étaient alors prévues ainsi que les six futurs sous-marins nucléaires d’attaque [SNA] de...\nCet article Marine nationale : Le ministère des Armées va commander un nouveau standard du missile de croisière naval à MBDA est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
       "title": "Une nouvelle vague d’alertes à la bombe vise des vols commerciaux en Europe ainsi que des médias",
       "link": "https://www.lemonde.fr/international/article/2026/11/06/alertes-a-la-bombe-quatre-vols-commerciaux-survolant-la-france-se-sont-poses-sans-encombre_6807787_3210.html",
       "pubDate": "2026-11-06T12:41:25.000Z",
@@ -213,25 +234,11 @@
       "sourceKey": "geo"
     },
     {
-      "title": "Armement terrestre : La nationalisation totale du groupe franco-allemand KNDS se précise",
-      "link": "https://www.opex360.com/2026/11/06/armement-terrestre-la-nationalisation-totale-du-groupe-franco-allemand-knds-se-precise/",
-      "pubDate": "2026-11-06T11:38:27.000Z",
-      "description": "Spécialiste franco-allemand de l’armement terrestre, KNDS est un groupe public et privé dans la mesure où, actuellement, il appartient, à parts égales, à l’État français, via Giat Industries, et à la famille Bode-Wegmann. Cette dernière ayant l’intention de céder ses parts, cette configuration va évoluer. En juin, Paris et Berlin ont annoncé avoir trouvé un...\nCet article Armement terrestre : La nationalisation totale du groupe franco-allemand KNDS se précise est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
       "title": "Le VBAE à l’heure des choix",
       "link": "https://forcesoperations.com/le-vbae-a-lheure-des-choix/",
       "pubDate": "2026-11-06T10:55:28.000Z",
       "description": "Tic tac… L'heure tourne et le véhicule blindé d'aide à l'engagement (VBAE) n'a toujours pas passé la seconde. Si le besoin reste intact de part et d'autre de la frontière franco-belge, le dossier navigue entre incertitude politico-budgétaire et reconfiguration industrielle. \nThe post Le VBAE à l’heure des choix appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "La France va-t-elle finalement maintenir sa participation au projet de corvette européenne ?",
-      "link": "https://www.opex360.com/2026/11/05/la-france-va-t-elle-finalement-maintenir-sa-participation-au-projet-de-corvette-europeenne/",
-      "pubDate": "2026-11-05T18:42:08.000Z",
-      "description": "La France va-t-elle finalement maintenir sa participation au projet de corvette européenne [EPC, encore appelé Multi Modular Patrol Corvette – MMPC], qu’elle a lancé, en 2019, avec l’Italie et la Grèce dans le cadre de la Coopération structurée permanente [CSP ou PESCO] afin de bénéficier de financements européens ? Rejoint, depuis, par l’Espagne et la...\nCet article La France va-t-elle finalement maintenir sa participation au projet de corvette européenne ? est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Ce que l’on sait des alertes à la bombe qui ont perturbé le trafic aérien en Europe",
@@ -351,13 +358,6 @@
       "pubDate": "2026-10-23T16:15:05.000Z",
       "description": "« Cette demande vise à préserver l’activité de l’entreprise », a fait savoir le groupe Europlasma dans un communiqué publié jeudi soir, quelques heures après en avoir informé les représentants des salariés lors d’un CSE extraordinaire.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Des jumelles Safran dans les mains des observateurs avancés suédois",
-      "link": "https://forcesoperations.com/des-jumelles-safran-dans-les-mains-des-observateurs-avances-suedois/",
-      "pubDate": "2026-10-23T10:06:26.000Z",
-      "description": "Un an. C'est le délai qu'il aura fallu à Safran Electronics & Defense pour produire et livrer une nouvelle capacité de désignation d'objectifs aux forces armées suédoises, capacité fondée sur une évolution de sa jumelle Moskito TI.\nThe post Des jumelles Safran dans les mains des observateurs avancés suédois appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
     },
     {
       "title": "Toulon : des drones non autorisés ont survolé la base navale et d’autres sites militaires, selon la marine nationale",
