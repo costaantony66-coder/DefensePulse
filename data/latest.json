@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T00:56:27.248Z",
+  "generatedAt": "2026-11-09T07:37:31.393Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "title": "Des archéologues fouillent la dune du Pilat et tombent sur des vestiges de l’Âge de fer que personne ne soupçonnait sous le sable",
+      "link": "https://armees.com/des-archeologues-fouillent-la-dune-du-pilat-et-tombent-sur-des-vestiges-de-lage-de-fer-que-personne-ne-soupconnait-sous-le-sable/",
+      "pubDate": "2026-11-09T07:05:33.000Z",
+      "description": "Sous le sable de la dune du Pilat, des pêcheurs de l'Âge de fer ont laissé leurs outils. Filets, céramiques, habitat enfoui : un pan entier du littoral refait surface après 2 500 ans de silence.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Allemagne : Christian Freuding nommé futur chef d’état-major des armées",
+      "link": "https://armees.com/allemagne-christian-freuding-chef-etat-major-fevrier-2027/",
+      "pubDate": "2026-11-09T06:13:21.000Z",
+      "description": "Berlin a annoncé le 5 novembre la nomination de Christian Freuding à la tête des forces armées allemandes à compter de février 2027. Cette transition intervient alors que son prédécesseur doit rejoindre la direction militaire de l’OTAN.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Black Sky : la BBC prépare un plan d’urgence en cas de panne électrique générale au Royaume-Uni",
+      "link": "https://armees.com/black-sky-bbc-plan-urgence-panne-electrique-royaume-uni/",
+      "pubDate": "2026-11-09T05:54:58.000Z",
+      "description": "La BBC a détaillé son dispositif « Black Sky » destiné à maintenir des émissions radio en cas de panne électrique nationale au Royaume-Uni. Un studio autonome, une centaine de personnels mobilisables et au moins trois jours de réserves sont prévus.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Russie : comment Moscou a bâti une forteresse de drones en 90 jours",
+      "link": "https://armees.com/millerovo-base-drones-geran-strategie-russe-2026/",
+      "pubDate": "2026-11-09T05:52:42.000Z",
+      "description": "En moins de trois mois, la Russie a transformé un terrain agricole près de Millerovo en base de lancement de drones Geran-5 capable de 100 attaques quotidiennes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Les Houthis frappent le quartier financier de Riyad",
+      "link": "https://armees.com/missiles-houthis-defenses-aeriennes-arabie-saoudite-2026/",
+      "pubDate": "2026-11-09T05:33:23.000Z",
+      "description": "Le 8 novembre 2026, les Houthis ont frappé Riyad avec quatre missiles, endommageant la tour Aramco dans le district financier.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Mattermost Server : le CERT-FR signale de nouvelles vulnérabilités et précise les versions à corriger",
+      "link": "https://armees.com/cert-fr-mattermost-server-vulnerabilites-6-novembre-2026-1479/",
+      "pubDate": "2026-11-09T03:37:28.000Z",
+      "description": "Dans un avis du 6 novembre, le CERT-FR alerte sur plusieurs vulnérabilités affectant quatre branches de Mattermost Server. Les administrateurs sont invités à confronter leurs versions aux seuils indiqués et à consulter les correctifs de l’éditeur.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La NASA prépare une base lunaire : pourquoi le pôle Sud devient un enjeu stratégique face à la Chine",
+      "link": "https://armees.com/nasa-base-lunaire-enjeu-strategique-chine-2026/",
+      "pubDate": "2026-11-09T03:21:09.000Z",
+      "description": "Les États-Unis accélèrent leur installation sur la Lune. Le 7 novembre 2026, la NASA a annoncé de nouveaux contrats pour des atterrisseurs, des véhicules de transport et des satellites de communication.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Splunk : le CERT-FR signale plusieurs failles menaçant les données et les systèmes",
       "link": "https://armees.com/splunk-certfr-vulnerabilites-donnees-systemes-20261108-2236/",
@@ -101,53 +150,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Des archéologues réussissent à déchiffrer le cadenas à combinaison vieux de 400 ans d’une épave",
-      "link": "https://armees.com/des-archeologues-reussissent-a-dechiffrer-le-cadenas-a-combinaison-vieux-de-400-ans-dune-epave/",
-      "pubDate": "2026-11-08T06:35:26.000Z",
-      "description": "Pendant 20 ans, un homme a tenté en vain d'ouvrir ce cadenas vieux de 400 ans retrouvé dans le sable gallois. Des scientifiques viennent de percer son mystère grâce à un scanner d'hôpital. La combinaison va vous surprendre.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "3 200 avions laissés à l’abandon dans le désert de l’Arizona, quelle en est leur utilité ?",
-      "link": "https://armees.com/3-200-avions-laisses-a-labandon-dans-le-desert-de-larizona-quelle-en-est-leur-utilite/",
-      "pubDate": "2026-11-08T06:05:00.000Z",
-      "description": "Un cimetière d'avions en Arizona qui n'enterre rien : 3200 appareils y attendent une seconde vie, entre drones cibles, pièces détachées et hélicoptères russes repeints aux couleurs ukrainiennes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Porte-avions France Libre : le défi numérique et aéronaval à relever avant 2038",
-      "link": "https://armees.com/porte-avions-france-libre-architecture-numerique-drones-2038-2026/",
-      "pubDate": "2026-11-08T05:00:44.000Z",
-      "description": "Le ministère des Armées a détaillé le 6 novembre 2026 l'architecture du futur porte-avions France Libre : propulsion nucléaire, catapultes électromagnétiques, drones et système numérique sécurisé.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le ministère des Armées accélère la mise au point d’un canon électromagnétique pour la Marine avec le projet SPALE",
       "link": "https://www.opex360.com/2026/11/07/le-ministere-des-armees-accelere-la-mise-au-point-dun-canon-electromagnetique-pour-la-marine-avec-le-projet-spale/",
       "pubDate": "2026-11-07T15:11:58.000Z",
       "description": "En mars, il a été rapporté que l’US Navy avait discrètement relancé le développement d’un canon électromagnétique [ou «railgun»], qu’elle avait suspendu en 2021 pour des raisons budgétaires, après plus de quinze années de recherches menées par l’Office of Naval Research [ONR], BAE Systems et General Atomics. Dans le même temps, d’autres pays ont avancé...\nCet article Le ministère des Armées accélère la mise au point d’un canon électromagnétique pour la Marine avec le projet SPALE est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Espionnage économique : les précautions recommandées par la DGSI aux entreprises",
-      "link": "https://armees.com/espionnage-economique-entreprises-dgsi-audits-donnees-sensibles-2026/",
-      "pubDate": "2026-11-07T15:00:30.000Z",
-      "description": "Réseaux sociaux, audits étrangers, déplacements professionnels : la DGSI détaille les points de vigilance pour protéger les informations stratégiques des entreprises.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Pologne : cinq morts dans une fusillade sur la grande place de Cracovie",
-      "link": "https://armees.com/pologne-fusillade-cracovie-7-novembre-2026/",
-      "pubDate": "2026-11-07T14:45:11.000Z",
-      "description": "Une fusillade survenue samedi 7 novembre 2026 sur la place principale de Cracovie a fait au moins cinq morts et douze blessés, selon la police citée par l’Associated Press. Un suspect a été interpellé. Le mobile de l’attaque reste inconnu.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Le Maroc possède d’immenses réserves de phosphate, mais une pénurie de soufre freine ses usines",
-      "link": "https://armees.com/le-maroc-possede-dimmenses-reserves-de-phosphate-mais-une-penurie-de-soufre-freine-ses-usines/",
-      "pubDate": "2026-11-07T13:07:00.000Z",
-      "description": "La crise du détroit d'Ormuz a mis en difficulté l'un des principaux producteurs mondiaux d'engrais phosphatés. Malgré ses importantes ressources minières, le Maroc dépend d'approvisionnements étrangers en soufre pour transformer son phosphate. Une vulnérabilité industrielle qui dépasse largement le secteur agricole.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le chasseur-bombardier F-35B a largué un missile air-air [inerte] METEOR pour la première fois",
@@ -169,13 +176,6 @@
       "pubDate": "2026-11-07T11:02:23.000Z",
       "description": "Les récents débats sur le porte-avions de nouvelle génération [PANG] «France Libre» ont surtout porté sur le risque de dépendance à l’égard des États-Unis avec la décision de doter ce futur navire de catapultes électromagnétiques [EMALS] conçues par General Atomics. Risque que l’amiral Christophe Cluzel, le chef d’état-major de la Marine nationale [CEMM] a écarté,...\nCet article À son tour, Sierra Nevada renonce à l’appel d’offres de l’US Navy pour remplacer l’avion d’entraînement T45C Goshawk est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Alertes à la bombe dans les avions : pourquoi des chasseurs français ont escorté un vol vers Évreux",
-      "link": "https://armees.com/alertes-bombe-avions-chasseurs-francais-evreux-novembre-2026/",
-      "pubDate": "2026-11-07T10:20:00.000Z",
-      "description": "Une série de menaces visant des avions civils en Europe a entraîné des décollages d'urgence de chasseurs et des déroutements. En France, un appareil Aer Lingus a été escorté vers la base d'Évreux, sans découverte d'explosifs signalée.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La France, Chypre et la Suède ont signé un accord-cadre pour l’acquisition conjointe de missiles antichars Akeron MP",
