@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T21:12:56.760Z",
+  "generatedAt": "2026-11-09T00:56:27.248Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Splunk : le CERT-FR signale plusieurs failles menaçant les données et les systèmes",
+      "link": "https://armees.com/splunk-certfr-vulnerabilites-donnees-systemes-20261108-2236/",
+      "pubDate": "2026-11-08T20:36:55.000Z",
+      "description": "Un avis du CERT-FR daté du 6 novembre 2026 recense plusieurs vulnérabilités dans les produits Splunk. Certaines exposent les systèmes à une exécution de code à distance ou à des atteintes à la confidentialité et à l’intégrité des données.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Un soldat espagnol meurt pendant un entraînement militaire à Saragosse",
       "link": "https://armees.com/soldat-espagnol-deces-entrainement-saragosse-8-novembre-2026/",
@@ -168,13 +175,6 @@
       "link": "https://armees.com/alertes-bombe-avions-chasseurs-francais-evreux-novembre-2026/",
       "pubDate": "2026-11-07T10:20:00.000Z",
       "description": "Une série de menaces visant des avions civils en Europe a entraîné des décollages d'urgence de chasseurs et des déroutements. En France, un appareil Aer Lingus a été escorté vers la base d'Évreux, sans découverte d'explosifs signalée.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Mikhail Andropov, le mystérieux signataire des menaces à la bombe qui visent l’Europe",
-      "link": "https://armees.com/mikhail-andropov-menaces-bombe-europe-medias/",
-      "pubDate": "2026-11-07T09:18:58.000Z",
-      "description": "Des courriels signés « Mikhail Andropov » ont provoqué l'évacuation de plusieurs rédactions européennes le 6 novembre 2026. Leur auteur revendique également les alertes à la bombe qui ont perturbé des dizaines de vols. Son identité reste inconnue, tandis que les autorités examinent l'hypothèse d'une campagne de déstabilisation.",
       "sourceKey": "armees_com"
     },
     {
