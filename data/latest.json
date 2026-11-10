@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T17:47:04.721Z",
+  "generatedAt": "2026-11-10T01:03:03.484Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Drones de combat : l’Allemagne récupère le code source du logiciel MissionOSBw de Helsing",
+      "link": "https://armees.com/allemagne-bundeswehr-helsing-code-source-missionosbw-drones-combat-2026/",
+      "pubDate": "2026-11-09T22:22:52.000Z",
+      "description": "Le 4 novembre, l'autorité allemande d'acquisition militaire a annoncé avoir reçu le code source de MissionOSBw, développé par Helsing pour de futurs systèmes de combat aérien. Berlin veut pouvoir intégrer des équipements de plusieurs fournisseurs sans dépendre d'un seul industriel.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : l’UE prolonge de deux ans sa mission de formation militaire et prévoit près de 300 millions d’euros",
+      "link": "https://armees.com/ukraine-eumam-ue-prolongation-formation-militaire-300-millions-2028/",
+      "pubDate": "2026-11-09T22:14:29.000Z",
+      "description": "Le Conseil de l'Union européenne a prolongé le 9 novembre le mandat de la mission EUMAM Ukraine jusqu'au 15 novembre 2028. Une enveloppe de près de 300 millions d'euros et une présence de coordination en Ukraine accompagnent cette décision.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La Royal Navy se dote de sa première flottille entièrement  dronisée",
+      "link": "https://www.opex360.com/2026/11/09/la-royal-navy-se-dote-de-sa-premiere-flottille-entierement-dronisee/",
+      "pubDate": "2026-11-09T18:41:41.000Z",
+      "description": "Après les premiers lancements de drones d’attaque Nyan depuis le porte-avions HMS Queen Elizabeth dans le cadre du projet «Vantage», la marine britannique poursuit sa transformation en flotte navale «hybride», conformément aux orientations fixées par le général Gwyn Jenkins, son chef d’état-major. En effet, ce 9 novembre, la Royal Navy a annoncé la création de...\nCet article La Royal Navy se dote de sa première flottille entièrement  dronisée est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Satellites militaires IRIS : la DGA attribue un contrat de plus de 1,5 milliard d’euros à Airbus et Thales",
+      "link": "https://armees.com/satellites-militaires-iris-contrat-airbus-thales-15-milliard-novembre-2026/",
+      "pubDate": "2026-11-09T18:15:10.000Z",
+      "description": "La DGA a confirmé le 9 novembre 2026 l’attribution du programme IRIS à Airbus Defence and Space et Thales Alenia Space. Le contrat de plus de 1,5 milliard d’euros couvre deux satellites d’observation militaire et leurs systèmes au sol, afin de préparer la relève des CSO.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pompiers des Alpes-Maritimes : la chambre des comptes pointe des coûts élevés et des faiblesses de gestion",
+      "link": "https://armees.com/sdis-06-alpes-maritimes-chambre-comptes-pompiers-gestion-cout-9-novembre-2026-1551/",
+      "pubDate": "2026-11-09T17:56:00.000Z",
+      "description": "La chambre régionale des comptes Provence-Alpes-Côte d’Azur demande au SDIS des Alpes-Maritimes de revoir le pilotage de ses effectifs, ses dépenses et ses investissements. Le rapport relève un coût de fonctionnement de 128 euros par habitant, un programme de casernes susceptible d’absorber les réserves et des versements indemnitaires irréguliers.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cyberattaques contre plus de 700 supermarchés : la France attribue le sabotage à l’Iran",
+      "link": "https://armees.com/cyberattaques-iran-france-supermarches-attribution-c4-anssi-091126/",
+      "pubDate": "2026-11-09T17:36:38.000Z",
+      "description": "La France attribue à une unité liée aux Gardiens de la révolution iraniens les attaques informatiques ayant visé des installations frigorifiques de plus de 700 sites de la grande distribution en octobre. L’ANSSI publie son analyse et Paris annonce une convocation de l’ambassadeur iranien ainsi qu’une initiative en faveur de nouvelles sanctions européennes.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Le ministère des Armées lance la réalisation de deux satellites d’observation IRIS pour 1,5 milliard d’euros",
       "link": "https://www.opex360.com/2026/11/09/le-ministere-des-armees-lance-la-realisation-de-deux-satellites-dobservation-iris-pour-15-milliard-deuros/",
@@ -129,41 +171,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "À l’approche du 13-Novembre, comment l’opération Sentinelle a changé en 2026",
-      "link": "https://armees.com/operation-sentinelle-13-novembre-2026-evolution-missions-protection/",
-      "pubDate": "2026-11-09T09:12:38.000Z",
-      "description": "Onze ans après les attentats du 13 novembre 2015, Sentinelle protège toujours le territoire. Ses missions se sont élargies au-delà de l’antiterrorisme.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Lanceurs pour missiles guidés de pointe : ces documents établissent que la Russie a orchestré la livraison d’armes à l’Iran",
-      "link": "https://armees.com/lanceurs-pour-missiles-guides-de-pointe-ces-documents-etablissent-que-la-russie-a-orchestre-la-livraison-darmes-a-liran/",
-      "pubDate": "2026-11-09T08:05:00.000Z",
-      "description": "90 lanceurs de missiles, des satellites, des composants d'armement : malgré ses propres besoins en Ukraine, la Russie n'aurait jamais cessé d'armer Téhéran. Des documents inédits révèlent l'ampleur réelle de ce partenariat que Moscou dément farouchement.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre en Ukraine : les pertes russes pèsent de plus en plus sur le renouvellement des troupes",
-      "link": "https://armees.com/guerre-en-ukraine-les-pertes-russes-pesent-de-plus-en-plus-sur-le-renouvellement-des-troupes/",
-      "pubDate": "2026-11-09T07:58:06.000Z",
-      "description": "Une fuite présumée de données administratives russes fait état de près de 400 000 décès liés à la guerre en Ukraine depuis février 2022. Si ces chiffres restent à authentifier définitivement, ils renforcent les interrogations sur la capacité de Moscou à remplacer ses soldats tout en maintenant ses opérations offensives.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Les États-Unis veulent contrôler les voies terrestres menant à l’Iran pour stopper le transit d’armes sophistiquées",
-      "link": "https://armees.com/les-etats-unis-veulent-controler-les-voies-terrestres-menant-a-liran-pour-stopper-le-transit-darmes-sophistiquees/",
-      "pubDate": "2026-11-09T07:35:00.000Z",
-      "description": "25 milliards de dollars de pétrole déjà bloqués, sept pays frontaliers sous surveillance, et Téhéran qui jure que ça ne marchera jamais. Qui a raison ? La suite révèle une escalade explosive dans le détroit d'Ormuz.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Attentat à Cracovie : six morts, le tireur décédé, une enquête pour terrorisme",
-      "link": "https://armees.com/attentat-cracovie-six-morts-tireur-decede-enquete-terrorisme/",
-      "pubDate": "2026-11-09T07:26:51.000Z",
-      "description": "Six personnes ont été tuées et quinze blessées samedi 7 novembre 2026 à Cracovie. L'assaillant, un Polonais de 24 ans, est mort lundi matin. Les enquêteurs examinent un possible mobile idéologique et la mort de trois membres de sa famille.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le porte-avions britannique HMS Queen Elizabeth a lancé ses premiers drones d’attaque",
       "link": "https://www.opex360.com/2026/11/08/le-porte-avions-britannique-hms-queen-elizabeth-a-lance-ses-premiers-drones-dattaque/",
       "pubDate": "2026-11-08T12:13:27.000Z",
@@ -210,13 +217,6 @@
       "link": "https://www.opex360.com/2026/11/06/la-france-chypre-et-la-suede-ont-signe-un-accord-cadre-pour-lacquisition-conjointe-de-missiles-antichars-akeron-mp/",
       "pubDate": "2026-11-06T18:32:50.000Z",
       "description": "En juillet 2021, la Direction générale de l’armement [DGA] et l’Administration suédoise du matériel de défense [Försvarets materielverk, FMV] établirent une coopération dans le domaine des missiles antichars, basée sur l’Akeron MP [ex-Missile Moyenne Portée], développé par MBDA et utilisé par l’armée de Terre. Cette coopération fut ensuite confirmée en janvier 2024, avec l’adoption par...\nCet article La France, Chypre et la Suède ont signé un accord-cadre pour l’acquisition conjointe de missiles antichars Akeron MP est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Les hélicoptères H145M allemands dédiés à la lutte antichar ne pourront pas être opérationnels dans les délais prévus",
-      "link": "https://www.opex360.com/2026/11/06/les-helicopteres-h145m-allemands-dedies-a-la-lutte-antichar-ne-pourront-pas-etre-operationnels-dans-les-delais-prevus/",
-      "pubDate": "2026-11-06T17:52:24.000Z",
-      "description": "En 2023, le ministère allemand de la Défense fit savoir qu’il allait retirer progressivement du service les 51 hélicoptères de reconnaissance et d’attaque EC665 Tigre de la Bundeswehr [Forces armées fédérales] à partir de 2031. Ce qui ne fut sans conséquence pour le programme de rénovation à mi-vie de cet appareil, l’Allemagne ayant ainsi lâché...\nCet article Les hélicoptères H145M allemands dédiés à la lutte antichar ne pourront pas être opérationnels dans les délais prévus est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
