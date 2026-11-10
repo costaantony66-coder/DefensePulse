@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T16:35:20.058Z",
+  "generatedAt": "2026-11-10T21:55:49.023Z",
   "sources": [
     {
       "key": "opex",
@@ -24,11 +24,60 @@
   ],
   "items": [
     {
+      "title": "Naval Group a notifié un contrat de 180 millions d’euros à Saab pour équiper les futures frégates suédoises",
+      "link": "https://www.opex360.com/2026/11/10/naval-group-a-notifie-un-contrat-de-180-millions-deuros-a-saab-pour-equiper-les-futures-fregates-suedoises/",
+      "pubDate": "2026-11-10T18:33:39.000Z",
+      "description": "En août 2025, la Norvège fit connaître son intention de se procurer au moins cinq frégates de Type 26 [ou classe City] auprès du britannique BAE Systems dans le cadre d’un investissement de 8,5 milliards d’euros. Et cela aux dépens, entre autres, du français Naval Group, qui avait soumis la candidature de sa Frégate de...\nCet article Naval Group a notifié un contrat de 180 millions d’euros à Saab pour équiper les futures frégates suédoises est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Frappes de précision : l’OTAN réunit industriels et alliés pour accélérer missiles et drones",
+      "link": "https://armees.com/otan-frappes-precision-reunion-industriels-bruxelles-10-novembre-2026/",
+      "pubDate": "2026-11-10T18:17:29.000Z",
+      "description": "Réunis à Bruxelles le 10 novembre 2026, l’OTAN, plusieurs pays alliés et des industriels ont examiné les moyens de produire plus rapidement des capacités de frappe de précision en profondeur. Cette concertation porte sur les besoins, l’interopérabilité et les achats futurs, et ne constitue pas l’annonce d’une livraison d’armes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Au Pentagone, des recherches sur Internet auraient décidé du sort d’officiers promis à une promotion",
+      "link": "https://armees.com/pentagone-hegseth-promotions-officiers-recherches-internet-2026/",
+      "pubDate": "2026-11-10T18:07:46.000Z",
+      "description": "Une enquête du 9 novembre 2026 décrit comment des officiers américains expérimentés auraient été écartés après l’examen de leurs activités publiques. Des investigations antérieures confirment des blocages de promotions, sans établir toutes les accusations récentes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : quatre heures de discussions à Abou Dhabi, mais aucune trêve annoncée",
+      "link": "https://armees.com/ukraine-russie-abu-dhabi-premier-jour-pourparlers-10-novembre-2026/",
+      "pubDate": "2026-11-10T18:00:00.000Z",
+      "description": "Le 10 novembre, des représentants ukrainiens, russes et américains ont achevé une première journée de discussions à Abou Dhabi, après plusieurs mois sans réunion trilatérale. Les échanges ont porté sur les prisonniers et les garanties de sécurité, sans annonce de cessez-le-feu.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Le norvégien Kongsberg Maritime développe un drone naval de lutte anti-sous-marine à partir d’un chalutier",
+      "link": "https://www.opex360.com/2026/11/10/le-norvegien-kongsberg-maritime-developpe-un-drone-naval-de-lutte-anti-sous-marine-a-partir-dun-chalutier/",
+      "pubDate": "2026-11-10T17:52:08.000Z",
+      "description": "Dans un entretien accordé à Marine & Océans, le 9 novembre, le chef d’état-major de la Marine nationale [CEMM], l’amiral Christophe Cluzel, a dit souhaité «accélérer l’hybridation raisonnée» de la flotte, laissant ainsi entendre que le recours aux drones, qu’ils soient aériens ou de navals, se ferait de manière ordonnée. «Le système de forces que...\nCet article Le norvégien Kongsberg Maritime développe un drone naval de lutte anti-sous-marine à partir d’un chalutier est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Blue Dome : la Belgique met un terme à trois décennies sans défense sol-air",
+      "link": "https://forcesoperations.com/blue-dome-la-belgique-met-un-terme-a-trois-decennies-sans-defense-sol-air/",
+      "pubDate": "2026-11-10T17:17:25.000Z",
+      "description": "Pas à pas, la Défense belge renoue avec une défense sol-air digne de ce nom. Après une première vague d’acquisitions, un embryon d'unité vient d'être réactivée à Bruxelles dans le cadre du projet Blue Dome.  Un nouveau fanion est venu grossir les rangs de la Force aérienne belge. Avec son aigle encerclé de rouge, l'emblème […]\nThe post Blue Dome : la Belgique met un terme à trois décennies sans défense sol-air appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
       "title": "Plus de 17 000 pièces détachées de F-35, d’une valeur totale de 1,3 milliard de dollars, manquent à l’appel",
       "link": "https://www.opex360.com/2026/11/10/plus-de-17-000-pieces-detachees-de-f-35-dune-valeur-totale-de-13-milliard-de-dollars-manquent-a-lappel/",
       "pubDate": "2026-11-10T16:00:59.000Z",
       "description": "Cet été, parce qu’un employé du prestataire logistique UPS a ignoré [ou manqué] un courriel adressé par la société de transport DSV A/S, mandatée par Lockheed Martin, des pièces d’un chasseur-bombardier F-35A australien, à savoir la verrière du cockpit et la trappe de la soute à munitions, ont pris la direction de Hong Kong au...\nCet article Plus de 17 000 pièces détachées de F-35, d’une valeur totale de 1,3 milliard de dollars, manquent à l’appel est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Frégates FDI : ce que change vraiment le radar Sea Fire à quatre panneaux fixes",
+      "link": "https://armees.com/radar-sea-fire-fdi-quatre-panneaux-veille-20261110-1655/",
+      "pubDate": "2026-11-10T15:04:51.000Z",
+      "description": "Quatre faces fixes, veille simultanée de la mer et du ciel, intégration aux missiles Aster : décryptage des capacités documentées du radar Sea Fire des frégates FDI.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "CISEX 2026 : à Évreux, l’armée de l’Air teste la résilience de ses communications déployables",
@@ -122,34 +171,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Iran : Washington crée un groupe de travail de 20 membres pour bloquer les routes terrestres",
-      "link": "https://armees.com/etats-unis-blocus-terrestre-iran-operations-2026/",
-      "pubDate": "2026-11-10T08:45:04.000Z",
-      "description": "Washington intensifie son encerclement de l'Iran avec la création d'un groupe de travail de 20 membres civils et militaires chargé de bloquer les routes terrestres d'approvisionnement. Piloté depuis la Floride par le Centcom, ce dispositif complète le blocus naval qui a déjà privé Téhéran de 25 milliards de dollars d'exportations pétrolières.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Contre-offensive ukrainienne : en 2023, le silence faisait partie de la stratégie militaire",
-      "link": "https://armees.com/contre-offensive-ukraine-silence-strategie-militaire-2023/",
-      "pubDate": "2026-11-10T07:52:03.000Z",
-      "description": "Pendant la contre-offensive de 2023, l’Ukraine devait entretenir la confiance de sa population et de ses alliés sans dévoiler ses opérations. Un rapport de 2026 montre que cette contrainte a rendu les messages officiels moins homogènes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "A321 MPA : ce que la France a déjà lancé pour remplacer ses Atlantique 2",
-      "link": "https://armees.com/airbus-a321-mpa-etude-dga-remplacement-atlantique2-20261110-0855/",
-      "pubDate": "2026-11-10T07:04:38.000Z",
-      "description": "Airbus et Thales étudient l'avion de patrouille maritime A321 MPA. La préparation d'un lancement du programme fin 2026 ne signifie pas que la Marine a déjà commandé sa flotte.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Le FSB accusé d’orchestrer un trafic de migrants vers l’Union européenne",
-      "link": "https://armees.com/fsb-reseaux-passeurs-migrants-union-europeenne-2026/",
-      "pubDate": "2026-11-10T06:39:00.000Z",
-      "description": "Une enquête de The Insider met en cause le FSB russe dans la coordination de réseaux de passeurs acheminant des migrants vers l’Union européenne. Les gardes-frontières confirment plusieurs itinéraires, mais le rôle opérationnel précis des services russes reste à établir indépendamment.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La Royal Navy se dote de sa première flottille entièrement  dronisée",
       "link": "https://www.opex360.com/2026/11/09/la-royal-navy-se-dote-de-sa-premiere-flottille-entierement-dronisee/",
       "pubDate": "2026-11-09T18:41:41.000Z",
@@ -196,20 +217,6 @@
       "link": "https://www.opex360.com/2026/11/08/arianegroup-suggere-darmer-la-fregate-de-defense-et-dintervention-avec-des-missiles-balistiques-antinavires/",
       "pubDate": "2026-11-08T11:10:01.000Z",
       "description": "En 2018, alors chef d’état-major de la Marine nationale [CEMM], l’amiral Christophe Prazuck avait relativisé la menace du missile balistique antinavire chinois DF-21, dont il était fait grand cas car présenté comme étant un «tueur de porte-avions». En effet, une fois lancé, un missile balistique suit une trajectoire suborbitale «en cloche», pour ensuite plonger vers...\nCet article ArianeGroup suggère d’armer la Frégate de défense et d’intervention avec des missiles balistiques antinavires est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Le ministère des Armées accélère la mise au point d’un canon électromagnétique pour la Marine avec le projet SPALE",
-      "link": "https://www.opex360.com/2026/11/07/le-ministere-des-armees-accelere-la-mise-au-point-dun-canon-electromagnetique-pour-la-marine-avec-le-projet-spale/",
-      "pubDate": "2026-11-07T15:11:58.000Z",
-      "description": "En mars, il a été rapporté que l’US Navy avait discrètement relancé le développement d’un canon électromagnétique [ou «railgun»], qu’elle avait suspendu en 2021 pour des raisons budgétaires, après plus de quinze années de recherches menées par l’Office of Naval Research [ONR], BAE Systems et General Atomics. Dans le même temps, d’autres pays ont avancé...\nCet article Le ministère des Armées accélère la mise au point d’un canon électromagnétique pour la Marine avec le projet SPALE est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Le chasseur-bombardier F-35B a largué un missile air-air [inerte] METEOR pour la première fois",
-      "link": "https://www.opex360.com/2026/11/07/le-chasseur-bombardier-f-35b-a-largue-un-missile-air-air-inerte-meteor-pour-la-premiere-fois/",
-      "pubDate": "2026-11-07T12:31:05.000Z",
-      "description": "Pour le moment, la Royal Air Force et la Fleet Air Arm ne peuvent pas exploiter pleinement les capacités de leurs chasseurs-bombardiers F-35B [la version à décollage court et à atterrissage vertical] car ces derniers ne sont pas encore qualifiés pour emporter les missiles SPEAR 3 [air-sol] et METEOR [air-air], produits par MBDA. Et cela...\nCet article Le chasseur-bombardier F-35B a largué un missile air-air [inerte] METEOR pour la première fois est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -344,13 +351,6 @@
       "pubDate": "2026-10-26T16:00:03.000Z",
       "description": "Dans une tribune au « Monde », les ministres allemand, britannique, français, italien et polonais de la défense, réunis le 26 octobre à Paris pour le sommet du groupe européen des Cinq (E5), affirment leur volonté d’œuvrer ensemble, au sein de l’OTAN, pour le renforcement de la sécurité du continent.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Une rallonge de systèmes SAMP/T NG enfin actée par la France",
-      "link": "https://forcesoperations.com/une-rallonge-de-systemes-samp-t-ng-enfin-actee-par-la-france/",
-      "pubDate": "2026-10-24T09:36:41.000Z",
-      "description": "Le dossier était sur la table depuis un moment. La Direction générale de l'armement (DGA) a enfin commandé quatre sections SAMP/T NG supplémentaires au profit de l'armée de l'Air et de l'Espace, un contrat attribué à Eurosam et par l'entremise de l'OCCAr. Et de 12. Si la loi de programmation militaire avait ajouté quatre sections […]\nThe post Une rallonge de systèmes SAMP/T NG enfin actée par la France appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
     },
     {
       "title": "Les Forges de Tarbes, producteurs des corps d’obus du canon Caesar, demandent leur placement en redressement judiciaire",
