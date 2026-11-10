@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T01:03:03.484Z",
+  "generatedAt": "2026-11-10T08:27:10.451Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,97 @@
     }
   ],
   "items": [
+    {
+      "title": "Le FSB accusé d’orchestrer un trafic de migrants vers l’Union européenne",
+      "link": "https://armees.com/fsb-reseaux-passeurs-migrants-union-europeenne-2026/",
+      "pubDate": "2026-11-10T06:39:00.000Z",
+      "description": "Une enquête de The Insider met en cause le FSB russe dans la coordination de réseaux de passeurs acheminant des migrants vers l’Union européenne. Les gardes-frontières confirment plusieurs itinéraires, mais le rôle opérationnel précis des services russes reste à établir indépendamment.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Des archéologues ont trouvé des indices montrant que les anciens Égyptiens ont érigé leur plus vieille pyramide avec une machine high-tech futuriste",
+      "link": "https://armees.com/des-archeologues-ont-trouve-des-indices-montrant-que-les-anciens-egyptiens-ont-erige-leur-plus-vieille-pyramide-avec-une-machine-high-tech-futuriste/",
+      "pubDate": "2026-11-10T06:35:47.000Z",
+      "description": "Et si les pyramides n'avaient jamais été bâties à la force des bras, mais grâce à l'eau ? Une théorie française bouscule tout ce qu'on croyait savoir sur Djéser, entre adhésion et vives contestations.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "MBDA reprend plus de 200 spécialistes et lance MILLIADES, sa nouvelle filiale électronique",
+      "link": "https://armees.com/mbda-milliades-filiale-ingenierie-electronique-200-specialistes-2026/",
+      "pubDate": "2026-11-10T06:20:00.000Z",
+      "description": "Le missilier européen a annoncé le 9 novembre la création de MILLIADES à partir d'activités de Centum T&S reprises sur trois sites français. La filiale, détenue intégralement par MBDA France, regroupe plus de 200 collaborateurs en électronique et systèmes embarqués. Les contrats existants restent inchangés.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : l’exercice Koalicja débute en Pologne avec 2 800 militaires et des drones français",
+      "link": "https://armees.com/ukraine-koalicja-debut-exercice-pologne-2800-militaires-9-novembre-2026/",
+      "pubDate": "2026-11-10T06:18:37.000Z",
+      "description": "Les premières manœuvres de la Force multinationale pour l’Ukraine ont débuté le 9 novembre en Pologne, avec environ 2 800 militaires de onze pays. Paris et Londres testent la logistique, le commandement et la protection d'une force qui ne pourrait intervenir en Ukraine qu'après la fin des combats.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "« Ils seront écrasés à mort » : comment des scientifiques ont annoncé la fin du monde pour le 13 novembre 2026",
+      "link": "https://armees.com/ils-seront-ecrases-a-mort-comment-des-scientifiques-ont-annonce-la-fin-du-monde-pour-le-13-novembre-2026/",
+      "pubDate": "2026-11-10T06:05:55.000Z",
+      "description": "En 1960, une équation scientifique fixait la fin du monde au 13 novembre 2026, non par guerre ou astéroïde, mais par surpopulation. Son étrange précision a longtemps troublé les experts. Avait-elle raison ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Missile METEOR sur F-35B : le premier largage réussi ne vaut pas encore un tir",
+      "link": "https://armees.com/meteor-f35b-premier-largage-essai-mbda-20261110-0655/",
+      "pubDate": "2026-11-10T05:06:09.000Z",
+      "description": "Le 5 novembre 2026, MBDA a annoncé un essai de séparation du missile METEOR depuis la soute d'un F-35B, réalisé le 7 octobre aux États-Unis. Une étape d'intégration importante, distincte d'un tir réel.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pourquoi Hegseth risque l’impeachment pour ses frappes en Iran",
+      "link": "https://armees.com/operations-iran-autorisation-congres-hegseth-accusations/",
+      "pubDate": "2026-11-10T04:50:38.000Z",
+      "description": "Le secrétaire à la Défense Pete Hegseth est visé par huit articles d'impeachment déposés par le républicain Thomas Massie. L'accusation principale : avoir mené des opérations militaires en Iran pendant plus de 90 jours sans autorisation du Congrès, violant le War Powers Resolution. Un vote forcé doit intervenir avant mercredi.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "FINUL au Liban : ce que les Casques bleus pourront encore faire après décembre 2026",
+      "link": "https://armees.com/finul-liban-mandat-decembre-2026-retrait-2027-missions-20261110-0555/",
+      "pubDate": "2026-11-10T04:09:43.000Z",
+      "description": "La résolution 2790 prévoit l'arrêt des opérations de la FINUL le 31 décembre 2026, suivi d'un retrait pouvant durer un an. Sécurisation des convois, aide humanitaire et transfert aux forces libanaises restent encadrés.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cyberguerre : comment l’Iran a saboté les frigos français",
+      "link": "https://armees.com/cyberguerre-iran-cgri-shahid-kaveh-infrastructure/",
+      "pubDate": "2026-11-10T04:09:20.000Z",
+      "description": "Le 9 novembre 2026, la France accuse officiellement l'unité Shahid Kaveh du Corps des Gardiens de la Révolution iranien d'avoir orchestré la cyberattaque massive contre 700 sites de distribution français les 11-12 octobre.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pete Hegseth visé par huit accusations : un républicain relance son impeachment au Congrès",
+      "link": "https://armees.com/hegseth-huit-accusations-impeachment-massie-congres-10-novembre-2026/",
+      "pubDate": "2026-11-10T02:20:00.000Z",
+      "description": "Le 9 novembre 2026, le député républicain Thomas Massie a réactivé une procédure visant le secrétaire américain à la Défense Pete Hegseth. Huit articles d'accusation concernent notamment la guerre en Iran. La Chambre doit examiner cette initiative, mais aucune destitution n'a été votée.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Écoles de guerre américaines : Hegseth impose 33 directives, l’IA et les wargames au cœur de la formation",
+      "link": "https://armees.com/hegseth-33-directives-ecoles-guerre-ia-wargames-101126-0355/",
+      "pubDate": "2026-11-10T02:13:12.000Z",
+      "description": "Le 9 novembre 2026, Pete Hegseth annonce 33 directives pour réformer les écoles supérieures militaires américaines. Jeux de guerre assistés par IA, corps enseignant et enseignements classifiés sont concernés.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Europol : le Sénat conteste les nouveaux pouvoirs envisagés par Bruxelles",
+      "link": "https://armees.com/europol-senat-reforme-pouvoirs-police-europeenne-novembre-2026-2248/",
+      "pubDate": "2026-11-10T01:49:00.000Z",
+      "description": "Dans un rapport déposé le 5 novembre, la commission des affaires européennes du Sénat s'inquiète de plusieurs dispositions du projet européen de réforme d'Europol. Gouvernance, échanges de données et pouvoirs à l'égard des polices nationales concentrent ses réserves, alors que Bruxelles veut renforcer la lutte contre la criminalité transfrontalière.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "A400M français : six kits PMS pour vingt avions, ce qui doit changer d’ici 2028",
+      "link": "https://armees.com/a400m-pms-france-six-kits-vingt-avions-calendrier-2027-2028-101126-0155/",
+      "pubDate": "2026-11-10T00:13:43.000Z",
+      "description": "La France développe un système de mission amovible pour ses A400M. Six kits sont envisagés pour vingt appareils adaptés, avec une première installation attendue en 2027 et une qualification visée fin 2028.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Drones de combat : l’Allemagne récupère le code source du logiciel MissionOSBw de Helsing",
       "link": "https://armees.com/allemagne-bundeswehr-helsing-code-source-missionosbw-drones-combat-2026/",
@@ -52,32 +143,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Pompiers des Alpes-Maritimes : la chambre des comptes pointe des coûts élevés et des faiblesses de gestion",
-      "link": "https://armees.com/sdis-06-alpes-maritimes-chambre-comptes-pompiers-gestion-cout-9-novembre-2026-1551/",
-      "pubDate": "2026-11-09T17:56:00.000Z",
-      "description": "La chambre régionale des comptes Provence-Alpes-Côte d’Azur demande au SDIS des Alpes-Maritimes de revoir le pilotage de ses effectifs, ses dépenses et ses investissements. Le rapport relève un coût de fonctionnement de 128 euros par habitant, un programme de casernes susceptible d’absorber les réserves et des versements indemnitaires irréguliers.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cyberattaques contre plus de 700 supermarchés : la France attribue le sabotage à l’Iran",
-      "link": "https://armees.com/cyberattaques-iran-france-supermarches-attribution-c4-anssi-091126/",
-      "pubDate": "2026-11-09T17:36:38.000Z",
-      "description": "La France attribue à une unité liée aux Gardiens de la révolution iraniens les attaques informatiques ayant visé des installations frigorifiques de plus de 700 sites de la grande distribution en octobre. L’ANSSI publie son analyse et Paris annonce une convocation de l’ambassadeur iranien ainsi qu’une initiative en faveur de nouvelles sanctions européennes.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le ministère des Armées lance la réalisation de deux satellites d’observation IRIS pour 1,5 milliard d’euros",
       "link": "https://www.opex360.com/2026/11/09/le-ministere-des-armees-lance-la-realisation-de-deux-satellites-dobservation-iris-pour-15-milliard-deuros/",
       "pubDate": "2026-11-09T17:35:00.000Z",
       "description": "Lors de l’examen du projet d’actualisation de la Loi de programmation militaire [LPM] 2024-30, en mai dernier, le chef d’état-major des armées [CEMA], le général Fabien Mandon, s’était dit inquiet du retard pris par les programmes CELESTE et IRIS, lancés par la Direction générale de l’armement [DGA] pour renouveler les constellations satellitaires CERES [pour Capacités...\nCet article Le ministère des Armées lance la réalisation de deux satellites d’observation IRIS pour 1,5 milliard d’euros est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "RAID, GIGN et BRI : qui intervient dans une prise d’otages ou une opération antiterroriste ?",
-      "link": "https://armees.com/raid-gign-bri-differences-missions-intervention-guide-20261109-1755/",
-      "pubDate": "2026-11-09T16:12:01.000Z",
-      "description": "Trois sigles, trois organisations et des missions qui se recoupent parfois : comment distinguer RAID, GIGN et BRI, et comprendre leur rôle dans la réponse française aux crises graves.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le Portugal envisage d’accueillir une école allemande de pilotage dédiée au chasseur-bombardier F-35",
@@ -94,81 +164,11 @@
       "sourceKey": "fob"
     },
     {
-      "title": "Frégates suédoises : Saab décroche 2 milliards de couronnes d’équipements auprès de Naval Group",
-      "link": "https://armees.com/fregates-suedoises-saab-naval-group-systemes-combat-2-milliards-9-novembre-2026/",
-      "pubDate": "2026-11-09T14:29:39.000Z",
-      "description": "Saab a signé le 6 novembre un contrat d'environ 2 milliards de couronnes suédoises avec Naval Group. Radars, conduite de tir, missiles et torpilles équiperont les quatre FDI destinées à la Suède, avec des livraisons entre 2027 et 2034.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "11-Novembre : comment demander la mention « Mort pour la France » et quels droits pour les proches ?",
-      "link": "https://armees.com/11-novembre-2026-mention-mort-pour-la-france-demarches-familles-091126-1555/",
-      "pubDate": "2026-11-09T14:20:34.000Z",
-      "description": "À l'approche des cérémonies du 11-Novembre, la mention « Mort pour la France » répond à des critères précis. Le ministère des Armées et l'ONaCVG détaillent la procédure et les droits qui peuvent en découler pour les familles.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Au Liban-Sud, de nouvelles frappes et une accusation israélienne contre la Finul",
-      "link": "https://armees.com/liban-sud-frappes-9-novembre-2026-israel-accuse-finul/",
-      "pubDate": "2026-11-09T14:20:00.000Z",
-      "description": "Des frappes israéliennes ont visé plusieurs localités du sud du Liban le 9 novembre. Parallèlement, l'armée israélienne affirme avoir découvert des dépôts d'armes près de positions de la Finul. Ces accusations ne constituent pas une preuve indépendante d'une défaillance de la mission onusienne, dont la transition reste sensible pour la France.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La Russie utilise des vidéos truquées par IA pour annoncer des conquêtes en Ukraine",
-      "link": "https://armees.com/russie-videos-truquees-ia-conquetes-ukraine/",
-      "pubDate": "2026-11-09T13:22:57.000Z",
-      "description": "À Dobropillia, une vidéo relayée par le ministère russe de la Défense montre des soldats brandissant un drapeau russe. Selon une enquête du Financial Times, l'un des plans porte des traces de manipulation, alors que Moscou avait annoncé la prise de cette ville encore défendue par les Ukrainiens.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cybersécurité des collectivités : la CNIL prononce dix sanctions pour des failles de protection",
-      "link": "https://armees.com/cnil-collectivites-dix-sanctions-cybersecurite-9-novembre-2026-1444/",
-      "pubDate": "2026-11-09T12:45:10.000Z",
-      "description": "La CNIL a annoncé le 9 novembre dix sanctions simplifiées visant des collectivités territoriales et un établissement public. Les contrôles révèlent des faiblesses d’authentification, de gestion des accès et de surveillance des réseaux, ainsi que des analyses d’impact manquantes.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La Belgique réactive la 51e Escadrille de défense aérienne et confirme la commande de 20 canons Skyranger à Rheinmetall",
       "link": "https://www.opex360.com/2026/11/09/la-belgique-reactive-la-51e-escadrille-de-defense-aerienne-et-confirme-la-commande-de-20-canons-skyranger-a-rheinmetall/",
       "pubDate": "2026-11-09T11:29:56.000Z",
       "description": "Créée en 1959 au sein de la force aérienne belge, la 51e Escadrille était chargée de mettre en œuvre des systèmes américains de défense sol-air à moyenne et haute altitude MIM-14 Nike Hercules. Trente ans plus tard, le Mur de Berlin à peine tombé, elle fut dissoute, ce qui marqua la fin de la défense...\nCet article La Belgique réactive la 51e Escadrille de défense aérienne et confirme la commande de 20 canons Skyranger à Rheinmetall est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "11-Novembre : qui peut obtenir la carte du combattant et quels droits ouvre-t-elle ?",
-      "link": "https://armees.com/11-novembre-2026-carte-du-combattant-conditions-droits-demarches-1255/",
-      "pubDate": "2026-11-09T11:02:28.000Z",
-      "description": "À l’approche du 11-Novembre, les conditions d’obtention de la carte du combattant concernent aussi les personnes engagées en opérations extérieures. Droits, justificatifs et démarches.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un drone a endommagé à Tchernobyl une arche conçue pour durer cent ans",
-      "link": "https://armees.com/tchernobyl-drone-arche-cent-ans-reparations/",
-      "pubDate": "2026-11-09T11:01:11.000Z",
-      "description": "La frappe du 14 février 2025 a compromis le confinement du réacteur détruit et les équipements destinés à démanteler son ancien sarcophage. La restauration est désormais évaluée à au moins 500 millions d’euros, avec un objectif de remise en état complète d’ici 2030.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Industrie de défense : la DGA et l’Apec concluent un accord de trois ans pour recruter des cadres",
-      "link": "https://armees.com/dga-apec-accord-trois-ans-recrutement-cadres-defense-novembre-2026/",
-      "pubDate": "2026-11-09T10:17:19.000Z",
-      "description": "La Direction générale de l’armement et l’Apec ont officialisé le 4 novembre un partenariat de trois ans au salon Euronaval, détaillé dans leurs communications des 6 et 9 novembre. L’objectif est d’aider les entreprises de la défense, notamment les PME, à trouver et fidéliser les cadres nécessaires à leur activité.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Bleuet de France : la collecte du 11-Novembre 2026 s’étend dans les unités de gendarmerie",
-      "link": "https://armees.com/bleuet-france-collecte-11-novembre-2026-gendarmerie-regions-091126/",
-      "pubDate": "2026-11-09T10:03:15.000Z",
-      "description": "La campagne de dons du Bleuet de France se tient du 4 au 15 novembre 2026. La Gendarmerie nationale annonce de nouveaux stands en région.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre en Ukraine : Moscou cible à nouveau les infrastructures énergétiques de Kiev",
-      "link": "https://armees.com/strategie-russe-destruction-guerre-en-ukraine/",
-      "pubDate": "2026-11-09T09:20:39.000Z",
-      "description": "Entre le 6 et le 8 novembre 2026, la Russie a lancé deux vagues massives de frappes contre les infrastructures énergétiques ukrainiennes, privant plus de 850 000 civils d'électricité. Ces attaques répétées, menées à 48 heures d'intervalle, révèlent une stratégie militaire d'usure visant à affaiblir les capacités de résilience ukrainiennes avant l'hiver et en amont de négociations trilatérales prévues à Abou Dhabi les 10-11 novembre.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le porte-avions britannique HMS Queen Elizabeth a lancé ses premiers drones d’attaque",
