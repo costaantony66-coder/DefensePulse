@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T01:40:06.006Z",
+  "generatedAt": "2026-11-11T08:22:58.683Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,76 @@
     }
   ],
   "items": [
+    {
+      "title": "Un homme a conservé une roche pendant des années, croyant qu’elle était en or, mais c’était un fragment du système solaire âgé de 4,6 milliards d’années",
+      "link": "https://armees.com/un-homme-a-conserve-une-roche-pendant-des-annees-croyant-quelle-etait-en-or-mais-cetait-un-fragment-du-systeme-solaire-age-de-46-milliards-dannees/",
+      "pubDate": "2026-11-11T06:35:47.000Z",
+      "description": "Il pensait tenir une pépite d'or. Scie, acide, coups de masse : rien n'entame la roche. La vérité, révélée des années plus tard, dépasse largement l'imagination de ce chercheur amateur australien.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Mer Baltique et Atlantique Nord : dix marines européennes signent un accord de coopération opérationnelle",
+      "link": "https://armees.com/jef-northern-navies-accord-dix-marines-11-novembre-2026/",
+      "pubDate": "2026-11-11T06:26:09.000Z",
+      "description": "Signée le 10 novembre à Oslo, la Northern Navies Initiative veut rapprocher les procédures, les entraînements et les systèmes des dix marines de la JEF. Elle doit faciliter leur action commune et leur coordination avec l’OTAN, sans créer de nouvelle alliance.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Rafale F5 : le M88 T-REX passe aux études, la poussée de 9 tonnes reste un objectif",
+      "link": "https://armees.com/rafale-f5-m88-t-rex-conception-preliminaire-poussee-20261111-0755/",
+      "pubDate": "2026-11-11T06:10:07.000Z",
+      "description": "La DGA a confié à Safran une phase de conception préliminaire du M88 T-REX. Objectif : 20 % de poussée supplémentaire, sans mise en service annoncée.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un pilote de F-15 a visé l’espace depuis son cockpit : il reste le seul homme à avoir abattu un satellite depuis un avion",
+      "link": "https://armees.com/un-pilote-de-f-15-a-vise-lespace-depuis-son-cockpit-il-reste-le-seul-homme-a-avoir-abattu-un-satellite-depuis-un-avion/",
+      "pubDate": "2026-11-11T06:05:09.000Z",
+      "description": "Un chasseur, un missile, une cible à 555 km d'altitude : en 1985, un pilote américain a réalisé l'impossible. Son fils a rejoué l'exploit 22 ans plus tard, aux commandes du même avion.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Les espoirs déçus de la coopération franco-allemande de défense sous Emmanuel Macron",
+      "link": "https://www.lemonde.fr/international/article/2026/11/11/les-espoirs-decus-de-la-cooperation-franco-allemande-de-defense-sous-macron_6808941_3210.html",
+      "pubDate": "2026-11-11T06:00:07.000Z",
+      "description": "A l’occasion d’une assemblée parlementaire franco-allemande lundi 9 novembre, Paris et Berlin ont fait le bilan d’une relation contrariée en matière de défense, qui a mené à l’abandon du projet d’avion de combat SCAF et à la remise en cause d’un projet de char, estimés à 200 milliards d’euros.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Dix ravitailleurs américains quittent une base britannique : cinq gagnent l’Allemagne",
+      "link": "https://armees.com/kc135-mildenhall-redeploiement-allemagne-iran-11-novembre-2026-radar/",
+      "pubDate": "2026-11-11T04:20:00.000Z",
+      "description": "Des données de suivi de vol documentent le transfert de dix KC-135 depuis RAF Mildenhall le 9 novembre, dont cinq vers l'Allemagne. Une menace liée à l'Iran est rapportée, sans attribution officielle publique détaillée.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "MBDA : Jean-Brice Dumont prend la direction du missilier européen, avec 44 milliards d’euros de commandes",
+      "link": "https://armees.com/mbda-jean-brice-dumont-direction-commandes-production-20261111-0455/",
+      "pubDate": "2026-11-11T03:05:39.000Z",
+      "description": "Jean-Brice Dumont dirige MBDA depuis le 1er novembre 2026, après Eric Béranger. Effectifs, carnet de commandes, production de missiles et défis industriels de la transition.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Dissuasion nucléaire : Paris et Londres vont partager l’accès à certaines installations d’essais",
+      "link": "https://armees.com/france-royaume-uni-northwood-cooperation-installations-essais-nucleaires-novembre-2026/",
+      "pubDate": "2026-11-11T02:18:42.000Z",
+      "description": "La France et le Royaume-Uni annoncent le 10 novembre une nouvelle étape de coopération nucléaire, avec l'utilisation réciproque d'installations d'essais. Leurs forces de dissuasion restent indépendantes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Câbles sous-marins : Londres prévoit 90 millions de livres pour des drones et capteurs dans l’Atlantique",
+      "link": "https://armees.com/royaume-uni-atlantic-net-90-millions-drones-cables-sous-marins-novembre-2026/",
+      "pubDate": "2026-11-11T02:13:25.000Z",
+      "description": "Le Royaume-Uni annonce un accord-cadre de 90 millions de livres pour développer Atlantic Net, réseau de surveillance sous-marine. Objectif : protéger câbles et infrastructures stratégiques sans remplacer les forces navales habitées.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Sous-marin nucléaire : pourquoi un SNA n’a pas la même mission qu’un SNLE",
+      "link": "https://armees.com/sous-marin-nucleaire-difference-sna-snle-missions-20261111-0255/",
+      "pubDate": "2026-11-11T01:08:52.000Z",
+      "description": "Propulsion nucléaire ne signifie pas nécessairement missile nucléaire. Les sous-marins d’attaque Suffren et les SNLE de la force océanique stratégique remplissent deux missions distinctes.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Un chalutier de 56 mètres inspire un drone chasseur de sous-marins pour la Royal Navy",
       "link": "https://armees.com/kongsberg-arctic-hunter-chalutier-thales-royal-navy-11-novembre-2026/",
@@ -80,27 +150,6 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Frappes de précision : l’OTAN réunit industriels et alliés pour accélérer missiles et drones",
-      "link": "https://armees.com/otan-frappes-precision-reunion-industriels-bruxelles-10-novembre-2026/",
-      "pubDate": "2026-11-10T18:17:29.000Z",
-      "description": "Réunis à Bruxelles le 10 novembre 2026, l’OTAN, plusieurs pays alliés et des industriels ont examiné les moyens de produire plus rapidement des capacités de frappe de précision en profondeur. Cette concertation porte sur les besoins, l’interopérabilité et les achats futurs, et ne constitue pas l’annonce d’une livraison d’armes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Au Pentagone, des recherches sur Internet auraient décidé du sort d’officiers promis à une promotion",
-      "link": "https://armees.com/pentagone-hegseth-promotions-officiers-recherches-internet-2026/",
-      "pubDate": "2026-11-10T18:07:46.000Z",
-      "description": "Une enquête du 9 novembre 2026 décrit comment des officiers américains expérimentés auraient été écartés après l’examen de leurs activités publiques. Des investigations antérieures confirment des blocages de promotions, sans établir toutes les accusations récentes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : quatre heures de discussions à Abou Dhabi, mais aucune trêve annoncée",
-      "link": "https://armees.com/ukraine-russie-abu-dhabi-premier-jour-pourparlers-10-novembre-2026/",
-      "pubDate": "2026-11-10T18:00:00.000Z",
-      "description": "Le 10 novembre, des représentants ukrainiens, russes et américains ont achevé une première journée de discussions à Abou Dhabi, après plusieurs mois sans réunion trilatérale. Les échanges ont porté sur les prisonniers et les garanties de sécurité, sans annonce de cessez-le-feu.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le norvégien Kongsberg Maritime développe un drone naval de lutte anti-sous-marine à partir d’un chalutier",
       "link": "https://www.opex360.com/2026/11/10/le-norvegien-kongsberg-maritime-developpe-un-drone-naval-de-lutte-anti-sous-marine-a-partir-dun-chalutier/",
       "pubDate": "2026-11-10T17:52:08.000Z",
@@ -120,48 +169,6 @@
       "pubDate": "2026-11-10T16:00:59.000Z",
       "description": "Cet été, parce qu’un employé du prestataire logistique UPS a ignoré [ou manqué] un courriel adressé par la société de transport DSV A/S, mandatée par Lockheed Martin, des pièces d’un chasseur-bombardier F-35A australien, à savoir la verrière du cockpit et la trappe de la soute à munitions, ont pris la direction de Hong Kong au...\nCet article Plus de 17 000 pièces détachées de F-35, d’une valeur totale de 1,3 milliard de dollars, manquent à l’appel est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Frégates FDI : ce que change vraiment le radar Sea Fire à quatre panneaux fixes",
-      "link": "https://armees.com/radar-sea-fire-fdi-quatre-panneaux-veille-20261110-1655/",
-      "pubDate": "2026-11-10T15:04:51.000Z",
-      "description": "Quatre faces fixes, veille simultanée de la mer et du ciel, intégration aux missiles Aster : décryptage des capacités documentées du radar Sea Fire des frégates FDI.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "CISEX 2026 : à Évreux, l’armée de l’Air teste la résilience de ses communications déployables",
-      "link": "https://armees.com/cisex-2026-evreux-communications-satellitaires-commandement-armee-air/",
-      "pubDate": "2026-11-10T14:16:35.000Z",
-      "description": "Achevé le 6 novembre à Évreux, l’exercice CISEX 2026 a mobilisé les spécialistes des systèmes d’information de l’escadre de commandement et de conduite projetable. Les essais ont notamment porté sur l’interopérabilité des équipements et les communications satellitaires, sans résultat de performance chiffré communiqué.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’École polytechnique condamne le port du grand uniforme en manifestation",
-      "link": "https://armees.com/devoir-reserve-polytechnique-uniforme-manifestation/",
-      "pubDate": "2026-11-10T13:55:31.000Z",
-      "description": "Le 5 novembre 2026, une vingtaine d'anciens élèves de l'École polytechnique ont manifesté en grand uniforme militaire contre la vie chère à Paris, déclenchant une condamnation officielle de l'institution. Entre rupture du devoir de réserve, risques pénaux (15 000 euros d'amende, un an de prison) et précédent jurisprudentiel de 2018, l'affaire interroge les limites de l'engagement politique des officiers et la préservation de l'autorité militaire.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre en Ukraine : selon des hackeurs, 400.000 russes sont morts au combat",
-      "link": "https://armees.com/400000-morts-russes-piratage-ukraine/",
-      "pubDate": "2026-11-10T12:50:40.000Z",
-      "description": "Deux collectifs de hackeurs, CyberPartisan et SilentCrow, ont infiltré Rosstat et extrait 23 téraoctets de données révélant entre 393.881 et 426.822 décès russes en Ukraine depuis février 2022. Cette cyber-opération expose un secret d'État que le Kremlin protège depuis 2015 par une classification stricte et des peines allant jusqu'à 15 ans de prison.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La Belgique retient les radars mobiles de Thales pour son bouclier aérien Blue Dome",
-      "link": "https://armees.com/belgique-thales-radars-gm200-blue-dome-10-novembre-2026/",
-      "pubDate": "2026-11-10T12:40:00.000Z",
-      "description": "Thales annonce le 10 novembre la sélection de ses radars GM200 MM/C pour la défense aérienne multicouche belge. Le matériel doit détecter drones, missiles et avions tout en partageant les informations avec les systèmes de commandement. Le montant et le calendrier de la commande ne sont pas publics.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Sous-marin Rubis : transféré à Cherbourg, le cinquième Barracuda doit encore passer ses essais",
-      "link": "https://armees.com/sous-marin-rubis-cherbourg-transfert-essais-livraison-barracuda-20261110-1355/",
-      "pubDate": "2026-11-10T12:09:46.000Z",
-      "description": "Le Rubis, cinquième sous-marin nucléaire d'attaque de la série Suffren, a été transféré le 16 octobre 2026 vers le dispositif de mise à l'eau. La livraison à la Marine nationale reste une étape ultérieure.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Thales confirme l’acquisition de radars GM200 MM/C par la Belgique",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/economie/article/2026/10/09/defense-les-armees-regrettent-l-abandon-par-berlin-du-projet-de-char-franco-allemand_6790521_3234.html",
       "pubDate": "2026-10-09T05:49:28.000Z",
       "description": "Auditionné jeudi 8 octobre à l’Assemblée nationale, Fabien Mandon, le chef d’état-major des armées, constate que « malheureusement, les Allemands ont décidé de quitter le projet ». Il appelle la France à lancer des études dès 2027 pour développer sa propre solution.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "La France enquête sur les contrats de Thales en Azerbaïdjan, dénoncés par un ex-responsable emprisonné",
-      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/10/09/la-france-enquete-sur-les-contrats-de-thales-en-azerbaidjan-denonces-par-un-ex-responsable-emprisonne_6790512_4355770.html",
-      "pubDate": "2026-10-09T04:30:04.000Z",
-      "description": "« A Bakou, le prisonnier français oublié » (2/2). Mehmet Sahan, Franco-Turc détenu en Azerbaïdjan depuis début 2022 après une plainte de Thales, dénonce de possibles faits de corruption. Le Parquet national financier, qui enquête sur ces contrats, a perquisitionné en 2024 le géant français de l’armement. Suite et fin de notre enquête.",
       "sourceKey": "geo"
     }
   ]
