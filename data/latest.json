@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T16:33:04.303Z",
+  "generatedAt": "2026-11-11T22:59:36.034Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Chrome : l’ANSSI alerte sur une faille déjà exploitée, les mises à jour à appliquer",
+      "link": "https://armees.com/chrome-faille-exploitee-cve-2026-125350-cert-fr-111126-presedd-1740/",
+      "pubDate": "2026-11-11T15:51:08.000Z",
+      "description": "Le CERT-FR de l’ANSSI a signalé le 10 novembre 2026 une vulnérabilité de Google Chrome que l’éditeur considère comme activement exploitée. Les versions corrigées diffèrent selon les systèmes et doivent être vérifiées sur les postes de travail.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "11 novembre dans les écoles : une polémique « très regrettable » pour le ministère des Armées",
       "link": "https://armees.com/ministere-armees-11-novembre-ecole-polemique-2026/",
@@ -154,13 +161,6 @@
       "link": "https://armees.com/f35-17000-pieces-maintenance-inventaire-gao-novembre-2026/",
       "pubDate": "2026-11-10T23:20:00.000Z",
       "description": "Un rapport du GAO publié le 9 novembre révèle que les registres du programme F-35 ne permettent pas de suivre correctement des milliers de pièces. Quelque 17 000 composants en maintenance, valorisés à 1,3 milliard de dollars, n'étaient pas inscrits dans un système de gestion en mars 2026.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Hegseth : la Chambre américaine bloque sa mise en accusation par 211 voix contre 204",
-      "link": "https://armees.com/hegseth-chambre-vote-211-204-renvoi-commission-11-novembre-2026-0055/",
-      "pubDate": "2026-11-10T23:11:53.000Z",
-      "description": "La Chambre des représentants a voté le 10 novembre 2026 le renvoi en commission des huit articles visant Pete Hegseth. Le scrutin 211-204 suspend la procédure, sans jugement sur les accusations.",
       "sourceKey": "armees_com"
     },
     {
