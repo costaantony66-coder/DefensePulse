@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T08:22:58.683Z",
+  "generatedAt": "2026-11-11T16:33:04.303Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "title": "11 novembre dans les écoles : une polémique « très regrettable » pour le ministère des Armées",
+      "link": "https://armees.com/ministere-armees-11-novembre-ecole-polemique-2026/",
+      "pubDate": "2026-11-11T15:33:43.000Z",
+      "description": "Le ministère des Armées défend fermement la circulaire instaurant une cérémonie annuelle du 11-Novembre dans les écoles, face aux accusations de militarisation portées par les syndicats enseignants. Alice Rufo et Catherine Vautrin qualifient mercredi la polémique de « très regrettable », tandis qu'Édouard Geffray assure qu'aucune tension majeure n'a été rapportée sur le terrain.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Après Thales, l’allemand Helsing défie l’américain Palantir avec son logiciel de commandement et de contrôle Clarity",
+      "link": "https://www.opex360.com/2026/11/11/apres-thales-lallemand-helsing-defie-lamericain-palantir-avec-son-logiciel-de-commandement-et-de-controle-clarity/",
+      "pubDate": "2026-11-11T14:42:53.000Z",
+      "description": "Actuellement, faute d’alternative européenne, l’Otan s’approprie le logiciel de commandement et de contrôle [C2] dopé à l’intelligence artificielle MSS NATO [pour Maven Smart System NATO], dérivé du projet Maven, confié par le Pentagone à l’américain Palantir. Un tel système vise à compiler et analyser d’énormes quantités de données collectées par une myriade de capteur de...\nCet article Après Thales, l’allemand Helsing défie l’américain Palantir avec son logiciel de commandement et de contrôle Clarity est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Mobilité militaire : les eurodéputés proposent 19,78 milliards d’euros pour adapter les infrastructures",
+      "link": "https://armees.com/mobilite-militaire-1978-milliards-ue-infrastructures-20261111-1422/",
+      "pubDate": "2026-11-11T13:22:00.000Z",
+      "description": "Les commissions compétentes du Parlement européen proposent 19,78 milliards d’euros pour la mobilité militaire dans le budget 2028-2034. Ponts, tunnels et ports à double usage seraient concernés, mais aucun financement n'est définitivement adopté.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un rapport parlementaire remet en cause le choix d’un châssis allemand pour le successeur du char Leclerc",
+      "link": "https://www.opex360.com/2026/11/11/un-rapport-parlementaire-remet-en-cause-le-choix-dun-chassis-allemand-pour-le-successeur-du-char-leclerc/",
+      "pubDate": "2026-11-11T12:11:31.000Z",
+      "description": "Si le projet franco-allemand de Système principal de combat terrestre [MGCS] s’est embourbé et a donc pris du retard, c’est en grande partie dû aux désaccords sur certains choix technologiques entre les industriels concernés. Ainsi, s’agissant du char appelé à opérer aux côtés de plateformes robotisées au sein d’un «cloud de combat», KNDS France s’est...\nCet article Un rapport parlementaire remet en cause le choix d’un châssis allemand pour le successeur du char Leclerc est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "L’acteur Jean Gabin va donner son nom à la flottille de réserve de la Force maritime des fusiliers marins et commandos",
+      "link": "https://www.opex360.com/2026/11/11/lacteur-jean-gabin-va-donner-son-nom-a-la-flottille-de-reserve-de-la-force-maritime-des-fusiliers-marins-et-commandos/",
+      "pubDate": "2026-11-11T11:19:03.000Z",
+      "description": "Cavalier indiscipliné dans les Gaietés de l’escadron [1932], inoubliable lieutenant aviateur Maréchal, au côté du non moins inoubliable capitaine de Boëldieu, incarné par Pierre Fresnay, dans la Grande illusion [1937], soldat en rupture de ban dans le Quai des brumes [1938], Jean Moncorgé, alias Jean Gabin, refusa d’interpréter des rôles de militaires après la Seconde...\nCet article L’acteur Jean Gabin va donner son nom à la flottille de réserve de la Force maritime des fusiliers marins et commandos est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Stellantis vend une usine à un fabriquant de blindés",
+      "link": "https://armees.com/stellantis-usine-brampton-vehicules-blindes-defense/",
+      "pubDate": "2026-11-11T09:48:00.000Z",
+      "description": "Stellantis cède son usine de Brampton au fabricant canadien de véhicules blindés Roshel, transformant une infrastructure automobile en centre de défense. Plus de 2 200 employés se retrouvent dans l'incertitude tandis que le Canada voit sa capacité de production automobile diminuer de 10 %. La transaction, dont le montant reste confidentiel, sera finalisée fin 2026.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Christophe Gleizes : après 500 jours de détention, ses proches demandent sa libération",
+      "link": "https://armees.com/christophe-gleizes-enjeu-diplomatique-france/",
+      "pubDate": "2026-11-11T09:37:24.000Z",
+      "description": "Détenu en Algérie depuis juin 2025, le journaliste Christophe Gleizes fait l'objet d'un appel urgent au président Macron. Son comité de soutien intensifie la pression avant le changement de gouvernement français, présentant la grâce présidentielle algérienne comme unique porte de sortie diplomatique.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Un homme a conservé une roche pendant des années, croyant qu’elle était en or, mais c’était un fragment du système solaire âgé de 4,6 milliards d’années",
       "link": "https://armees.com/un-homme-a-conserve-une-roche-pendant-des-annees-croyant-quelle-etait-en-or-mais-cetait-un-fragment-du-systeme-solaire-age-de-46-milliards-dannees/",
@@ -52,10 +101,10 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Les espoirs déçus de la coopération franco-allemande de défense sous Emmanuel Macron",
+      "title": "Défense : les espoirs déçus de la coopération franco-allemande sous Emmanuel Macron, des chars aux avions de combat",
       "link": "https://www.lemonde.fr/international/article/2026/11/11/les-espoirs-decus-de-la-cooperation-franco-allemande-de-defense-sous-macron_6808941_3210.html",
       "pubDate": "2026-11-11T06:00:07.000Z",
-      "description": "A l’occasion d’une assemblée parlementaire franco-allemande lundi 9 novembre, Paris et Berlin ont fait le bilan d’une relation contrariée en matière de défense, qui a mené à l’abandon du projet d’avion de combat SCAF et à la remise en cause d’un projet de char, estimés à 200 milliards d’euros.",
+      "description": "A l’occasion d’une assemblée parlementaire, lundi 9 novembre, Paris et Berlin ont fait le bilan d’une relation contrariée en matière de défense, qui a mené à l’abandon du projet d’avion de combat SCAF et à la remise en cause d’un projet de char, estimés à 200 milliards d’euros.",
       "sourceKey": "geo"
     },
     {
@@ -115,34 +164,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Cybersécurité : jusqu’à 100 000 euros d’aide pour développer des solutions françaises",
-      "link": "https://armees.com/anssi-bpifrance-aides-pme-solutions-cyber-100000-euros-20261111-0038/",
-      "pubDate": "2026-11-10T22:43:04.000Z",
-      "description": "L’ANSSI et Bpifrance accompagnent un nouvel appel à projets destiné aux PME et startups de la cybersécurité. Prototypes, qualification des prestations et normalisation figurent parmi les priorités, avec une première relève en février 2027.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un KC-135 américain a tourné cinq fois près de Nîmes avant de rejoindre la base d’Istres",
-      "link": "https://armees.com/kc135-americain-cinq-boucles-nimes-istres-9-novembre-2026/",
-      "pubDate": "2026-11-10T22:20:00.000Z",
-      "description": "Le 9 novembre, un ravitailleur de l’US Air Force venu des États-Unis a été suivi au-dessus du Gard avant de rejoindre Istres. Ce nouveau passage intervient alors que la France accueille des avions américains de soutien depuis mars, mais aucune mission précise n’a été officiellement attribuée à ce vol.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Roumanie : Thales pourrait livrer plus tôt deux radars Ground Master 200 contre les menaces aériennes",
-      "link": "https://armees.com/roumanie-thales-avance-livraison-radars-ground-master-novembre-2026/",
-      "pubDate": "2026-11-10T22:19:52.000Z",
-      "description": "Le ministère roumain de la Défense annonce que Thales pourrait avancer de quelques semaines puis de quelques mois les deux premières livraisons de radars Ground Master 200 MM/A. Cette évolution concerne la surveillance aérienne, et non les radars d'atterrissage achetés séparément.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "F-35 : le Pentagone ne peut toujours pas retracer correctement des milliards de dollars de pièces",
-      "link": "https://armees.com/f35-gao-2026-inventaire-pieces-17-000-pentagone-logistique-2355/",
-      "pubDate": "2026-11-10T22:05:16.000Z",
-      "description": "Dans un rapport publié le 9 novembre 2026, le GAO alerte sur la comptabilité de 26 millions de pièces de F-35. Quelque 17 000 sont absentes de la base d'inventaire, sans être nécessairement perdues physiquement.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Naval Group a notifié un contrat de 180 millions d’euros à Saab pour équiper les futures frégates suédoises",
       "link": "https://www.opex360.com/2026/11/10/naval-group-a-notifie-un-contrat-de-180-millions-deuros-a-saab-pour-equiper-les-futures-fregates-suedoises/",
       "pubDate": "2026-11-10T18:33:39.000Z",
@@ -153,7 +174,7 @@
       "title": "Le norvégien Kongsberg Maritime développe un drone naval de lutte anti-sous-marine à partir d’un chalutier",
       "link": "https://www.opex360.com/2026/11/10/le-norvegien-kongsberg-maritime-developpe-un-drone-naval-de-lutte-anti-sous-marine-a-partir-dun-chalutier/",
       "pubDate": "2026-11-10T17:52:08.000Z",
-      "description": "Dans un entretien accordé à Marine & Océans, le 9 novembre, le chef d’état-major de la Marine nationale [CEMM], l’amiral Christophe Cluzel, a dit souhaité «accélérer l’hybridation raisonnée» de la flotte, laissant ainsi entendre que le recours aux drones, qu’ils soient aériens ou de navals, se ferait de manière ordonnée. «Le système de forces que...\nCet article Le norvégien Kongsberg Maritime développe un drone naval de lutte anti-sous-marine à partir d’un chalutier est apparu en premier sur Zone Militaire.",
+      "description": "Dans un entretien accordé à Marine & Océans, le 9 novembre, le chef d’état-major de la Marine nationale [CEMM], l’amiral Christophe Cluzel, a dit souhaiter «accélérer l’hybridation raisonnée» de la flotte, laissant ainsi entendre que le recours aux drones, qu’ils soient aériens ou navals, se ferait de manière ordonnée. «Le système de forces que j’ambitionne...\nCet article Le norvégien Kongsberg Maritime développe un drone naval de lutte anti-sous-marine à partir d’un chalutier est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -204,27 +225,6 @@
       "pubDate": "2026-11-09T14:33:13.000Z",
       "description": "C'est l'heure de vérité pour une dizaine de pays de la Coalition des volontaires. L'exercice Koalicja 26.2 démarre aujourd’hui, un premier exercice grandeur nature pour cette force multinationale chargée de garantir l'intégrité de l'Ukraine en cas d'arrêt des hostilités avec la Russie. \nThe post Koalijca 26.2 : premier test grandeur nature pour la Coalition des volontaires appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "La Belgique réactive la 51e Escadrille de défense aérienne et confirme la commande de 20 canons Skyranger à Rheinmetall",
-      "link": "https://www.opex360.com/2026/11/09/la-belgique-reactive-la-51e-escadrille-de-defense-aerienne-et-confirme-la-commande-de-20-canons-skyranger-a-rheinmetall/",
-      "pubDate": "2026-11-09T11:29:56.000Z",
-      "description": "Créée en 1959 au sein de la force aérienne belge, la 51e Escadrille était chargée de mettre en œuvre des systèmes américains de défense sol-air à moyenne et haute altitude MIM-14 Nike Hercules. Trente ans plus tard, le Mur de Berlin à peine tombé, elle fut dissoute, ce qui marqua la fin de la défense...\nCet article La Belgique réactive la 51e Escadrille de défense aérienne et confirme la commande de 20 canons Skyranger à Rheinmetall est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Le porte-avions britannique HMS Queen Elizabeth a lancé ses premiers drones d’attaque",
-      "link": "https://www.opex360.com/2026/11/08/le-porte-avions-britannique-hms-queen-elizabeth-a-lance-ses-premiers-drones-dattaque/",
-      "pubDate": "2026-11-08T12:13:27.000Z",
-      "description": "Lors du salon de l’armement DSEI 25, le chef d’état-major de la Royal Navy, le général Gwyn Jenkins, avait fixé un cap : «déployer des navires sans équipage autant que possible» et «déployer des navires avec équipage seulement si c’est nécessaire». Ainsi, avait-il soutenu, la «dronisation [et donc l’hybridation des forces navales] permettra de créer...\nCet article Le porte-avions britannique HMS Queen Elizabeth a lancé ses premiers drones d’attaque est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "ArianeGroup suggère d’armer la Frégate de défense et d’intervention avec des missiles balistiques antinavires",
-      "link": "https://www.opex360.com/2026/11/08/arianegroup-suggere-darmer-la-fregate-de-defense-et-dintervention-avec-des-missiles-balistiques-antinavires/",
-      "pubDate": "2026-11-08T11:10:01.000Z",
-      "description": "En 2018, alors chef d’état-major de la Marine nationale [CEMM], l’amiral Christophe Prazuck avait relativisé la menace du missile balistique antinavire chinois DF-21, dont il était fait grand cas car présenté comme étant un «tueur de porte-avions». En effet, une fois lancé, un missile balistique suit une trajectoire suborbitale «en cloche», pour ensuite plonger vers...\nCet article ArianeGroup suggère d’armer la Frégate de défense et d’intervention avec des missiles balistiques antinavires est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Contrat record pour les équipes belges de Thales",
