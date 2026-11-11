@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T21:55:49.023Z",
+  "generatedAt": "2026-11-11T01:40:06.006Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "title": "Un chalutier de 56 mètres inspire un drone chasseur de sous-marins pour la Royal Navy",
+      "link": "https://armees.com/kongsberg-arctic-hunter-chalutier-thales-royal-navy-11-novembre-2026/",
+      "pubDate": "2026-11-11T00:20:00.000Z",
+      "description": "Kongsberg a dévoilé un projet de navire sans équipage conçu à partir d’une architecture commerciale. Avec les capteurs de Thales UK, l’Arctic Hunter vise la surveillance anti-sous-marine dans l’Atlantique Nord, sans avoir encore fait l’objet d’une commande opérationnelle confirmée.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "F-35 : 17 000 pièces en maintenance absentes des registres, un audit alerte le Pentagone",
+      "link": "https://armees.com/f35-17000-pieces-maintenance-inventaire-gao-novembre-2026/",
+      "pubDate": "2026-11-10T23:20:00.000Z",
+      "description": "Un rapport du GAO publié le 9 novembre révèle que les registres du programme F-35 ne permettent pas de suivre correctement des milliers de pièces. Quelque 17 000 composants en maintenance, valorisés à 1,3 milliard de dollars, n'étaient pas inscrits dans un système de gestion en mars 2026.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Hegseth : la Chambre américaine bloque sa mise en accusation par 211 voix contre 204",
+      "link": "https://armees.com/hegseth-chambre-vote-211-204-renvoi-commission-11-novembre-2026-0055/",
+      "pubDate": "2026-11-10T23:11:53.000Z",
+      "description": "La Chambre des représentants a voté le 10 novembre 2026 le renvoi en commission des huit articles visant Pete Hegseth. Le scrutin 211-204 suspend la procédure, sans jugement sur les accusations.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cybersécurité : jusqu’à 100 000 euros d’aide pour développer des solutions françaises",
+      "link": "https://armees.com/anssi-bpifrance-aides-pme-solutions-cyber-100000-euros-20261111-0038/",
+      "pubDate": "2026-11-10T22:43:04.000Z",
+      "description": "L’ANSSI et Bpifrance accompagnent un nouvel appel à projets destiné aux PME et startups de la cybersécurité. Prototypes, qualification des prestations et normalisation figurent parmi les priorités, avec une première relève en février 2027.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un KC-135 américain a tourné cinq fois près de Nîmes avant de rejoindre la base d’Istres",
+      "link": "https://armees.com/kc135-americain-cinq-boucles-nimes-istres-9-novembre-2026/",
+      "pubDate": "2026-11-10T22:20:00.000Z",
+      "description": "Le 9 novembre, un ravitailleur de l’US Air Force venu des États-Unis a été suivi au-dessus du Gard avant de rejoindre Istres. Ce nouveau passage intervient alors que la France accueille des avions américains de soutien depuis mars, mais aucune mission précise n’a été officiellement attribuée à ce vol.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Roumanie : Thales pourrait livrer plus tôt deux radars Ground Master 200 contre les menaces aériennes",
+      "link": "https://armees.com/roumanie-thales-avance-livraison-radars-ground-master-novembre-2026/",
+      "pubDate": "2026-11-10T22:19:52.000Z",
+      "description": "Le ministère roumain de la Défense annonce que Thales pourrait avancer de quelques semaines puis de quelques mois les deux premières livraisons de radars Ground Master 200 MM/A. Cette évolution concerne la surveillance aérienne, et non les radars d'atterrissage achetés séparément.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "F-35 : le Pentagone ne peut toujours pas retracer correctement des milliards de dollars de pièces",
+      "link": "https://armees.com/f35-gao-2026-inventaire-pieces-17-000-pentagone-logistique-2355/",
+      "pubDate": "2026-11-10T22:05:16.000Z",
+      "description": "Dans un rapport publié le 9 novembre 2026, le GAO alerte sur la comptabilité de 26 millions de pièces de F-35. Quelque 17 000 sont absentes de la base d'inventaire, sans être nécessairement perdues physiquement.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Naval Group a notifié un contrat de 180 millions d’euros à Saab pour équiper les futures frégates suédoises",
       "link": "https://www.opex360.com/2026/11/10/naval-group-a-notifie-un-contrat-de-180-millions-deuros-a-saab-pour-equiper-les-futures-fregates-suedoises/",
@@ -120,55 +169,6 @@
       "pubDate": "2026-11-10T11:45:27.000Z",
       "description": "Privée de capacités terrestres de défense aérienne depuis trente-sept ans alors qu’elle abrite plusieurs organisations internationales et que ses infrastructures critiques, à commencer par ses ports, peuvent être menacés par des attaques de drones, la Belgique met les bouchées doubles pour se doter d’un bouclier antiaérien multicouche, dans le cadre d’un programme qui, appelé Blue...\nCet article Thales confirme l’acquisition de radars GM200 MM/C par la Belgique est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Royaume-Uni : des ravitailleurs américains quittent Mildenhall, sur fond d’alerte liée à l’Iran",
-      "link": "https://armees.com/raf-mildenhall-ravitailleurs-americains-transferts-alerte-iran-10-novembre-2026/",
-      "pubDate": "2026-11-10T11:40:00.000Z",
-      "description": "Le 9 novembre, plusieurs avions ravitailleurs américains ont été transférés hors de RAF Mildenhall, au Royaume-Uni. Une menace venue d’Iran est évoquée par la presse américaine, mais les autorités militaires ne confirment publiquement ni sa nature ni la raison exacte des mouvements.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Airbus et Thales piloteront IRIS, la nouvelle génération de satellites espions français",
-      "link": "https://armees.com/iris-satellite-militaire-france-airbus-thales/",
-      "pubDate": "2026-11-10T11:31:13.000Z",
-      "description": "Le 5 novembre 2026, la Direction générale de l'armement a notifié à Airbus Defence and Space et Thales Alenia Space le contrat de réalisation du programme IRIS, doté de 1,5 milliard d'euros. Ce programme développera deux satellites d'observation militaire de nouvelle génération destinés à remplacer les trois satellites CSO à l'horizon 2035, garantissant ainsi l'autonomie du renseignement spatial français avec des capacités améliorées en imagerie haute résolution jour/nuit et infrarouge.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Le SIA impose une double authentification depuis le 2 novembre 2026",
-      "link": "https://armees.com/armes-3d-impression-trafic-sia-reponse-strategique/",
-      "pubDate": "2026-11-10T11:06:19.000Z",
-      "description": "Depuis le 2 novembre 2026, le SIA impose une double authentification à tous les détenteurs d'armes légales en France. Parallèlement, des réseaux clandestins d'impression 3D produisent des pistolets fantômes vendus 300 euros sur Telegram. Entre renforcement administratif et menace stratégique émergente, l'efficacité du système interroge.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "OTAN : en Baltique, Dynamic Merlin 26 combine chasse aux sous-marins et menace des drones",
-      "link": "https://armees.com/otan-dynamic-merlin-26-baltique-sous-marins-drones-france-novembre/",
-      "pubDate": "2026-11-10T10:19:55.000Z",
-      "description": "L'exercice naval Dynamic Merlin 26 a commencé le 9 novembre au large de la Suède. Huit pays de l'OTAN, dont la France avec des avions de patrouille maritime, testent simultanément la lutte antisous-marine et la défense antidrones.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "11-Novembre 2026 : une cérémonie dans les écoles, ce que prévoit la nouvelle règle",
-      "link": "https://armees.com/11-novembre-2026-ceremonie-ecoles-circulaire-cm1-101126-1155/",
-      "pubDate": "2026-11-10T10:05:35.000Z",
-      "description": "À partir de 2026, écoles, collèges et lycées organisent une cérémonie autour du 11 novembre. Élèves concernés, calendrier et portée de l'hommage.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "École navale : dix passerelles de simulation pour former les futurs officiers",
-      "link": "https://armees.com/ecole-navale-simulateur-dix-passerelles-kongsberg-10-novembre-2026/",
-      "pubDate": "2026-11-10T09:45:03.000Z",
-      "description": "L’École navale a inauguré début octobre à Lanvéoc un nouveau dispositif de navigation comprenant dix passerelles interconnectées. Le ministère des Armées en détaille le 10 novembre les capacités pédagogiques et les conditions d’acquisition auprès de Kongsberg Maritime.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Blue Dome : 14 radars Thales pour reconstruire la défense aérienne belge",
-      "link": "https://armees.com/blue-dome-14-radars-thales-defense-aerienne-belge-2026/",
-      "pubDate": "2026-11-10T09:21:14.000Z",
-      "description": "La Belgique prépare le retour d'une défense antiaérienne terrestre en combinant radars mobiles, missiles et canons de 30 mm. Thales précise le rôle de ses radars GM200 MM/C dans cette architecture développée avec les Pays-Bas.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La Royal Navy se dote de sa première flottille entièrement  dronisée",
