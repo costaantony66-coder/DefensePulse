@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T03:41:26.572Z",
+  "generatedAt": "2026-11-12T12:03:41.965Z",
   "sources": [
     {
       "key": "opex",
@@ -24,17 +24,122 @@
   ],
   "items": [
     {
+      "title": "L’Italie prévoit de dépenser 7,3 milliards d’euros de plus pour sa flotte de chasseurs-bombardiers F-35A/B",
+      "link": "https://www.opex360.com/2026/11/12/litalie-prevoit-de-depenser-73-milliards-deuros-de-plus-pour-sa-flotte-de-chasseurs-bombardiers-f-35a-b/",
+      "pubDate": "2026-11-12T11:54:32.000Z",
+      "description": "En 2009, le Parlement italien approuva le programme pluriannuel SMD 2/2009 relatif à l’acquisition et à la mise en œuvre de 131 chasseurs-bombardiers F-35 [dont 62 en version dite STOVL, c’est-à-dire à décollage court et à atterrissage vertical] et à l’implantation d’une usine d’assemblage de F-35 [FACO – Final Assembly and Check Out] à Cameri....\nCet article L’Italie prévoit de dépenser 7,3 milliards d’euros de plus pour sa flotte de chasseurs-bombardiers F-35A/B est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Kyiv frappée dans la nuit : Moscou affirme avoir visé une usine de roquettes, un immeuble résidentiel touché",
+      "link": "https://armees.com/kyiv-frappes-12-novembre-2026-usine-roquettes-immeuble/",
+      "pubDate": "2026-11-12T11:20:00.000Z",
+      "description": "La Russie affirme avoir frappé plusieurs installations militaires ukrainiennes dans la nuit du 11 au 12 novembre. À Kyiv, les autorités locales rapportent qu'un drone a atteint un immeuble de neuf étages et fait une morte et cinq blessés. Deux récits distincts à ne pas confondre.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Défense nordique : cinq pays ouvrent la négociation d’un accord pour déplacer leurs forces plus librement",
+      "link": "https://armees.com/defense-nordique-cinq-pays-negociation-accord-mobilite-militaire-20261112/",
+      "pubDate": "2026-11-12T10:30:05.000Z",
+      "description": "Norvège, Suède, Danemark, Finlande et Islande ont annoncé le 12 novembre l'ouverture de travaux sur un nouvel accord de défense. Objectif : lever les obstacles juridiques aux opérations transfrontalières, sans prétendre qu'un traité est déjà signé.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’ambassadeur russe aux États-Unis est mort : qui pilotera désormais le dialogue avec Washington ?",
+      "link": "https://armees.com/ambassadeur-russe-washington-alexandre-dartchiev-deces-12-novembre-2026/",
+      "pubDate": "2026-11-12T10:20:00.000Z",
+      "description": "Alexandre Dartchiev est mort le 11 novembre à 66 ans, a annoncé Moscou. Le diplomate occupait depuis 2025 un poste central dans les relations russo-américaines. Sa disparition laisse une ambassade sans titulaire à un moment où les échanges autour de l'Ukraine restent sensibles.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "À Arlington, un soldat rappelle à l’ordre le groupe de Pete Hegseth",
+      "link": "https://armees.com/pete-hegseth-garde-honneur-protocole-arlington/",
+      "pubDate": "2026-11-12T09:17:13.000Z",
+      "description": "Le 11 novembre 2026, Pete Hegseth, secrétaire à la Défense américain, et son entourage ont été réprimandés par un soldat de la Garde d'honneur à la Tombe du Soldat inconnu pour non-respect du silence. L'incident illustre l'autorité institutionnelle du 3e régiment d'infanterie et les protocoles stricts appliqués à Arlington, indépendamment du rang des visiteurs.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Guerre en Ukraine : les discussions à Moscou et les conditions d’un cessez-le-feu",
+      "link": "https://armees.com/guerre-en-ukraine-cessez-feu-ukraine-implications/",
+      "pubDate": "2026-11-12T08:48:59.000Z",
+      "description": "Les émissaires américains Steve Witkoff et Jared Kushner rencontrent Vladimir Poutine à Moscou ce jeudi, après deux jours de pourparlers directs Ukraine-Russie à Abou Dhabi. Pour les états-majors, la guerre en Ukraine entre dans une phase critique : les conditions d'un cessez-le-feu posent des questions stratégiques majeures sur les lignes de front, le redéploiement des forces et les garanties de sécurité en Europe de l'Est.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La Russie renforce sa présence militaire en Arctique, mais Yamal perdra le marché européen en 2027",
+      "link": "https://armees.com/russie-arctique-yamal-gnl-sanctions-strategie-maritime-2027/",
+      "pubDate": "2026-11-12T08:30:00.000Z",
+      "description": "L'interdiction européenne du GNL russe au 1er janvier 2027 menace les débouchés du projet Yamal, alors que l'Arctique reste central dans la stratégie de défense et de dissuasion de Moscou.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Industrie de défense : les commandes résistent, mais les approvisionnements se tendent",
+      "link": "https://armees.com/industrie-defense-approvisionnements-banque-france-121126-0635/",
+      "pubDate": "2026-11-12T08:25:54.000Z",
+      "description": "L'enquête de conjoncture de la Banque de France publiée le 9 novembre montre une activité industrielle soutenue par la défense et l'aéronautique. Pourtant, les difficultés d'approvisionnement touchent jusqu'à un quart des entreprises dans les matériels de transport et l'électronique.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Chine : plus de 100 navires déployés autour de Taïwan sans annonce",
+      "link": "https://armees.com/chine-100-navires-detroit-taiwan-capacites-militaires/",
+      "pubDate": "2026-11-12T08:21:51.000Z",
+      "description": "Plus de 100 navires militaires et garde-côtes chinois ont été mobilisés autour de Taïwan sans annonce préalable, accompagnés de 49 sorties aériennes détectées le 2 novembre. Cette manœuvre furtive teste la capacité de l'Armée populaire de libération à imposer un blocus rapide du détroit, avec des destroyers de type 055 et 052D, des sous-marins et trois porte-avions dont le Fujian équipé de catapultes électromagnétiques.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "À Arlington, l’entourage de Pete Hegseth rappelé au silence par une sentinelle",
+      "link": "https://armees.com/arlington-hegseth-sentinelle-silence-veterans-day-12-novembre-2026-0855/",
+      "pubDate": "2026-11-12T07:16:14.000Z",
+      "description": "Après la cérémonie du Veterans Day du 11 novembre 2026, un garde du Soldat inconnu a rappelé à l’ordre le groupe du secrétaire américain à la Défense. Le Pentagone a reconnu le bien-fondé de cette intervention.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Les astronomes confirment qu’une simulation a généré seule des structures identiques à la Voie lactée : « on n’a rien forcé, ça nous a glacés »",
+      "link": "https://armees.com/les-astronomes-confirment-quune-simulation-a-genere-seule-des-structures-identiques-a-la-voie-lactee-on-na-rien-force-ca-nous-a-glaces/",
+      "pubDate": "2026-11-12T07:05:48.000Z",
+      "description": "Sans qu'on lui dicte quoi que ce soit, une simulation a recréé seule, en 4 milliards d'années virtuelles, le cœur exact de notre galaxie. Un vertige cosmique à découvrir.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’Inde prouve son pouvoir face à la Chine, un Il-76 se pose dans l’Himalaya à plus de 4000 mètres d’altitude",
+      "link": "https://armees.com/linde-prouve-son-pouvoir-face-a-la-chine-un-il-76-se-pose-dans-lhimalaya-a-plus-de-4000-metres-daltitude/",
+      "pubDate": "2026-11-12T06:35:13.000Z",
+      "description": "Un avion géant de 170 tonnes s'est posé à plus de 4 000 mètres d'altitude, à seulement 25 kilomètres de la frontière chinoise. Exploit technique ou message stratégique à Pékin ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "KNDS : Berlin prévoit 6,6 milliards d’euros pour acquérir 50 % du groupe d’armement",
+      "link": "https://armees.com/knds-berlin-66-milliards-acquisition-50-pourcent-novembre-2026/",
+      "pubDate": "2026-11-12T06:22:19.000Z",
+      "description": "Berlin envisage de débourser 6,6 milliards d’euros pour racheter la moitié allemande de KNDS. L’opération modifierait la gouvernance du groupe franco-allemand, sans être encore définitivement conclue.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Une chimpanzé appelée Julie a commencé à mettre un brin d’herbe dans l’oreille. Des années plus tard, un groupe différent de chimpanzés a suivi cette mode",
+      "link": "https://armees.com/une-chimpanze-appelee-julie-a-commence-a-mettre-un-brin-dherbe-dans-loreille-des-annees-plus-tard-un-groupe-different-de-chimpanzes-a-suivi-cette-mode/",
+      "pubDate": "2026-11-12T06:05:44.000Z",
+      "description": "Des brins d'herbe dans l'oreille, puis dans l'anus : chez ces chimpanzés zambiens, une mode insolite se propage de groupe en groupe. Imitation, séduction ou simple jeu social ? Les chercheurs restent perplexes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Débâcle boursière de CSG : quand l’euphorie de la défense européenne rencontre la réalité du marché",
+      "link": "https://armees.com/bourse-debacle-csg-czechoslovak-group-2026-pourcent-defense-boursiere/",
+      "pubDate": "2026-11-12T05:28:03.000Z",
+      "description": "Czechoslovak Group s'effondre de 57% depuis son introduction record en janvier 2026, entraînant l'ensemble du secteur européen de la défense dans sa chute.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Dans le Lot, l’usine de drones TEKEVER s’apprête à accueillir deux ministres",
+      "link": "https://armees.com/tekever-usine-drones-fontanes-vautrin-inauguration-13-novembre-2026-0555/",
+      "pubDate": "2026-11-12T03:55:05.000Z",
+      "description": "Vendredi 13 novembre, Catherine Vautrin et Sébastien Martin doivent inaugurer à Fontanes, près de Cahors, le site français de TEKEVER. L'industriel y prévoit l'assemblage et les essais de drones, au sein d'un investissement annoncé de 100 millions d'euros.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Chrome : l’ANSSI alerte sur une faille déjà exploitée, les mises à jour à appliquer",
       "link": "https://armees.com/chrome-faille-exploitee-cve-2026-125350-cert-fr-111126-presedd-1740/",
       "pubDate": "2026-11-11T15:51:08.000Z",
       "description": "Le CERT-FR de l’ANSSI a signalé le 10 novembre 2026 une vulnérabilité de Google Chrome que l’éditeur considère comme activement exploitée. Les versions corrigées diffèrent selon les systèmes et doivent être vérifiées sur les postes de travail.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "11 novembre dans les écoles : une polémique « très regrettable » pour le ministère des Armées",
-      "link": "https://armees.com/ministere-armees-11-novembre-ecole-polemique-2026/",
-      "pubDate": "2026-11-11T15:33:43.000Z",
-      "description": "Le ministère des Armées défend fermement la circulaire instaurant une cérémonie annuelle du 11-Novembre dans les écoles, face aux accusations de militarisation portées par les syndicats enseignants. Alice Rufo et Catherine Vautrin qualifient mercredi la polémique de « très regrettable », tandis qu'Édouard Geffray assure qu'aucune tension majeure n'a été rapportée sur le terrain.",
       "sourceKey": "armees_com"
     },
     {
@@ -43,13 +148,6 @@
       "pubDate": "2026-11-11T14:42:53.000Z",
       "description": "Actuellement, faute d’alternative européenne, l’Otan s’approprie le logiciel de commandement et de contrôle [C2] dopé à l’intelligence artificielle MSS NATO [pour Maven Smart System NATO], dérivé du projet Maven, confié par le Pentagone à l’américain Palantir. Un tel système vise à compiler et analyser d’énormes quantités de données collectées par une myriade de capteur de...\nCet article Après Thales, l’allemand Helsing défie l’américain Palantir avec son logiciel de commandement et de contrôle Clarity est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Mobilité militaire : les eurodéputés proposent 19,78 milliards d’euros pour adapter les infrastructures",
-      "link": "https://armees.com/mobilite-militaire-1978-milliards-ue-infrastructures-20261111-1422/",
-      "pubDate": "2026-11-11T13:22:00.000Z",
-      "description": "Les commissions compétentes du Parlement européen proposent 19,78 milliards d’euros pour la mobilité militaire dans le budget 2028-2034. Ponts, tunnels et ports à double usage seraient concernés, mais aucun financement n'est définitivement adopté.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Un rapport parlementaire remet en cause le choix d’un châssis allemand pour le successeur du char Leclerc",
@@ -66,102 +164,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Stellantis vend une usine à un fabriquant de blindés",
-      "link": "https://armees.com/stellantis-usine-brampton-vehicules-blindes-defense/",
-      "pubDate": "2026-11-11T09:48:00.000Z",
-      "description": "Stellantis cède son usine de Brampton au fabricant canadien de véhicules blindés Roshel, transformant une infrastructure automobile en centre de défense. Plus de 2 200 employés se retrouvent dans l'incertitude tandis que le Canada voit sa capacité de production automobile diminuer de 10 %. La transaction, dont le montant reste confidentiel, sera finalisée fin 2026.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Christophe Gleizes : après 500 jours de détention, ses proches demandent sa libération",
-      "link": "https://armees.com/christophe-gleizes-enjeu-diplomatique-france/",
-      "pubDate": "2026-11-11T09:37:24.000Z",
-      "description": "Détenu en Algérie depuis juin 2025, le journaliste Christophe Gleizes fait l'objet d'un appel urgent au président Macron. Son comité de soutien intensifie la pression avant le changement de gouvernement français, présentant la grâce présidentielle algérienne comme unique porte de sortie diplomatique.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un homme a conservé une roche pendant des années, croyant qu’elle était en or, mais c’était un fragment du système solaire âgé de 4,6 milliards d’années",
-      "link": "https://armees.com/un-homme-a-conserve-une-roche-pendant-des-annees-croyant-quelle-etait-en-or-mais-cetait-un-fragment-du-systeme-solaire-age-de-46-milliards-dannees/",
-      "pubDate": "2026-11-11T06:35:47.000Z",
-      "description": "Il pensait tenir une pépite d'or. Scie, acide, coups de masse : rien n'entame la roche. La vérité, révélée des années plus tard, dépasse largement l'imagination de ce chercheur amateur australien.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Mer Baltique et Atlantique Nord : dix marines européennes signent un accord de coopération opérationnelle",
-      "link": "https://armees.com/jef-northern-navies-accord-dix-marines-11-novembre-2026/",
-      "pubDate": "2026-11-11T06:26:09.000Z",
-      "description": "Signée le 10 novembre à Oslo, la Northern Navies Initiative veut rapprocher les procédures, les entraînements et les systèmes des dix marines de la JEF. Elle doit faciliter leur action commune et leur coordination avec l’OTAN, sans créer de nouvelle alliance.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Rafale F5 : le M88 T-REX passe aux études, la poussée de 9 tonnes reste un objectif",
-      "link": "https://armees.com/rafale-f5-m88-t-rex-conception-preliminaire-poussee-20261111-0755/",
-      "pubDate": "2026-11-11T06:10:07.000Z",
-      "description": "La DGA a confié à Safran une phase de conception préliminaire du M88 T-REX. Objectif : 20 % de poussée supplémentaire, sans mise en service annoncée.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un pilote de F-15 a visé l’espace depuis son cockpit : il reste le seul homme à avoir abattu un satellite depuis un avion",
-      "link": "https://armees.com/un-pilote-de-f-15-a-vise-lespace-depuis-son-cockpit-il-reste-le-seul-homme-a-avoir-abattu-un-satellite-depuis-un-avion/",
-      "pubDate": "2026-11-11T06:05:09.000Z",
-      "description": "Un chasseur, un missile, une cible à 555 km d'altitude : en 1985, un pilote américain a réalisé l'impossible. Son fils a rejoué l'exploit 22 ans plus tard, aux commandes du même avion.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Défense : les espoirs déçus de la coopération franco-allemande sous Emmanuel Macron, des chars aux avions de combat",
       "link": "https://www.lemonde.fr/international/article/2026/11/11/les-espoirs-decus-de-la-cooperation-franco-allemande-de-defense-sous-macron_6808941_3210.html",
       "pubDate": "2026-11-11T06:00:07.000Z",
       "description": "A l’occasion d’une assemblée parlementaire, lundi 9 novembre, Paris et Berlin ont fait le bilan d’une relation contrariée en matière de défense, qui a mené à l’abandon du projet d’avion de combat SCAF et à la remise en cause d’un projet de char, estimés à 200 milliards d’euros.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Dix ravitailleurs américains quittent une base britannique : cinq gagnent l’Allemagne",
-      "link": "https://armees.com/kc135-mildenhall-redeploiement-allemagne-iran-11-novembre-2026-radar/",
-      "pubDate": "2026-11-11T04:20:00.000Z",
-      "description": "Des données de suivi de vol documentent le transfert de dix KC-135 depuis RAF Mildenhall le 9 novembre, dont cinq vers l'Allemagne. Une menace liée à l'Iran est rapportée, sans attribution officielle publique détaillée.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "MBDA : Jean-Brice Dumont prend la direction du missilier européen, avec 44 milliards d’euros de commandes",
-      "link": "https://armees.com/mbda-jean-brice-dumont-direction-commandes-production-20261111-0455/",
-      "pubDate": "2026-11-11T03:05:39.000Z",
-      "description": "Jean-Brice Dumont dirige MBDA depuis le 1er novembre 2026, après Eric Béranger. Effectifs, carnet de commandes, production de missiles et défis industriels de la transition.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Dissuasion nucléaire : Paris et Londres vont partager l’accès à certaines installations d’essais",
-      "link": "https://armees.com/france-royaume-uni-northwood-cooperation-installations-essais-nucleaires-novembre-2026/",
-      "pubDate": "2026-11-11T02:18:42.000Z",
-      "description": "La France et le Royaume-Uni annoncent le 10 novembre une nouvelle étape de coopération nucléaire, avec l'utilisation réciproque d'installations d'essais. Leurs forces de dissuasion restent indépendantes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Câbles sous-marins : Londres prévoit 90 millions de livres pour des drones et capteurs dans l’Atlantique",
-      "link": "https://armees.com/royaume-uni-atlantic-net-90-millions-drones-cables-sous-marins-novembre-2026/",
-      "pubDate": "2026-11-11T02:13:25.000Z",
-      "description": "Le Royaume-Uni annonce un accord-cadre de 90 millions de livres pour développer Atlantic Net, réseau de surveillance sous-marine. Objectif : protéger câbles et infrastructures stratégiques sans remplacer les forces navales habitées.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Sous-marin nucléaire : pourquoi un SNA n’a pas la même mission qu’un SNLE",
-      "link": "https://armees.com/sous-marin-nucleaire-difference-sna-snle-missions-20261111-0255/",
-      "pubDate": "2026-11-11T01:08:52.000Z",
-      "description": "Propulsion nucléaire ne signifie pas nécessairement missile nucléaire. Les sous-marins d’attaque Suffren et les SNLE de la force océanique stratégique remplissent deux missions distinctes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un chalutier de 56 mètres inspire un drone chasseur de sous-marins pour la Royal Navy",
-      "link": "https://armees.com/kongsberg-arctic-hunter-chalutier-thales-royal-navy-11-novembre-2026/",
-      "pubDate": "2026-11-11T00:20:00.000Z",
-      "description": "Kongsberg a dévoilé un projet de navire sans équipage conçu à partir d’une architecture commerciale. Avec les capteurs de Thales UK, l’Arctic Hunter vise la surveillance anti-sous-marine dans l’Atlantique Nord, sans avoir encore fait l’objet d’une commande opérationnelle confirmée.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "F-35 : 17 000 pièces en maintenance absentes des registres, un audit alerte le Pentagone",
-      "link": "https://armees.com/f35-17000-pieces-maintenance-inventaire-gao-novembre-2026/",
-      "pubDate": "2026-11-10T23:20:00.000Z",
-      "description": "Un rapport du GAO publié le 9 novembre révèle que les registres du programme F-35 ne permettent pas de suivre correctement des milliers de pièces. Quelque 17 000 composants en maintenance, valorisés à 1,3 milliard de dollars, n'étaient pas inscrits dans un système de gestion en mars 2026.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Naval Group a notifié un contrat de 180 millions d’euros à Saab pour équiper les futures frégates suédoises",
@@ -210,13 +217,6 @@
       "link": "https://www.opex360.com/2026/11/09/le-ministere-des-armees-lance-la-realisation-de-deux-satellites-dobservation-iris-pour-15-milliard-deuros/",
       "pubDate": "2026-11-09T17:35:00.000Z",
       "description": "Lors de l’examen du projet d’actualisation de la Loi de programmation militaire [LPM] 2024-30, en mai dernier, le chef d’état-major des armées [CEMA], le général Fabien Mandon, s’était dit inquiet du retard pris par les programmes CELESTE et IRIS, lancés par la Direction générale de l’armement [DGA] pour renouveler les constellations satellitaires CERES [pour Capacités...\nCet article Le ministère des Armées lance la réalisation de deux satellites d’observation IRIS pour 1,5 milliard d’euros est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Le Portugal envisage d’accueillir une école allemande de pilotage dédiée au chasseur-bombardier F-35",
-      "link": "https://www.opex360.com/2026/11/09/le-portugal-envisage-daccueillir-une-ecole-allemande-de-pilotage-dediee-au-chasseur-bombardier-f-35/",
-      "pubDate": "2026-11-09T15:50:44.000Z",
-      "description": "Pour le moment, la force aérienne portugaise [FAP – Força Aérea Portuguesa] attend l’adoption d’une nouvelle loi de programmation militaire pour remplacer ses vingt-quatre F-16AM/BM à bout de souffle. Cependant, même si aucun appel d’offres n’a été émis par Lisbonne, plusieurs industriels ont déjà pris leurs marques. En effet, Dassault Aviation [Rafale], le consortium Eurofighter,...\nCet article Le Portugal envisage d’accueillir une école allemande de pilotage dédiée au chasseur-bombardier F-35 est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
