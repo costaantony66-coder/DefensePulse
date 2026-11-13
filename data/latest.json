@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T15:40:16.642Z",
+  "generatedAt": "2026-11-13T21:45:19.989Z",
   "sources": [
     {
       "key": "opex",
@@ -24,6 +24,41 @@
   ],
   "items": [
     {
+      "title": "Des drones Vector de l’armée allemande ont brièvement été cloués au sol par une attaque informatique",
+      "link": "https://www.opex360.com/2026/11/13/des-drones-vector-de-larmee-allemande-ont-brievement-ete-cloues-au-sol-par-une-attaque-informatique/",
+      "pubDate": "2026-11-13T18:32:11.000Z",
+      "description": "Selon le Financial Times, fin octobre, l’armée allemande a été contrainte de clouer au sol ses mini-drones de reconnaissance tactique à décollage et atterrissage verticaux [eVTOL] et à voilure fixe Vector – qu’elle appelle «Falke» – à la suite d’un incident informatique survenu chez leur fabricant, à savoir Quantum Systems. Ce que ce dernier a...\nCet article Des drones Vector de l’armée allemande ont brièvement été cloués au sol par une attaque informatique est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "À Volgograd, quatre employés tués lors d’une attaque de drones, selon le gouverneur",
+      "link": "https://armees.com/volgograd-attaque-drones-zone-industrielle-raffinerie-13-novembre/",
+      "pubDate": "2026-11-13T18:20:00.000Z",
+      "description": "Des images géolocalisées par le média russe Astra montrent plusieurs foyers d’incendie sur le site de la raffinerie de Loukoïl. Le gouverneur régional situe les victimes dans la zone industrielle du sud de la ville. L’étendue des dégâts sur les installations de raffinage reste inconnue.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Que peut décider le secrétaire général de l’OTAN ?",
+      "link": "https://armees.com/otan-secretaire-general-conseil-atlantique-decisions-consensus/",
+      "pubDate": "2026-11-13T17:36:10.000Z",
+      "description": "À Dublin, Mark Rutte a défendu une hausse de la production militaire et la poursuite du soutien à l’Ukraine. Pour engager l’Alliance sur une décision commune, le secrétaire général doit réunir l’accord des pays membres.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La France va commander 20 vedettes rapides CB90 auprès de la Suède",
+      "link": "https://www.opex360.com/2026/11/13/la-france-va-commander-20-vedettes-rapides-cb90-aupres-de-la-suede/",
+      "pubDate": "2026-11-13T17:24:45.000Z",
+      "description": "En 2025, la Marine nationale se fit prêter trois vedettes rapides CB90 [pour Combat Boat 90] par les forces suédoises à des fins d’évaluation et d’expérimentation. Et cela alors que le programme des Vedettes de Fusiliers Marins [VFM] se trouvait en difficulté, malgré la livraison de deux unités – le Bir Hakeim et le Laffaux...\nCet article La France va commander 20 vedettes rapides CB90 auprès de la Suède est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Défense : Atos Group mise sur l’intelligence artificielle et les systèmes critiques",
+      "link": "https://armees.com/defense-atos-group-intelligence-artificielle-systemes-critiques/",
+      "pubDate": "2026-11-13T17:15:15.000Z",
+      "description": "Atos Group poursuit son développement dans le secteur de la défense comme en témoigne ses innovations présentées lors de l’édition 2026 d’Euronaval. De la détection des émissions radar à l’aide tactique par l’intelligence artificielle, en passant par l’optimisation de la navigation des drones maritimes, le groupe informatique développe plusieurs solutions technologiques à travers sa branche Eviden. Trois annonces successives illustrent cette stratégie, alors que le traitement des données et l’automatisation prennent une place croissante dans les opérations militaires.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "La France officialise la création d’un centre international dédié à l’intelligence artificielle militaire à Rennes",
       "link": "https://www.opex360.com/2026/11/13/la-france-officialise-la-creation-dun-centre-international-dedie-a-lintelligence-artificielle-militaire-a-rennes/",
       "pubDate": "2026-11-13T15:36:46.000Z",
@@ -31,10 +66,38 @@
       "sourceKey": "opex"
     },
     {
+      "title": "Le Danemark commande à Saab de quoi simuler les drones et les tirs hors vue à l’entraînement",
+      "link": "https://armees.com/danemark-saab-simulation-cv90-drones-tirs-hors-vue/",
+      "pubDate": "2026-11-13T14:52:13.000Z",
+      "description": "L’agence danoise des acquisitions de défense a commandé à Saab pour 350 millions de couronnes suédoises de matériels de simulation. Les livraisons prévues de 2026 à 2028 compléteront les moyens d’entraînement des unités équipées du blindé CV90.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "En Norvège, le HMS Prince of Wales a chargé ses munitions à quai, une première pour sa classe hors du Royaume-Uni",
+      "link": "https://armees.com/hms-prince-of-wales-munitions-quai-norvege-hammernesodden/",
+      "pubDate": "2026-11-13T14:41:13.000Z",
+      "description": "Avant de recevoir le secrétaire général de l’OTAN à Oslo, le porte-avions britannique a testé une autre façon de se ravitailler. À Hammernesodden, près de Namsos, un quai militaire norvégien lui a servi de point de chargement pour ses munitions.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Budget 2027 de l’UE : l’accord prévoit 3,08 milliards d’euros pour la sécurité et la défense",
+      "link": "https://armees.com/budget-ue-2027-engagements-securite-defense/",
+      "pubDate": "2026-11-13T14:19:00.000Z",
+      "description": "Le Conseil et le Parlement européen se sont entendus sur les sommes que l’Union pourra engager en 2027 pour la sécurité et la défense. Les paiements prévus sur l’année s’élèvent à 2,23 milliards d’euros. Les deux institutions doivent encore approuver l’accord.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Royaume-Uni : deux hommes reconnus coupables d’avoir aidé le renseignement iranien",
       "link": "https://armees.com/espionnage-iran-recrutement-agents-reseaux-sociaux/",
       "pubDate": "2026-11-13T13:40:18.000Z",
       "description": "Mostafa Sepahvand et Farhad Javadi Manesh ont été reconnus coupables le 12 novembre 2026 d'avoir mené des opérations de surveillance pour les Gardiens de la Révolution iraniens contre des journalistes basés à Londres. Recrutés via les réseaux sociaux, ces demandeurs d'asile ont utilisé ChatGPT pour localiser leurs cibles et reçu une promesse de 150 000 livres pour un assassinat. Le verdict expose les failles du renseignement britannique face aux tactiques hybrides iraniennes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "À Bahreïn, l’Iran revendique la destruction d’un radar américain",
+      "link": "https://armees.com/bahrein-iran-radar-americain-drones-sirik/",
+      "pubDate": "2026-11-13T13:35:13.000Z",
+      "description": "Téhéran affirme avoir détruit un radar d’alerte avancée le 13 novembre, en riposte à une frappe sur la côte iranienne. Le commandement américain dit avoir abattu deux drones en route vers Bahreïn et ne signale ni blessé ni dégât.",
       "sourceKey": "armees_com"
     },
     {
@@ -101,55 +164,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "À Dublin, Kyiv place les missiles de défense aérienne et les abris en tête de ses besoins",
-      "link": "https://armees.com/dublin-ukraine-missiles-abris-programme-purl-12-novembre-2026/",
-      "pubDate": "2026-11-13T07:39:47.000Z",
-      "description": "Volodymyr Zelensky a réuni une vingtaine de partenaires le 12 novembre à Dublin. Les discussions ont porté sur la protection contre les frappes, le soutien énergétique et le financement de matériel américain par les alliés de l’Ukraine.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Fausses alertes en Europe : ce que révèlent les menaces contre les écoles italiennes",
-      "link": "https://armees.com/fausses-alertes-europe-menaces-ecoles-italiennes/",
-      "pubDate": "2026-11-13T07:35:00.000Z",
-      "description": "Le 11 novembre, des écoles italiennes, britanniques et irlandaises ont reçu des menaces à la bombe similaires. Les conséquences ont pourtant varié d’un pays à l’autre. L’épisode éclaire une difficulté de sécurité civile : évaluer la crédibilité d’une alerte dans les minutes qui suivent, alors qu’identifier son auteur peut prendre bien plus longtemps.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Au Bataclan et rue de Charonne, ce que les soldats de Sentinelle ont fait le 13 novembre 2015",
-      "link": "https://armees.com/bataclan-rue-charonne-mission-sentinelle-13-novembre-2015/",
-      "pubDate": "2026-11-13T07:13:07.000Z",
-      "description": "À Paris, les hommages de ce vendredi passent par La Belle Équipe puis par le Bataclan. Onze ans plus tôt, des soldats avaient protégé les secours sur les deux sites. Leurs témoignages devant l’Assemblée nationale permettent de suivre, rue par rue, les missions qu’ils ont reçues.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Oubliez les moustiques dans l’ambre, des chercheurs auraient trouvé du sang de dinosaure dans un os datant de 115 millions d’années",
-      "link": "https://armees.com/oubliez-les-moustiques-dans-lambre-des-chercheurs-auraient-trouve-du-sang-de-dinosaure-dans-un-os-datant-de-115-millions-dannees/",
-      "pubDate": "2026-11-13T07:05:45.000Z",
-      "description": "Du sang vieux de 115 millions d'années dans un os de dinosaure survivant à un incendie de musée : la découverte qui relance une controverse scientifique vieille de plusieurs années. Authentique vestige biologique ou simple illusion ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Les États-Unis dépêchent en urgence 24 avions militaires depuis des bases britanniques : quelles conséquences ?",
-      "link": "https://armees.com/les-etats-unis-depechent-en-urgence-24-avions-militaires-depuis-des-bases-britanniques-quelles-consequences/",
-      "pubDate": "2026-11-13T06:35:00.000Z",
-      "description": "Douze avions américains évacués, sécurité au maximum, menace iranienne confirmée : c'est le deuxième retrait précipité en trois semaines. Que cache vraiment cette escalade silencieuse entre Washington et Téhéran sur le sol britannique ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’Irlande appelée à arrêter l’envoi à la Russie d’un ingrédient crucial pour son conflit en Ukraine",
-      "link": "https://armees.com/lirlande-appelee-a-arreter-lenvoi-a-la-russie-dun-ingredient-crucial-pour-son-conflit-en-ukraine/",
-      "pubDate": "2026-11-13T06:05:17.000Z",
-      "description": "Un cargo irlandais chargé d'alumine file vers la Russie, cinq ans après le début de la guerre. Sanctions contournées, preuves manquantes, soupçons d'armement : l'Irlande se retrouve au cœur d'un dossier brûlant que Bruxelles peine à trancher.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Dans le golfe de Finlande, l’Ukraine dit avoir frappé la corvette russe Naro-Fominsk",
-      "link": "https://armees.com/golfe-finlande-corvette-russe-naro-fominsk/",
-      "pubDate": "2026-11-13T05:37:30.000Z",
-      "description": "Une explosion a été observée le 11 novembre à bord d’un navire de la flotte russe de la Baltique. Le bâtiment a ensuite repris la direction de Saint-Pétersbourg. La Finlande confirme avoir détecté une frappe, sans préciser l’état du navire.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La Marine nationale va créer huit escouades de réserve côtières de plus en 2027",
       "link": "https://www.opex360.com/2026/11/12/la-marine-nationale-va-creer-huit-escouades-de-reserve-cotieres-de-plus-en-2027/",
       "pubDate": "2026-11-12T18:47:40.000Z",
@@ -199,25 +213,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "L’acteur Jean Gabin va donner son nom à la flottille de réserve de la Force maritime des fusiliers marins et commandos",
-      "link": "https://www.opex360.com/2026/11/11/lacteur-jean-gabin-va-donner-son-nom-a-la-flottille-de-reserve-de-la-force-maritime-des-fusiliers-marins-et-commandos/",
-      "pubDate": "2026-11-11T11:19:03.000Z",
-      "description": "Cavalier indiscipliné dans les Gaietés de l’escadron [1932], inoubliable lieutenant aviateur Maréchal, au côté du non moins inoubliable capitaine de Boëldieu, incarné par Pierre Fresnay, dans la Grande illusion [1937], soldat en rupture de ban dans le Quai des brumes [1938], Jean Moncorgé, alias Jean Gabin, refusa d’interpréter des rôles de militaires après la Seconde...\nCet article L’acteur Jean Gabin va donner son nom à la flottille de réserve de la Force maritime des fusiliers marins et commandos est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
       "title": "Défense : les espoirs déçus de la coopération franco-allemande sous Emmanuel Macron, des chars aux avions de combat",
       "link": "https://www.lemonde.fr/international/article/2026/11/11/les-espoirs-decus-de-la-cooperation-franco-allemande-de-defense-sous-macron_6808941_3210.html",
       "pubDate": "2026-11-11T06:00:07.000Z",
       "description": "A l’occasion d’une assemblée parlementaire, lundi 9 novembre, Paris et Berlin ont fait le bilan d’une relation contrariée en matière de défense, qui a mené à l’abandon du projet d’avion de combat SCAF et à la remise en cause d’un projet de char, estimés à 200 milliards d’euros.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Naval Group a notifié un contrat de 180 millions d’euros à Saab pour équiper les futures frégates suédoises",
-      "link": "https://www.opex360.com/2026/11/10/naval-group-a-notifie-un-contrat-de-180-millions-deuros-a-saab-pour-equiper-les-futures-fregates-suedoises/",
-      "pubDate": "2026-11-10T18:33:39.000Z",
-      "description": "En août 2025, la Norvège fit connaître son intention de se procurer au moins cinq frégates de Type 26 [ou classe City] auprès du britannique BAE Systems dans le cadre d’un investissement de 8,5 milliards d’euros. Et cela aux dépens, entre autres, du français Naval Group, qui avait soumis la candidature de sa Frégate de...\nCet article Naval Group a notifié un contrat de 180 millions d’euros à Saab pour équiper les futures frégates suédoises est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Blue Dome : la Belgique met un terme à trois décennies sans défense sol-air",
