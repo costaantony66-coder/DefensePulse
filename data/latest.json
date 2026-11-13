@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T19:58:37.149Z",
+  "generatedAt": "2026-11-13T00:57:06.721Z",
   "sources": [
     {
       "key": "opex",
@@ -24,6 +24,20 @@
   ],
   "items": [
     {
+      "title": "Guerre des mines : Londres rejoint un programme norvégien pour trois navires porteurs de drones",
+      "link": "https://armees.com/royal-navy-norvege-trois-navires-porteurs-drones-antimines-2031/",
+      "pubDate": "2026-11-12T22:26:26.000Z",
+      "description": "Londres annonce trois futurs navires de soutien aux drones antimines dans le cadre du programme norvégien P1118. Le premier est attendu en 2031 et trois unités supplémentaires restent optionnelles.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Royal Navy : son premier escadron d’embarcations autonomes entre en service à Portsmouth",
+      "link": "https://armees.com/royal-navy-premier-escadron-autonome-portsmouth-20261112-2155/",
+      "pubDate": "2026-11-12T20:10:03.000Z",
+      "description": "La marine britannique a créé sa première unité dédiée aux embarcations militaires sans équipage. À Portsmouth, Kraken et Rattler illustrent le passage des essais à une organisation permanente.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "La Marine nationale va créer huit escouades de réserve côtières de plus en 2027",
       "link": "https://www.opex360.com/2026/11/12/la-marine-nationale-va-creer-huit-escouades-de-reserve-cotieres-de-plus-en-2027/",
       "pubDate": "2026-11-12T18:47:40.000Z",
@@ -38,10 +52,10 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "La Royal Navy va tester le drone de combat YFQ-84A Talon Blue de Northrop Grumman depuis l’un ses porte-avions",
-      "link": "https://www.opex360.com/2026/11/12/la-royal-navy-va-tester-le-drone-de-combat-yfq-84a-talon-blue-de-northrop-grumman-depuis-lun-ses-porte-avions/",
+      "title": "La Royal Navy va tester le drone de combat YFQ-48A Talon Blue de Northrop Grumman depuis l’un ses porte-avions",
+      "link": "https://www.opex360.com/2026/11/12/la-royal-navy-va-tester-le-drone-de-combat-yfq-48a-talon-blue-de-northrop-grumman-depuis-lun-ses-porte-avions/",
       "pubDate": "2026-11-12T18:08:06.000Z",
-      "description": "En 2021, dans le cadre de son plan «Future Maritime Force», la Royal Navy avait dévoilé le projet «Vixen», son objectif étant de se doter d’un drone de combat à voilure fixe pouvant être lancé par une catapulte électromagnétique et récupéré grâce à des brins d’arrêt, deux dispositifs dont étaient pourtant dépourvus le HMS Queen...\nCet article La Royal Navy va tester le drone de combat YFQ-84A Talon Blue de Northrop Grumman depuis l’un ses porte-avions est apparu en premier sur Zone Militaire.",
+      "description": "En 2021, dans le cadre de son plan «Future Maritime Force», la Royal Navy avait dévoilé le projet «Vixen», son objectif étant de se doter d’un drone de combat à voilure fixe pouvant être lancé par une catapulte électromagnétique et récupéré grâce à des brins d’arrêt, deux dispositifs dont étaient pourtant dépourvus le HMS Queen...\nCet article La Royal Navy va tester le drone de combat YFQ-48A Talon Blue de Northrop Grumman depuis l’un ses porte-avions est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -154,20 +168,6 @@
       "link": "https://armees.com/russie-arctique-yamal-gnl-sanctions-strategie-maritime-2027/",
       "pubDate": "2026-11-12T08:30:00.000Z",
       "description": "L'interdiction européenne du GNL russe au 1er janvier 2027 menace les débouchés du projet Yamal, alors que l'Arctique reste central dans la stratégie de défense et de dissuasion de Moscou.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Industrie de défense : les commandes résistent, mais les approvisionnements se tendent",
-      "link": "https://armees.com/industrie-defense-approvisionnements-banque-france-121126-0635/",
-      "pubDate": "2026-11-12T08:25:54.000Z",
-      "description": "L'enquête de conjoncture de la Banque de France publiée le 9 novembre montre une activité industrielle soutenue par la défense et l'aéronautique. Pourtant, les difficultés d'approvisionnement touchent jusqu'à un quart des entreprises dans les matériels de transport et l'électronique.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Chine : plus de 100 navires déployés autour de Taïwan sans annonce",
-      "link": "https://armees.com/chine-100-navires-detroit-taiwan-capacites-militaires/",
-      "pubDate": "2026-11-12T08:21:51.000Z",
-      "description": "Plus de 100 navires militaires et garde-côtes chinois ont été mobilisés autour de Taïwan sans annonce préalable, accompagnés de 49 sorties aériennes détectées le 2 novembre. Cette manœuvre furtive teste la capacité de l'Armée populaire de libération à imposer un blocus rapide du détroit, avec des destroyers de type 055 et 052D, des sous-marins et trois porte-avions dont le Fujian équipé de catapultes électromagnétiques.",
       "sourceKey": "armees_com"
     },
     {
