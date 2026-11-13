@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T07:36:46.418Z",
+  "generatedAt": "2026-11-13T15:40:16.642Z",
   "sources": [
     {
       "key": "opex",
@@ -24,59 +24,129 @@
   ],
   "items": [
     {
+      "title": "La France officialise la création d’un centre international dédié à l’intelligence artificielle militaire à Rennes",
+      "link": "https://www.opex360.com/2026/11/13/la-france-officialise-la-creation-dun-centre-international-dedie-a-lintelligence-artificielle-militaire-a-rennes/",
+      "pubDate": "2026-11-13T15:36:46.000Z",
+      "description": "Après ceux dédiés à la préparation aux opérations aériennes [CASPOA, à Lyon] et à l’espace [NATO Space COE, à Toulouse], la France négociait encore récemment l’implantation d’un troisième centre d’excellence de l’Otan sur son territoire, en l’occurrence à Rennes, pour traiter des questions relatives à l’intelligence artificielle de défense. N’étant ni directement financé par l’Otan,...\nCet article La France officialise la création d’un centre international dédié à l’intelligence artificielle militaire à Rennes est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Royaume-Uni : deux hommes reconnus coupables d’avoir aidé le renseignement iranien",
+      "link": "https://armees.com/espionnage-iran-recrutement-agents-reseaux-sociaux/",
+      "pubDate": "2026-11-13T13:40:18.000Z",
+      "description": "Mostafa Sepahvand et Farhad Javadi Manesh ont été reconnus coupables le 12 novembre 2026 d'avoir mené des opérations de surveillance pour les Gardiens de la Révolution iraniens contre des journalistes basés à Londres. Recrutés via les réseaux sociaux, ces demandeurs d'asile ont utilisé ChatGPT pour localiser leurs cibles et reçu une promesse de 150 000 livres pour un assassinat. Le verdict expose les failles du renseignement britannique face aux tactiques hybrides iraniennes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Armes autonomes : Genève doit examiner l’ouverture de négociations en novembre 2026",
+      "link": "https://armees.com/armes-autonomes-strategie-militaire-traite-2026/",
+      "pubDate": "2026-11-13T13:20:16.000Z",
+      "description": "Du 16 au 20 novembre 2026, Genève accueille une réunion gouvernementale décisive sur la régulation des armes autonomes. Alors que 37 pays disposent déjà de capacités opérationnelles en systèmes létaux autonomes, la communauté internationale affronte un choix stratégique majeur : établir un cadre contraignant avant la prolifération incontrôlée ou laisser les algorithmes militaires échapper à tout contrôle humain. Le CICR appelle à agir immédiatement pour préserver la maîtrise des guerres futures.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Après une cyberattaque, les drones Quantum Systems ont repris leurs vols en Allemagne",
+      "link": "https://armees.com/cyberattaque-quantum-systems-drones-bundeswehr-reprise-vols-2026/",
+      "pubDate": "2026-11-13T13:00:00.000Z",
+      "description": "Le fabricant allemand de drones Quantum Systems a subi une intrusion fin octobre 2026. La Bundeswehr a suspendu ses appareils par précaution avant une reprise annoncée par l’entreprise le 13 novembre. Les investigations se concentrent sur un serveur de mises à jour logicielles.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "À Bahreïn, les marines du Golfe étudient la place des drones dans la surveillance en mer",
+      "link": "https://armees.com/silent-sentinel-ii-bahrein-drones-surveillance-golfe/",
+      "pubDate": "2026-11-13T12:41:03.000Z",
+      "description": "Les 2 et 3 novembre, la force navale multinationale commandée par le Qatar a réuni ses partenaires pour Silent Sentinel II. Au programme figuraient les capacités des systèmes sans équipage et les règles de leur emploi.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Finlande hors de l’OTAN : ce que recouvrent les exigences russes rapportées par BILD",
+      "link": "https://armees.com/bild-russie-finlande-otan-pays-baltes-exigences-abu-dhabi/",
+      "pubDate": "2026-11-13T12:39:35.000Z",
+      "description": "Une proposition informelle attribuée à des négociateurs russes réclamerait la sortie de la Finlande de l’OTAN et l’absence de bases de l’Alliance dans les pays baltes. Moscou conteste la demande visant Helsinki.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’Espagne débloque 3 milliards d’euros pour acquérir des missiles de croisière JSM-SL et moderniser ses sous-marins S80",
+      "link": "https://www.opex360.com/2026/11/13/lespagne-debloque-3-milliards-deuros-pour-acquerir-des-missiles-de-croisiere-jsm-sl-et-moderniser-ses-sous-marins-s80/",
+      "pubDate": "2026-11-13T11:54:01.000Z",
+      "description": "Si les choses s’étaient passées comme prévu, la marine espagnole [Armada española] aurait dû recevoir quatre nouveaux sous-marins de type S80, à propulsion diesel-électrique, entre 2015 et 2018, afin de remplacer ceux de la classe Agosta, acquis auprès de la France dans les années 1980. Mais c’était sans compter sur les difficultés que leur constructeur,...\nCet article L’Espagne débloque 3 milliards d’euros pour acquérir des missiles de croisière JSM-SL et moderniser ses sous-marins S80 est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "La Norvège redoute des sabotages russes contre sa chaîne de défense",
+      "link": "https://armees.com/norvege-pst-sabotages-russes-logistique-defense-2026/",
+      "pubDate": "2026-11-13T11:44:43.000Z",
+      "description": "Le service de sécurité norvégien juge désormais probable une opération de sabotage liée aux renseignements russes dans les douze prochains mois. Les industriels de défense et leurs prestataires logistiques figurent au premier rang des cibles envisagées, sur fond de soutien militaire à l’Ukraine.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Allemagne : le financement du réarmement par la dette inquiète les experts",
+      "link": "https://armees.com/rearmement-allemagne-budget-defense-contraintes-strategiques/",
+      "pubDate": "2026-11-13T10:24:50.000Z",
+      "description": "La dette publique allemande pourrait exploser de 64% à 98% du PIB d'ici 2040 si Berlin maintient son modèle de financement du réarmement par l'endettement. Le Conseil des experts économiques alerte sur une « crise budgétaire d'ampleur historique » qui menace les capacités militaires futures de l'Allemagne face à la menace russe.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cyberdéfense : comment les attaquants ont progressé au-delà des académies",
+      "link": "https://armees.com/cyberdefense-academies-reseau-interministeriel-reactiv/",
+      "pubDate": "2026-11-13T09:56:39.000Z",
+      "description": "Entre juillet et septembre, les incidents signalés par l’Éducation nationale ont visé 25 académies sur 30. Dans certains cas, des comptes compromis ont permis aux attaquants de gagner d’autres entités par le Réseau interministériel de l’État.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Qui garde l’Élysée, Matignon et les assemblées ? Les missions de la Garde républicaine",
+      "link": "https://armees.com/garde-republicaine-palais-nationaux-infanterie-cavalerie-missions/",
+      "pubDate": "2026-11-13T09:37:23.000Z",
+      "description": "À l’ouverture d’une séance parlementaire, la Garde républicaine rend les honneurs. Ses gendarmes assurent aussi la sécurité des lieux. De l’Élysée au Sénat, cette tâche quotidienne se répartit entre deux régiments d’infanterie.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "À Dublin, Kyiv place les missiles de défense aérienne et les abris en tête de ses besoins",
+      "link": "https://armees.com/dublin-ukraine-missiles-abris-programme-purl-12-novembre-2026/",
+      "pubDate": "2026-11-13T07:39:47.000Z",
+      "description": "Volodymyr Zelensky a réuni une vingtaine de partenaires le 12 novembre à Dublin. Les discussions ont porté sur la protection contre les frappes, le soutien énergétique et le financement de matériel américain par les alliés de l’Ukraine.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Fausses alertes en Europe : ce que révèlent les menaces contre les écoles italiennes",
+      "link": "https://armees.com/fausses-alertes-europe-menaces-ecoles-italiennes/",
+      "pubDate": "2026-11-13T07:35:00.000Z",
+      "description": "Le 11 novembre, des écoles italiennes, britanniques et irlandaises ont reçu des menaces à la bombe similaires. Les conséquences ont pourtant varié d’un pays à l’autre. L’épisode éclaire une difficulté de sécurité civile : évaluer la crédibilité d’une alerte dans les minutes qui suivent, alors qu’identifier son auteur peut prendre bien plus longtemps.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Au Bataclan et rue de Charonne, ce que les soldats de Sentinelle ont fait le 13 novembre 2015",
+      "link": "https://armees.com/bataclan-rue-charonne-mission-sentinelle-13-novembre-2015/",
+      "pubDate": "2026-11-13T07:13:07.000Z",
+      "description": "À Paris, les hommages de ce vendredi passent par La Belle Équipe puis par le Bataclan. Onze ans plus tôt, des soldats avaient protégé les secours sur les deux sites. Leurs témoignages devant l’Assemblée nationale permettent de suivre, rue par rue, les missions qu’ils ont reçues.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Oubliez les moustiques dans l’ambre, des chercheurs auraient trouvé du sang de dinosaure dans un os datant de 115 millions d’années",
+      "link": "https://armees.com/oubliez-les-moustiques-dans-lambre-des-chercheurs-auraient-trouve-du-sang-de-dinosaure-dans-un-os-datant-de-115-millions-dannees/",
+      "pubDate": "2026-11-13T07:05:45.000Z",
+      "description": "Du sang vieux de 115 millions d'années dans un os de dinosaure survivant à un incendie de musée : la découverte qui relance une controverse scientifique vieille de plusieurs années. Authentique vestige biologique ou simple illusion ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Les États-Unis dépêchent en urgence 24 avions militaires depuis des bases britanniques : quelles conséquences ?",
+      "link": "https://armees.com/les-etats-unis-depechent-en-urgence-24-avions-militaires-depuis-des-bases-britanniques-quelles-consequences/",
+      "pubDate": "2026-11-13T06:35:00.000Z",
+      "description": "Douze avions américains évacués, sécurité au maximum, menace iranienne confirmée : c'est le deuxième retrait précipité en trois semaines. Que cache vraiment cette escalade silencieuse entre Washington et Téhéran sur le sol britannique ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’Irlande appelée à arrêter l’envoi à la Russie d’un ingrédient crucial pour son conflit en Ukraine",
+      "link": "https://armees.com/lirlande-appelee-a-arreter-lenvoi-a-la-russie-dun-ingredient-crucial-pour-son-conflit-en-ukraine/",
+      "pubDate": "2026-11-13T06:05:17.000Z",
+      "description": "Un cargo irlandais chargé d'alumine file vers la Russie, cinq ans après le début de la guerre. Sanctions contournées, preuves manquantes, soupçons d'armement : l'Irlande se retrouve au cœur d'un dossier brûlant que Bruxelles peine à trancher.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Dans le golfe de Finlande, l’Ukraine dit avoir frappé la corvette russe Naro-Fominsk",
       "link": "https://armees.com/golfe-finlande-corvette-russe-naro-fominsk/",
       "pubDate": "2026-11-13T05:37:30.000Z",
       "description": "Une explosion a été observée le 11 novembre à bord d’un navire de la flotte russe de la Baltique. Le bâtiment a ensuite repris la direction de Saint-Pétersbourg. La Finlande confirme avoir détecté une frappe, sans préciser l’état du navire.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Pourquoi les armées se méfient des drones et des voitures venus de Chine",
-      "link": "https://armees.com/drones-voitures-chinoises-armees-risque-espionnage/",
-      "pubDate": "2026-11-13T05:00:00.000Z",
-      "description": "L’Allemagne retire ses drones chinois d’entraînement. En France, un eurodéputé réclame que les voitures BYD restent à la porte des bases militaires. Un exercice norvégien a déjà montré ce qu’une caméra embarquée pouvait enregistrer à l’insu des soldats.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "À Saint-Pétersbourg, deux militaires russes tués sur la même route en moins de trois mois",
-      "link": "https://armees.com/saint-petersbourg-deux-militaires-russes-route-kolpino/",
-      "pubDate": "2026-11-13T04:30:11.000Z",
-      "description": "À Slavianka, environ 500 mètres séparent les lieux des explosions du 27 août et du 12 novembre. Les enquêteurs n’ont établi publiquement aucun lien entre les deux affaires. Illustration de une générée par IA.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un officier américain affecté à l’OTAN soupçonné d’espionnage pour la Russie",
-      "link": "https://armees.com/brandon-tyner-otan-enquete-espionnage-russie/",
-      "pubDate": "2026-11-13T03:05:40.000Z",
-      "description": "Le lieutenant-colonel américain Brandon Tyner, chargé de la gestion du personnel, a été arrêté près de Gloucester le 10 novembre. Selon un responsable américain interrogé par Associated Press, aucun renseignement n’est parvenu à Moscou.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "OTAN : transports, énergie et communications au cœur de la logistique militaire",
-      "link": "https://armees.com/otan-logistique-mobilite-infrastructures-20261113-0455/",
-      "pubDate": "2026-11-13T03:04:18.000Z",
-      "description": "Réunis les 12 et 13 novembre, les responsables logistiques de l’OTAN examinent la mobilité des forces, les infrastructures civiles et la coopération avec l’Union européenne.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Missiles allemands à longue portée : Paris et Berlin discutent du risque d’escalade nucléaire",
-      "link": "https://armees.com/missiles-allemands-longue-portee-france-risque-escalade-nucleaire-20261113/",
-      "pubDate": "2026-11-13T02:25:35.000Z",
-      "description": "D'après des informations publiées les 11 et 12 novembre, la France souhaite clarifier avec l'Allemagne les conditions d'emploi de futurs missiles à longue portée. Le débat porte sur le risque qu'une frappe conventionnelle soit interprétée comme une escalade nucléaire par Moscou.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre des mines : Londres rejoint un programme norvégien pour trois navires porteurs de drones",
-      "link": "https://armees.com/royal-navy-norvege-trois-navires-porteurs-drones-antimines-2031/",
-      "pubDate": "2026-11-12T22:26:26.000Z",
-      "description": "Londres annonce trois futurs navires de soutien aux drones antimines dans le cadre du programme norvégien P1118. Le premier est attendu en 2031 et trois unités supplémentaires restent optionnelles.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Royal Navy : son premier escadron d’embarcations autonomes entre en service à Portsmouth",
-      "link": "https://armees.com/royal-navy-premier-escadron-autonome-portsmouth-20261112-2155/",
-      "pubDate": "2026-11-12T20:10:03.000Z",
-      "description": "La marine britannique a créé sa première unité dédiée aux embarcations militaires sans équipage. À Portsmouth, Kraken et Rattler illustrent le passage des essais à une organisation permanente.",
       "sourceKey": "armees_com"
     },
     {
@@ -85,13 +155,6 @@
       "pubDate": "2026-11-12T18:47:40.000Z",
       "description": "On en compte actuellement dix-neuf… Et elles seront bientôt vingt-sept. En effet, ce 12 novembre, le ministère des Armées a annoncé que la Marine nationale allait former huit escouades de réserve côtières [ECR] de plus dans le courant de l’année prochaine. Pour rappel, en 2023, considérant qu’il fallait «durcir» la défense maritime en comblant les...\nCet article La Marine nationale va créer huit escouades de réserve côtières de plus en 2027 est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Drones navals : UFORCE lève 700 millions de dollars pour industrialiser ses systèmes au Royaume-Uni",
-      "link": "https://armees.com/uforce-700-millions-dollars-drones-navals-royaume-uni-20261112/",
-      "pubDate": "2026-11-12T18:19:55.000Z",
-      "description": "La société britannique d'origine ukrainienne UFORCE annonce une levée de 700 millions de dollars, avec 113 millions de livres investis par un fonds public britannique. Le financement doit soutenir la production de drones militaires, notamment navals, pour l'Ukraine et ses partenaires.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La Royal Navy va tester le drone de combat YFQ-48A Talon Blue de Northrop Grumman depuis l’un ses porte-avions",
@@ -104,22 +167,8 @@
       "title": "Roumanie : Deux hélicoptères NH90 espagnols ont effectué une première mission de police du ciel dans le cadre de l’Otan",
       "link": "https://www.opex360.com/2026/11/12/roumanie-deux-helicopteres-nh90-espagnols-ont-effectue-une-premiere-mission-de-police-du-ciel-dans-le-cadre-de-lotan/",
       "pubDate": "2026-11-12T16:28:30.000Z",
-      "description": "Depuis qu’un drone russe s’est écrasé sur un immeuble de la ville de Galați, située sur la rive gauche du Danube, en marge d’une attaque les ports ukrainiens de Reni et d’Ismail, les autorités roumaines ont changé de ton, alors que, jusqu’ici, elles cherchaient à minimiser la portée de tels incidents, pourtant récurrents. Ainsi, entre...\nCet article Roumanie : Deux hélicoptères NH90 espagnols ont effectué une première mission de police du ciel dans le cadre de l’Otan est apparu en premier sur Zone Militaire.",
+      "description": "Depuis qu’un drone russe s’est écrasé sur un immeuble de la ville de Galați, située sur la rive gauche du Danube, en marge d’une attaque des ports ukrainiens de Reni et d’Ismail, les autorités roumaines ont changé de ton, alors que, jusqu’ici, elles cherchaient à minimiser la portée de tels incidents, pourtant récurrents. Ainsi, entre...\nCet article Roumanie : Deux hélicoptères NH90 espagnols ont effectué une première mission de police du ciel dans le cadre de l’Otan est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "La France prépare un centre international d’intelligence artificielle de défense pour l’été 2027",
-      "link": "https://armees.com/france-centre-international-intelligence-artificielle-defense-ete-2027/",
-      "pubDate": "2026-11-12T15:16:40.000Z",
-      "description": "Le ministère français des Armées annonce un projet de centre international dédié à l’IA militaire, avec une ouverture envisagée à l’été 2027. Paris souhaite une coopération internationale et une possible reconnaissance de l’OTAN, mais les financements et partenaires restent à définir.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "En Ukraine, les restrictions de Starshield reviennent après une brève reprise du service",
-      "link": "https://armees.com/ukraine-starshield-nouvelles-restrictions-drones-12-novembre-2026/",
-      "pubDate": "2026-11-12T15:00:00.000Z",
-      "description": "Volodymyr Zelensky a signalé le 12 novembre de nouvelles limitations du système de communication militaire satellitaire Starshield. Selon le président ukrainien, elles gênent certaines missions de drones rapides. La cause technique et la responsabilité de ces restrictions restent à clarifier.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Un dernier arbitrage gagnant en 2026 pour les armées françaises",
@@ -129,46 +178,11 @@
       "sourceKey": "fob"
     },
     {
-      "title": "Royal Marines : Londres choisit une IA pour coordonner drones et capteurs dans le Grand Nord",
-      "link": "https://armees.com/royal-marines-arondite-cobalt-ia-commandos-grand-nord-20261112/",
-      "pubDate": "2026-11-12T14:24:19.000Z",
-      "description": "La Royal Navy a signé un contrat avec Arondite pour équiper les commandos britanniques de son logiciel Cobalt, capable de réunir données et systèmes autonomes. Des essais avec la Norvège sont prévus, parallèlement à un investissement industriel annoncé de 35 millions de livres.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Eurofighter Typhoon : ce que changent l’AMK et le radar ECRS Mk2",
-      "link": "https://armees.com/typhoon-upgrades-amk-ecrs-mk2-2026/",
-      "pubDate": "2026-11-12T14:12:05.000Z",
-      "description": "Le Typhoon modernisé intègre deux transformations majeures : l'Aerodynamic Modification Kit augmente la portance de 25% et double les taux de roulis, tandis que le radar ECRS Mk2 AESA élargit le champ de vision de 50%. Avec 769 appareils commandés contre 533 pour le Rafale, le consortium Eurofighter vise plus de 250 ventes supplémentaires grâce à ces upgrades qui redéfinissent l'équilibre opérationnel face aux chasseurs concurrents.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : Zelensky dénonce de nouvelles restrictions sur Starshield",
-      "link": "https://armees.com/starshield-161-kmh-defense-aerienne-ukraine-implications/",
-      "pubDate": "2026-11-12T13:52:53.000Z",
-      "description": "Depuis plusieurs jours, l'Ukraine subit un bridage systématique de Starshield, le système de communication militaire satellitaire, limité à 161 km/h au lieu de 250+ km/h. Volodymyr Zelensky dénonce des restrictions qui affaiblissent directement la défense aérienne face aux drones russes à réaction, permettant à certaines munitions d'atteindre leurs cibles. Analyse des implications tactiques et opérationnelles de cette dégradation capacitaire sur 1 126 km de front.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Défense européenne : Bruxelles engage 100 millions d’euros dans un fonds visant un milliard",
-      "link": "https://armees.com/defense-europeenne-def-2-fonds-milliard-euros-20261112-1036/",
-      "pubDate": "2026-11-12T12:34:00.000Z",
-      "description": "La Commission européenne apporte 100 millions d’euros au Defence Equity Facility 2.0, un fonds de fonds destiné à renforcer le capital des entreprises de défense, du spatial et de la cybersécurité. L’objectif de levée atteint un milliard d’euros, sans constituer une enveloppe déjà investie.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’Italie prévoit de dépenser 7,3 milliards d’euros de plus pour sa flotte de chasseurs-bombardiers F-35A/B",
       "link": "https://www.opex360.com/2026/11/12/litalie-prevoit-de-depenser-73-milliards-deuros-de-plus-pour-sa-flotte-de-chasseurs-bombardiers-f-35a-b/",
       "pubDate": "2026-11-12T11:54:32.000Z",
       "description": "En 2009, le Parlement italien approuva le programme pluriannuel SMD 2/2009 relatif à l’acquisition et à la mise en œuvre de 131 chasseurs-bombardiers F-35 [dont 62 en version dite STOVL, c’est-à-dire à décollage court et à atterrissage vertical] et à l’implantation d’une usine d’assemblage de F-35 [FACO – Final Assembly and Check Out] à Cameri....\nCet article L’Italie prévoit de dépenser 7,3 milliards d’euros de plus pour sa flotte de chasseurs-bombardiers F-35A/B est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Kyiv frappée dans la nuit : Moscou affirme avoir visé une usine de roquettes, un immeuble résidentiel touché",
-      "link": "https://armees.com/kyiv-frappes-12-novembre-2026-usine-roquettes-immeuble/",
-      "pubDate": "2026-11-12T11:20:00.000Z",
-      "description": "La Russie affirme avoir frappé plusieurs installations militaires ukrainiennes dans la nuit du 11 au 12 novembre. À Kyiv, les autorités locales rapportent qu'un drone a atteint un immeuble de neuf étages et fait une morte et cinq blessés. Deux récits distincts à ne pas confondre.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Après Thales, l’allemand Helsing défie l’américain Palantir avec son logiciel de commandement et de contrôle Clarity",
@@ -206,25 +220,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Le norvégien Kongsberg Maritime développe un drone naval de lutte anti-sous-marine à partir d’un chalutier",
-      "link": "https://www.opex360.com/2026/11/10/le-norvegien-kongsberg-maritime-developpe-un-drone-naval-de-lutte-anti-sous-marine-a-partir-dun-chalutier/",
-      "pubDate": "2026-11-10T17:52:08.000Z",
-      "description": "Dans un entretien accordé à Marine & Océans, le 9 novembre, le chef d’état-major de la Marine nationale [CEMM], l’amiral Christophe Cluzel, a dit souhaiter «accélérer l’hybridation raisonnée» de la flotte, laissant ainsi entendre que le recours aux drones, qu’ils soient aériens ou navals, se ferait de manière ordonnée. «Le système de forces que j’ambitionne...\nCet article Le norvégien Kongsberg Maritime développe un drone naval de lutte anti-sous-marine à partir d’un chalutier est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
       "title": "Blue Dome : la Belgique met un terme à trois décennies sans défense sol-air",
       "link": "https://forcesoperations.com/blue-dome-la-belgique-met-un-terme-a-trois-decennies-sans-defense-sol-air/",
       "pubDate": "2026-11-10T17:17:25.000Z",
       "description": "Pas à pas, la Défense belge renoue avec une défense sol-air digne de ce nom. Après une première vague d’acquisitions, un embryon d'unité vient d'être réactivée à Bruxelles dans le cadre du projet Blue Dome.  Un nouveau fanion est venu grossir les rangs de la Force aérienne belge. Avec son aigle encerclé de rouge, l'emblème […]\nThe post Blue Dome : la Belgique met un terme à trois décennies sans défense sol-air appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Plus de 17 000 pièces détachées de F-35, d’une valeur totale de 1,3 milliard de dollars, manquent à l’appel",
-      "link": "https://www.opex360.com/2026/11/10/plus-de-17-000-pieces-detachees-de-f-35-dune-valeur-totale-de-13-milliard-de-dollars-manquent-a-lappel/",
-      "pubDate": "2026-11-10T16:00:59.000Z",
-      "description": "Cet été, parce qu’un employé du prestataire logistique UPS a ignoré [ou manqué] un courriel adressé par la société de transport DSV A/S, mandatée par Lockheed Martin, des pièces d’un chasseur-bombardier F-35A australien, à savoir la verrière du cockpit et la trappe de la soute à munitions, ont pris la direction de Hong Kong au...\nCet article Plus de 17 000 pièces détachées de F-35, d’une valeur totale de 1,3 milliard de dollars, manquent à l’appel est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Koalijca 26.2 : premier test grandeur nature pour la Coalition des volontaires",
