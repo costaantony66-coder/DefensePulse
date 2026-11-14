@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T15:18:43.060Z",
+  "generatedAt": "2026-11-14T19:58:03.946Z",
   "sources": [
     {
       "key": "opex",
@@ -24,17 +24,66 @@
   ],
   "items": [
     {
-      "title": "Pour la première fois, des pilotes français de Rafale ont utilisé le viseur de casques Scorpion en opération extérieure",
+      "title": "En 2019, les familles de la Minerve ont pu jeter une rose à la verticale du sous-marin disparu",
+      "link": "https://armees.com/minerve-familles-rose-epave-toulon-hommage-2019/",
+      "pubDate": "2026-11-14T19:40:38.000Z",
+      "description": "Le 15 septembre 2019, le Tonnerre a embarqué au large de Toulon des proches des 52 marins de la Minerve. Huit semaines auparavant, un robot sous-marin avait permis de localiser leur sépulture après cinquante et un ans de recherches et d’attente.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Avec le « Legend Tour » de Guillaume Pley, l’armée française s’offre une vitrine auprès de la jeunesse",
+      "link": "https://www.lemonde.fr/politique/article/2026/11/14/avec-le-legend-tour-de-guillaume-pley-l-armee-francaise-s-offre-une-vitrine-aupres-de-la-jeunesse_6810456_823448.html",
+      "pubDate": "2026-11-14T17:00:16.000Z",
+      "description": "En associant ses moyens à la tournée du producteur du podcast suivi par des millions d’internautes, l’institution militaire veut séduire un public jeune et susciter des vocations. Une stratégie de communication qui interroge, alors que l’animateur est visé par des accusations d’échanges à caractère sexuel avec des mineures, qu’il conteste.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "À Lorient, le sous-marin Flore se visite avec les voix de son ancien équipage",
+      "link": "https://armees.com/lorient-flore-keroman-visite-sous-marin-memoire-equipage/",
+      "pubDate": "2026-11-14T16:36:52.000Z",
+      "description": "À Keroman, la visite commence dans une alvéole de l’ancienne base et se poursuit dans la coque de la Flore. Les souvenirs des sous-mariniers accompagnent le visiteur du poste des torpilles aux couchettes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Mémoire militaire : la commission des finances du Sénat propose 2,5 millions d’euros de plus pour l’entretien du patrimoine",
+      "link": "https://armees.com/budget-2027-entretien-patrimoine-memoire-militaire-senat/",
+      "pubDate": "2026-11-14T16:24:47.000Z",
+      "description": "La commission des finances a adopté le 10 novembre un amendement au projet de budget pour 2027 en faveur du patrimoine mémoriel militaire. Le gouvernement prévoit de ramener les crédits de la politique de la mémoire de 16,2 à 10,4 millions d’euros.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Forces spéciales : Le 1er Régiment de Parachutistes d’Infanterie de Marine change d’appellation",
+      "link": "https://www.opex360.com/2026/11/14/forces-speciales-le-1er-regiment-de-parachutistes-dinfanterie-de-marine-change-dappellation/",
+      "pubDate": "2026-11-14T15:37:52.000Z",
+      "description": "Au cours de son histoire et au gré de ses affiliations, le 1er Régiment de Parachutistes d’Infanterie de Marine [1er RPIMa], unité de l’armée de Terre mise à la disposition du Commandement des opérations spéciales [COS], a maintes fois changé d’appellation. Au point qu’il peut être compliqué de s’y retrouver. Créé en 1940 sous le...\nCet article Forces spéciales : Le 1er Régiment de Parachutistes d’Infanterie de Marine change d’appellation est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Carnac devient la marraine de l’Arago, un ancien bâtiment hydrographique revenu du Pacifique",
+      "link": "https://armees.com/carnac-parrainage-arago-patrouilleur-parcours-marins/",
+      "pubDate": "2026-11-14T15:20:00.000Z",
+      "description": "Le commandant de l’Arago a signé la charte de parrainage à Carnac le 10 novembre. La commune morbihannaise veut faire découvrir aux jeunes les métiers d’un équipage dont les missions ont beaucoup changé depuis les premiers relevés dans le Pacifique.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Mauritanie : comment l’Union européenne suivra les équipements financés par son aide de 20 millions d’euros",
+      "link": "https://armees.com/mauritanie-aide-europeenne-surveillance-controle-equipements-2026/",
+      "pubDate": "2026-11-14T14:41:06.000Z",
+      "description": "Chaque remise de matériel devra donner lieu à un certificat signé par les forces destinataires. C’est le premier des contrôles prévus par la décision européenne du 29 octobre en faveur de l’armée mauritanienne.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pour la première fois, des pilotes français de Rafale ont utilisé le viseur de casque Scorpion en opération extérieure",
       "link": "https://www.opex360.com/2026/11/14/pour-la-premiere-fois-des-pilotes-de-rafale-francais-ont-utilise-le-viseur-de-casques-scorpion-en-operation-exterieure/",
       "pubDate": "2026-11-14T14:33:24.000Z",
-      "description": "Dans les années 2000, il était question d’équiper les pilotes français de Rafale avec le viseur de casque «Gerfaut», développé par Sagem. Mais les contraintes budgétaires en décidèrent autrement… Et l’acquisition de cette capacité fut renvoyée à des jours meilleurs. Pour rappel, un tel système, encore appelé Helmet Mounted Display [HMD] affiche sur la visière...\nCet article Pour la première fois, des pilotes français de Rafale ont utilisé le viseur de casques Scorpion en opération extérieure est apparu en premier sur Zone Militaire.",
+      "description": "Dans les années 2000, il était question d’équiper les pilotes français de Rafale avec le viseur de casque «Gerfaut», développé par Sagem. Mais les contraintes budgétaires en décidèrent autrement… Et l’acquisition de cette capacité fut renvoyée à des jours meilleurs. Pour rappel, un tel système, encore appelé Helmet Mounted Display [HMD] affiche sur la visière...\nCet article Pour la première fois, des pilotes français de Rafale ont utilisé le viseur de casque Scorpion en opération extérieure est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
       "title": "Baltique : Visée par des drones ukrainiens, la corvette russe Naro-Fominsk aurait subi d’importants dégâts",
       "link": "https://www.opex360.com/2026/11/14/baltique-visee-par-des-drones-ukrainiens-la-corvette-russe-naro-forminsk-aurait-subi-dimportants-degats/",
       "pubDate": "2026-11-14T11:55:54.000Z",
-      "description": "Le 12 novembre, sans donner davantage de précisions, l’état-major finlandais a dit avoir détecté, la veille, une «frappe» contre un navire de guerre russe qui naviguait dans le golfe de Finlande, alors que les forces ukrainiennes venaient de lancer une attaque de drones à grande à grande échelle contre la zone portuaire d’Oust-Louga qui, située...\nCet article Baltique : Visée par des drones ukrainiens, la corvette russe Naro-Fominsk aurait subi d’importants dégâts est apparu en premier sur Zone Militaire.",
+      "description": "Le 12 novembre, sans donner davantage de précisions, l’état-major finlandais a dit avoir détecté, la veille, une «frappe» contre un navire de guerre russe qui naviguait dans le golfe de Finlande, alors que les forces ukrainiennes venaient de lancer une attaque de drones à grande échelle contre la zone portuaire d’Oust-Louga qui, située dans la...\nCet article Baltique : Visée par des drones ukrainiens, la corvette russe Naro-Fominsk aurait subi d’importants dégâts est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -122,46 +171,11 @@
       "sourceKey": "geo"
     },
     {
-      "title": "À Leeming, la Royal Air Force peut achever le regroupement de sa force de contrôle aérien",
-      "link": "https://armees.com/leeming-raf-regroupement-controle-aerien-britannique/",
-      "pubDate": "2026-11-13T22:46:17.000Z",
-      "description": "La Royal Air Force a reçu à Leeming les bureaux et les logements nécessaires au regroupement de son Air C2 Force. Depuis le départ de Scampton en 2022, cette force chargée de la surveillance aérienne permanente était répartie entre trois sites.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Comment Nemo évacue l’équipage d’un sous-marin en détresse",
-      "link": "https://armees.com/sauvetage-sous-marin-nemo-evacuation-equipage/",
-      "pubDate": "2026-11-13T22:39:34.000Z",
-      "description": "Pour évacuer un sous-marin immobilisé au fond, un pilote doit poser son engin sur l’écoutille de secours. À Fort William, en Écosse, les équipes de Nemo ont répété en mars 2026 ce geste dont dépend le passage des marins d’un bord à l’autre.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’Espagne prévoit 2,37 milliards d’euros pour entretenir et moderniser ses sous-marins S-80",
-      "link": "https://armees.com/espagne-sous-marins-s80-modernisation-soutien-237-milliards/",
-      "pubDate": "2026-11-13T22:20:00.000Z",
-      "description": "Le Conseil des ministres espagnol a autorisé le 10 novembre une commande qui couvre aussi les installations à terre. La marine prépare ainsi le soutien d’une série dont les bâtiments se trouvent encore à des étapes très différentes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "À Bure, des robots à l’essai pour ravitailler les soldats et évacuer les blessés en ville",
-      "link": "https://armees.com/bure-alpex-log-robots-ravitaillement-evacuation-ville/",
-      "pubDate": "2026-11-13T18:47:43.000Z",
-      "description": "Du 10 au 12 novembre, l’armée suisse et l’Agence européenne de défense ont mis des robots terrestres et des drones aériens à l’épreuve dans un village d’entraînement du Jura. Les essais portaient sur le dernier trajet du ravitaillement et sur le retour des blessés.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Des drones Vector de l’armée allemande ont brièvement été cloués au sol par une attaque informatique",
       "link": "https://www.opex360.com/2026/11/13/des-drones-vector-de-larmee-allemande-ont-brievement-ete-cloues-au-sol-par-une-attaque-informatique/",
       "pubDate": "2026-11-13T18:32:11.000Z",
       "description": "Selon le Financial Times, fin octobre, l’armée allemande a été contrainte de clouer au sol ses mini-drones de reconnaissance tactique à décollage et atterrissage verticaux [eVTOL] et à voilure fixe Vector – qu’elle appelle «Falke» – à la suite d’un incident informatique survenu chez leur fabricant, à savoir Quantum Systems. Ce que ce dernier a...\nCet article Des drones Vector de l’armée allemande ont brièvement été cloués au sol par une attaque informatique est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "À Volgograd, quatre employés tués lors d’une attaque de drones, selon le gouverneur",
-      "link": "https://armees.com/volgograd-attaque-drones-zone-industrielle-raffinerie-13-novembre/",
-      "pubDate": "2026-11-13T18:20:00.000Z",
-      "description": "Des images géolocalisées par le média russe Astra montrent plusieurs foyers d’incendie sur le site de la raffinerie de Loukoïl. Le gouverneur régional situe les victimes dans la zone industrielle du sud de la ville. L’étendue des dégâts sur les installations de raffinage reste inconnue.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La France va commander 20 vedettes rapides CB90 auprès de la Suède",
@@ -211,13 +225,6 @@
       "pubDate": "2026-11-12T14:47:22.000Z",
       "description": "Une fois n'est pas coutume, le ministère des Armées ressort gagnant d'un arbitrage budgétaire. Un demi-milliard d'euros supplémentaire lui sera notamment alloué pour progresser sur le plan capacitaire. \nThe post Un dernier arbitrage gagnant en 2026 pour les armées françaises appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "L’Italie prévoit de dépenser 7,3 milliards d’euros de plus pour sa flotte de chasseurs-bombardiers F-35A/B",
-      "link": "https://www.opex360.com/2026/11/12/litalie-prevoit-de-depenser-73-milliards-deuros-de-plus-pour-sa-flotte-de-chasseurs-bombardiers-f-35a-b/",
-      "pubDate": "2026-11-12T11:54:32.000Z",
-      "description": "En 2009, le Parlement italien approuva le programme pluriannuel SMD 2/2009 relatif à l’acquisition et à la mise en œuvre de 131 chasseurs-bombardiers F-35 [dont 62 en version dite STOVL, c’est-à-dire à décollage court et à atterrissage vertical] et à l’implantation d’une usine d’assemblage de F-35 [FACO – Final Assembly and Check Out] à Cameri....\nCet article L’Italie prévoit de dépenser 7,3 milliards d’euros de plus pour sa flotte de chasseurs-bombardiers F-35A/B est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Défense : les espoirs déçus de la coopération franco-allemande sous Emmanuel Macron, des chars aux avions de combat",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/12/toute-attaque-contre-l-otan-serait-totalement-vaine-assure-son-chef-militaire_6792636_3210.html",
       "pubDate": "2026-10-12T13:29:06.000Z",
       "description": "Lors de son discours au Forum de Varsovie sur la sécurité, le général Alexus G. Grynkewich a voulu rassurer les populations concernant les sabotages et les incendies, mais aussi dissuader un éventuel agresseur.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Défense américaine : la Chine a mis la main sur des pièces du très convoité chasseur furtif F-35 grâce à un e-mail non lu",
-      "link": "https://www.lemonde.fr/international/article/2026/10/10/defense-americaine-la-chine-a-mis-la-main-sur-des-pieces-du-tres-convoite-chasseur-furtif-f-35-grace-a-un-e-mail-non-lu_6790990_3210.html",
-      "pubDate": "2026-10-10T12:00:10.000Z",
-      "description": "Pour accélérer leur livraison, un employé d’UPS a rerouté vers Hongkong deux composants du joyau de l’aviation militaire américaine, qui avaient quitté l’Australie pour les Etats-Unis. Il n’a pas vu que cette cargaison ne devait pas transiter par le territoire chinois, où elle se trouve toujours.",
       "sourceKey": "geo"
     }
   ]
