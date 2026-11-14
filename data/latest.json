@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T21:45:19.989Z",
+  "generatedAt": "2026-11-14T01:55:35.541Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "title": "Synology corrige une faille qui expose les fichiers de ses serveurs de stockage",
+      "link": "https://armees.com/synology-dsm-nas-faille-authentification-correctifs-novembre-2026/",
+      "pubDate": "2026-11-14T01:31:00.000Z",
+      "description": "Une faille critique de DiskStation Manager permet à un attaquant de lire ou de modifier des fichiers à distance sans disposer de compte. Synology a publié des correctifs pour quatre branches du système qui équipe ses serveurs de stockage en réseau.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Comment la Garde républicaine prépare ses jeunes chevaux à leur première escorte",
+      "link": "https://armees.com/garde-republicaine-chevaux-formation-saint-germain-premiere-escorte/",
+      "pubDate": "2026-11-14T00:40:14.000Z",
+      "description": "La Garde républicaine achète ses chevaux à trois ans. À Saint-Germain-en-Laye, les jeunes montures découvrent le travail sous la selle avant de s’habituer au harnachement militaire. La couleur de leur robe intervient ensuite dans le choix de leur escadron.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’armée américaine intervient pour une « suspicion d’activité de drone non autorisée » au-dessus d’une base militaire britannique",
+      "link": "https://www.lemonde.fr/international/article/2026/11/13/l-armee-americaine-intervient-pour-une-suspicion-d-activite-de-drone-non-autorisee-au-dessus-d-une-base-militaire-britannique_6809392_3210.html",
+      "pubDate": "2026-11-13T22:51:25.000Z",
+      "description": "« Aucun membre du personnel, aucun avion ni aucune infrastructure n’ont été touchés », a fait savoir un porte-parole de l’armée de l’air américaine, une fois l’incident résolu. La base concernée se situe à Lakenheath, dans l’est de l’Angleterre.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "À Leeming, la Royal Air Force peut achever le regroupement de sa force de contrôle aérien",
+      "link": "https://armees.com/leeming-raf-regroupement-controle-aerien-britannique/",
+      "pubDate": "2026-11-13T22:46:17.000Z",
+      "description": "La Royal Air Force a reçu à Leeming les bureaux et les logements nécessaires au regroupement de son Air C2 Force. Depuis le départ de Scampton en 2022, cette force chargée de la surveillance aérienne permanente était répartie entre trois sites.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Comment Nemo évacue l’équipage d’un sous-marin en détresse",
+      "link": "https://armees.com/sauvetage-sous-marin-nemo-evacuation-equipage/",
+      "pubDate": "2026-11-13T22:39:34.000Z",
+      "description": "Pour évacuer un sous-marin immobilisé au fond, un pilote doit poser son engin sur l’écoutille de secours. À Fort William, en Écosse, les équipes de Nemo ont répété en mars 2026 ce geste dont dépend le passage des marins d’un bord à l’autre.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’Espagne prévoit 2,37 milliards d’euros pour entretenir et moderniser ses sous-marins S-80",
+      "link": "https://armees.com/espagne-sous-marins-s80-modernisation-soutien-237-milliards/",
+      "pubDate": "2026-11-13T22:20:00.000Z",
+      "description": "Le Conseil des ministres espagnol a autorisé le 10 novembre une commande qui couvre aussi les installations à terre. La marine prépare ainsi le soutien d’une série dont les bâtiments se trouvent encore à des étapes très différentes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "À Bure, des robots à l’essai pour ravitailler les soldats et évacuer les blessés en ville",
+      "link": "https://armees.com/bure-alpex-log-robots-ravitaillement-evacuation-ville/",
+      "pubDate": "2026-11-13T18:47:43.000Z",
+      "description": "Du 10 au 12 novembre, l’armée suisse et l’Agence européenne de défense ont mis des robots terrestres et des drones aériens à l’épreuve dans un village d’entraînement du Jura. Les essais portaient sur le dernier trajet du ravitaillement et sur le retour des blessés.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Des drones Vector de l’armée allemande ont brièvement été cloués au sol par une attaque informatique",
       "link": "https://www.opex360.com/2026/11/13/des-drones-vector-de-larmee-allemande-ont-brievement-ete-cloues-au-sol-par-une-attaque-informatique/",
@@ -115,53 +164,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "À Bahreïn, les marines du Golfe étudient la place des drones dans la surveillance en mer",
-      "link": "https://armees.com/silent-sentinel-ii-bahrein-drones-surveillance-golfe/",
-      "pubDate": "2026-11-13T12:41:03.000Z",
-      "description": "Les 2 et 3 novembre, la force navale multinationale commandée par le Qatar a réuni ses partenaires pour Silent Sentinel II. Au programme figuraient les capacités des systèmes sans équipage et les règles de leur emploi.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Finlande hors de l’OTAN : ce que recouvrent les exigences russes rapportées par BILD",
-      "link": "https://armees.com/bild-russie-finlande-otan-pays-baltes-exigences-abu-dhabi/",
-      "pubDate": "2026-11-13T12:39:35.000Z",
-      "description": "Une proposition informelle attribuée à des négociateurs russes réclamerait la sortie de la Finlande de l’OTAN et l’absence de bases de l’Alliance dans les pays baltes. Moscou conteste la demande visant Helsinki.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’Espagne débloque 3 milliards d’euros pour acquérir des missiles de croisière JSM-SL et moderniser ses sous-marins S80",
       "link": "https://www.opex360.com/2026/11/13/lespagne-debloque-3-milliards-deuros-pour-acquerir-des-missiles-de-croisiere-jsm-sl-et-moderniser-ses-sous-marins-s80/",
       "pubDate": "2026-11-13T11:54:01.000Z",
       "description": "Si les choses s’étaient passées comme prévu, la marine espagnole [Armada española] aurait dû recevoir quatre nouveaux sous-marins de type S80, à propulsion diesel-électrique, entre 2015 et 2018, afin de remplacer ceux de la classe Agosta, acquis auprès de la France dans les années 1980. Mais c’était sans compter sur les difficultés que leur constructeur,...\nCet article L’Espagne débloque 3 milliards d’euros pour acquérir des missiles de croisière JSM-SL et moderniser ses sous-marins S80 est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "La Norvège redoute des sabotages russes contre sa chaîne de défense",
-      "link": "https://armees.com/norvege-pst-sabotages-russes-logistique-defense-2026/",
-      "pubDate": "2026-11-13T11:44:43.000Z",
-      "description": "Le service de sécurité norvégien juge désormais probable une opération de sabotage liée aux renseignements russes dans les douze prochains mois. Les industriels de défense et leurs prestataires logistiques figurent au premier rang des cibles envisagées, sur fond de soutien militaire à l’Ukraine.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Allemagne : le financement du réarmement par la dette inquiète les experts",
-      "link": "https://armees.com/rearmement-allemagne-budget-defense-contraintes-strategiques/",
-      "pubDate": "2026-11-13T10:24:50.000Z",
-      "description": "La dette publique allemande pourrait exploser de 64% à 98% du PIB d'ici 2040 si Berlin maintient son modèle de financement du réarmement par l'endettement. Le Conseil des experts économiques alerte sur une « crise budgétaire d'ampleur historique » qui menace les capacités militaires futures de l'Allemagne face à la menace russe.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cyberdéfense : comment les attaquants ont progressé au-delà des académies",
-      "link": "https://armees.com/cyberdefense-academies-reseau-interministeriel-reactiv/",
-      "pubDate": "2026-11-13T09:56:39.000Z",
-      "description": "Entre juillet et septembre, les incidents signalés par l’Éducation nationale ont visé 25 académies sur 30. Dans certains cas, des comptes compromis ont permis aux attaquants de gagner d’autres entités par le Réseau interministériel de l’État.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Qui garde l’Élysée, Matignon et les assemblées ? Les missions de la Garde républicaine",
-      "link": "https://armees.com/garde-republicaine-palais-nationaux-infanterie-cavalerie-missions/",
-      "pubDate": "2026-11-13T09:37:23.000Z",
-      "description": "À l’ouverture d’une séance parlementaire, la Garde républicaine rend les honneurs. Ses gendarmes assurent aussi la sécurité des lieux. De l’Élysée au Sénat, cette tâche quotidienne se répartit entre deux régiments d’infanterie.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La Marine nationale va créer huit escouades de réserve côtières de plus en 2027",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/10/defense-americaine-la-chine-a-mis-la-main-sur-des-pieces-du-tres-convoite-chasseur-furtif-f-35-grace-a-un-e-mail-non-lu_6790990_3210.html",
       "pubDate": "2026-10-10T12:00:10.000Z",
       "description": "Pour accélérer leur livraison, un employé d’UPS a rerouté vers Hongkong deux composants du joyau de l’aviation militaire américaine, qui avaient quitté l’Australie pour les Etats-Unis. Il n’a pas vu que cette cargaison ne devait pas transiter par le territoire chinois, où elle se trouve toujours.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Défense : les armées regrettent l’abandon par Berlin du projet de char franco-allemand",
-      "link": "https://www.lemonde.fr/economie/article/2026/10/09/defense-les-armees-regrettent-l-abandon-par-berlin-du-projet-de-char-franco-allemand_6790521_3234.html",
-      "pubDate": "2026-10-09T05:49:28.000Z",
-      "description": "Auditionné jeudi 8 octobre à l’Assemblée nationale, Fabien Mandon, le chef d’état-major des armées, constate que « malheureusement, les Allemands ont décidé de quitter le projet ». Il appelle la France à lancer des études dès 2027 pour développer sa propre solution.",
       "sourceKey": "geo"
     }
   ]
