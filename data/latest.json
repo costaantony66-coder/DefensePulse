@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T01:55:35.541Z",
+  "generatedAt": "2026-11-14T08:27:59.007Z",
   "sources": [
     {
       "key": "opex",
@@ -24,6 +24,55 @@
   ],
   "items": [
     {
+      "title": "À Rome, Mark Rutte rappelle aux industriels le sort des 50 milliards de dollars de commandes annoncées à Ankara",
+      "link": "https://armees.com/otan-rome-forum-industriels-commandes-ankara-mark-rutte/",
+      "pubDate": "2026-11-14T07:40:00.000Z",
+      "description": "Le secrétaire général de l’OTAN est intervenu par vidéo le 12 novembre devant un forum industriel américano-européen. Quatre mois après les annonces d’Ankara, il a demandé aux entreprises des deux rives de l’Atlantique de travailler ensemble pour livrer les équipements commandés.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Les pilotes de Rafale visent désormais leurs cibles d’un simple regard : un ingénieur de Dassault raconte les débuts de cette nouvelle technologie",
+      "link": "https://armees.com/les-pilotes-de-rafale-visent-desormais-leurs-cibles-dun-simple-regard-un-ingenieur-de-dassault-raconte-les-debuts-de-cette-nouvelle-technologie/",
+      "pubDate": "2026-11-14T07:35:00.000Z",
+      "description": "Un simple regard pour verrouiller une cible : le Rafale franchit une nouvelle étape en opération. Comment ce viseur de casque transforme-t-il réellement le combat aérien français ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La Chine frappe fort, un satellite chinois détruit Starlink avec un laser de 2 watts à 36 000 km de distance",
+      "link": "https://armees.com/la-chine-frappe-fort-un-satellite-chinois-detruit-starlink-avec-un-laser-de-2-watts-a-36-000-km-de-distance/",
+      "pubDate": "2026-11-14T07:05:00.000Z",
+      "description": "Un film HD envoyé de Shanghai à Los Angeles en moins de cinq secondes, avec un laser aussi faible qu'une veilleuse. La Chine vient-elle de surclasser Starlink depuis l'espace ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Des coupelles de Nîmes au feu de Lacanau, comment le kit incendie de l’A400M a été éprouvé",
+      "link": "https://armees.com/a400m-kit-incendie-essais-coupelles-nimes-lacanau-retardant/",
+      "pubDate": "2026-11-14T05:40:53.000Z",
+      "description": "Avant le premier largage de retardant en conditions réelles en Gironde, en juillet 2026, des essais avaient mesuré à Nîmes la quantité de produit qui atteignait le sol. Une grille de coupelles permettait de lire la trace laissée par l’avion.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "À Cherbourg, comment Le Redoutable est devenu un musée",
+      "link": "https://armees.com/cherbourg-le-redoutable-transformation-sous-marin-musee/",
+      "pubDate": "2026-11-14T03:42:01.000Z",
+      "description": "Dans une chambrée du Redoutable, un plancher de verre révèle l’hôpital du bord. Ce détail raconte le chantier qui a transformé le premier sous-marin nucléaire français en musée à Cherbourg.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Droit à réparation : les Assises du monde combattant proposent des relais associatifs pour les blessés et leurs proches",
+      "link": "https://armees.com/assises-monde-combattant-correspondants-associatifs-droit-reparation/",
+      "pubDate": "2026-11-14T02:46:42.000Z",
+      "description": "Les Assises du monde combattant proposent de former des correspondants associatifs pour aider les blessés et les conjoints survivants à faire valoir leurs droits. Présentée le 11 novembre, la mesure doit faire l’objet d’un suivi annuel auprès de la ministre.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "À Lakenheath, une suspicion de survol par drone a conduit le personnel américain à se mettre à l’abri",
+      "link": "https://armees.com/raf-lakenheath-alerte-drones-mise-abri-personnel-13-novembre-2026/",
+      "pubDate": "2026-11-14T02:40:00.000Z",
+      "description": "Sur cette base du Suffolk qui accueille des chasseurs F-15E et F-35A, les forces de sécurité américaines sont intervenues vendredi soir. Londres indique que l’alerte est terminée. L’US Air Force n’a signalé ni blessé ni dégât.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Synology corrige une faille qui expose les fichiers de ses serveurs de stockage",
       "link": "https://armees.com/synology-dsm-nas-faille-authentification-correctifs-novembre-2026/",
       "pubDate": "2026-11-14T01:31:00.000Z",
@@ -41,7 +90,7 @@
       "title": "L’armée américaine intervient pour une « suspicion d’activité de drone non autorisée » au-dessus d’une base militaire britannique",
       "link": "https://www.lemonde.fr/international/article/2026/11/13/l-armee-americaine-intervient-pour-une-suspicion-d-activite-de-drone-non-autorisee-au-dessus-d-une-base-militaire-britannique_6809392_3210.html",
       "pubDate": "2026-11-13T22:51:25.000Z",
-      "description": "« Aucun membre du personnel, aucun avion ni aucune infrastructure n’ont été touchés », a fait savoir un porte-parole de l’armée de l’air américaine, une fois l’incident résolu. La base concernée se situe à Lakenheath, dans l’est de l’Angleterre.",
+      "description": "« Aucun membre du personnel, aucun avion ni aucune infrastructure n’a été touché », a fait savoir un porte-parole de l’armée de l’air américaine, une fois l’incident résolu. La base concernée se situe à Lakenheath, dans l’est de l’Angleterre.",
       "sourceKey": "geo"
     },
     {
@@ -113,55 +162,6 @@
       "pubDate": "2026-11-13T15:36:46.000Z",
       "description": "Après ceux dédiés à la préparation aux opérations aériennes [CASPOA, à Lyon] et à l’espace [NATO Space COE, à Toulouse], la France négociait encore récemment l’implantation d’un troisième centre d’excellence de l’Otan sur son territoire, en l’occurrence à Rennes, pour traiter des questions relatives à l’intelligence artificielle de défense. N’étant ni directement financé par l’Otan,...\nCet article La France officialise la création d’un centre international dédié à l’intelligence artificielle militaire à Rennes est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Le Danemark commande à Saab de quoi simuler les drones et les tirs hors vue à l’entraînement",
-      "link": "https://armees.com/danemark-saab-simulation-cv90-drones-tirs-hors-vue/",
-      "pubDate": "2026-11-13T14:52:13.000Z",
-      "description": "L’agence danoise des acquisitions de défense a commandé à Saab pour 350 millions de couronnes suédoises de matériels de simulation. Les livraisons prévues de 2026 à 2028 compléteront les moyens d’entraînement des unités équipées du blindé CV90.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "En Norvège, le HMS Prince of Wales a chargé ses munitions à quai, une première pour sa classe hors du Royaume-Uni",
-      "link": "https://armees.com/hms-prince-of-wales-munitions-quai-norvege-hammernesodden/",
-      "pubDate": "2026-11-13T14:41:13.000Z",
-      "description": "Avant de recevoir le secrétaire général de l’OTAN à Oslo, le porte-avions britannique a testé une autre façon de se ravitailler. À Hammernesodden, près de Namsos, un quai militaire norvégien lui a servi de point de chargement pour ses munitions.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Budget 2027 de l’UE : l’accord prévoit 3,08 milliards d’euros pour la sécurité et la défense",
-      "link": "https://armees.com/budget-ue-2027-engagements-securite-defense/",
-      "pubDate": "2026-11-13T14:19:00.000Z",
-      "description": "Le Conseil et le Parlement européen se sont entendus sur les sommes que l’Union pourra engager en 2027 pour la sécurité et la défense. Les paiements prévus sur l’année s’élèvent à 2,23 milliards d’euros. Les deux institutions doivent encore approuver l’accord.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Royaume-Uni : deux hommes reconnus coupables d’avoir aidé le renseignement iranien",
-      "link": "https://armees.com/espionnage-iran-recrutement-agents-reseaux-sociaux/",
-      "pubDate": "2026-11-13T13:40:18.000Z",
-      "description": "Mostafa Sepahvand et Farhad Javadi Manesh ont été reconnus coupables le 12 novembre 2026 d'avoir mené des opérations de surveillance pour les Gardiens de la Révolution iraniens contre des journalistes basés à Londres. Recrutés via les réseaux sociaux, ces demandeurs d'asile ont utilisé ChatGPT pour localiser leurs cibles et reçu une promesse de 150 000 livres pour un assassinat. Le verdict expose les failles du renseignement britannique face aux tactiques hybrides iraniennes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "À Bahreïn, l’Iran revendique la destruction d’un radar américain",
-      "link": "https://armees.com/bahrein-iran-radar-americain-drones-sirik/",
-      "pubDate": "2026-11-13T13:35:13.000Z",
-      "description": "Téhéran affirme avoir détruit un radar d’alerte avancée le 13 novembre, en riposte à une frappe sur la côte iranienne. Le commandement américain dit avoir abattu deux drones en route vers Bahreïn et ne signale ni blessé ni dégât.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Armes autonomes : Genève doit examiner l’ouverture de négociations en novembre 2026",
-      "link": "https://armees.com/armes-autonomes-strategie-militaire-traite-2026/",
-      "pubDate": "2026-11-13T13:20:16.000Z",
-      "description": "Du 16 au 20 novembre 2026, Genève accueille une réunion gouvernementale décisive sur la régulation des armes autonomes. Alors que 37 pays disposent déjà de capacités opérationnelles en systèmes létaux autonomes, la communauté internationale affronte un choix stratégique majeur : établir un cadre contraignant avant la prolifération incontrôlée ou laisser les algorithmes militaires échapper à tout contrôle humain. Le CICR appelle à agir immédiatement pour préserver la maîtrise des guerres futures.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Après une cyberattaque, les drones Quantum Systems ont repris leurs vols en Allemagne",
-      "link": "https://armees.com/cyberattaque-quantum-systems-drones-bundeswehr-reprise-vols-2026/",
-      "pubDate": "2026-11-13T13:00:00.000Z",
-      "description": "Le fabricant allemand de drones Quantum Systems a subi une intrusion fin octobre 2026. La Bundeswehr a suspendu ses appareils par précaution avant une reprise annoncée par l’entreprise le 13 novembre. Les investigations se concentrent sur un serveur de mises à jour logicielles.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "L’Espagne débloque 3 milliards d’euros pour acquérir des missiles de croisière JSM-SL et moderniser ses sous-marins S80",
