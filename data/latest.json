@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T19:58:03.946Z",
+  "generatedAt": "2026-11-14T23:41:59.127Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "Ukraine : ce que la coalition des volontaires doit discuter à Berlin le 19 novembre",
+      "link": "https://armees.com/ukraine-berlin-19-novembre-garanties-securite-coalition-volontaires/",
+      "pubDate": "2026-11-14T21:34:57.000Z",
+      "description": "L’Allemagne, la France et le Royaume-Uni invitent leurs partenaires à Berlin jeudi. Le sommet doit traiter à la fois du soutien immédiat à l’Ukraine et des garanties que les États seraient prêts à mettre en œuvre après une cessation des hostilités.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "En 2019, les familles de la Minerve ont pu jeter une rose à la verticale du sous-marin disparu",
       "link": "https://armees.com/minerve-familles-rose-epave-toulon-hommage-2019/",
@@ -154,13 +161,6 @@
       "link": "https://armees.com/synology-dsm-nas-faille-authentification-correctifs-novembre-2026/",
       "pubDate": "2026-11-14T01:31:00.000Z",
       "description": "Une faille critique de DiskStation Manager permet à un attaquant de lire ou de modifier des fichiers à distance sans disposer de compte. Synology a publié des correctifs pour quatre branches du système qui équipe ses serveurs de stockage en réseau.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Comment la Garde républicaine prépare ses jeunes chevaux à leur première escorte",
-      "link": "https://armees.com/garde-republicaine-chevaux-formation-saint-germain-premiere-escorte/",
-      "pubDate": "2026-11-14T00:40:14.000Z",
-      "description": "La Garde républicaine achète ses chevaux à trois ans. À Saint-Germain-en-Laye, les jeunes montures découvrent le travail sous la selle avant de s’habituer au harnachement militaire. La couleur de leur robe intervient ensuite dans le choix de leur escadron.",
       "sourceKey": "armees_com"
     },
     {
