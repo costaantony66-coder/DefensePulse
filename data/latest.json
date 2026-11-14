@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T08:27:59.007Z",
+  "generatedAt": "2026-11-14T15:18:43.060Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Pour la première fois, des pilotes français de Rafale ont utilisé le viseur de casques Scorpion en opération extérieure",
+      "link": "https://www.opex360.com/2026/11/14/pour-la-premiere-fois-des-pilotes-de-rafale-francais-ont-utilise-le-viseur-de-casques-scorpion-en-operation-exterieure/",
+      "pubDate": "2026-11-14T14:33:24.000Z",
+      "description": "Dans les années 2000, il était question d’équiper les pilotes français de Rafale avec le viseur de casque «Gerfaut», développé par Sagem. Mais les contraintes budgétaires en décidèrent autrement… Et l’acquisition de cette capacité fut renvoyée à des jours meilleurs. Pour rappel, un tel système, encore appelé Helmet Mounted Display [HMD] affiche sur la visière...\nCet article Pour la première fois, des pilotes français de Rafale ont utilisé le viseur de casques Scorpion en opération extérieure est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Baltique : Visée par des drones ukrainiens, la corvette russe Naro-Fominsk aurait subi d’importants dégâts",
+      "link": "https://www.opex360.com/2026/11/14/baltique-visee-par-des-drones-ukrainiens-la-corvette-russe-naro-forminsk-aurait-subi-dimportants-degats/",
+      "pubDate": "2026-11-14T11:55:54.000Z",
+      "description": "Le 12 novembre, sans donner davantage de précisions, l’état-major finlandais a dit avoir détecté, la veille, une «frappe» contre un navire de guerre russe qui naviguait dans le golfe de Finlande, alors que les forces ukrainiennes venaient de lancer une attaque de drones à grande à grande échelle contre la zone portuaire d’Oust-Louga qui, située...\nCet article Baltique : Visée par des drones ukrainiens, la corvette russe Naro-Fominsk aurait subi d’importants dégâts est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Ukraine : à Dublin, Kaja Kallas demande que les Européens participent à la négociation du cessez-le-feu",
+      "link": "https://armees.com/dublin-kaja-kallas-cessez-le-feu-place-europeens-13-novembre/",
+      "pubDate": "2026-11-14T11:20:00.000Z",
+      "description": "Le 13 novembre, la cheffe de la diplomatie européenne a expliqué pourquoi les États appelés à mettre en œuvre un éventuel accord de paix doivent aussi peser sur son contenu. Sa première exigence reste un arrêt des combats.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "À Oslo, le forum de défense transatlantique demande une place pour les PME",
+      "link": "https://armees.com/oslo-atlantic-future-forum-pme-industrie-defense-resilience-novembre-2026/",
+      "pubDate": "2026-11-14T08:38:57.000Z",
+      "description": "Réunis en Norvège les 11 et 12 novembre, les participants de l’Atlantic Future Forum ont lié la hausse des capacités de production à deux conditions : donner de la visibilité aux industriels et associer les petites entreprises aux grands maîtres d’œuvre.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "À Rome, Mark Rutte rappelle aux industriels le sort des 50 milliards de dollars de commandes annoncées à Ankara",
       "link": "https://armees.com/otan-rome-forum-industriels-commandes-ankara-mark-rutte/",
@@ -136,25 +164,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Que peut décider le secrétaire général de l’OTAN ?",
-      "link": "https://armees.com/otan-secretaire-general-conseil-atlantique-decisions-consensus/",
-      "pubDate": "2026-11-13T17:36:10.000Z",
-      "description": "À Dublin, Mark Rutte a défendu une hausse de la production militaire et la poursuite du soutien à l’Ukraine. Pour engager l’Alliance sur une décision commune, le secrétaire général doit réunir l’accord des pays membres.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La France va commander 20 vedettes rapides CB90 auprès de la Suède",
       "link": "https://www.opex360.com/2026/11/13/la-france-va-commander-20-vedettes-rapides-cb90-aupres-de-la-suede/",
       "pubDate": "2026-11-13T17:24:45.000Z",
       "description": "En 2025, la Marine nationale se fit prêter trois vedettes rapides CB90 [pour Combat Boat 90] par les forces suédoises à des fins d’évaluation et d’expérimentation. Et cela alors que le programme des Vedettes de Fusiliers Marins [VFM] se trouvait en difficulté, malgré la livraison de deux unités – le Bir Hakeim et le Laffaux...\nCet article La France va commander 20 vedettes rapides CB90 auprès de la Suède est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Défense : Atos Group mise sur l’intelligence artificielle et les systèmes critiques",
-      "link": "https://armees.com/defense-atos-group-intelligence-artificielle-systemes-critiques/",
-      "pubDate": "2026-11-13T17:15:15.000Z",
-      "description": "Atos Group poursuit son développement dans le secteur de la défense comme en témoigne ses innovations présentées lors de l’édition 2026 d’Euronaval. De la détection des émissions radar à l’aide tactique par l’intelligence artificielle, en passant par l’optimisation de la navigation des drones maritimes, le groupe informatique développe plusieurs solutions technologiques à travers sa branche Eviden. Trois annonces successives illustrent cette stratégie, alors que le traitement des données et l’automatisation prennent une place croissante dans les opérations militaires.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La France officialise la création d’un centre international dédié à l’intelligence artificielle militaire à Rennes",
@@ -203,20 +217,6 @@
       "link": "https://www.opex360.com/2026/11/12/litalie-prevoit-de-depenser-73-milliards-deuros-de-plus-pour-sa-flotte-de-chasseurs-bombardiers-f-35a-b/",
       "pubDate": "2026-11-12T11:54:32.000Z",
       "description": "En 2009, le Parlement italien approuva le programme pluriannuel SMD 2/2009 relatif à l’acquisition et à la mise en œuvre de 131 chasseurs-bombardiers F-35 [dont 62 en version dite STOVL, c’est-à-dire à décollage court et à atterrissage vertical] et à l’implantation d’une usine d’assemblage de F-35 [FACO – Final Assembly and Check Out] à Cameri....\nCet article L’Italie prévoit de dépenser 7,3 milliards d’euros de plus pour sa flotte de chasseurs-bombardiers F-35A/B est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Après Thales, l’allemand Helsing défie l’américain Palantir avec son logiciel de commandement et de contrôle Clarity",
-      "link": "https://www.opex360.com/2026/11/11/apres-thales-lallemand-helsing-defie-lamericain-palantir-avec-son-logiciel-de-commandement-et-de-controle-clarity/",
-      "pubDate": "2026-11-11T14:42:53.000Z",
-      "description": "Actuellement, faute d’alternative européenne, l’Otan s’approprie le logiciel de commandement et de contrôle [C2] dopé à l’intelligence artificielle MSS NATO [pour Maven Smart System NATO], dérivé du projet Maven, confié par le Pentagone à l’américain Palantir. Un tel système vise à compiler et analyser d’énormes quantités de données collectées par une myriade de capteur de...\nCet article Après Thales, l’allemand Helsing défie l’américain Palantir avec son logiciel de commandement et de contrôle Clarity est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Un rapport parlementaire remet en cause le choix d’un châssis allemand pour le successeur du char Leclerc",
-      "link": "https://www.opex360.com/2026/11/11/un-rapport-parlementaire-remet-en-cause-le-choix-dun-chassis-allemand-pour-le-successeur-du-char-leclerc/",
-      "pubDate": "2026-11-11T12:11:31.000Z",
-      "description": "Si le projet franco-allemand de Système principal de combat terrestre [MGCS] s’est embourbé et a donc pris du retard, c’est en grande partie dû aux désaccords sur certains choix technologiques entre les industriels concernés. Ainsi, s’agissant du char appelé à opérer aux côtés de plateformes robotisées au sein d’un «cloud de combat», KNDS France s’est...\nCet article Un rapport parlementaire remet en cause le choix d’un châssis allemand pour le successeur du char Leclerc est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
