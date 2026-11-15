@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T11:59:14.358Z",
+  "generatedAt": "2026-11-15T18:38:59.596Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Char intermédiaire : des idées mais pas de temps ni d’argent à gaspiller",
+      "link": "https://forcesoperations.com/char-intermediaire-des-idees-mais-pas-de-temps-ni-dargent-a-gaspiller/",
+      "pubDate": "2026-11-15T18:13:34.000Z",
+      "description": "Une première enveloppe viendra alimenter en 2027 les travaux portant sur le successeur du char Leclerc, cette capacité intermédiaire pour laquelle certains poussent encore une solution plus « franco-française ». À condition de démarrer à temps et, surtout, d'y allouer les finances nécessaires. \nThe post Char intermédiaire : des idées mais pas de temps ni d’argent à gaspiller  appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "En Estonie, la commandante de la division de guerre des mines est élue officier de l’année",
+      "link": "https://armees.com/estonie-greete-mand-mario-mottus-distinctions-2026/",
+      "pubDate": "2026-11-15T17:37:29.000Z",
+      "description": "Greete Mänd commandait le chasseur de mines Ugandi en 2025. Les forces armées estoniennes l’ont distinguée le 13 novembre, aux côtés du sous-officier Mario Mõttus, dont elles saluent le rôle de mentor dans l’infanterie.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La marine américaine confirme avoir relevé Caitlin Cunningham du commandement de l’USS Michael Murphy",
+      "link": "https://armees.com/uss-michael-murphy-caitlin-cunningham-relevee-septembre-2026/",
+      "pubDate": "2026-11-15T15:45:13.000Z",
+      "description": "Le 12 novembre, jour du retour du destroyer à Pearl Harbor, la presse américaine a révélé que sa commandante avait été relevée en mer le 27 septembre. La Navy invoque une perte de confiance.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Guy Marchand aurait aidé un réseau dormant de la DGSE",
+      "link": "https://armees.com/dgse-securite-reseaux-dormants-guy-marchand/",
+      "pubDate": "2026-11-15T13:14:06.000Z",
+      "description": "La révélation que Guy Marchand était un correspondant de la DGSE expose une faille majeure : comment protéger des réseaux dormants conçus pour résister à une invasion quand leurs secrets finissent dans les médias ? L'affaire soulève des questions critiques sur la sécurité opérationnelle du renseignement français.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Guerre en Ukraine : comment rechercher un proche disparu depuis la France",
+      "link": "https://armees.com/guerre-ukraine-rechercher-proche-disparu-france-cicr-octobre-2026/",
+      "pubDate": "2026-11-15T12:40:07.000Z",
+      "description": "Fin octobre 2026, les familles en lien avec le CICR recherchaient 302 000 civils et militaires dans le cadre du conflit russo-ukrainien. En France, un service de la Croix-Rouge recueille gratuitement les demandes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Le sous-marin nucléaire d’attaque américain USS South Dakota aurait failli s’échouer",
+      "link": "https://www.opex360.com/2026/11/15/le-sous-marin-nucleaire-dattaque-americain-uss-south-dakota-aurait-failli-sechouer/",
+      "pubDate": "2026-11-15T12:39:42.000Z",
+      "description": "Le 30 juin dernier, le capitaine de frégate Dan Goodwin a officiellement pris le commandement de l’USS South Dakota, un sous-marin nucléaire d’attaque [SNA] de type Virginia qui, lors de ses dernières missions, s’était illustré à plusieurs reprises, au point d’obtenir la distinction «Battle E» pour son efficacité au combat et le Hook’Em Award pour...\nCet article Le sous-marin nucléaire d’attaque américain USS South Dakota aurait failli s’échouer est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
     {
       "title": "Le ministère des Armées est «mobilisé» sur les menaces liées à la présence de voitures chinoises dans les enceintes militaires",
       "link": "https://www.opex360.com/2026/11/15/le-ministere-des-armees-est-mobilise-sur-les-menaces-liees-a-la-presence-de-voitures-chinoises-dans-les-enceintes-militaires/",
@@ -129,20 +171,6 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Carnac devient la marraine de l’Arago, un ancien bâtiment hydrographique revenu du Pacifique",
-      "link": "https://armees.com/carnac-parrainage-arago-patrouilleur-parcours-marins/",
-      "pubDate": "2026-11-14T15:20:00.000Z",
-      "description": "Le commandant de l’Arago a signé la charte de parrainage à Carnac le 10 novembre. La commune morbihannaise veut faire découvrir aux jeunes les métiers d’un équipage dont les missions ont beaucoup changé depuis les premiers relevés dans le Pacifique.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Mauritanie : comment l’Union européenne suivra les équipements financés par son aide de 20 millions d’euros",
-      "link": "https://armees.com/mauritanie-aide-europeenne-surveillance-controle-equipements-2026/",
-      "pubDate": "2026-11-14T14:41:06.000Z",
-      "description": "Chaque remise de matériel devra donner lieu à un certificat signé par les forces destinataires. C’est le premier des contrôles prévus par la décision européenne du 29 octobre en faveur de l’armée mauritanienne.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Pour la première fois, des pilotes français de Rafale ont utilisé le viseur de casque Scorpion en opération extérieure",
       "link": "https://www.opex360.com/2026/11/14/pour-la-premiere-fois-des-pilotes-de-rafale-francais-ont-utilise-le-viseur-de-casques-scorpion-en-operation-exterieure/",
       "pubDate": "2026-11-14T14:33:24.000Z",
@@ -155,20 +183,6 @@
       "pubDate": "2026-11-14T11:55:54.000Z",
       "description": "Le 12 novembre, sans donner davantage de précisions, l’état-major finlandais a dit avoir détecté, la veille, une «frappe» contre un navire de guerre russe qui naviguait dans le golfe de Finlande, alors que les forces ukrainiennes venaient de lancer une attaque de drones à grande échelle contre la zone portuaire d’Oust-Louga qui, située dans la...\nCet article Baltique : Visée par des drones ukrainiens, la corvette russe Naro-Fominsk aurait subi d’importants dégâts est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Ukraine : à Dublin, Kaja Kallas demande que les Européens participent à la négociation du cessez-le-feu",
-      "link": "https://armees.com/dublin-kaja-kallas-cessez-le-feu-place-europeens-13-novembre/",
-      "pubDate": "2026-11-14T11:20:00.000Z",
-      "description": "Le 13 novembre, la cheffe de la diplomatie européenne a expliqué pourquoi les États appelés à mettre en œuvre un éventuel accord de paix doivent aussi peser sur son contenu. Sa première exigence reste un arrêt des combats.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "À Oslo, le forum de défense transatlantique demande une place pour les PME",
-      "link": "https://armees.com/oslo-atlantic-future-forum-pme-industrie-defense-resilience-novembre-2026/",
-      "pubDate": "2026-11-14T08:38:57.000Z",
-      "description": "Réunis en Norvège les 11 et 12 novembre, les participants de l’Atlantic Future Forum ont lié la hausse des capacités de production à deux conditions : donner de la visibilité aux industriels et associer les petites entreprises aux grands maîtres d’œuvre.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "L’armée américaine intervient pour une « suspicion d’activité de drone non autorisée » au-dessus d’une base militaire britannique",
@@ -210,13 +224,6 @@
       "link": "https://www.opex360.com/2026/11/12/la-marine-nationale-va-creer-huit-escouades-de-reserve-cotieres-de-plus-en-2027/",
       "pubDate": "2026-11-12T18:47:40.000Z",
       "description": "On en compte actuellement dix-neuf… Et elles seront bientôt vingt-sept. En effet, ce 12 novembre, le ministère des Armées a annoncé que la Marine nationale allait former huit escouades de réserve côtières [ECR] de plus dans le courant de l’année prochaine. Pour rappel, en 2023, considérant qu’il fallait «durcir» la défense maritime en comblant les...\nCet article La Marine nationale va créer huit escouades de réserve côtières de plus en 2027 est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "La Royal Navy va tester le drone de combat YFQ-48A Talon Blue de Northrop Grumman depuis l’un ses porte-avions",
-      "link": "https://www.opex360.com/2026/11/12/la-royal-navy-va-tester-le-drone-de-combat-yfq-48a-talon-blue-de-northrop-grumman-depuis-lun-ses-porte-avions/",
-      "pubDate": "2026-11-12T18:08:06.000Z",
-      "description": "En 2021, dans le cadre de son plan «Future Maritime Force», la Royal Navy avait dévoilé le projet «Vixen», son objectif étant de se doter d’un drone de combat à voilure fixe pouvant être lancé par une catapulte électromagnétique et récupéré grâce à des brins d’arrêt, deux dispositifs dont étaient pourtant dépourvus le HMS Queen...\nCet article La Royal Navy va tester le drone de combat YFQ-48A Talon Blue de Northrop Grumman depuis l’un ses porte-avions est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -351,13 +358,6 @@
       "pubDate": "2026-10-29T09:39:10.000Z",
       "description": "Radié des cadres de l’armée en 2016 pour avoir participé à une manifestation interdite organisée par un groupuscule islamophobe allemand, l’ancien légionnaire s’est éteint le 23 octobre, à 85 ans.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Safran en embuscade sur la radio du combattant débarqué",
-      "link": "https://forcesoperations.com/safran-en-embuscade-sur-la-radio-du-combattant-debarque/",
-      "pubDate": "2026-10-29T07:20:48.000Z",
-      "description": "Safran garde un pied dans les communications tactiques. Peu prolixe sur un domaine souvent associé à Thales ou Airbus, le groupe français y pousse néanmoins une nouvelle solution pour le combattant débarqué. Cette solution, Safran y travaille apparemment depuis près d'une décennie. Baptisée SAFNET, elle n'est pourtant apparue au grand jour que ce mois-ci à […]\nThe post Safran en embuscade sur la radio du combattant débarqué appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
     },
     {
       "title": "L’entreprise Les Forges de Tarbes, qui fournit des corps d’obus pour l’Ukraine, placée en redressement judiciaire",
