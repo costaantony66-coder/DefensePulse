@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:38:59.596Z",
+  "generatedAt": "2026-11-15T23:10:04.468Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Avion de combat GCAP : pourquoi Berlin ne peut pas décider seul de son entrée",
+      "link": "https://armees.com/gcap-allemagne-conditions-entree-contrats-pistorius-berlin/",
+      "pubDate": "2026-11-15T19:52:01.000Z",
+      "description": "L’Italie s’est dite favorable, le 14 novembre, à la participation allemande au programme aéronautique qu’elle conduit avec le Royaume-Uni et le Japon. Devant les parlementaires français et allemands, Boris Pistorius avait identifié deux conditions à une telle entrée : l’accord des partenaires et le temps nécessaire pour revoir leurs contrats.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Après une tentative de sabotage chez un fabricant de drones, l’Estonie prépare la fermeture de trois passages vers la Russie",
+      "link": "https://armees.com/estonie-prevoit-fermeture-passages-routiers-russie-threod/",
+      "pubDate": "2026-11-15T18:20:00.000Z",
+      "description": "Tallinn vise le 1er décembre pour fermer ses trois points de passage routiers avec la Russie, y compris aux piétons. Les services estoniens attribuent au renseignement militaire russe la tentative d’incendie qui a visé Threod Systems samedi.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Char intermédiaire : des idées mais pas de temps ni d’argent à gaspiller",
       "link": "https://forcesoperations.com/char-intermediaire-des-idees-mais-pas-de-temps-ni-dargent-a-gaspiller/",
@@ -148,20 +162,6 @@
       "pubDate": "2026-11-14T17:00:08.000Z",
       "description": "En associant ses moyens à la tournée du producteur du podcast suivi par des millions d’internautes, l’institution militaire veut séduire un public jeune et susciter des vocations. Une stratégie de communication qui interroge, alors que l’animateur est visé par des accusations d’échanges à caractère sexuel avec des mineures, qu’il conteste.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "À Lorient, le sous-marin Flore se visite avec les voix de son ancien équipage",
-      "link": "https://armees.com/lorient-flore-keroman-visite-sous-marin-memoire-equipage/",
-      "pubDate": "2026-11-14T16:36:52.000Z",
-      "description": "À Keroman, la visite commence dans une alvéole de l’ancienne base et se poursuit dans la coque de la Flore. Les souvenirs des sous-mariniers accompagnent le visiteur du poste des torpilles aux couchettes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Mémoire militaire : la commission des finances du Sénat propose 2,5 millions d’euros de plus pour l’entretien du patrimoine",
-      "link": "https://armees.com/budget-2027-entretien-patrimoine-memoire-militaire-senat/",
-      "pubDate": "2026-11-14T16:24:47.000Z",
-      "description": "La commission des finances a adopté le 10 novembre un amendement au projet de budget pour 2027 en faveur du patrimoine mémoriel militaire. Le gouvernement prévoit de ramener les crédits de la politique de la mémoire de 16,2 à 10,4 millions d’euros.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Forces spéciales : Le 1er Régiment de Parachutistes d’Infanterie de Marine change d’appellation",
