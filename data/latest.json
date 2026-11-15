@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T23:41:59.127Z",
+  "generatedAt": "2026-11-15T04:15:40.476Z",
   "sources": [
     {
       "key": "opex",
@@ -24,6 +24,20 @@
   ],
   "items": [
     {
+      "title": "En Ukraine, les alertes aériennes ont touché près de deux jours de classe sur trois",
+      "link": "https://armees.com/ukraine-alertes-aeriennes-ecole-kyiv-rentree-2026/",
+      "pubDate": "2026-11-15T00:43:32.000Z",
+      "description": "À Kyiv, les élèves ont connu 71 alertes pendant les heures de classe en septembre 2026, contre 12 un an plus tôt. Les témoignages publiés le 13 novembre par l’UNICEF racontent ce que deviennent les cours, puis les devoirs, lorsque les sirènes et les coupures se succèdent.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Logement des militaires britanniques : un rapport propose un seuil de décence pour les chambres en caserne",
+      "link": "https://armees.com/royaume-uni-logement-militaires-chambres-rapport-elphicke-ross/",
+      "pubDate": "2026-11-14T23:55:07.000Z",
+      "description": "Au Royaume-Uni, une mission indépendante propose de fixer un niveau minimal de qualité pour les logements des militaires célibataires ou affectés loin de leur famille. Le ministère de la Défense a présenté le rapport au Parlement le 10 novembre. Il se donne plusieurs mois pour répondre à ses 19 recommandations.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Ukraine : ce que la coalition des volontaires doit discuter à Berlin le 19 novembre",
       "link": "https://armees.com/ukraine-berlin-19-novembre-garanties-securite-coalition-volontaires/",
       "pubDate": "2026-11-14T21:34:57.000Z",
@@ -40,7 +54,7 @@
     {
       "title": "Avec le « Legend Tour » de Guillaume Pley, l’armée française s’offre une vitrine auprès de la jeunesse",
       "link": "https://www.lemonde.fr/politique/article/2026/11/14/avec-le-legend-tour-de-guillaume-pley-l-armee-francaise-s-offre-une-vitrine-aupres-de-la-jeunesse_6810456_823448.html",
-      "pubDate": "2026-11-14T17:00:16.000Z",
+      "pubDate": "2026-11-14T17:00:08.000Z",
       "description": "En associant ses moyens à la tournée du producteur du podcast suivi par des millions d’internautes, l’institution militaire veut séduire un public jeune et susciter des vocations. Une stratégie de communication qui interroge, alors que l’animateur est visé par des accusations d’échanges à caractère sexuel avec des mineures, qu’il conteste.",
       "sourceKey": "geo"
     },
@@ -147,20 +161,6 @@
       "link": "https://armees.com/assises-monde-combattant-correspondants-associatifs-droit-reparation/",
       "pubDate": "2026-11-14T02:46:42.000Z",
       "description": "Les Assises du monde combattant proposent de former des correspondants associatifs pour aider les blessés et les conjoints survivants à faire valoir leurs droits. Présentée le 11 novembre, la mesure doit faire l’objet d’un suivi annuel auprès de la ministre.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "À Lakenheath, une suspicion de survol par drone a conduit le personnel américain à se mettre à l’abri",
-      "link": "https://armees.com/raf-lakenheath-alerte-drones-mise-abri-personnel-13-novembre-2026/",
-      "pubDate": "2026-11-14T02:40:00.000Z",
-      "description": "Sur cette base du Suffolk qui accueille des chasseurs F-15E et F-35A, les forces de sécurité américaines sont intervenues vendredi soir. Londres indique que l’alerte est terminée. L’US Air Force n’a signalé ni blessé ni dégât.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Synology corrige une faille qui expose les fichiers de ses serveurs de stockage",
-      "link": "https://armees.com/synology-dsm-nas-faille-authentification-correctifs-novembre-2026/",
-      "pubDate": "2026-11-14T01:31:00.000Z",
-      "description": "Une faille critique de DiskStation Manager permet à un attaquant de lire ou de modifier des fichiers à distance sans disposer de compte. Synology a publié des correctifs pour quatre branches du système qui équipe ses serveurs de stockage en réseau.",
       "sourceKey": "armees_com"
     },
     {
