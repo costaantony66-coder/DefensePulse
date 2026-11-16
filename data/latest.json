@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T02:46:39.923Z",
+  "generatedAt": "2026-11-16T10:29:19.588Z",
   "sources": [
     {
       "key": "opex",
@@ -24,6 +24,111 @@
   ],
   "items": [
     {
+      "title": "Houthis : comment les rebelles ont reconquis Bab el-Mandeb",
+      "link": "https://armees.com/houthis-reconquete-bab-el-mandeb-mouvements-troupes/",
+      "pubDate": "2026-11-16T09:10:49.000Z",
+      "description": "Le 15 novembre 2026, les forces gouvernementales yéménites ont abandonné le détroit de Bab el-Mandeb après six semaines de contre-offensive infructueuse, permettant aux Houthis de reprendre le contrôle total de cette zone stratégique. Positionnés sur l'île de Perim et à 60 kilomètres d'Aden, les rebelles disposent désormais de capacités d'interdiction maritime renforcées et menacent directement la capitale gouvernementale.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’Ukraine frappe en profondeur : raids massifs de drones contre des sites industriels russes stratégiques",
+      "link": "https://armees.com/ukraine-nizhnekamskneftekhim-tatarstan/",
+      "pubDate": "2026-11-16T09:00:00.000Z",
+      "description": "L'Ukraine a lancé dans la nuit du 14 au 15 novembre 2026 une offensive massive de drones contre plusieurs sites industriels russes stratégiques, dont l'usine pétrochimique Nizhnekamskneftekhim au Tatarstan. Malgré l'interception de centaines d'appareils par la défense aérienne russe, ces frappes ont causé quatre morts et des dégâts considérables, illustrant l'intensification de la guerre d'usure entre les deux belligérants.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Allemagne : le Bundestag veut accélérer les chantiers de la Bundeswehr et élargir l’accès au logement",
+      "link": "https://armees.com/allemagne-bundestag-infrastructures-bundeswehr-logement-militaires-12-novembre-2026/",
+      "pubDate": "2026-11-16T08:34:16.000Z",
+      "description": "Le Bundestag a adopté le 12 novembre un texte qui facilite les chantiers immobiliers de la Bundeswehr. Il prévoit aussi de mettre des logements à disposition de militaires qui ne sont pas tenus de vivre en caserne, pour un surcoût estimé jusqu’à 210 millions d’euros sur cinq ans.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pax Silica : pourquoi neuf nations s’unissent contre la Chine",
+      "link": "https://armees.com/pax-silica-otan-technologique-defense-2026/",
+      "pubDate": "2026-11-16T08:09:00.000Z",
+      "description": "Neuf nations ont signé le 16 novembre 2026 la Déclaration de San Francisco, formalisant une alliance défensive inédite pour sécuriser les chaînes d'approvisionnement en technologies d'intelligence artificielle face à la Chine. Washington, Tokyo, Canberra, Londres, Séoul, Tel Aviv, New Delhi, Doha et Abu Dhabi rejoignent Pax Silica, programme américain couvrant semi-conducteurs, minéraux critiques et infrastructures énergétiques. Quatre autres signataires européens rallieront l'alliance la semaine prochaine.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Canaries : 1 488 migrants secourus en une journée par la marine",
+      "link": "https://armees.com/marine-espagnole-sauvetage-operationnel-canaries-2026/",
+      "pubDate": "2026-11-16T07:58:00.000Z",
+      "description": "Le 15 novembre 2026, la marine espagnole a secouru 1 488 migrants en une seule journée aux îles Canaries, établissant un record absolu. Depuis début novembre, plus de 9 000 personnes ont atteint l'archipel, saturant les capacités opérationnelles d'une flotte confrontée à une crise migratoire sans précédent sur la route atlantique ouest-africaine.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Starshield bridé : pourquoi un drone autonome ne remplace pas un intercepteur connecté",
+      "link": "https://armees.com/starshield-intercepteurs-connectes-drones-ukraine-novembre-2026/",
+      "pubDate": "2026-11-16T07:40:00.000Z",
+      "description": "Les nouvelles restrictions signalées sur Starshield compliqueraient l'interception de drones russes rapides à proximité du front ukrainien. Pourtant, des industriels assurent savoir accomplir certaines missions sans liaison satellitaire. Ces deux réalités ne se contredisent pas : elles concernent des usages militaires différents.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Au Koweït, un poste américain déplacé mais dépourvu de défense antidrones dédiée",
+      "link": "https://armees.com/koweit-poste-americain-defense-antidrones-shuaiba/",
+      "pubDate": "2026-11-16T07:30:00.000Z",
+      "description": "Le 1er mars 2026, un drone iranien a frappé un centre logistique américain installé au port de Shuaiba, tuant six réservistes. Huit mois plus tard, un officier blessé dénonce les choix de protection du site. Les témoignages éclairent une décision de déploiement prise malgré plusieurs alertes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Rencontre Trump-Xi-Poutine : priorité à la non-prolifération nucléaire",
+      "link": "https://armees.com/non-proliferation-nucleaire-new-start-2026-trump-xi-poutine/",
+      "pubDate": "2026-11-16T07:20:00.000Z",
+      "description": "Le 19 novembre 2026, Donald Trump, Xi Jinping et Vladimir Poutine se réunissent pour la première rencontre trilatérale de l'histoire à Shenzhen. Depuis l'expiration du traité New START en février dernier, aucun cadre ne limite les arsenaux nucléaires américain et russe. La non-prolifération s'impose comme priorité affichée d'un sommet où les trois puissances nucléaires majeures tentent de redéfinir les règles de la stabilité stratégique mondiale.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "US Navy : comment retrouver le journal de bord d’un navire américain",
+      "link": "https://armees.com/us-navy-retrouver-journal-de-bord-navire-archives/",
+      "pubDate": "2026-11-16T06:41:48.000Z",
+      "description": "Un nom de navire et une date permettent de remonter jusqu’au récit d’une journée en mer. Pour retrouver le nom d’un marin embarqué, les archives américaines orientent aussi vers les rôles d’équipage.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’Armée de l’air envoie ses soldats au sol pendant 3 semaines : pourquoi ces unités s’entraînent à la guerre sur le territoire français",
+      "link": "https://armees.com/larmee-de-lair-envoie-ses-soldats-au-sol-pendant-3-semaines-pourquoi-ces-unites-sentrainent-a-la-guerre-sur-le-territoire-francais/",
+      "pubDate": "2026-11-16T06:35:46.000Z",
+      "description": "Conflit fictif, émeutes, hélicoptère touché, vingtaine de blessés : dans le Gard, 500 militaires ont vécu un scénario glaçant pendant quatre jours. Ce que révèle cet exercice sur notre préparation face aux menaces hybrides risque de vous surprendre.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "IA militaire : comment la France tente d’entrouvrir la porte à une régulation",
+      "link": "https://www.lemonde.fr/international/article/2026/11/16/ia-militaire-comment-la-france-tente-d-entrouvrir-la-porte-a-une-regulation_6811534_3210.html",
+      "pubDate": "2026-11-16T06:30:01.000Z",
+      "description": "Alors que doit avoir lieu, à Genève, du 16 au 20 novembre, la 7ᵉ Conférence d’examen de la Convention sur certaines armes classiques, plusieurs capitales européennes, dont Paris, aimeraient qu’un instrument de contrôle des systèmes d’armes autonomes soit adopté. Un défi dans un contexte de course aux armements.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Pourquoi l’Ukraine et la Russie développent chacune leur propre satellite : les deux camps veulent se débarrasser de Starlink, et Elon Musk perd le contrôle",
+      "link": "https://armees.com/pourquoi-lukraine-et-la-russie-developpent-chacune-leur-propre-satellite-les-deux-camps-veulent-se-debarrasser-de-starlink-et-elon-musk-perd-le-controle/",
+      "pubDate": "2026-11-16T06:05:02.000Z",
+      "description": "Starlink bridé, drones aveugles face aux Iskander russes : Kiev et Moscou se lancent dans une course spatiale secrète. Qui aura sa constellation souveraine en premier ? La réponse pourrait changer le cours du conflit.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Sabotage raté, frontière fermée : l’Estonie bascule en mode défense",
+      "link": "https://armees.com/estonie-fermeture-frontiere-defense-gru-2026/",
+      "pubDate": "2026-11-16T04:12:46.000Z",
+      "description": "Après la tentative d'incendie contre Threod Systems attribuée au GRU, l'Estonie franchit un pas sans précédent : la fermeture totale de ses points de passage frontaliers avec la Russie à partir du 1er décembre 2026.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Du jeu vidéo à l’IA, deux questions de responsabilité pour le Comité d’éthique de la défense",
+      "link": "https://armees.com/comite-ethique-defense-jeu-video-ia-agentique-novembre-2026/",
+      "pubDate": "2026-11-16T04:00:11.000Z",
+      "description": "Comment garder conscience des conséquences d’un acte lorsque l’écran reprend les codes du jeu vidéo ? Catherine Vautrin a confié cette question au Comité d’éthique de la défense le 12 novembre, avec un second sujet sur la capacité des systèmes d’intelligence artificielle à respecter les instructions et les règles qui encadrent l’action militaire.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Guerre en Ukraine : que protège le statut accordé aux bibliothèques et aux musées ?",
+      "link": "https://armees.com/ukraine-patrimoine-protection-renforcee-unesco-statut/",
+      "pubDate": "2026-11-16T03:34:27.000Z",
+      "description": "La bibliothèque scientifique nationale d’Odesa figure parmi les 46 biens ukrainiens que l’UNESCO recensait sous protection renforcée en décembre 2025. Cette inscription impose aux parties au conflit des obligations précises.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "En Indiana, des chênes blancs réservés à la coque de l’USS Constitution",
       "link": "https://armees.com/uss-constitution-chenes-blancs-indiana-coque/",
       "pubDate": "2026-11-16T01:40:26.000Z",
@@ -38,74 +143,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "La Défense britannique compte 1 395 fonctionnaires civils de moins en un an",
-      "link": "https://armees.com/royaume-uni-defense-effectifs-civils-octobre-2026/",
-      "pubDate": "2026-11-15T23:54:58.000Z",
-      "description": "Le ministère britannique de la Défense employait 55 975 fonctionnaires civils au 1er octobre 2026, en baisse de 2,4 % sur un an. Les recrutements ont progressé, mais les départs restent plus nombreux dans une administration engagée dans un plan d’économies à l’horizon 2030.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Après deux attaques en trois jours, Bahreïn reçoit le soutien de ses voisins du Golfe",
-      "link": "https://armees.com/bahrein-attaques-novembre-soutien-voisins-golfe/",
-      "pubDate": "2026-11-15T23:40:00.000Z",
-      "description": "Le Conseil de coopération du Golfe a condamné dimanche les attaques iraniennes contre Bahreïn. Dans le royaume, les habitants ont reçu deux alertes leur demandant de se mettre à l’abri. Le Qatar redoute que ces nouveaux épisodes compromettent les efforts diplomatiques.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "À Berlin, les parlementaires de l’OTAN attendent Mark Rutte pour débattre de la défense collective",
-      "link": "https://armees.com/assemblee-parlementaire-otan-berlin-session-novembre-2026/",
-      "pubDate": "2026-11-15T22:40:23.000Z",
-      "description": "Les élus des pays alliés et partenaires se réuniront du 20 au 23 novembre. Le Bundestag annonce une intervention à distance de Volodymyr Zelensky pour la séance plénière.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Avion de combat GCAP : pourquoi Berlin ne peut pas décider seul de son entrée",
-      "link": "https://armees.com/gcap-allemagne-conditions-entree-contrats-pistorius-berlin/",
-      "pubDate": "2026-11-15T19:52:01.000Z",
-      "description": "L’Italie s’est dite favorable, le 14 novembre, à la participation allemande au programme aéronautique qu’elle conduit avec le Royaume-Uni et le Japon. Devant les parlementaires français et allemands, Boris Pistorius avait identifié deux conditions à une telle entrée : l’accord des partenaires et le temps nécessaire pour revoir leurs contrats.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Après une tentative de sabotage chez un fabricant de drones, l’Estonie prépare la fermeture de trois passages vers la Russie",
-      "link": "https://armees.com/estonie-prevoit-fermeture-passages-routiers-russie-threod/",
-      "pubDate": "2026-11-15T18:20:00.000Z",
-      "description": "Tallinn vise le 1er décembre pour fermer ses trois points de passage routiers avec la Russie, y compris aux piétons. Les services estoniens attribuent au renseignement militaire russe la tentative d’incendie qui a visé Threod Systems samedi.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Char intermédiaire : des idées mais pas de temps ni d’argent à gaspiller",
       "link": "https://forcesoperations.com/char-intermediaire-des-idees-mais-pas-de-temps-ni-dargent-a-gaspiller/",
       "pubDate": "2026-11-15T18:13:34.000Z",
       "description": "Une première enveloppe viendra alimenter en 2027 les travaux portant sur le successeur du char Leclerc, cette capacité intermédiaire pour laquelle certains poussent encore une solution plus « franco-française ». À condition de démarrer à temps et, surtout, d'y allouer les finances nécessaires. \nThe post Char intermédiaire : des idées mais pas de temps ni d’argent à gaspiller  appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "En Estonie, la commandante de la division de guerre des mines est élue officier de l’année",
-      "link": "https://armees.com/estonie-greete-mand-mario-mottus-distinctions-2026/",
-      "pubDate": "2026-11-15T17:37:29.000Z",
-      "description": "Greete Mänd commandait le chasseur de mines Ugandi en 2025. Les forces armées estoniennes l’ont distinguée le 13 novembre, aux côtés du sous-officier Mario Mõttus, dont elles saluent le rôle de mentor dans l’infanterie.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La marine américaine confirme avoir relevé Caitlin Cunningham du commandement de l’USS Michael Murphy",
-      "link": "https://armees.com/uss-michael-murphy-caitlin-cunningham-relevee-septembre-2026/",
-      "pubDate": "2026-11-15T15:45:13.000Z",
-      "description": "Le 12 novembre, jour du retour du destroyer à Pearl Harbor, la presse américaine a révélé que sa commandante avait été relevée en mer le 27 septembre. La Navy invoque une perte de confiance.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guy Marchand aurait aidé un réseau dormant de la DGSE",
-      "link": "https://armees.com/dgse-securite-reseaux-dormants-guy-marchand/",
-      "pubDate": "2026-11-15T13:14:06.000Z",
-      "description": "La révélation que Guy Marchand était un correspondant de la DGSE expose une faille majeure : comment protéger des réseaux dormants conçus pour résister à une invasion quand leurs secrets finissent dans les médias ? L'affaire soulève des questions critiques sur la sécurité opérationnelle du renseignement français.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre en Ukraine : comment rechercher un proche disparu depuis la France",
-      "link": "https://armees.com/guerre-ukraine-rechercher-proche-disparu-france-cicr-octobre-2026/",
-      "pubDate": "2026-11-15T12:40:07.000Z",
-      "description": "Fin octobre 2026, les familles en lien avec le CICR recherchaient 302 000 civils et militaires dans le cadre du conflit russo-ukrainien. En France, un service de la Croix-Rouge recueille gratuitement les demandes.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le sous-marin nucléaire d’attaque américain USS South Dakota aurait failli s’échouer",
@@ -120,41 +162,6 @@
       "pubDate": "2026-11-15T11:25:23.000Z",
       "description": "Fixé par la Commission européenne dans le cadre du «pacte vert», l’objectif de mettre un terme à la commercialisation de véhicules dotés d’une motorisation thermique et hybride met les constructeurs automobiles du Vieux Continent en grande difficulté face à leurs concurrents chinois. Ainsi, malgré les barrières douanières et fiscales, ceux-ci ne cessent de gagner des...\nCet article Le ministère des Armées est «mobilisé» sur les menaces liées à la présence de voitures chinoises dans les enceintes militaires est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Déminage en Ukraine : le retour aux terres agricoles au programme de Bruxelles",
-      "link": "https://armees.com/ukraine-conference-bruxelles-deminage-humanitaire-terres-novembre-2026/",
-      "pubDate": "2026-11-15T10:40:29.000Z",
-      "description": "Du 16 au 18 novembre, l’Ukraine et l’Union européenne réunissent à Bruxelles les acteurs du déminage humanitaire. L’accès aux terres, la prévention auprès des habitants et le financement des opérations figurent parmi les enjeux de cette quatrième édition.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’OTAN choisit au moins trois ans à l’avance le pays qui accueille Steadfast Noon, précise Rome",
-      "link": "https://armees.com/otan-steadfast-noon-italie-choix-pays-hote-reponse-deputes/",
-      "pubDate": "2026-11-15T08:40:00.000Z",
-      "description": "Interrogé après l’exercice de dissuasion organisé en Italie en octobre, le ministre de la Défense Guido Crosetto a détaillé son calendrier. La réponse publiée à la Chambre italienne le 11 novembre éclaire la façon dont les alliés se répartissent l’accueil de cet entraînement.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Patrimoine en Ukraine : à Odesa, 20 000 objets photographiés pour documenter une collection en temps de guerre",
-      "link": "https://armees.com/ukraine-odesa-musee-archeologique-inventaire-patrimoine-guerre/",
-      "pubDate": "2026-11-15T07:43:27.000Z",
-      "description": "Le musée archéologique d’Odesa figure parmi les sites culturels dont l’UNESCO a confirmé les dommages en Ukraine. Dans ses réserves, la protection du patrimoine passe aussi par un inventaire, la photographie des pièces et la numérisation des archives.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La Norvège maîtrise une bombe lâchée par les États-Unis en plein vol",
-      "link": "https://armees.com/la-norvege-maitrise-une-bombe-lachee-par-les-etats-unis-en-plein-vol/",
-      "pubDate": "2026-11-15T06:35:00.000Z",
-      "description": "Une bombe américaine larguée, puis pilotée à distance par des Norvégiens grâce à un simple réseau militaire. L'armée norvégienne vient d'écrire une première mondiale qui change la donne du combat moderne.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "« Je n’avais jamais vu ça à l’œil nu » : en novembre, la Lune et cinq planètes s’alignent dans le ciel, et les astronomes confirment que c’est visible sans télescope",
-      "link": "https://armees.com/je-navais-jamais-vu-ca-a-loeil-nu-en-novembre-la-lune-et-cinq-planetes-salignent-dans-le-ciel-et-les-astronomes-confirment-que-cest-visible-sans-telescope/",
-      "pubDate": "2026-11-15T06:05:18.000Z",
-      "description": "Six planètes, une Lune, 3,2 milliards de kilomètres de ciel à contempler avant l'aube. Un spectacle rare se joue jusqu'au 28 novembre, mais la fenêtre d'observation idéale se referme vite. Saurez-vous repérer Uranus, la planète invisible à l'œil nu ?",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Avec le « Legend Tour » de Guillaume Pley, l’armée française s’offre une vitrine auprès de la jeunesse",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/societe/article/2026/10/16/a-verdun-avec-les-premiers-appeles-du-service-national-nouveaux-ambassadeurs-de-l-esprit-de-defense_6795571_3224.html",
       "pubDate": "2026-10-16T15:31:14.000Z",
       "description": "Ce nouveau dispositif, à ne pas confondre avec le service national universel, désormais enterré, devrait concerner jusqu’à 10 000 personnes d’ici à 2030 et coûte 2,3 milliards d’euros sur les cinq ans à venir. Une partie de ces volontaires ira renforcer la réserve opérationnelle de l’armée.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "OTAN : « Si quelqu’un est assez insensé pour nous attaquer, nous nous battrons », dit le général Alexus Grynkewich",
-      "link": "https://www.lemonde.fr/international/article/2026/10/12/toute-attaque-contre-l-otan-serait-totalement-vaine-assure-son-chef-militaire_6792636_3210.html",
-      "pubDate": "2026-10-12T13:29:06.000Z",
-      "description": "Lors de son discours au Forum de Varsovie sur la sécurité, le général Alexus G. Grynkewich a voulu rassurer les populations concernant les sabotages et les incendies, mais aussi dissuader un éventuel agresseur.",
       "sourceKey": "geo"
     }
   ]
