@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T11:57:29.030Z",
+  "generatedAt": "2026-11-17T20:30:07.405Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,76 @@
     }
   ],
   "items": [
+    {
+      "title": "La Bulgarie soumet au Parlement un projet d’achat de 57 CAESAR",
+      "link": "https://armees.com/bulgarie-projet-achat-57-caesar-parlement-safe/",
+      "pubDate": "2026-11-17T19:54:04.000Z",
+      "description": "Le gouvernement bulgare propose au Parlement l’acquisition de 57 canons CAESAR avec leurs munitions et équipements. Le projet mobiliserait le dispositif européen SAFE, fondé sur des prêts aux États.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Défense européenne : huit pistes communes, du cloud militaire à l’alerte spatiale",
+      "link": "https://armees.com/defense-europeenne-card-2026-huit-cooperations-cloud-alerte-spatiale/",
+      "pubDate": "2026-11-17T19:50:47.000Z",
+      "description": "Les ministres européens de la Défense ont validé huit pistes de coopération le 17 novembre. Le rapport CARD 2026 insiste sur l’alerte spatiale, le cloud sécurisé et le transport stratégique, sans annoncer de contrats.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Intervention militaire : le vote des quatre mois ne se renouvelle pas automatiquement",
+      "link": "https://armees.com/intervention-militaire-article-35-vote-quatre-mois-prolongation-parlement/",
+      "pubDate": "2026-11-17T19:43:50.000Z",
+      "description": "Le gouvernement doit informer le Parlement rapidement après le début d’une intervention à l’étranger, puis obtenir son autorisation pour la prolonger au-delà de quatre mois. Une fois cet accord acquis, la Constitution n’impose pas un nouveau vote tous les quatre mois.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La France réaffirme son soutien au projet européen HYDIS², dédié à la défense contre les missiles hypersoniques",
+      "link": "https://www.opex360.com/2026/11/17/la-france-reaffirme-son-soutien-au-projet-europeen-hydis%c2%b2-dedie-a-la-defense-contre-les-missiles-hypersoniques/",
+      "pubDate": "2026-11-17T18:27:48.000Z",
+      "description": "En 2022, la Commission européenne fit un choix qui en surprit plus d’un en confiant à l’espagnol SENER Aeroespacial la direction du programme EU HYDEF [European Hypersonic Defence Interceptor], alors que les travaux préliminaires menées dans le cadre du projet TWISTER [Timely Warning and Interception with Space-based TheatER surveillance] avaient été réalisés sous l’égide de...\nCet article La France réaffirme son soutien au projet européen HYDIS², dédié à la défense contre les missiles hypersoniques est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "ICEYE veut réunir satellites et lanceurs avec une offre sur Avio",
+      "link": "https://armees.com/iceye-avio-offre-41-euros-satellites-lanceurs-17-novembre-2026/",
+      "pubDate": "2026-11-17T17:39:47.000Z",
+      "description": "Le fabricant finlandais de satellites a annoncé le 17 novembre une offre en numéraire à 41 euros par action Avio. Son projet associerait renseignement spatial, propulsion et lancements, avec un milliard d’euros d’investissements supplémentaires prévu en Italie après la réalisation de l’opération.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un char Leopard 2 ukrainien a « survécu » à 45 impacts de drones FPV",
+      "link": "https://www.opex360.com/2026/11/17/un-char-leopard-2-ukrainien-a-survecu-a-45-impacts-de-drones-fpv/",
+      "pubDate": "2026-11-17T17:37:30.000Z",
+      "description": "L’idée selon laquelle il ne suffirait que d’un seul drone FPV [First Person View, c’est-à-dire à pilotage immersif] pour détruire un char de combat s’est largement répandue avec la diffusion abondante de vidéos prises sur les champs de bataille en Ukraine. D’ailleurs, c’est ce qui motive la mise en œuvre de cages antidrones, de systèmes...\nCet article Un char Leopard 2 ukrainien a « survécu » à 45 impacts de drones FPV est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Cybersécurité : l’Assemblée adopte le projet de loi Résilience par 464 voix",
+      "link": "https://armees.com/cybersecurite-resilience-assemblee-464-voix-17-novembre-2026/",
+      "pubDate": "2026-11-17T17:33:18.000Z",
+      "description": "Les députés ont adopté le 17 novembre le projet de loi sur la résilience des infrastructures critiques et la cybersécurité. Le texte doit encore faire l’objet d’un accord entre les deux chambres avant son adoption définitive.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Deux bombardiers stratégiques russes Tu-95 sont arrivés au Vietnam… après avoir violé l’espace aérien japonais",
+      "link": "https://www.opex360.com/2026/11/17/deux-bombardiers-strategiques-russes-tu-95-sont-arrives-au-vietnam-apres-avoir-viole-lespace-aerien-japonais/",
+      "pubDate": "2026-11-17T16:02:25.000Z",
+      "description": "Le mois dernier, le Japon a indiqué que l’activité des forces aériennes chinoises et russes dans sa zone d’identification de défense aérienne [ADIZ] avait augmenté de 67 % entre le 1er avril et le 30 septembre par rapport à la même période en 2025, avec 442 interceptions effectuées par ses avions de combat. Le ministère...\nCet article Deux bombardiers stratégiques russes Tu-95 sont arrivés au Vietnam… après avoir violé l’espace aérien japonais est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "En Pologne, auprès d’un exercice militaire inédit de la coalition des volontaires, dirigé par la France et le Royaume-Uni",
+      "link": "https://www.lemonde.fr/international/article/2026/11/17/en-pologne-aupres-d-un-exercice-militaire-inedit-de-la-coalition-des-volontaires-dirige-par-la-france-et-le-royaume-uni_6812990_3210.html",
+      "pubDate": "2026-11-17T15:00:15.000Z",
+      "description": "Jusqu’au 22 novembre, près de 2 800 soldats issus de 11 nations différentes participent en Pologne à un exercice sans précédent nommé « Koalicja ». Cette force multinationale pour l’Ukraine pourrait se déployer le jour où la guerre avec la Russie cessera.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Pollution en mer : comment une observation aérienne devient un constat",
+      "link": "https://armees.com/pollution-mer-observation-aerienne-polrep-proces-verbal/",
+      "pubDate": "2026-11-17T12:43:12.000Z",
+      "description": "Depuis un avion, une nappe peut livrer rapidement des indices sur l’étendue d’un déversement. Les observateurs apprennent à distinguer ce qui aide les équipes en mer de ce qui pourra étayer une procédure judiciaire.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Artillerie : La Bulgarie confirme son intention d’acquérir 57 CAESAr auprès de la France",
       "link": "https://www.opex360.com/2026/11/17/artillerie-la-bulgarie-confirme-son-intention-dacquerir-57-caesar-aupres-de-la-france/",
@@ -115,48 +185,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "À Brest, la figure de proue de la Pandore raconte le travail des sculpteurs de marine",
-      "link": "https://armees.com/brest-pandore-figure-proue-atelier-sculpture-navale/",
-      "pubDate": "2026-11-17T04:40:54.000Z",
-      "description": "Un coffret permet de reconnaître Pandore à la proue de la frégate construite à Brest. Ce buste en bois peint garde la trace d’un atelier de l’arsenal installé à Recouvrance.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Vision nocturne : Exosens reçoit une commande ferme de 25 000 tubes pour Theon",
-      "link": "https://armees.com/exosens-theon-25000-tubes-vision-nocturne-16-novembre-2026/",
-      "pubDate": "2026-11-17T04:28:25.000Z",
-      "description": "Exosens a annoncé le 16 novembre une commande de 25 000 tubes intensificateurs de lumière, avec des options sur 35 000 unités supplémentaires. Les premières livraisons à Theon sont attendues à la fin de 2026.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Douze Albatros pour remplacer deux flottes de la Marine nationale",
-      "link": "https://armees.com/albatros-marine-remplacement-falcon-gardian-calendrier/",
-      "pubDate": "2026-11-17T02:43:48.000Z",
-      "description": "Les deux premiers Falcon Albatros ont rejoint Lann-Bihoué en juillet 2026. Leur arrivée ouvre une transition qui concerne les avions de surveillance basés en Bretagne comme ceux du Pacifique.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Archives militaires : pourquoi un Rouennais peut avoir sa fiche matricule dans la Somme",
-      "link": "https://armees.com/rouen-retrouver-fiche-matricule-bureau-recrutement/",
-      "pubDate": "2026-11-16T23:37:13.000Z",
-      "description": "Né à Rouen en 1860, Maxime Léon Petit figure dans les registres d’Abbeville. Son parcours donne trois repères pour retrouver une fiche matricule.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Dans l’armée allemande, les consultations pour troubles psychiques liés aux missions ont fortement augmenté",
-      "link": "https://armees.com/bundeswehr-troubles-psychiques-missions-consultations-2025/",
-      "pubDate": "2026-11-16T23:00:00.000Z",
-      "description": "Les structures de soins de la Bundeswehr ont recensé 438 militaires concernés en 2025, contre 298 en 2024. Les chiffres rendus publics le 16 novembre soulignent aussi un délai de plusieurs années avant la prise en charge.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Sauvetage en mer : ce qu’un avion peut faire avant l’arrivée des secours",
-      "link": "https://armees.com/recherche-sauvetage-mer-avion-veille-relais-guam/",
-      "pubDate": "2026-11-16T21:40:02.000Z",
-      "description": "Repérer une embarcation, rester en vue et guider les secours : au large de Guam, un équipage français a tenu ce rôle pendant cinq heures en juillet 2023.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’armée de Terre va recevoir au moins cinq systèmes de drones tactiques Tekever AR5",
       "link": "https://www.opex360.com/2026/11/16/larmee-de-terre-va-recevoir-au-moins-cinq-systemes-de-drones-tactiques-tekever-ar5/",
       "pubDate": "2026-11-16T18:14:49.000Z",
@@ -239,27 +267,6 @@
       "pubDate": "2026-11-14T17:00:08.000Z",
       "description": "En associant ses moyens à la tournée du producteur du podcast suivi par des millions d’internautes, l’institution militaire veut séduire un public jeune et susciter des vocations. Une stratégie de communication qui interroge, alors que l’animateur est visé par des accusations d’échanges à caractère sexuel avec des mineures, qu’il conteste.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Forces spéciales : Le 1er Régiment de Parachutistes d’Infanterie de Marine change d’appellation",
-      "link": "https://www.opex360.com/2026/11/14/forces-speciales-le-1er-regiment-de-parachutistes-dinfanterie-de-marine-change-dappellation/",
-      "pubDate": "2026-11-14T15:37:52.000Z",
-      "description": "Au cours de son histoire et au gré de ses affiliations, le 1er Régiment de Parachutistes d’Infanterie de Marine [1er RPIMa], unité de l’armée de Terre mise à la disposition du Commandement des opérations spéciales [COS], a maintes fois changé d’appellation. Au point qu’il peut être compliqué de s’y retrouver. Créé en 1940 sous le...\nCet article Forces spéciales : Le 1er Régiment de Parachutistes d’Infanterie de Marine change d’appellation est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Pour la première fois, des pilotes français de Rafale ont utilisé le viseur de casque Scorpion en opération extérieure",
-      "link": "https://www.opex360.com/2026/11/14/pour-la-premiere-fois-des-pilotes-de-rafale-francais-ont-utilise-le-viseur-de-casques-scorpion-en-operation-exterieure/",
-      "pubDate": "2026-11-14T14:33:24.000Z",
-      "description": "Dans les années 2000, il était question d’équiper les pilotes français de Rafale avec le viseur de casque «Gerfaut», développé par Sagem. Mais les contraintes budgétaires en décidèrent autrement… Et l’acquisition de cette capacité fut renvoyée à des jours meilleurs. Pour rappel, un tel système, encore appelé Helmet Mounted Display [HMD] affiche sur la visière...\nCet article Pour la première fois, des pilotes français de Rafale ont utilisé le viseur de casque Scorpion en opération extérieure est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Baltique : Visée par des drones ukrainiens, la corvette russe Naro-Fominsk aurait subi d’importants dégâts",
-      "link": "https://www.opex360.com/2026/11/14/baltique-visee-par-des-drones-ukrainiens-la-corvette-russe-naro-forminsk-aurait-subi-dimportants-degats/",
-      "pubDate": "2026-11-14T11:55:54.000Z",
-      "description": "Le 12 novembre, sans donner davantage de précisions, l’état-major finlandais a dit avoir détecté, la veille, une «frappe» contre un navire de guerre russe qui naviguait dans le golfe de Finlande, alors que les forces ukrainiennes venaient de lancer une attaque de drones à grande échelle contre la zone portuaire d’Oust-Louga qui, située dans la...\nCet article Baltique : Visée par des drones ukrainiens, la corvette russe Naro-Fominsk aurait subi d’importants dégâts est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "L’armée américaine intervient pour une « suspicion d’activité de drone non autorisée » au-dessus d’une base militaire britannique",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/idees/article/2026/10/26/l-appel-de-cinq-ministres-europeens-de-la-defense-pour-que-l-espace-euro-atlantique-demeure-sur-nous-devons-davantage-investir-dans-nos-propres-capacites-et-nos-propres-ressources_6800805_3232.html",
       "pubDate": "2026-10-26T16:00:03.000Z",
       "description": "Dans une tribune au « Monde », les ministres allemand, britannique, français, italien et polonais de la défense, réunis le 26 octobre à Paris pour le sommet du groupe européen des Cinq (E5), affirment leur volonté d’œuvrer ensemble, au sein de l’OTAN, pour le renforcement de la sécurité du continent.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Les Forges de Tarbes, producteurs des corps d’obus du canon Caesar, demandent leur placement en redressement judiciaire",
-      "link": "https://www.lemonde.fr/economie/article/2026/10/23/les-forges-de-tarbes-producteurs-des-corps-d-obus-du-canon-caesar-demandent-leur-placement-en-redressement-judiciaire_6799119_3234.html",
-      "pubDate": "2026-10-23T16:15:05.000Z",
-      "description": "« Cette demande vise à préserver l’activité de l’entreprise », a fait savoir le groupe Europlasma dans un communiqué publié jeudi soir, quelques heures après en avoir informé les représentants des salariés lors d’un CSE extraordinaire.",
       "sourceKey": "geo"
     }
   ]
