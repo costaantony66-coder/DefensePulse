@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T20:39:23.608Z",
+  "generatedAt": "2026-11-17T03:09:01.699Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Archives militaires : pourquoi un Rouennais peut avoir sa fiche matricule dans la Somme",
+      "link": "https://armees.com/rouen-retrouver-fiche-matricule-bureau-recrutement/",
+      "pubDate": "2026-11-16T23:37:13.000Z",
+      "description": "Né à Rouen en 1860, Maxime Léon Petit figure dans les registres d’Abbeville. Son parcours donne trois repères pour retrouver une fiche matricule.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Dans l’armée allemande, les consultations pour troubles psychiques liés aux missions ont fortement augmenté",
+      "link": "https://armees.com/bundeswehr-troubles-psychiques-missions-consultations-2025/",
+      "pubDate": "2026-11-16T23:00:00.000Z",
+      "description": "Les structures de soins de la Bundeswehr ont recensé 438 militaires concernés en 2025, contre 298 en 2024. Les chiffres rendus publics le 16 novembre soulignent aussi un délai de plusieurs années avant la prise en charge.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Sauvetage en mer : ce qu’un avion peut faire avant l’arrivée des secours",
+      "link": "https://armees.com/recherche-sauvetage-mer-avion-veille-relais-guam/",
+      "pubDate": "2026-11-16T21:40:02.000Z",
+      "description": "Repérer une embarcation, rester en vue et guider les secours : au large de Guam, un équipage français a tenu ce rôle pendant cinq heures en juillet 2023.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Trend Micro : le CERT-FR signale des failles dans Apex One et Vision One",
+      "link": "https://armees.com/trend-micro-apex-one-vision-one-cert-fr-16-novembre-2026/",
+      "pubDate": "2026-11-16T21:27:05.000Z",
+      "description": "Un avis du CERT-FR publié le 16 novembre recense plusieurs vulnérabilités dans les protections Trend Micro. Les administrateurs doivent vérifier les versions d’Apex One et de Vision One Endpoint Security et consulter les correctifs de l’éditeur.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "À La Rochelle, le France I raconte les longues relèves de la météo en Atlantique",
       "link": "https://armees.com/la-rochelle-france-i-station-meteo-romeo-releves-atlantique/",
@@ -154,34 +182,6 @@
       "link": "https://armees.com/allemagne-bundestag-infrastructures-bundeswehr-logement-militaires-12-novembre-2026/",
       "pubDate": "2026-11-16T08:34:16.000Z",
       "description": "Le Bundestag a adopté le 12 novembre un texte qui facilite les chantiers immobiliers de la Bundeswehr. Il prévoit aussi de mettre des logements à disposition de militaires qui ne sont pas tenus de vivre en caserne, pour un surcoût estimé jusqu’à 210 millions d’euros sur cinq ans.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Pax Silica : pourquoi neuf nations s’unissent contre la Chine",
-      "link": "https://armees.com/pax-silica-otan-technologique-defense-2026/",
-      "pubDate": "2026-11-16T08:09:00.000Z",
-      "description": "Neuf nations ont signé le 16 novembre 2026 la Déclaration de San Francisco, formalisant une alliance défensive inédite pour sécuriser les chaînes d'approvisionnement en technologies d'intelligence artificielle face à la Chine. Washington, Tokyo, Canberra, Londres, Séoul, Tel Aviv, New Delhi, Doha et Abu Dhabi rejoignent Pax Silica, programme américain couvrant semi-conducteurs, minéraux critiques et infrastructures énergétiques. Quatre autres signataires européens rallieront l'alliance la semaine prochaine.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Canaries : 1 488 migrants secourus en une journée par la marine",
-      "link": "https://armees.com/marine-espagnole-sauvetage-operationnel-canaries-2026/",
-      "pubDate": "2026-11-16T07:58:00.000Z",
-      "description": "Le 15 novembre 2026, la marine espagnole a secouru 1 488 migrants en une seule journée aux îles Canaries, établissant un record absolu. Depuis début novembre, plus de 9 000 personnes ont atteint l'archipel, saturant les capacités opérationnelles d'une flotte confrontée à une crise migratoire sans précédent sur la route atlantique ouest-africaine.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Starshield bridé : pourquoi un drone autonome ne remplace pas un intercepteur connecté",
-      "link": "https://armees.com/starshield-intercepteurs-connectes-drones-ukraine-novembre-2026/",
-      "pubDate": "2026-11-16T07:40:00.000Z",
-      "description": "Les nouvelles restrictions signalées sur Starshield compliqueraient l'interception de drones russes rapides à proximité du front ukrainien. Pourtant, des industriels assurent savoir accomplir certaines missions sans liaison satellitaire. Ces deux réalités ne se contredisent pas : elles concernent des usages militaires différents.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Au Koweït, un poste américain déplacé mais dépourvu de défense antidrones dédiée",
-      "link": "https://armees.com/koweit-poste-americain-defense-antidrones-shuaiba/",
-      "pubDate": "2026-11-16T07:30:00.000Z",
-      "description": "Le 1er mars 2026, un drone iranien a frappé un centre logistique américain installé au port de Shuaiba, tuant six réservistes. Huit mois plus tard, un officier blessé dénonce les choix de protection du site. Les témoignages éclairent une décision de déploiement prise malgré plusieurs alertes.",
       "sourceKey": "armees_com"
     },
     {
