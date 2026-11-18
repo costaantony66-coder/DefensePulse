@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T10:39:21.722Z",
+  "generatedAt": "2026-11-18T19:02:02.152Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,97 @@
     }
   ],
   "items": [
+    {
+      "title": "Grâce au BIC, l’armée de Terre entraîne ses artilleurs sans tirer un seul obus",
+      "link": "https://www.opex360.com/2026/11/18/grace-au-bic-larmee-de-terre-entraine-ses-artilleurs-sans-tirer-un-seul-obus/",
+      "pubDate": "2026-11-18T18:47:25.000Z",
+      "description": "Former et entraîner les servants d’un CAESAr [Camion équipé d’un système d’artillerie] sans tirer d’obus et à moindre coût : tel est l’intérêt du BIC [pour «Banc d’Instruction au Chargement] que KNDS France a récemment livré à l’École d’artillerie. Selon les explications données par l’armée de Terre, le BIC est un simulateur qui reproduit la...\nCet article Grâce au BIC, l’armée de Terre entraîne ses artilleurs sans tirer un seul obus est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Le coût des douze futurs avions PATMAR de la Marine nationale serait aussi élevé que celui du porte-avions France Libre",
+      "link": "https://www.opex360.com/2026/11/18/le-cout-des-douze-futurs-avions-patmar-de-la-marine-nationale-serait-aussi-eleve-que-celui-du-porte-avions-france-libre/",
+      "pubDate": "2026-11-18T17:37:47.000Z",
+      "description": "Selon un rapport récemment publié par la commission des Finances de l’Assemblée nationale, la Marine nationale anticipe une possible rupture temporaire de capacité pour sa composante «Patrouille maritime» [PATMAR], laquelle repose actuellement sur dix-huit avions Atlantique 2, récemment portés au Standard 6. En clair, il n’est pas impossible que ces appareils soient maintenus en service...\nCet article Le coût des douze futurs avions PATMAR de la Marine nationale serait aussi élevé que celui du porte-avions France Libre est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Java4Shell : l’ANSSI alerte sur une faille du décodeur Base64 d’OpenJDK",
+      "link": "https://armees.com/java4shell-anssi-faille-openjdk-base64-18-novembre-2026/",
+      "pubDate": "2026-11-18T16:46:31.000Z",
+      "description": "Une alerte du CERT-FR datée du 18 novembre 2026 décrit la vulnérabilité CVE-2026-114938, qui peut ouvrir la voie à une exécution de code à distance dans certaines configurations Java. Les administrateurs sont appelés à vérifier les versions, les processeurs et l’exposition de leurs applications.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Java4Shell : l’ANSSI alerte sur une faille Java touchant des services informatiques critiques",
+      "link": "https://armees.com/java4shell-cve-2026-114938-alerte-anssi-infrastructures-critiques-18-novembre-2026/",
+      "pubDate": "2026-11-18T15:44:50.000Z",
+      "description": "Le CERT-FR a publié le 18 novembre 2026 une alerte sur Java4Shell, vulnérabilité d’OpenJDK permettant, dans certaines configurations, une exécution de code à distance. Les exploitants d’infrastructures doivent vérifier leurs versions et appliquer les correctifs.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "MBDA Deutschland et Atmos Space Cargo veulent développer une capacité de «frappe orbitale de précision»",
+      "link": "https://www.opex360.com/2026/11/18/mbda-deutschland-et-atmos-space-cargo-veulent-developper-une-capacite-de-frappe-orbitale-de-precision/",
+      "pubDate": "2026-11-18T15:28:14.000Z",
+      "description": "Créée en 2021, Atmos Space Cargo est une entreprise allemande spécialisée dans la logistique spatiale et la conception de capsules réutilisables permettant de ramener sur Terre des charges utiles placées en orbite basse. Et elle va étendre ses activités au secteur de la défense. En effet, le 18 novembre, MBDA Deutschland a signé avec Atmos...\nCet article MBDA Deutschland et Atmos Space Cargo veulent développer une capacité de «frappe orbitale de précision» est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Golfe de Guinée : l’UE porte à 31 millions d’euros son aide aux marines côtières",
+      "link": "https://armees.com/union-europeenne-golfe-guinee-aide-marines-cotieres-31-millions-2026/",
+      "pubDate": "2026-11-18T15:20:11.000Z",
+      "description": "Le Conseil de l’Union européenne a décidé le 16 novembre 2026 d’augmenter de 10 millions d’euros une mesure d’assistance destinée aux acteurs de la sécurité maritime du golfe de Guinée. Le soutien doit renforcer la surveillance régionale et les capacités de patrouille de certaines marines côtières.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "STARLIFT : l’OTAN prépare des lancements rapides de satellites militaires sur fusées commerciales",
+      "link": "https://armees.com/otan-starlift-lancements-rapides-satellites-militaires-fusees-commerciales-2026/",
+      "pubDate": "2026-11-18T15:18:20.000Z",
+      "description": "L’OTAN a officialisé le 17 novembre 2026 l’initiative STARLIFT, destinée à garantir des créneaux sur des lanceurs commerciaux pour les satellites militaires. Dix pays alliés et la Corée du Sud se sont engagés dans son financement, tandis que la France figure dans la coopération spatiale plus large présentée par l’Alliance.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "B-Strike 1000 : ArianeGroup présente un missile naval de frappe à 1 000 km",
+      "link": "https://armees.com/b-strike-1000-missile-naval-arianegroup-euronaval-novembre-2026/",
+      "pubDate": "2026-11-18T13:41:38.000Z",
+      "description": "Présentée à Euronaval 2026, la déclinaison navale B-Strike 1000 vise la frappe en profondeur et antinavire. Une portée annoncée de 1 000 km, mais pas de mise en service confirmée.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Guerre en Iran : les attaques se concentrent autour du détroit d’Ormuz",
+      "link": "https://armees.com/ormuz-crise-iran-routes-petrole-2026/",
+      "pubDate": "2026-11-18T13:35:23.000Z",
+      "description": "Le 18 novembre 2026, l'Iran a riposté aux frappes américaines sur l'île de Qeshm en attaquant simultanément le Koweït et Bahreïn, concentrant ses opérations autour du détroit d'Ormuz. Cette escalade dans la guerre en Iran menace directement la sécurité des routes pétrolières mondiales, avec au moins quatre pétroliers attaqués en trois jours. Neuf mois après le début du conflit, l'affrontement se déplace vers un point d'étranglement stratégique par lequel transite 30 % du commerce pétrolier planétaire.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Une mise à jour perturbe le réseau classifié de la NSA et ralentit ses analystes",
+      "link": "https://armees.com/nsa-nsanet-panne-maintenance-analystes-17-novembre-2026/",
+      "pubDate": "2026-11-18T12:30:00.000Z",
+      "description": "Une intervention de maintenance a provoqué, le 17 novembre 2026, une panne du réseau NSANet, utilisé pour les échanges de renseignements classifiés au sein de l'agence américaine. Les responsables assurent que les missions prioritaires ont continué grâce à des systèmes de secours, malgré des perturbations au siège de Fort Meade.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Washington propose de vendre deux systèmes d’artillerie M142 HIMARS à l’Albanie pour 210 millions de dollars",
+      "link": "https://www.opex360.com/2026/11/18/washington-propose-de-vendre-deux-systemes-dartillerie-m142-himars-a-lalbanie-pour-210-millions-de-dollars/",
+      "pubDate": "2026-11-18T12:04:28.000Z",
+      "description": "La semaine passée, le Premier ministre albanais, Edi Rama, a indiqué que, contrairement à ce qui avait été annoncé, Tirana n’accueillerait pas le prochain sommet de l’Otan. A priori, cette décision serait liée au fait que l’Albanie ne consacre pas suffisamment de moyens à sa défense. Pourtant, selon les chiffres de l’Otan, les dépenses militaires...\nCet article Washington propose de vendre deux systèmes d’artillerie M142 HIMARS à l’Albanie pour 210 millions de dollars est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Ukraine : Londres promet plus de 1 000 missiles antiaériens et des radars pour l’hiver",
+      "link": "https://armees.com/ukraine-royaume-uni-1000-missiles-antiaeriens-radars-hiver-2026/",
+      "pubDate": "2026-11-18T11:19:39.000Z",
+      "description": "Le 17 novembre 2026, le Royaume-Uni a annoncé 240 millions de livres de soutien à la défense aérienne ukrainienne. Ce lot, comprenant plus de 1 000 missiles à courte portée et plus d’une douzaine de radars, doit commencer à être livré à la mi-décembre.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Missiles, défense antiaérienne, cloud : huit coopérations militaires retenues par l’Europe",
+      "link": "https://armees.com/agence-europeenne-defense-card-2026-huit-cooperations-missiles-cloud/",
+      "pubDate": "2026-11-18T11:14:55.000Z",
+      "description": "Les ministres de la Défense participant à l’Agence européenne de défense ont approuvé, le 17 novembre 2026, huit pistes de coopération, dont les missiles de croisière, l’alerte spatiale et un cloud militaire sécurisé. Ces orientations ne constituent pas encore huit programmes d’armement financés.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "KNDS : la Bulgarie commande 57 Caesar et double sa portée d’artillerie",
       "link": "https://armees.com/caesar-155mm-bulgarie-portee-contre-batterie-otan/",
@@ -73,74 +164,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "L’Ukraine attaque le pont entre la Russie et la Crimée annexée, Moscou annonce des dégâts mineurs",
-      "link": "https://armees.com/lukraine-attaque-le-pont-entre-la-russie-et-la-crimee-annexee-moscou-annonce-des-degats-mineurs/",
-      "pubDate": "2026-11-18T06:05:00.000Z",
-      "description": "Un pont stratégique visé, une circulation à l'arrêt, et des dégâts que Moscou préfère garder flous. Troisième attaque en quatre ans : que cache vraiment ce silence russe ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Menace iranienne : Washington étudie un risque radiologique et un scénario chimique",
-      "link": "https://armees.com/iran-menace-radiologique-chimique-forces-americaines-2026/",
-      "pubDate": "2026-11-18T06:00:00.000Z",
-      "description": "Des renseignements rapportés par CNN prêtent à l'Iran plusieurs scénarios de représailles, dont un attentat radiologique dans la capitale américaine et l'emploi possible d'armes chimiques contre des militaires au Moyen-Orient. Les autorités américaines disent surveiller ces risques, sans annoncer d'attaque imminente.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "« Inside Deutsche Bank » : les contorsions du géant bancaire pour financer les marchands d’armes",
       "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/inside-deutsche-bank-les-contorsions-du-geant-bancaire-pour-financer-les-marchands-d-armes_6813080_4355770.html",
       "pubDate": "2026-11-18T05:58:00.000Z",
       "description": "Chars à Gaza, blindés vendus au Qatar ou bombes larguées au Yémen. Une fuite de documents internes de la première banque allemande révèle comment elle multiplie les arrangements juridiques et éthiques pour continuer à financer les firmes de la défense, en contournant son propre département de contrôle des risques.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Les maisons Athos restent accessibles après avoir quitté l’armée",
-      "link": "https://armees.com/maisons-athos-anciens-militaires-admission-accompagnement/",
-      "pubDate": "2026-11-18T05:38:06.000Z",
-      "description": "Le dispositif Athos accompagne les militaires blessés psychiques, qu’ils soient encore en service ou radiés. L’entrée repose sur le volontariat et l’accord d’une commission, pour un parcours de reconstruction sociale et professionnelle.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La Finlande et l’Ukraine préparent une production commune d’équipements de défense",
-      "link": "https://armees.com/finlande-ukraine-memorandum-production-defense-novembre-2026/",
-      "pubDate": "2026-11-18T03:53:11.000Z",
-      "description": "Un mémorandum signé à Bruxelles le 17 novembre ouvre la voie à la fabrication de systèmes ukrainiens en Finlande. Les deux pays prévoient aussi des transferts de technologies et une coordination de leurs projets industriels.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : l’UE verse 1,71 milliard d’euros pour les drones et la défense aérienne",
-      "link": "https://armees.com/ukraine-ue-versement-171-milliard-defense-novembre-2026/",
-      "pubDate": "2026-11-18T03:51:19.000Z",
-      "description": "La Commission européenne a effectué un nouveau versement le 16 novembre. Environ 40 % de cette tranche doit financer des contrats auprès de fabricants établis dans l’Union européenne.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Optimizely : une faille d’inscription a permis de modifier les scripts de sites clients",
-      "link": "https://armees.com/optimizely-faille-inscription-scripts-clients-rapport-novembre-2026/",
-      "pubDate": "2026-11-18T03:43:48.000Z",
-      "description": "Le rapport initial du 17 novembre précise le mécanisme de l’attaque contre Web Experimentation. Les équipes de sécurité doivent encore mesurer l’exposition propre à leurs sites.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Tekever inaugure son usine de Cahors et prévoit quinze systèmes AR3 avant fin 2026",
-      "link": "https://armees.com/tekever-cahors-usine-quinze-systemes-ar3-2026/",
-      "pubDate": "2026-11-18T01:23:46.000Z",
-      "description": "Tekever a inauguré son site industriel du Lot le 13 novembre. Le fabricant y produit des drones AR3 et AR5, avec de premières livraisons AR3 prévues aux armées françaises avant la fin de l’année.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "AUKUS : l’Australie prépare les formations et l’accueil autour de Stirling",
-      "link": "https://armees.com/aukus-stirling-formations-logements-accueil-australie-2026/",
-      "pubDate": "2026-11-18T00:36:51.000Z",
-      "description": "Le plan présenté le 12 novembre associe formation industrielle et accueil des personnels à Stirling. Canberra prévoit 88 millions de dollars australiens supplémentaires sur six ans.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "IA de défense : le centre de Rennes avancera sans attendre l’accréditation de l’OTAN",
-      "link": "https://armees.com/ia-defense-rennes-icaid-accreditation-otan-novembre-2026/",
-      "pubDate": "2026-11-17T23:47:42.000Z",
-      "description": "La France précise le projet de centre international d’IA de défense à Rennes, annoncé le 12 novembre. Son ouverture est prévue pour l’été 2027, avec une coopération engagée avant une éventuelle accréditation de l’OTAN.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La France réaffirme son soutien au projet européen HYDIS², dédié à la défense contre les missiles hypersoniques",
@@ -213,25 +241,11 @@
       "sourceKey": "geo"
     },
     {
-      "title": "La Marine nationale retire ses six avions Falcon 10 MER après plus de cinquante ans de service",
-      "link": "https://www.opex360.com/2026/11/16/la-marine-nationale-retire-ses-six-avions-falcon-10-mer-apres-plus-de-cinquante-ans-de-service/",
-      "pubDate": "2026-11-16T15:06:28.000Z",
-      "description": "En 1975, Dassault Aviation livra six avions de soutien maritime Falcon 10 MER [numéros de série 32, 39, 101, 129, 133 et 143] à la Marine nationale. Quatre exemplaires furent mis en œuvre par la Section Réacteurs de la base aéronavale [BAN] de Landivisiau, les deux autres ayant été affectés à l’Escadrille 3S, alors implantée...\nCet article La Marine nationale retire ses six avions Falcon 10 MER après plus de cinquante ans de service est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
       "title": "Des militaires français opèrent désormais en Ukraine",
       "link": "https://www.lemonde.fr/international/article/2026/11/16/des-militaires-francais-operent-desormais-en-ukraine_6811865_3210.html",
       "pubDate": "2026-11-16T13:42:53.000Z",
       "description": "De petits contingents de militaires français assurent des rotations en Ukraine pour de la formation et de la réparation de matériel de guerre, a confirmé au « Monde » une source proche du dossier, à la suite des informations de RFI.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Pour la première fois, la Marine nationale a intercepté un semi-submersible utilisé pour le trafic de drogue",
-      "link": "https://www.opex360.com/2026/11/16/pour-la-premiere-fois-la-marine-nationale-a-intercepte-un-semi-submersible-utilise-pour-le-trafic-de-drogue/",
-      "pubDate": "2026-11-16T11:35:06.000Z",
-      "description": "Vers la fin des années 1980, face à l’intensification des contrôles visant les vedettes rapides qu’ils utilisaient jusqu’alors pour acheminer de la drogue en Amérique du Nord, les réseaux criminels sud-américains, notamment ceux établis en Colombie, eurent l’idée de construire des semi-submersibles pour transporter des cargaisons plus importantes avec le maximum de discrétion possible. En...\nCet article Pour la première fois, la Marine nationale a intercepté un semi-submersible utilisé pour le trafic de drogue est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Armes autonomes : « Confier la décision de tuer à des systèmes algorithmiques revient à franchir une ligne rouge morale »",
@@ -253,20 +267,6 @@
       "pubDate": "2026-11-15T18:13:34.000Z",
       "description": "Une première enveloppe viendra alimenter en 2027 les travaux portant sur le successeur du char Leclerc, cette capacité intermédiaire pour laquelle certains poussent encore une solution plus « franco-française ». À condition de démarrer à temps et, surtout, d'y allouer les finances nécessaires. \nThe post Char intermédiaire : des idées mais pas de temps ni d’argent à gaspiller  appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Le sous-marin nucléaire d’attaque américain USS South Dakota aurait failli s’échouer",
-      "link": "https://www.opex360.com/2026/11/15/le-sous-marin-nucleaire-dattaque-americain-uss-south-dakota-aurait-failli-sechouer/",
-      "pubDate": "2026-11-15T12:39:42.000Z",
-      "description": "Le 30 juin dernier, le capitaine de frégate Dan Goodwin a officiellement pris le commandement de l’USS South Dakota, un sous-marin nucléaire d’attaque [SNA] de type Virginia qui, lors de ses dernières missions, s’était illustré à plusieurs reprises, au point d’obtenir la distinction «Battle E» pour son efficacité au combat et le Hook’Em Award pour...\nCet article Le sous-marin nucléaire d’attaque américain USS South Dakota aurait failli s’échouer est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Le ministère des Armées est «mobilisé» sur les menaces liées à la présence de voitures chinoises dans les enceintes militaires",
-      "link": "https://www.opex360.com/2026/11/15/le-ministere-des-armees-est-mobilise-sur-les-menaces-liees-a-la-presence-de-voitures-chinoises-dans-les-enceintes-militaires/",
-      "pubDate": "2026-11-15T11:25:23.000Z",
-      "description": "Fixé par la Commission européenne dans le cadre du «pacte vert», l’objectif de mettre un terme à la commercialisation de véhicules dotés d’une motorisation thermique et hybride met les constructeurs automobiles du Vieux Continent en grande difficulté face à leurs concurrents chinois. Ainsi, malgré les barrières douanières et fiscales, ceux-ci ne cessent de gagner des...\nCet article Le ministère des Armées est «mobilisé» sur les menaces liées à la présence de voitures chinoises dans les enceintes militaires est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Avec le « Legend Tour » de Guillaume Pley, l’armée française s’offre une vitrine auprès de la jeunesse",
