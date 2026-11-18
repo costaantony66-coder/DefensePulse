@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T02:33:45.930Z",
+  "generatedAt": "2026-11-18T10:39:21.722Z",
   "sources": [
     {
       "key": "opex",
@@ -24,6 +24,104 @@
   ],
   "items": [
     {
+      "title": "KNDS : la Bulgarie commande 57 Caesar et double sa portée d’artillerie",
+      "link": "https://armees.com/caesar-155mm-bulgarie-portee-contre-batterie-otan/",
+      "pubDate": "2026-11-18T07:50:00.000Z",
+      "description": "La Bulgarie commande 57 canons Caesar à KNDS France pour remplacer son artillerie soviétique vieillissante. Avec une portée doublée (40 à 55 km contre 22 km maximum actuellement) et une cadence de tir tripled, le système transforme les capacités d'appui-feu bulgares et aligne Sofia sur les standards OTAN avant l'échéance 2030 du programme européen SAFE.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un C-130 Hercules à 60 millions de dollars mis hors service après une attaque à la hache",
+      "link": "https://armees.com/c130-hache-shannon-60-millions-2026/",
+      "pubDate": "2026-11-18T07:45:00.000Z",
+      "description": "Un avion militaire américain conçu pour se poser sur des pistes rudimentaires aurait trouvé plus fort que lui sur le tarmac d'un aéroport civil irlandais. Le 17 novembre 2026, la justice américaine a détaillé le sabotage présumé d'un C-130H survenu à Shannon sept mois plus tôt.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Formateurs français en Ukraine : pourquoi Moscou hausse le ton",
+      "link": "https://armees.com/formateurs-militaires-france-ukraine-operations-2026/",
+      "pubDate": "2026-11-18T07:23:51.000Z",
+      "description": "Le 17 novembre 2026, Sergueï Lavrov a accusé la France de participer directement à la guerre en Ukraine via le déploiement de formateurs militaires. Paris réfute cette qualification, affirmant que ces rotations, actives depuis 2022, visent uniquement la formation et la maintenance, sans engagement combattant.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "SpaceX récupère l’étage supérieur du Starship pour la première fois : les ingénieurs d’Elon Musk ont réussi ce que personne n’osait tenter",
+      "link": "https://armees.com/spacex-recupere-letage-superieur-du-starship-pour-la-premiere-fois-les-ingenieurs-delon-musk-ont-reussi-ce-que-personne-nosait-tenter/",
+      "pubDate": "2026-11-18T07:05:39.000Z",
+      "description": "21 minutes sans pouvoir intervenir, des millions de pièces mobiles, un seul faux mouvement possible. SpaceX vient pourtant de réussir l'impossible avec Starship. Comment ses équipes ont-elles tenu le choc jusqu'au bout ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Israël : la nouvelle majorité parlementaire relance la bataille sur l’enquête du 7 octobre",
+      "link": "https://armees.com/israel-knesset-enquete-7-octobre-eisenkot-18-novembre-2026/",
+      "pubDate": "2026-11-18T06:45:00.000Z",
+      "description": "L'élection de Matan Kahana à la présidence de la Knesset, le 17 novembre 2026, donne au camp de Gadi Eisenkot la maîtrise d'une partie de l'agenda parlementaire. Les familles de victimes réclament toutefois une commission d'enquête d'État, encore bloquée par des obstacles politiques et juridiques.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "De jour comme de nuit, les F-16 Fighting Falcon de la Force Aérienne Argentine continuent d’amasser des heures de vol",
+      "link": "https://armees.com/de-jour-comme-de-nuit-les-f-16-fighting-falcon-de-la-force-aerienne-argentine-continuent-damasser-des-heures-de-vol/",
+      "pubDate": "2026-11-18T06:35:36.000Z",
+      "description": "Douze F-16 argentins volent désormais sous les étoiles, et l'objectif final de 24 appareils se rapproche plus vite que prévu. Comment l'Argentine a-t-elle relancé sa capacité supersonique perdue en 2015 ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Aux Pays-Bas, les supermarchés d’urgence deviennent un enjeu de résilience nationale",
+      "link": "https://armees.com/pays-bas-supermarches-urgence-resilience-nationale-2026/",
+      "pubDate": "2026-11-18T06:30:00.000Z",
+      "description": "Les distributeurs néerlandais préparent des magasins capables de rester ouverts lors d’une panne électrique majeure ou d’une cyberattaque. Cette réflexion sur l’approvisionnement civil rejoint les exigences de résilience de l’OTAN, qui font de l’eau et de l’alimentation des ressources essentielles en temps de crise et de conflit.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’Ukraine attaque le pont entre la Russie et la Crimée annexée, Moscou annonce des dégâts mineurs",
+      "link": "https://armees.com/lukraine-attaque-le-pont-entre-la-russie-et-la-crimee-annexee-moscou-annonce-des-degats-mineurs/",
+      "pubDate": "2026-11-18T06:05:00.000Z",
+      "description": "Un pont stratégique visé, une circulation à l'arrêt, et des dégâts que Moscou préfère garder flous. Troisième attaque en quatre ans : que cache vraiment ce silence russe ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Menace iranienne : Washington étudie un risque radiologique et un scénario chimique",
+      "link": "https://armees.com/iran-menace-radiologique-chimique-forces-americaines-2026/",
+      "pubDate": "2026-11-18T06:00:00.000Z",
+      "description": "Des renseignements rapportés par CNN prêtent à l'Iran plusieurs scénarios de représailles, dont un attentat radiologique dans la capitale américaine et l'emploi possible d'armes chimiques contre des militaires au Moyen-Orient. Les autorités américaines disent surveiller ces risques, sans annoncer d'attaque imminente.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "« Inside Deutsche Bank » : les contorsions du géant bancaire pour financer les marchands d’armes",
+      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/inside-deutsche-bank-les-contorsions-du-geant-bancaire-pour-financer-les-marchands-d-armes_6813080_4355770.html",
+      "pubDate": "2026-11-18T05:58:00.000Z",
+      "description": "Chars à Gaza, blindés vendus au Qatar ou bombes larguées au Yémen. Une fuite de documents internes de la première banque allemande révèle comment elle multiplie les arrangements juridiques et éthiques pour continuer à financer les firmes de la défense, en contournant son propre département de contrôle des risques.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Les maisons Athos restent accessibles après avoir quitté l’armée",
+      "link": "https://armees.com/maisons-athos-anciens-militaires-admission-accompagnement/",
+      "pubDate": "2026-11-18T05:38:06.000Z",
+      "description": "Le dispositif Athos accompagne les militaires blessés psychiques, qu’ils soient encore en service ou radiés. L’entrée repose sur le volontariat et l’accord d’une commission, pour un parcours de reconstruction sociale et professionnelle.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La Finlande et l’Ukraine préparent une production commune d’équipements de défense",
+      "link": "https://armees.com/finlande-ukraine-memorandum-production-defense-novembre-2026/",
+      "pubDate": "2026-11-18T03:53:11.000Z",
+      "description": "Un mémorandum signé à Bruxelles le 17 novembre ouvre la voie à la fabrication de systèmes ukrainiens en Finlande. Les deux pays prévoient aussi des transferts de technologies et une coordination de leurs projets industriels.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : l’UE verse 1,71 milliard d’euros pour les drones et la défense aérienne",
+      "link": "https://armees.com/ukraine-ue-versement-171-milliard-defense-novembre-2026/",
+      "pubDate": "2026-11-18T03:51:19.000Z",
+      "description": "La Commission européenne a effectué un nouveau versement le 16 novembre. Environ 40 % de cette tranche doit financer des contrats auprès de fabricants établis dans l’Union européenne.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Optimizely : une faille d’inscription a permis de modifier les scripts de sites clients",
+      "link": "https://armees.com/optimizely-faille-inscription-scripts-clients-rapport-novembre-2026/",
+      "pubDate": "2026-11-18T03:43:48.000Z",
+      "description": "Le rapport initial du 17 novembre précise le mécanisme de l’attaque contre Web Experimentation. Les équipes de sécurité doivent encore mesurer l’exposition propre à leurs sites.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Tekever inaugure son usine de Cahors et prévoit quinze systèmes AR3 avant fin 2026",
       "link": "https://armees.com/tekever-cahors-usine-quinze-systemes-ar3-2026/",
       "pubDate": "2026-11-18T01:23:46.000Z",
@@ -45,41 +143,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Guerre électronique : comment MANDARIN et BLACK CROW entraînent le commandement aérien",
-      "link": "https://armees.com/guerre-electronique-mandarin-black-crow-commandement-aerien-2026/",
-      "pubDate": "2026-11-17T22:39:26.000Z",
-      "description": "À l’automne 2026, MANDARIN et BLACK CROW ont associé déploiement du commandement aérien et entraînement en environnement électromagnétique perturbé.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cybersécurité : Ipsos porte plainte après un incident sur un système interne",
-      "link": "https://armees.com/ipsos-incident-cybersecurite-plainte-novembre-2026/",
-      "pubDate": "2026-11-17T22:29:44.000Z",
-      "description": "Ipsos a signalé un incident informatique et une plainte déposée le 11 novembre. Le groupe affirme avoir maintenu ses opérations, tandis que les investigations doivent préciser les informations éventuellement touchées.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La Bulgarie soumet au Parlement un projet d’achat de 57 CAESAR",
-      "link": "https://armees.com/bulgarie-projet-achat-57-caesar-parlement-safe/",
-      "pubDate": "2026-11-17T19:54:04.000Z",
-      "description": "Le gouvernement bulgare propose au Parlement l’acquisition de 57 canons CAESAR avec leurs munitions et équipements. Le projet mobiliserait le dispositif européen SAFE, fondé sur des prêts aux États.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Défense européenne : huit pistes communes, du cloud militaire à l’alerte spatiale",
-      "link": "https://armees.com/defense-europeenne-card-2026-huit-cooperations-cloud-alerte-spatiale/",
-      "pubDate": "2026-11-17T19:50:47.000Z",
-      "description": "Les ministres européens de la Défense ont validé huit pistes de coopération le 17 novembre. Le rapport CARD 2026 insiste sur l’alerte spatiale, le cloud sécurisé et le transport stratégique, sans annoncer de contrats.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Intervention militaire : le vote des quatre mois ne se renouvelle pas automatiquement",
-      "link": "https://armees.com/intervention-militaire-article-35-vote-quatre-mois-prolongation-parlement/",
-      "pubDate": "2026-11-17T19:43:50.000Z",
-      "description": "Le gouvernement doit informer le Parlement rapidement après le début d’une intervention à l’étranger, puis obtenir son autorisation pour la prolonger au-delà de quatre mois. Une fois cet accord acquis, la Constitution n’impose pas un nouveau vote tous les quatre mois.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La France réaffirme son soutien au projet européen HYDIS², dédié à la défense contre les missiles hypersoniques",
       "link": "https://www.opex360.com/2026/11/17/la-france-reaffirme-son-soutien-au-projet-europeen-hydis%c2%b2-dedie-a-la-defense-contre-les-missiles-hypersoniques/",
       "pubDate": "2026-11-17T18:27:48.000Z",
@@ -87,25 +150,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "ICEYE veut réunir satellites et lanceurs avec une offre sur Avio",
-      "link": "https://armees.com/iceye-avio-offre-41-euros-satellites-lanceurs-17-novembre-2026/",
-      "pubDate": "2026-11-17T17:39:47.000Z",
-      "description": "Le fabricant finlandais de satellites a annoncé le 17 novembre une offre en numéraire à 41 euros par action Avio. Son projet associerait renseignement spatial, propulsion et lancements, avec un milliard d’euros d’investissements supplémentaires prévu en Italie après la réalisation de l’opération.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Un char Leopard 2 ukrainien a « survécu » à 45 impacts de drones FPV",
       "link": "https://www.opex360.com/2026/11/17/un-char-leopard-2-ukrainien-a-survecu-a-45-impacts-de-drones-fpv/",
       "pubDate": "2026-11-17T17:37:30.000Z",
       "description": "L’idée selon laquelle il ne suffirait que d’un seul drone FPV [First Person View, c’est-à-dire à pilotage immersif] pour détruire un char de combat s’est largement répandue avec la diffusion abondante de vidéos prises sur les champs de bataille en Ukraine. D’ailleurs, c’est ce qui motive la mise en œuvre de cages antidrones, de systèmes...\nCet article Un char Leopard 2 ukrainien a « survécu » à 45 impacts de drones FPV est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Cybersécurité : l’Assemblée adopte le projet de loi Résilience par 464 voix",
-      "link": "https://armees.com/cybersecurite-resilience-assemblee-464-voix-17-novembre-2026/",
-      "pubDate": "2026-11-17T17:33:18.000Z",
-      "description": "Les députés ont adopté le 17 novembre le projet de loi sur la résilience des infrastructures critiques et la cybersécurité. Le texte doit encore faire l’objet d’un accord entre les deux chambres avant son adoption définitive.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Deux bombardiers stratégiques russes Tu-95 sont arrivés au Vietnam… après avoir violé l’espace aérien japonais",
@@ -122,39 +171,11 @@
       "sourceKey": "geo"
     },
     {
-      "title": "Pollution en mer : comment une observation aérienne devient un constat",
-      "link": "https://armees.com/pollution-mer-observation-aerienne-polrep-proces-verbal/",
-      "pubDate": "2026-11-17T12:43:12.000Z",
-      "description": "Depuis un avion, une nappe peut livrer rapidement des indices sur l’étendue d’un déversement. Les observateurs apprennent à distinguer ce qui aide les équipes en mer de ce qui pourra étayer une procédure judiciaire.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Artillerie : La Bulgarie confirme son intention d’acquérir 57 CAESAr auprès de la France",
       "link": "https://www.opex360.com/2026/11/17/artillerie-la-bulgarie-confirme-son-intention-dacquerir-57-caesar-aupres-de-la-france/",
       "pubDate": "2026-11-17T11:53:20.000Z",
       "description": "En mars 2025, répondant à une question posée par un parlementaire, Atanas Zapryanov, alors ministre bulgare de la Défense, avait indiqué que Sofia envisageait de rejoindre le programme d’acquisition conjointe de CAESAr [Camions équipés d’un système d’artillerie] proposé par la France et éligible à un possible financement de l’initiative européenne EDIRPA [European Defence Industry Reinforcement...\nCet article Artillerie : La Bulgarie confirme son intention d’acquérir 57 CAESAr auprès de la France est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Pont de Crimée : Zelensky décrit une opération préparée pendant plusieurs semaines",
-      "link": "https://armees.com/pont-crimee-zelensky-operation-plusieurs-semaines-17-novembre-2026/",
-      "pubDate": "2026-11-17T11:40:00.000Z",
-      "description": "Le président ukrainien a détaillé le 17 novembre les armes et les étapes d’une opération visant le pont de Crimée. La Russie a également fait état d’une nouvelle attaque et d’une suspension du trafic, sans bilan technique indépendant complet des dégâts.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Défense hypersonique : la France confirme son soutien au projet européen HYDIS",
-      "link": "https://armees.com/hydis-france-soutien-defense-hypersonique-16-novembre-2026/",
-      "pubDate": "2026-11-17T10:52:00.000Z",
-      "description": "Le ministère des Armées a réaffirmé le soutien français au consortium coordonné par MBDA. Le projet vise à préparer un intercepteur contre les menaces hypersoniques et balistiques, avec des démonstrations technologiques au sol et en vol.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Sous-marins australiens : pourquoi l’AIEA suit le programme AUKUS",
-      "link": "https://armees.com/aukus-sous-marins-australie-role-aiea-garanties/",
-      "pubDate": "2026-11-17T09:43:31.000Z",
-      "description": "L’Australie prévoit des sous-marins à propulsion nucléaire dotés d’un armement conventionnel. Dès 2021, ce choix a ouvert un dossier de non-prolifération auprès de l’AIEA.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Dassault contre Airbus, une rivalité industrielle qui complique le réarmement de l’Europe",
@@ -164,25 +185,11 @@
       "sourceKey": "geo"
     },
     {
-      "title": "Deux avions présumés russes violent l’espace aérien japonais sur une route vers Taïwan",
-      "link": "https://armees.com/japon-avions-presumes-russes-espace-aerien-taiwan-17-novembre-2026/",
-      "pubDate": "2026-11-17T09:15:00.000Z",
-      "description": "Le 17 novembre 2026, deux appareils attribués provisoirement à la Russie sont entrés quelques minutes dans l'espace aérien japonais près d'Okinoshima. Tokyo a fait décoller ses chasseurs, avant de suivre leur progression vers le détroit de Tsushima puis le secteur de Taïwan. L'incident intervient dans une période de forte activité aérienne régionale.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Feu vert bulgare pour une commande de CAESAR",
       "link": "https://forcesoperations.com/feu-vert-bulgare-pour-une-commande-de-caesar/",
       "pubDate": "2026-11-17T09:05:08.000Z",
       "description": "Le gouvernement bulgare a donné hier son feu vert pour entamer les négociations en vue de l'acquisition d'une capacité centrée sur le CAESAR. Fruit d'un accord de gouvernement à gouvernement, l'investissement sera soutenu par l'Europe.  Le club CAESAR va encore s'agrandir. Après la Slovénie, la Croatie ou encore l'Arménie, la Bulgarie avance à son tour […]\nThe post Feu vert bulgare pour une commande de CAESAR appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Fusion nucléaire : pourquoi le Laser Mégajoule de la dissuasion figure dans la stratégie française",
-      "link": "https://armees.com/fusion-nucleaire-laser-megajoule-dissuasion-strategie-2026/",
-      "pubDate": "2026-11-17T08:20:00.000Z",
-      "description": "Le gouvernement a présenté le 16 novembre une stratégie nationale de fusion nucléaire reposant notamment sur le Laser Mégajoule du CEA Cesta, en Gironde. Cette installation est d'abord un outil de la dissuasion française. Sa présence dans la feuille de route énergétique met en lumière les connaissances acquises sur la fusion par laser, distincte de celle étudiée dans le grand réacteur ITER.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "L’armée de Terre va recevoir au moins cinq systèmes de drones tactiques Tekever AR5",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/economie/article/2026/10/27/l-entreprise-les-forges-de-tarbes-qui-fournit-des-corps-d-obus-pour-l-ukraine-placee-en-redressement-judiciaire_6800916_3234.html",
       "pubDate": "2026-10-27T00:39:28.000Z",
       "description": "Europlasma, le groupe propriétaire de l’unique usine française produisant des fûts d’obus de 155 mm, avait sollicité l’ouverture d’une telle procédure. L’arrivée d’un repreneur est espérée pour cette société, qui emploie actuellement une soixantaine de salariés.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "L’appel de cinq ministres européens de la défense : « Pour que l’espace euro-atlantique demeure sûr, nous devons davantage investir dans nos propres capacités et nos propres ressources »",
-      "link": "https://www.lemonde.fr/idees/article/2026/10/26/l-appel-de-cinq-ministres-europeens-de-la-defense-pour-que-l-espace-euro-atlantique-demeure-sur-nous-devons-davantage-investir-dans-nos-propres-capacites-et-nos-propres-ressources_6800805_3232.html",
-      "pubDate": "2026-10-26T16:00:03.000Z",
-      "description": "Dans une tribune au « Monde », les ministres allemand, britannique, français, italien et polonais de la défense, réunis le 26 octobre à Paris pour le sommet du groupe européen des Cinq (E5), affirment leur volonté d’œuvrer ensemble, au sein de l’OTAN, pour le renforcement de la sécurité du continent.",
       "sourceKey": "geo"
     }
   ]
