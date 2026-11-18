@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T20:30:07.405Z",
+  "generatedAt": "2026-11-18T02:33:45.930Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,41 @@
     }
   ],
   "items": [
+    {
+      "title": "Tekever inaugure son usine de Cahors et prévoit quinze systèmes AR3 avant fin 2026",
+      "link": "https://armees.com/tekever-cahors-usine-quinze-systemes-ar3-2026/",
+      "pubDate": "2026-11-18T01:23:46.000Z",
+      "description": "Tekever a inauguré son site industriel du Lot le 13 novembre. Le fabricant y produit des drones AR3 et AR5, avec de premières livraisons AR3 prévues aux armées françaises avant la fin de l’année.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "AUKUS : l’Australie prépare les formations et l’accueil autour de Stirling",
+      "link": "https://armees.com/aukus-stirling-formations-logements-accueil-australie-2026/",
+      "pubDate": "2026-11-18T00:36:51.000Z",
+      "description": "Le plan présenté le 12 novembre associe formation industrielle et accueil des personnels à Stirling. Canberra prévoit 88 millions de dollars australiens supplémentaires sur six ans.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "IA de défense : le centre de Rennes avancera sans attendre l’accréditation de l’OTAN",
+      "link": "https://armees.com/ia-defense-rennes-icaid-accreditation-otan-novembre-2026/",
+      "pubDate": "2026-11-17T23:47:42.000Z",
+      "description": "La France précise le projet de centre international d’IA de défense à Rennes, annoncé le 12 novembre. Son ouverture est prévue pour l’été 2027, avec une coopération engagée avant une éventuelle accréditation de l’OTAN.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Guerre électronique : comment MANDARIN et BLACK CROW entraînent le commandement aérien",
+      "link": "https://armees.com/guerre-electronique-mandarin-black-crow-commandement-aerien-2026/",
+      "pubDate": "2026-11-17T22:39:26.000Z",
+      "description": "À l’automne 2026, MANDARIN et BLACK CROW ont associé déploiement du commandement aérien et entraînement en environnement électromagnétique perturbé.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cybersécurité : Ipsos porte plainte après un incident sur un système interne",
+      "link": "https://armees.com/ipsos-incident-cybersecurite-plainte-novembre-2026/",
+      "pubDate": "2026-11-17T22:29:44.000Z",
+      "description": "Ipsos a signalé un incident informatique et une plainte déposée le 11 novembre. Le groupe affirme avoir maintenu ses opérations, tandis que les investigations doivent préciser les informations éventuellement touchées.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "La Bulgarie soumet au Parlement un projet d’achat de 57 CAESAR",
       "link": "https://armees.com/bulgarie-projet-achat-57-caesar-parlement-safe/",
@@ -147,41 +182,6 @@
       "link": "https://armees.com/fusion-nucleaire-laser-megajoule-dissuasion-strategie-2026/",
       "pubDate": "2026-11-17T08:20:00.000Z",
       "description": "Le gouvernement a présenté le 16 novembre une stratégie nationale de fusion nucléaire reposant notamment sur le Laser Mégajoule du CEA Cesta, en Gironde. Cette installation est d'abord un outil de la dissuasion française. Sa présence dans la feuille de route énergétique met en lumière les connaissances acquises sur la fusion par laser, distincte de celle étudiée dans le grand réacteur ITER.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Sauvetage en mer : qui reçoit l’alerte et qui envoie les secours ?",
-      "link": "https://armees.com/sauvetage-mer-cross-radio-marine-coordination/",
-      "pubDate": "2026-11-17T07:39:28.000Z",
-      "description": "Un appel sur la radio d’un voilier peut être entendu à terre et sur les bateaux voisins. En France, le CROSS coordonne les moyens civils et militaires engagés dans le sauvetage.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "USS Theodore Roosevelt : Washington triple sa présence navale face à Téhéran",
-      "link": "https://armees.com/porte-avions-golf-persique-strategie-dissuasion-2026/",
-      "pubDate": "2026-11-17T07:39:01.000Z",
-      "description": "L'arrivée du USS Theodore Roosevelt dans le Golfe persique le 15 novembre 2026 porte à trois le nombre de porte-avions américains déployés dans la région.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La Norvège prévient que la Russie pourrait tenter des sabotages en 2027, ciblant la défense et les infrastructures énergétiques",
-      "link": "https://armees.com/la-norvege-previent-que-la-russie-pourrait-tenter-des-sabotages-en-2027-ciblant-la-defense-et-les-infrastructures-energetiques/",
-      "pubDate": "2026-11-17T06:35:17.000Z",
-      "description": "Des sacs de sable aux frontières, une flotte à bout de nerfs : la Russie en guerre inquiète jusqu'en Afrique. Sabotages redoutés, recrutements douteux de jeunes Africaines... Le tableau dressé par les services de renseignement est glaçant.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cette équipe récupère des marins après les frappes de drones en mer Noire : ont-ils survécu ?",
-      "link": "https://armees.com/cette-equipe-recupere-des-marins-apres-les-frappes-de-drones-en-mer-noire-ont-ils-survecu/",
-      "pubDate": "2026-11-17T06:05:15.000Z",
-      "description": "Un cargo chavire en mer Noire après une possible attaque de drone, les 12 marins sauvés de justesse. Avec 38 morts depuis juin, cette route maritime est devenue la plus dangereuse au monde. Les détails de cette traque mortelle vous attendent.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Palantir : l’Europe bascule vers Arcadia et Clarity pour reprendre le contrôle",
-      "link": "https://armees.com/armees-europeennes-palantir-arcadia-clarity-2027/",
-      "pubDate": "2026-11-17T06:05:03.000Z",
-      "description": "La France, l'Allemagne et les Pays-Bas abandonnent progressivement Palantir pour développer des alternatives européennes comme Arcadia et Clarity d'ici 2027-2028.",
       "sourceKey": "armees_com"
     },
     {
