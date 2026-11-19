@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T01:15:02.309Z",
+  "generatedAt": "2026-11-19T08:50:49.560Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,97 @@
     }
   ],
   "items": [
+    {
+      "title": "Ormuz : les méthaniers reprennent la mer alors que les attaques contre les navires continuent",
+      "link": "https://armees.com/ormuz-methaniers-attaques-securite-maritime-novembre-2026/",
+      "pubDate": "2026-11-19T07:30:00.000Z",
+      "description": "En octobre, 31 méthaniers chargés ont franchi le détroit d’Ormuz, un record depuis le début du conflit en février. Les attaques contre la navigation commerciale se poursuivent pourtant. Les États-Unis ont engagé des opérations de sécurisation, tandis que Paris et Londres préparent leur propre mission multinationale.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Menaces NRBC : six pays européens envisagent des achats communs de drones et capteurs",
+      "link": "https://armees.com/six-pays-europeens-achats-communs-drones-capteurs-nrbc-aed-2026/",
+      "pubDate": "2026-11-19T07:25:09.000Z",
+      "description": "Six pays européens ont signé une déclaration pour examiner l’achat commun de systèmes de surveillance des risques chimiques, biologiques, radiologiques et nucléaires. L’Agence européenne de défense prépare cette nouvelle étape, sans commande encore confirmée.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Les photos de la reine Máxima des Pays-Bas en lieutenant-colonel, elle termine sa formation militaire avec l’appui d’Amalia",
+      "link": "https://armees.com/les-photos-de-la-reine-maxima-des-pays-bas-en-lieutenant-colonel-elle-termine-sa-formation-militaire-avec-lappui-damalia/",
+      "pubDate": "2026-11-19T07:05:38.000Z",
+      "description": "Première reine consort des Pays-Bas formée militairement, Máxima a dû faire vite : la limite d'âge pour devenir réserviste tombait à 55 ans. Elle vient tout juste de franchir le pas.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Patrouille maritime : le coût des futurs avions pourrait approcher 12 milliards d’euros",
+      "link": "https://armees.com/patmar-cout-douze-avions-12-milliards-novembre-2026/",
+      "pubDate": "2026-11-19T06:41:54.000Z",
+      "description": "Une nouvelle estimation évoque près de 12 milliards d’euros pour douze avions de patrouille maritime destinés à remplacer les Atlantique 2. Le programme PATMAR reste en négociation et aucun tel marché n’est signé.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Des navires russes vus au sud de la Sicile, transportant des chars, un avion italien décolle en réaction",
+      "link": "https://armees.com/des-navires-russes-vus-au-sud-de-la-sicile-transportant-des-chars-un-avion-italien-decolle-en-reaction/",
+      "pubDate": "2026-11-19T06:35:13.000Z",
+      "description": "Trois navires russes chargés de blindés, un détour suspect près des côtes italiennes, puis cap sur la Libye. Que transportent-ils vraiment, et pourquoi Rome s'inquiète-t-elle autant ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’USS George Washington quitte le Moyen-Orient et rejoint Yokosuka",
+      "link": "https://armees.com/uss-george-washington-redeploiement-flotte-asie-pacifique-2026/",
+      "pubDate": "2026-11-19T06:22:12.000Z",
+      "description": "L'USS George Washington a quitté le Golfe Persique les 18 et 19 novembre 2026 après trois mois d'opérations contre l'Iran, réduisant la présence navale américaine de trois à deux porte-avions.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ce moteur chinois passe de zéro à Mach 6 sans jamais changer de mode : les ingénieurs occidentaux peinent à comprendre comment c’est possible",
+      "link": "https://armees.com/ce-moteur-chinois-passe-de-zero-a-mach-6-sans-jamais-changer-de-mode-les-ingenieurs-occidentaux-peinent-a-comprendre-comment-cest-possible/",
+      "pubDate": "2026-11-19T06:05:11.000Z",
+      "description": "Trente ans de recherche, deux rotors qui tournent en sens inverse, et un moteur capable de filer à Mach 6 sans jamais s'arrêter. La Chine tient peut-être la clé pour reléguer l'Occident au second plan.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Corée du Nord : l’AIEA signale une nouvelle extension du site nucléaire de Yongbyon",
+      "link": "https://armees.com/aiea-yongbyon-extension-enrichissement-uranium-18-novembre-2026/",
+      "pubDate": "2026-11-19T04:44:33.000Z",
+      "description": "L’Agence internationale de l’énergie atomique signale, le 18 novembre 2026, une nouvelle extension visible à Yongbyon. Son diagnostic repose sur l’observation à distance : ses inspecteurs n’ont plus accès à la Corée du Nord depuis 2009.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine : Bruxelles propose 25 milliards d’euros supplémentaires pour l’aide militaire en 2027",
+      "link": "https://armees.com/ukraine-bruxelles-25-milliards-aide-militaire-2027/",
+      "pubDate": "2026-11-19T04:40:32.000Z",
+      "description": "La Commission européenne propose un nouvel emprunt pouvant atteindre 45 milliards d’euros pour soutenir l’Ukraine en 2027, dont 25 milliards destinés à la défense. Cette enveloppe s’ajouterait au prêt européen de 90 milliards déjà prévu pour 2026 et 2027, sous réserve de l’adoption des textes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Guerre en Ukraine : la présence de soldats français en Ukraine fait-elle de Paris un « cobelligérant » contre qui la Russie pourrait riposter ?",
+      "link": "https://www.lemonde.fr/international/article/2026/11/19/guerre-en-ukraine-la-presence-de-soldats-francais-en-ukraine-fait-elle-de-paris-un-cobelligerant-contre-qui-la-russie-pourrait-riposter_6813225_3210.html",
+      "pubDate": "2026-11-19T04:30:09.000Z",
+      "description": "Le gouvernement a reconnu avoir déployé des militaires sur le territoire ukrainien dans le cadre de missions de formation et de maintenance, ravivant le débat sur les risques de voir Moscou prendre la France pour cible ou sur la nécessité d’une consultation du Parlement.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Drones sous-marins : le projet MANGROVE de l’OTAN achève sa première phase",
+      "link": "https://armees.com/otan-mangrove-drones-sous-marins-reseau-phase-un-saab-2026/",
+      "pubDate": "2026-11-19T03:25:39.000Z",
+      "description": "Le consortium MANGROVE, piloté par Saab, a annoncé le 17 novembre avoir achevé la première phase d’un réseau destiné à faire communiquer les systèmes navals de différents alliés. L’étape livrée est une architecture commune, non un réseau opérationnel déployé ; des essais en environnement réel restent à organiser.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Câbles sous-marins : l’OTAN présente la surveillance par IA MAINSAIL à ses chefs militaires",
+      "link": "https://armees.com/otan-mainsail-ia-cables-sous-marins-comite-militaire-portsmouth-2026/",
+      "pubDate": "2026-11-19T03:21:51.000Z",
+      "description": "Réuni à Portsmouth du 16 au 18 novembre, le Comité militaire de l’OTAN a examiné les capacités maritimes de l’Alliance et la protection des infrastructures critiques. Parmi les outils présentés figure MAINSAIL, qui associe des données maritimes à l’intelligence artificielle pour aider à repérer les activités près des câbles et des pipelines.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pont de Kertch : Kiev revendique une seconde frappe et décrit une opération en plusieurs étapes",
+      "link": "https://armees.com/pont-kertch-seconde-frappe-17-novembre-2026-arche-route/",
+      "pubDate": "2026-11-19T01:45:44.000Z",
+      "description": "Après une attaque le 16 novembre, les forces ukrainiennes ont revendiqué une nouvelle frappe le 17 contre le pont reliant la Russie à la Crimée occupée. Kiev affirme qu'une partie routière s'est effondrée ; Moscou confirme des dégâts sans valider ce bilan.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Militaires français en Ukraine : Vautrin précise au Sénat leur mission de maintenance",
       "link": "https://armees.com/militaires-francais-ukraine-vautrin-senat-maintenance-18-novembre-2026/",
@@ -52,13 +143,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Surveillance spatiale : l’OTAN ouvre un marché de données avec 222 entreprises de 17 pays",
-      "link": "https://armees.com/otan-global-data-marketplace-espace-222-entreprises-17-pays-2026/",
-      "pubDate": "2026-11-18T19:12:18.000Z",
-      "description": "L’OTAN et l’US Space Force ont lancé le 17 novembre 2026 une plateforme d’achat de données et de services spatiaux commerciaux. Déjà ouverte à 222 entreprises issues de 17 pays alliés, elle doit alimenter les opérations de veille spatiale depuis Ramstein avant la fin de l’année.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Grâce au BIC, l’armée de Terre entraîne ses artilleurs sans tirer un seul obus",
       "link": "https://www.opex360.com/2026/11/18/grace-au-bic-larmee-de-terre-entraine-ses-artilleurs-sans-tirer-un-seul-obus/",
       "pubDate": "2026-11-18T18:47:25.000Z",
@@ -73,20 +157,6 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Java4Shell : l’ANSSI alerte sur une faille du décodeur Base64 d’OpenJDK",
-      "link": "https://armees.com/java4shell-anssi-faille-openjdk-base64-18-novembre-2026/",
-      "pubDate": "2026-11-18T16:46:31.000Z",
-      "description": "Une alerte du CERT-FR datée du 18 novembre 2026 décrit la vulnérabilité CVE-2026-114938, qui peut ouvrir la voie à une exécution de code à distance dans certaines configurations Java. Les administrateurs sont appelés à vérifier les versions, les processeurs et l’exposition de leurs applications.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Java4Shell : l’ANSSI alerte sur une faille Java touchant des services informatiques critiques",
-      "link": "https://armees.com/java4shell-cve-2026-114938-alerte-anssi-infrastructures-critiques-18-novembre-2026/",
-      "pubDate": "2026-11-18T15:44:50.000Z",
-      "description": "Le CERT-FR a publié le 18 novembre 2026 une alerte sur Java4Shell, vulnérabilité d’OpenJDK permettant, dans certaines configurations, une exécution de code à distance. Les exploitants d’infrastructures doivent vérifier leurs versions et appliquer les correctifs.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "MBDA Deutschland et Atmos Space Cargo veulent développer une capacité de «frappe orbitale de précision»",
       "link": "https://www.opex360.com/2026/11/18/mbda-deutschland-et-atmos-space-cargo-veulent-developper-une-capacite-de-frappe-orbitale-de-precision/",
       "pubDate": "2026-11-18T15:28:14.000Z",
@@ -94,74 +164,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Golfe de Guinée : l’UE porte à 31 millions d’euros son aide aux marines côtières",
-      "link": "https://armees.com/union-europeenne-golfe-guinee-aide-marines-cotieres-31-millions-2026/",
-      "pubDate": "2026-11-18T15:20:11.000Z",
-      "description": "Le Conseil de l’Union européenne a décidé le 16 novembre 2026 d’augmenter de 10 millions d’euros une mesure d’assistance destinée aux acteurs de la sécurité maritime du golfe de Guinée. Le soutien doit renforcer la surveillance régionale et les capacités de patrouille de certaines marines côtières.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "STARLIFT : l’OTAN prépare des lancements rapides de satellites militaires sur fusées commerciales",
-      "link": "https://armees.com/otan-starlift-lancements-rapides-satellites-militaires-fusees-commerciales-2026/",
-      "pubDate": "2026-11-18T15:18:20.000Z",
-      "description": "L’OTAN a officialisé le 17 novembre 2026 l’initiative STARLIFT, destinée à garantir des créneaux sur des lanceurs commerciaux pour les satellites militaires. Dix pays alliés et la Corée du Sud se sont engagés dans son financement, tandis que la France figure dans la coopération spatiale plus large présentée par l’Alliance.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "B-Strike 1000 : ArianeGroup présente un missile naval de frappe à 1 000 km",
-      "link": "https://armees.com/b-strike-1000-missile-naval-arianegroup-euronaval-novembre-2026/",
-      "pubDate": "2026-11-18T13:41:38.000Z",
-      "description": "Présentée à Euronaval 2026, la déclinaison navale B-Strike 1000 vise la frappe en profondeur et antinavire. Une portée annoncée de 1 000 km, mais pas de mise en service confirmée.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre en Iran : les attaques se concentrent autour du détroit d’Ormuz",
-      "link": "https://armees.com/ormuz-crise-iran-routes-petrole-2026/",
-      "pubDate": "2026-11-18T13:35:23.000Z",
-      "description": "Le 18 novembre 2026, l'Iran a riposté aux frappes américaines sur l'île de Qeshm en attaquant simultanément le Koweït et Bahreïn, concentrant ses opérations autour du détroit d'Ormuz. Cette escalade dans la guerre en Iran menace directement la sécurité des routes pétrolières mondiales, avec au moins quatre pétroliers attaqués en trois jours. Neuf mois après le début du conflit, l'affrontement se déplace vers un point d'étranglement stratégique par lequel transite 30 % du commerce pétrolier planétaire.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Une mise à jour perturbe le réseau classifié de la NSA et ralentit ses analystes",
-      "link": "https://armees.com/nsa-nsanet-panne-maintenance-analystes-17-novembre-2026/",
-      "pubDate": "2026-11-18T12:30:00.000Z",
-      "description": "Une intervention de maintenance a provoqué, le 17 novembre 2026, une panne du réseau NSANet, utilisé pour les échanges de renseignements classifiés au sein de l'agence américaine. Les responsables assurent que les missions prioritaires ont continué grâce à des systèmes de secours, malgré des perturbations au siège de Fort Meade.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Washington propose de vendre deux systèmes d’artillerie M142 HIMARS à l’Albanie pour 210 millions de dollars",
       "link": "https://www.opex360.com/2026/11/18/washington-propose-de-vendre-deux-systemes-dartillerie-m142-himars-a-lalbanie-pour-210-millions-de-dollars/",
       "pubDate": "2026-11-18T12:04:28.000Z",
       "description": "La semaine passée, le Premier ministre albanais, Edi Rama, a indiqué que, contrairement à ce qui avait été annoncé, Tirana n’accueillerait pas le prochain sommet de l’Otan. A priori, cette décision serait liée au fait que l’Albanie ne consacre pas suffisamment de moyens à sa défense. Pourtant, selon les chiffres de l’Otan, les dépenses militaires...\nCet article Washington propose de vendre deux systèmes d’artillerie M142 HIMARS à l’Albanie pour 210 millions de dollars est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Ukraine : Londres promet plus de 1 000 missiles antiaériens et des radars pour l’hiver",
-      "link": "https://armees.com/ukraine-royaume-uni-1000-missiles-antiaeriens-radars-hiver-2026/",
-      "pubDate": "2026-11-18T11:19:39.000Z",
-      "description": "Le 17 novembre 2026, le Royaume-Uni a annoncé 240 millions de livres de soutien à la défense aérienne ukrainienne. Ce lot, comprenant plus de 1 000 missiles à courte portée et plus d’une douzaine de radars, doit commencer à être livré à la mi-décembre.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Missiles, défense antiaérienne, cloud : huit coopérations militaires retenues par l’Europe",
-      "link": "https://armees.com/agence-europeenne-defense-card-2026-huit-cooperations-missiles-cloud/",
-      "pubDate": "2026-11-18T11:14:55.000Z",
-      "description": "Les ministres de la Défense participant à l’Agence européenne de défense ont approuvé, le 17 novembre 2026, huit pistes de coopération, dont les missiles de croisière, l’alerte spatiale et un cloud militaire sécurisé. Ces orientations ne constituent pas encore huit programmes d’armement financés.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "KNDS : la Bulgarie commande 57 Caesar et double sa portée d’artillerie",
-      "link": "https://armees.com/caesar-155mm-bulgarie-portee-contre-batterie-otan/",
-      "pubDate": "2026-11-18T07:50:00.000Z",
-      "description": "La Bulgarie commande 57 canons Caesar à KNDS France pour remplacer son artillerie soviétique vieillissante. Avec une portée doublée (40 à 55 km contre 22 km maximum actuellement) et une cadence de tir tripled, le système transforme les capacités d'appui-feu bulgares et aligne Sofia sur les standards OTAN avant l'échéance 2030 du programme européen SAFE.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un C-130 Hercules à 60 millions de dollars mis hors service après une attaque à la hache",
-      "link": "https://armees.com/c130-hache-shannon-60-millions-2026/",
-      "pubDate": "2026-11-18T07:45:00.000Z",
-      "description": "Un avion militaire américain conçu pour se poser sur des pistes rudimentaires aurait trouvé plus fort que lui sur le tarmac d'un aéroport civil irlandais. Le 17 novembre 2026, la justice américaine a détaillé le sabotage présumé d'un C-130H survenu à Shannon sept mois plus tôt.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "« Inside Deutsche Bank » : les contorsions du géant bancaire pour financer les marchands d’armes",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/disparitions/article/2026/10/29/le-general-christian-piquemal-qui-avait-signe-en-2021-une-tribune-controversee-de-militaires-est-mort_6802303_3382.html",
       "pubDate": "2026-10-29T09:39:10.000Z",
       "description": "Radié des cadres de l’armée en 2016 pour avoir participé à une manifestation interdite organisée par un groupuscule islamophobe allemand, l’ancien légionnaire s’est éteint le 23 octobre, à 85 ans.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "L’entreprise Les Forges de Tarbes, qui fournit des corps d’obus pour l’Ukraine, placée en redressement judiciaire",
-      "link": "https://www.lemonde.fr/economie/article/2026/10/27/l-entreprise-les-forges-de-tarbes-qui-fournit-des-corps-d-obus-pour-l-ukraine-placee-en-redressement-judiciaire_6800916_3234.html",
-      "pubDate": "2026-10-27T00:39:28.000Z",
-      "description": "Europlasma, le groupe propriétaire de l’unique usine française produisant des fûts d’obus de 155 mm, avait sollicité l’ouverture d’une telle procédure. L’arrivée d’un repreneur est espérée pour cette société, qui emploie actuellement une soixantaine de salariés.",
       "sourceKey": "geo"
     }
   ]
