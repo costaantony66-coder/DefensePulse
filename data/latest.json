@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T00:08:22.847Z",
+  "generatedAt": "2026-11-20T07:22:24.436Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Câbles sous-marins : l’UE finance une capacité de réparation d’urgence en Baltique",
+      "link": "https://armees.com/cables-sous-marins-merikarhu-ue-reparation-urgence-baltique-2026/",
+      "pubDate": "2026-11-20T05:46:32.000Z",
+      "description": "La Commission européenne accorde 9,55 millions d’euros au projet Merikarhu, porté par la Finlande avec la Suède et l’Estonie. Objectif : équiper rapidement un navire pour réparer les câbles de télécommunications et d’énergie lorsque les moyens commerciaux ne sont pas disponibles.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Failles PHP : quatre versions corrigées depuis le 19 novembre pour sécuriser les serveurs",
+      "link": "https://armees.com/correctifs-php-19-novembre-2026-cve-115560-0633/",
+      "pubDate": "2026-11-20T05:43:16.000Z",
+      "description": "PHP a publié le 19 novembre 2026 des correctifs pour ses quatre branches maintenues. Les administrateurs de serveurs doivent distinguer ces nouveaux correctifs des mises à jour d’octobre, notamment face à la faille CVE-2026-115560.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Gaza : l’armée israélienne mène une opération blindée de 24 heures",
+      "link": "https://armees.com/operation-chars-gaza-novembre-2026-tactique-blindee/",
+      "pubDate": "2026-11-20T05:17:56.000Z",
+      "description": "Entre le 18 et 19 novembre 2026, Tsahal a mené une rare incursion blindée au-delà de la ligne jaune en Gaza centrale, franchissant pour la première fois depuis octobre 2025 les limites du cessez-le-feu. Cette opération de 24 heures, justifiée par la destruction d'un tunnel du Hamas, révèle une doctrine tactique inédite : intervention rapide, retrait programmé, gestion des déplacements civils sous contrainte opérationnelle maximale.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cybersécurité : la France riposte avec l’IA contre des attaques 1000 fois plus rapides",
+      "link": "https://armees.com/defense-cyber-ia-arme-sabotage-guerre-froide/",
+      "pubDate": "2026-11-20T04:57:59.000Z",
+      "description": "Face à des cyberattaques qualifiées de « grave et inédites » par le Premier ministre Sébastien Lecornu, la France mobilise 200 millions d'euros pour développer des outils d'intelligence artificielle défensifs.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "STARLIFT : la Suède confirme le rôle du centre spatial d’Esrange dans le réseau de l’OTAN",
+      "link": "https://armees.com/otan-starlift-suede-centre-spatial-esrange-reseau-20-novembre-2026-0333/",
+      "pubDate": "2026-11-20T02:43:52.000Z",
+      "description": "Le gouvernement suédois a confirmé le 19 novembre que le centre spatial d’Esrange participera au réseau STARLIFT, destiné à préparer des lancements de satellites à court préavis. Une précision concrète sur l’infrastructure envisagée, sans lancement opérationnel annoncé.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Baltic Sentry : cinq semaines de surveillance pour un patrouilleur français en mer Baltique",
+      "link": "https://armees.com/baltic-sentry-patrouilleur-francais-smdm-20-novembre-2026-0133/",
+      "pubDate": "2026-11-20T00:40:01.000Z",
+      "description": "La Marine nationale a détaillé le 19 novembre la mission d’un patrouilleur engagé cinq semaines dans Baltic Sentry, avec des vols presque quotidiens de SMDM et des manœuvres avec la Suède.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "OTAN : les Alliés veulent coordonner les hôpitaux civils et militaires en cas de conflit",
       "link": "https://armees.com/otan-cooperation-sante-civile-militaire-defense-collective-19-novembre-2026/",
@@ -122,53 +164,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Cyberattaque contre la Commission européenne : les pirates accélèrent avec l’IA",
-      "link": "https://armees.com/cyberattaque-commission-europeenne-pirates-ia-artex-2026/",
-      "pubDate": "2026-11-19T13:00:00.000Z",
-      "description": "La Commission européenne a subi une cyberattaque qui a perturbé plusieurs de ses systèmes internes pendant plus de dix jours. Selon POLITICO, les assaillants ont eu recours à ARTEX, un outil d'intrusion assisté par intelligence artificielle. L'affaire montre comment des logiciels initialement conçus pour les audits de sécurité peuvent désormais servir à des campagnes offensives.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Après avoir capturé Maduro, les États-Unis signent un accord pour former l’armée vénézuélienne",
-      "link": "https://armees.com/accord-militaire-etats-unis-venezuela-hegseth-2026/",
-      "pubDate": "2026-11-19T12:50:00.000Z",
-      "description": "Dix mois après l’opération américaine contre Nicolás Maduro, Pete Hegseth a annoncé à Caracas la reprise de la coopération militaire avec le Venezuela. Entraînements communs, partage de renseignements et renforcement des équipements figurent parmi les domaines cités par les deux gouvernements.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le ministère des Armées a commandé 72 000 fusils d’assaut HK416F supplémentaires auprès d’Heckler & Koch",
       "link": "https://www.opex360.com/2026/11/19/le-ministere-des-armees-a-commande-72-000-fusils-dassaut-hk416f-supplementaires-aupres-dheckler-koch/",
       "pubDate": "2026-11-19T12:04:20.000Z",
       "description": "U En septembre 2016, après des polémiques sur les modalités de l’appel d’offres d’une valeur estimée à 350 millions d’euros qu’elle avait émis quelques mois plus tôt, la Direction générale de l’armement [DGA] annonça qu’elle venait de retenir le fusil d’assaut HK-416F de conception allemande afin de remplacer le célèbre FAMAS, dans le cadre du...\nCet article Le ministère des Armées a commandé 72 000 fusils d’assaut HK416F supplémentaires auprès d’Heckler & Koch est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Armes nucléaires : Trump, Xi et Poutine ouvrent un dialogue, sans remplacer New START",
-      "link": "https://armees.com/shenzhen-dialogue-nucleaire-trump-xi-poutine-apres-new-start-19-novembre-2026-1233/",
-      "pubDate": "2026-11-19T11:52:58.000Z",
-      "description": "À Shenzhen, le 19 novembre 2026, les États-Unis, la Chine et la Russie promettent de discuter des risques nucléaires. Depuis l’expiration de New START en février, aucun plafond vérifiable ne remplace le dernier grand traité stratégique russo-américain.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Service national obligatoire, Nathalie Loiseau détaille l’option militaire",
-      "link": "https://armees.com/service-national-obligatoire-volet-militaire-philippe-2026/",
-      "pubDate": "2026-11-19T10:45:46.000Z",
-      "description": "Sur BFMTV le 19 novembre 2026, Nathalie Loiseau présente le service national obligatoire proposé par Édouard Philippe. Plusieurs voies civiles seraient ouvertes, aux côtés d’un volet militaire que les jeunes pourraient choisir.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Une explosion nucléaire en orbite pourrait frapper les satellites utilisés par les armées",
-      "link": "https://armees.com/explosion-nucleaire-orbite-satellites-armees-menace-2026/",
-      "pubDate": "2026-11-19T10:45:00.000Z",
-      "description": "Une simulation scientifique américaine publiée le 6 novembre 2026 montre comment une détonation nucléaire en orbite basse pourrait rendre inutilisable une grande partie des satellites qui y circulent. La menace dépasse la destruction d'un appareil précis : elle toucherait simultanément des services civils et des moyens essentiels aux opérations militaires.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Quinze raffineries russes perturbées : les drones ukrainiens frappent la capacité de produire du carburant",
-      "link": "https://armees.com/quinze-raffineries-russes-perturbees-drones-ukrainiens-carburant-2026/",
-      "pubDate": "2026-11-19T09:45:00.000Z",
-      "description": "La campagne ukrainienne contre les installations pétrolières russes a pris une ampleur industrielle. Selon Reuters, 15 des 35 grandes raffineries du pays étaient arrêtées ou perturbées le 18 novembre 2026. En ciblant des équipements parfois longs à réparer, Kiev cherche à imposer des contraintes durables à l’économie et à la logistique russes.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Guerre en Ukraine : la présence de soldats français en Ukraine fait-elle de Paris un « cobelligérant » contre qui la Russie pourrait riposter ?",
