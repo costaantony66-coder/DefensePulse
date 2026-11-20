@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T16:20:11.253Z",
+  "generatedAt": "2026-11-20T22:47:37.337Z",
   "sources": [
     {
       "key": "opex",
@@ -24,6 +24,55 @@
   ],
   "items": [
     {
+      "title": "Financement européen de la défense : ce que les 23,9 milliards d’euros de STEP couvrent vraiment",
+      "link": "https://armees.com/defense-step-bilan-2025-239-milliards-financement-technologies-20-novembre-2026/",
+      "pubDate": "2026-11-20T20:12:04.000Z",
+      "description": "Dans son bilan publié le 19 novembre 2026, la Commission européenne recense 23,9 milliards d’euros de financements mobilisés par STEP à la fin de 2025. La défense a rejoint les secteurs éligibles, mais le total ne représente pas un budget militaire.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Taranis 26 : 400 militaires et 30 aéronefs mobilisés pour tester le transport aérien de combat",
+      "link": "https://armees.com/taranis-26-400-militaires-30-aeronefs-transport-haute-intensite/",
+      "pubDate": "2026-11-20T19:17:51.000Z",
+      "description": "Du 30 novembre au 10 décembre, l’armée de l’Air et de l’Espace doit entraîner ses équipages sur trois plateformes françaises. Évacuations sous menace de drones, cyberattaques simulées et réparations en conditions dégradées sont au programme.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Comme prévu, la Marine nationale a reçu son troisième avion de surveillance maritime «Albatros» en 2026",
+      "link": "https://www.opex360.com/2026/11/20/comme-prevu-la-marine-nationale-a-recu-son-troisieme-avion-de-surveillance-maritime-albatros-en-2026/",
+      "pubDate": "2026-11-20T18:34:50.000Z",
+      "description": "Comme prévu au moment de la notification du programme AVSIMAR [Avion de Surveillance et d’Intervention MARitime] à Dassault Aviation par la Direction générale de l’armement [DGA] l’Aéronautique navale peut désormais compter sur trois Falcon Albatros dès cette année, sur les sept qui avaient été commandés en 2020. En effet, après que les deux premiers exemplaires...\nCet article Comme prévu, la Marine nationale a reçu son troisième avion de surveillance maritime «Albatros» en 2026 est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Ariane 6 : 36 satellites Amazon Leo doivent décoller de Kourou le 23 novembre avec quatre propulseurs",
+      "link": "https://armees.com/ariane-6-va271-amazon-leo-kourou-23-novembre-2026-1833/",
+      "pubDate": "2026-11-20T17:49:45.000Z",
+      "description": "Le CNES annonce pour le 23 novembre 2026 la mission VA271 d’Ariane 6, qui doit emporter 36 satellites Amazon Leo. Le lanceur européen utilisera sa configuration lourde Ariane 64, à quatre propulseurs d’appoint, pour poursuivre la montée en cadence du programme spatial.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’Argentine envisage l’achat de trois corvettes FCX20 auprès de l’Italie",
+      "link": "https://www.opex360.com/2026/11/20/largentine-envisage-lachat-de-trois-corvettes-fcx20-aupres-de-litalie/",
+      "pubDate": "2026-11-20T17:44:10.000Z",
+      "description": "Pourtant urgent, l’achat de trois nouveaux sous-marins pour la marine argentine [Armada Argentina] n’a toujours pas été finalisé par Buenos Aires, qui, il y a deux ans, avait pourtant marqué sa préférence pour le Scorpène proposé par le français Naval Group. Seulement, l’épineuse question du financement n’a toujours pas été réglée, ce qui pourrait profiter...\nCet article L’Argentine envisage l’achat de trois corvettes FCX20 auprès de l’Italie est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "GitLab : le CERT-FR signale une faille permettant l’exécution de code à distance",
+      "link": "https://armees.com/gitlab-cert-fr-faille-execution-code-distance-cve-2026-132825/",
+      "pubDate": "2026-11-20T16:43:56.000Z",
+      "description": "Le 20 novembre 2026, le CERT-FR alerte sur une vulnérabilité de GitLab Community et Enterprise Edition, référencée CVE-2026-132825. Plusieurs branches du logiciel sont concernées et doivent être mises à jour selon les recommandations de l’éditeur.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’engin du génie de combat validé à Bruxelles",
+      "link": "https://forcesoperations.com/lengin-du-genie-de-combat-valide-a-bruxelles/",
+      "pubDate": "2026-11-20T16:24:24.000Z",
+      "description": "Comme pressenti, le gouvernement belge a donné ce vendredi son aval au projet de développement d'un engin du génie de combat (EGC) en collaboration avec la France. \nThe post L’engin du génie de combat validé à Bruxelles appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
       "title": "Ukraine : Pistorius s’excuse auprès du Pentagone, sans changer d’avis sur les frappes en Russie",
       "link": "https://armees.com/pistorius-colby-excuses-frappes-ukraine-russie-20-novembre-2026-1633/",
       "pubDate": "2026-11-20T16:00:49.000Z",
@@ -38,10 +87,10 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Le ministère des Armées porter la production française d’obus de 155 mm à 150 000 unités par an d’ici 2029",
+      "title": "Le ministère des Armées veut porter la production française d’obus de 155 mm à 150 000 unités par an d’ici 2029",
       "link": "https://www.opex360.com/2026/11/20/le-ministere-des-armees-porter-la-production-dobus-de-155-mm-a-150-000-exemplaires-par-an-dici-2029/",
       "pubDate": "2026-11-20T15:44:08.000Z",
-      "description": "Selon des chiffres du ministère des Armées, la production française d’obus d’artillerie de 155 mm s’élevait en moyenne à 500 unités par an entre 2012 et 2017. Puis, avec la perspective d’un engagement de «haute intensité» et, surtout, la guerre en Ukraine, les cadences se sont accélérées. Ainsi, dans leur rapport sur l’avenir de l’artillerie,...\nCet article Le ministère des Armées porter la production française d’obus de 155 mm à 150 000 unités par an d’ici 2029 est apparu en premier sur Zone Militaire.",
+      "description": "Selon des chiffres du ministère des Armées, la production française d’obus d’artillerie de 155 mm s’élevait en moyenne à 500 unités par an entre 2012 et 2017. Puis, avec la perspective d’un engagement de «haute intensité» et, surtout, la guerre en Ukraine, les cadences se sont accélérées. Ainsi, dans leur rapport sur l’avenir de l’artillerie,...\nCet article Le ministère des Armées veut porter la production française d’obus de 155 mm à 150 000 unités par an d’ici 2029 est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -122,39 +171,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Les drones ukrainiens obligent la Russie à étendre sa défense antiaérienne loin du front",
-      "link": "https://armees.com/drones-ukrainiens-defense-antiaerienne-raffineries-russie/",
-      "pubDate": "2026-11-20T08:06:30.000Z",
-      "description": "La campagne ukrainienne contre les installations pétrolières russes prend une nouvelle dimension. Quinze grandes raffineries ont été perturbées, selon Reuters. Avec des frappes capables d'atteindre des sites situés à 2 500 kilomètres de la frontière ukrainienne, Moscou doit défendre un territoire industriel immense contre des attaques répétées.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Des radars GM200 MM/A pour la Suisse",
       "link": "https://forcesoperations.com/des-radars-gm200-mm-a-pour-la-suisse/",
       "pubDate": "2026-11-20T07:51:02.000Z",
       "description": "Après la Belgique la semaine dernière et la Roumanie le mois dernier, au tour de la Suisse de se tourner vers Thales pour muscler ses moyens de surveillance de l'espace aérien. \nThe post Des radars GM200 MM/A pour la Suisse appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Koalicja 26.2 : Catherine Vautrin attendue en Pologne pour l’entraînement de la force Ukraine",
-      "link": "https://armees.com/koalicja-26-2-vautrin-pologne-force-ukraine-20-novembre-2026-0833/",
-      "pubDate": "2026-11-20T07:43:46.000Z",
-      "description": "La ministre des Armées doit assister ce vendredi 20 novembre à une journée de démonstrations de l’exercice Koalicja 26.2 en Pologne. Onze nations y préparent, sous direction franco-britannique, une force multinationale qui ne serait déployée en Ukraine qu’après l’arrêt des hostilités.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "OTAN : 2,7 milliards d’euros de besoins technologiques annoncés aux industriels",
-      "link": "https://armees.com/otan-ncia-27-milliards-besoins-technologiques-nato-edge-2026/",
-      "pubDate": "2026-11-20T07:23:57.000Z",
-      "description": "À NATO Edge 26, l’agence numérique de l’OTAN a présenté quelque 2,7 milliards d’euros de besoins prévisionnels sur deux ans, de la cyberdéfense aux communications satellitaires. Ces montants ne correspondent pas à des contrats déjà attribués.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’Argentine envisage trois corvettes italiennes, mais aussi des navires déjà en service",
-      "link": "https://armees.com/argentine-corvettes-fcx20-navires-italiens-2026/",
-      "pubDate": "2026-11-20T07:21:00.000Z",
-      "description": "La marine argentine pourrait engager une modernisation bien plus large que l'achat de trois corvettes FCX20. Les discussions ouvertes avec l'Italie portent également sur des patrouilleurs et des moyens amphibies, avec l'objectif de renouveler plusieurs capacités de sa flotte.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Utilisé par la Marine nationale, le Camcopter S100 peut aussi être configuré en «porte-drones»",
@@ -210,20 +231,6 @@
       "link": "https://www.opex360.com/2026/11/18/le-cout-des-douze-futurs-avions-patmar-de-la-marine-nationale-serait-aussi-eleve-que-celui-du-porte-avions-france-libre/",
       "pubDate": "2026-11-18T17:37:47.000Z",
       "description": "Selon un rapport récemment publié par la commission des Finances de l’Assemblée nationale, la Marine nationale anticipe une possible rupture temporaire de capacité pour sa composante «Patrouille maritime» [PATMAR], laquelle repose actuellement sur dix-huit avions Atlantique 2, récemment portés au Standard 6. En clair, il n’est pas impossible que ces appareils soient maintenus en service...\nCet article Le coût des douze futurs avions PATMAR de la Marine nationale serait aussi élevé que celui du porte-avions France Libre est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "MBDA Deutschland et Atmos Space Cargo veulent développer une capacité de «frappe orbitale de précision»",
-      "link": "https://www.opex360.com/2026/11/18/mbda-deutschland-et-atmos-space-cargo-veulent-developper-une-capacite-de-frappe-orbitale-de-precision/",
-      "pubDate": "2026-11-18T15:28:14.000Z",
-      "description": "Créée en 2021, Atmos Space Cargo est une entreprise allemande spécialisée dans la logistique spatiale et la conception de capsules réutilisables permettant de ramener sur Terre des charges utiles placées en orbite basse. Et elle va étendre ses activités au secteur de la défense. En effet, le 18 novembre, MBDA Deutschland a signé avec Atmos...\nCet article MBDA Deutschland et Atmos Space Cargo veulent développer une capacité de «frappe orbitale de précision» est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Washington propose de vendre deux systèmes d’artillerie M142 HIMARS à l’Albanie pour 210 millions de dollars",
-      "link": "https://www.opex360.com/2026/11/18/washington-propose-de-vendre-deux-systemes-dartillerie-m142-himars-a-lalbanie-pour-210-millions-de-dollars/",
-      "pubDate": "2026-11-18T12:04:28.000Z",
-      "description": "La semaine passée, le Premier ministre albanais, Edi Rama, a indiqué que, contrairement à ce qui avait été annoncé, Tirana n’accueillerait pas le prochain sommet de l’Otan. A priori, cette décision serait liée au fait que l’Albanie ne consacre pas suffisamment de moyens à sa défense. Pourtant, selon les chiffres de l’Otan, les dépenses militaires...\nCet article Washington propose de vendre deux systèmes d’artillerie M142 HIMARS à l’Albanie pour 210 millions de dollars est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -365,13 +372,6 @@
       "pubDate": "2026-11-05T14:29:47.000Z",
       "description": "A midi jeudi, douze vols avaient été visés par des alertes à la bombe, ont signalé plusieurs autorités et compagnies. Tous les vols se sont posés en sécurité, ont-elles confirmé.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Victoire en vue dans les munitions téléopérées de moyenne portée",
-      "link": "https://forcesoperations.com/victoire-en-vue-dans-les-munitions-teleoperees-de-moyenne-portee/",
-      "pubDate": "2026-11-04T14:11:37.000Z",
-      "description": "Après THUNDART, Safran aurait à nouveau fait mouche les armées françaises en matière d'appui-feu. Le groupe français l'emporte cette fois sur les munitions téléopérées de moyenne portée, murmure-t-on dans les allées du salon Euronaval.\nThe post Victoire en vue dans les munitions téléopérées de moyenne portée appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
     },
     {
       "title": "Renault poursuit son avancée dans les drones militaires",
