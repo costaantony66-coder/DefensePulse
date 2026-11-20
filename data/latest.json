@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T07:22:24.436Z",
+  "generatedAt": "2026-11-20T16:20:11.253Z",
   "sources": [
     {
       "key": "opex",
@@ -24,94 +24,143 @@
   ],
   "items": [
     {
-      "title": "Câbles sous-marins : l’UE finance une capacité de réparation d’urgence en Baltique",
-      "link": "https://armees.com/cables-sous-marins-merikarhu-ue-reparation-urgence-baltique-2026/",
-      "pubDate": "2026-11-20T05:46:32.000Z",
-      "description": "La Commission européenne accorde 9,55 millions d’euros au projet Merikarhu, porté par la Finlande avec la Suède et l’Estonie. Objectif : équiper rapidement un navire pour réparer les câbles de télécommunications et d’énergie lorsque les moyens commerciaux ne sont pas disponibles.",
+      "title": "Ukraine : Pistorius s’excuse auprès du Pentagone, sans changer d’avis sur les frappes en Russie",
+      "link": "https://armees.com/pistorius-colby-excuses-frappes-ukraine-russie-20-novembre-2026-1633/",
+      "pubDate": "2026-11-20T16:00:49.000Z",
+      "description": "Le ministre allemand de la Défense reconnaît avoir employé une formule déplacée à l’égard d’Elbridge Colby. Mais leur désaccord sur l’efficacité et la légitimité des frappes ukrainiennes en profondeur demeure.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Failles PHP : quatre versions corrigées depuis le 19 novembre pour sécuriser les serveurs",
-      "link": "https://armees.com/correctifs-php-19-novembre-2026-cve-115560-0633/",
-      "pubDate": "2026-11-20T05:43:16.000Z",
-      "description": "PHP a publié le 19 novembre 2026 des correctifs pour ses quatre branches maintenues. Les administrateurs de serveurs doivent distinguer ces nouveaux correctifs des mises à jour d’octobre, notamment face à la faille CVE-2026-115560.",
+      "title": "Cyberopérations : Londres confirme viser la Russie, la Chine, l’Iran et la Corée du Nord",
+      "link": "https://armees.com/royaume-uni-cyberoperations-offensives-quatre-etats-20-novembre-2026-1633/",
+      "pubDate": "2026-11-20T15:46:07.000Z",
+      "description": "Le général britannique Rob Magowan a confirmé le 20 novembre que la National Cyber Force mène des opérations offensives contre quatre États. Ses déclarations éclairent la stratégie de Londres, sans dévoiler les opérations classifiées.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Gaza : l’armée israélienne mène une opération blindée de 24 heures",
-      "link": "https://armees.com/operation-chars-gaza-novembre-2026-tactique-blindee/",
-      "pubDate": "2026-11-20T05:17:56.000Z",
-      "description": "Entre le 18 et 19 novembre 2026, Tsahal a mené une rare incursion blindée au-delà de la ligne jaune en Gaza centrale, franchissant pour la première fois depuis octobre 2025 les limites du cessez-le-feu. Cette opération de 24 heures, justifiée par la destruction d'un tunnel du Hamas, révèle une doctrine tactique inédite : intervention rapide, retrait programmé, gestion des déplacements civils sous contrainte opérationnelle maximale.",
+      "title": "Le ministère des Armées porter la production française d’obus de 155 mm à 150 000 unités par an d’ici 2029",
+      "link": "https://www.opex360.com/2026/11/20/le-ministere-des-armees-porter-la-production-dobus-de-155-mm-a-150-000-exemplaires-par-an-dici-2029/",
+      "pubDate": "2026-11-20T15:44:08.000Z",
+      "description": "Selon des chiffres du ministère des Armées, la production française d’obus d’artillerie de 155 mm s’élevait en moyenne à 500 unités par an entre 2012 et 2017. Puis, avec la perspective d’un engagement de «haute intensité» et, surtout, la guerre en Ukraine, les cadences se sont accélérées. Ainsi, dans leur rapport sur l’avenir de l’artillerie,...\nCet article Le ministère des Armées porter la production française d’obus de 155 mm à 150 000 unités par an d’ici 2029 est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "États-Unis : Sean Cairncross limogé après une série de pannes informatiques",
+      "link": "https://armees.com/etats-unis-cairncross-limogeage-cybersecurite-defense/",
+      "pubDate": "2026-11-20T13:51:59.000Z",
+      "description": "Sean Cairncross, directeur national de la cybersécurité de la Maison-Blanche, a été limogé le 19 novembre 2026 après une série de pannes informatiques majeures ayant paralysé 18 000 vols aériens et perturbé les systèmes critiques de la NSA. Kirsten Davies, directrice des systèmes d'information du Pentagone, assure l'intérim dans un contexte de transition politique complexe au Sénat américain.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Cybersécurité : la France riposte avec l’IA contre des attaques 1000 fois plus rapides",
-      "link": "https://armees.com/defense-cyber-ia-arme-sabotage-guerre-froide/",
-      "pubDate": "2026-11-20T04:57:59.000Z",
-      "description": "Face à des cyberattaques qualifiées de « grave et inédites » par le Premier ministre Sébastien Lecornu, la France mobilise 200 millions d'euros pour développer des outils d'intelligence artificielle défensifs.",
+      "title": "Trois engins russes entrent dans le ciel polonais : Varsovie identifie un missile Kh-101",
+      "link": "https://armees.com/missile-kh101-incursions-russes-pologne-defense-aerienne/",
+      "pubDate": "2026-11-20T12:45:00.000Z",
+      "description": "La Pologne affirme que trois engins venus de Russie ont violé son espace aérien dans la nuit du 19 au 20 novembre 2026. Alors que la défense aérienne était mobilisée face aux bombardements de l’Ukraine, la découverte d’un objet au sol a déclenché une enquête militaire et judiciaire.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "STARLIFT : la Suède confirme le rôle du centre spatial d’Esrange dans le réseau de l’OTAN",
-      "link": "https://armees.com/otan-starlift-suede-centre-spatial-esrange-reseau-20-novembre-2026-0333/",
-      "pubDate": "2026-11-20T02:43:52.000Z",
-      "description": "Le gouvernement suédois a confirmé le 19 novembre que le centre spatial d’Esrange participera au réseau STARLIFT, destiné à préparer des lancements de satellites à court préavis. Une précision concrète sur l’infrastructure envisagée, sans lancement opérationnel annoncé.",
+      "title": "Après les sabotages attribués à l’Iran, Londres protège les maillons fragiles de la chaîne du froid",
+      "link": "https://armees.com/sabotages-iran-londres-protection-chaine-du-froid/",
+      "pubDate": "2026-11-20T12:45:00.000Z",
+      "description": "Le Royaume-Uni a coordonné une opération pour sécuriser des contrôleurs frigorifiques utilisés dans la distribution et le stockage alimentaires. Cette intervention préventive intervient après des attaques en France, attribuées officiellement à une unité cyber des Gardiens de la révolution iraniens et responsables de dégâts matériels.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Baltic Sentry : cinq semaines de surveillance pour un patrouilleur français en mer Baltique",
-      "link": "https://armees.com/baltic-sentry-patrouilleur-francais-smdm-20-novembre-2026-0133/",
-      "pubDate": "2026-11-20T00:40:01.000Z",
-      "description": "La Marine nationale a détaillé le 19 novembre la mission d’un patrouilleur engagé cinq semaines dans Baltic Sentry, avec des vols presque quotidiens de SMDM et des manœuvres avec la Suède.",
+      "title": "Deux missiles et un drone d’attaque russes sont tombés en Pologne, près de la zone où se déroule l’exercice KOALICJA",
+      "link": "https://www.opex360.com/2026/11/20/deux-missiles-et-un-drone-dattaque-russes-sont-tombes-en-pologne-pres-de-la-zone-ou-se-deroule-lexercice-koalicja/",
+      "pubDate": "2026-11-20T12:04:17.000Z",
+      "description": "Depuis le 9 novembre, la Pologne accueille l’exercice KOALICJA 26.2, organisé par la force militaire de la Coalition des volontaires [MNF-U / Force multinationale-Ukraine], sous commandement franco-britannique. Mobilisant 2 800 militaires [dont 1 000 Français] issus de onze pays, il vise à préparer un éventuel déploiement en Ukraine quand les hostilités avec la Russie seront...\nCet article Deux missiles et un drone d’attaque russes sont tombés en Pologne, près de la zone où se déroule l’exercice KOALICJA est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "EUROGUARD : l’Europe finance à hauteur de 65 millions d’euros un prototype naval semi-autonome",
+      "link": "https://armees.com/euroguard-navire-semi-autonome-estonie-financement-europeen-2026/",
+      "pubDate": "2026-11-20T11:41:00.000Z",
+      "description": "Mis à l’eau en Estonie le 18 novembre, EUROGUARD est un navire expérimental de 45 mètres destiné à tester surveillance maritime, missions antimines et protection des infrastructures sous-marines. Les essais sont prévus en 2027.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "OTAN : les Alliés veulent coordonner les hôpitaux civils et militaires en cas de conflit",
-      "link": "https://armees.com/otan-cooperation-sante-civile-militaire-defense-collective-19-novembre-2026/",
-      "pubDate": "2026-11-19T23:18:46.000Z",
-      "description": "Réunis le 19 novembre à Bruxelles, les responsables sanitaires civils et militaires de l'OTAN ont examiné la préparation des soins à une crise majeure. Leur priorité : améliorer les dispositifs d'accueil des blessés, la coopération des pays hôtes et les exercices communs.",
+      "title": "Groenland : le Parlement danois approuve l’accord de défense avec les États-Unis",
+      "link": "https://armees.com/groenland-parlement-danois-accord-defense-etats-unis-19-novembre-2026/",
+      "pubDate": "2026-11-20T11:29:15.000Z",
+      "description": "Le Folketing a approuvé le 19 novembre 2026 l'accord de défense signé en septembre avec les États-Unis et le Groenland. Les deux parlements concernés ont désormais voté ; une notification officielle doit encore rendre le texte juridiquement contraignant.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Opération Gigawatt : l’ANSSI étend la protection des réseaux énergétiques contre les cyberattaques",
-      "link": "https://armees.com/operation-gigawatt-anssi-cybersecurite-operateurs-energie-novembre-2026/",
-      "pubDate": "2026-11-19T22:37:26.000Z",
-      "description": "Le gouvernement a annoncé le 19 novembre le lancement de l’opération Gigawatt pour renforcer la cybersécurité du secteur énergétique. L’ANSSI doit accompagner davantage les opérateurs de taille intermédiaire, tandis que l’État veut mieux sécuriser les équipements industriels connectés.",
+      "title": "Cybersécurité américaine : la responsable informatique du Pentagone appelée à la Maison-Blanche",
+      "link": "https://armees.com/cybersecurite-etats-unis-kirsten-davies-pentagone-maison-blanche-2026-1133/",
+      "pubDate": "2026-11-20T10:56:15.000Z",
+      "description": "Kirsten Davies, jusque-là directrice des systèmes d’information du département américain de la Défense, est appelée à assurer l’intérim de la coordination fédérale de la cybersécurité après le départ de Sean Cairncross annoncé le 19 novembre 2026. La décision intervient dans un contexte de pannes informatiques, sans preuve d’une attaque coordonnée.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Cybersécurité : le CERT-FR alerte sur des vulnérabilités Cisco, avec des correctifs encore attendus",
-      "link": "https://armees.com/cert-fr-cisco-vulnerabilites-openjdk-clamav-novembre-2026/",
-      "pubDate": "2026-11-19T22:12:00.000Z",
-      "description": "Dans un avis publié le 19 novembre, le CERT-FR signale plusieurs vulnérabilités affectant des produits Cisco, dont des risques d’exécution de code à distance et d’interruption de service. L’éditeur distingue des correctifs déjà disponibles pour Secure Endpoint de ceux qui restent à préciser sur d’autres solutions.",
+      "title": "Cargo échoué dans les Landes : l’armée de l’air mobilisée dans un secours franco-espagnol",
+      "link": "https://armees.com/cargo-miro-g-landes-sauvetage-helicoptere-cazaux-20-novembre-2026-1033/",
+      "pubDate": "2026-11-20T09:52:41.000Z",
+      "description": "Après l’échouement du cargo MIRO G à Lit-et-Mixe le 20 novembre 2026, un hélicoptère militaire stationné à Cazaux a participé à l’évacuation de l’équipage. Les autorités ont mobilisé le dispositif ORSEC maritime et la coopération franco-espagnole.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Excalibur : Rafale français et Gripen suédois s’entraînent à la dissuasion avancée",
-      "link": "https://armees.com/excalibur-france-suede-rafale-gripen-exercice-dissuasion-novembre-2026/",
-      "pubDate": "2026-11-19T20:19:45.000Z",
-      "description": "Du 16 au 18 novembre 2026, la France et la Suède ont mené dans le nord de la Suède leur premier exercice conjoint de coopération stratégique lié à la dissuasion avancée. Baptisée Excalibur, la manœuvre a associé Rafale, Gripen et ravitailleur A330 MRTT, sans emport d’armement nucléaire.",
+      "title": "Bénin : les armes anciennes du Quai-Branly au cœur d’une demande de restitution",
+      "link": "https://armees.com/armes-anciennes-benin-patrimoine-militaire-colonisation/",
+      "pubDate": "2026-11-20T09:08:09.000Z",
+      "description": "Le Bénin réclame 35 biens culturels au Quai-Branly, dont des armes anciennes saisies lors de la conquête coloniale française entre 1890 et 1900. Ces artefacts militaires, témoins des campagnes d'Afrique de l'Ouest, posent des défis techniques de conservation et testent la nouvelle loi-cadre française sur les restitutions adoptée en mai 2026.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Fusils HK416F : 72 000 armes supplémentaires commandées pour les forces françaises",
-      "link": "https://armees.com/hk416f-72000-fusils-supplementaires-commande-dga-novembre-2026/",
-      "pubDate": "2026-11-19T20:17:22.000Z",
-      "description": "La Direction générale de l’armement a notifié une commande de 72 000 HK416F supplémentaires à Heckler & Koch France, annoncée le 18 novembre 2026. Ce nouvel achat, accompagné de viseurs optiques et de silencieux, doit être livré sur dix ans et répond notamment à l’élargissement des besoins des armées et de leur réserve.",
+      "title": "Myrotvorets : la polémique sur un fichier ukrainien relance la question de ses liens avec les services de sécurité",
+      "link": "https://armees.com/myrotvorets-fichier-ukrainien-services-securite-italie/",
+      "pubDate": "2026-11-20T08:15:00.000Z",
+      "description": "Après l'inscription d'eurodéputés italiens dans une base nominative ukrainienne, Rome exige des explications. Les autorités de Kiev récusent le caractère officiel de Myrotvorets, tandis que son fonctionnement fait l'objet de critiques anciennes sur la diffusion de données personnelles.",
       "sourceKey": "armees_com"
     },
     {
-      "title": "Ukraine dans l’OTAN : Macron relance le débat après le sommet de Berlin",
-      "link": "https://armees.com/ukraine-otan-macron-sommet-berlin-19-novembre-2026-2033/",
-      "pubDate": "2026-11-19T19:46:52.000Z",
-      "description": "À l’issue de la réunion des alliés de l’Ukraine à Berlin, Emmanuel Macron propose de rouvrir la question de son entrée dans l’OTAN. L’initiative française relance un débat stratégique, sans décision d’adhésion à ce stade.",
+      "title": "OTAN–Moldavie : un nouveau cadre pour protéger les échanges d’informations classifiées",
+      "link": "https://armees.com/otan-moldavie-protection-echanges-informations-classifiees-novembre-2026/",
+      "pubDate": "2026-11-20T08:12:46.000Z",
+      "description": "L’OTAN et la Moldavie ont conclu le 19 novembre 2026 un arrangement sur la protection des informations classifiées échangées. Une étape dans leur coopération de sécurité, sans modification du statut de neutralité du pays.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Les drones ukrainiens obligent la Russie à étendre sa défense antiaérienne loin du front",
+      "link": "https://armees.com/drones-ukrainiens-defense-antiaerienne-raffineries-russie/",
+      "pubDate": "2026-11-20T08:06:30.000Z",
+      "description": "La campagne ukrainienne contre les installations pétrolières russes prend une nouvelle dimension. Quinze grandes raffineries ont été perturbées, selon Reuters. Avec des frappes capables d'atteindre des sites situés à 2 500 kilomètres de la frontière ukrainienne, Moscou doit défendre un territoire industriel immense contre des attaques répétées.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Des radars GM200 MM/A pour la Suisse",
+      "link": "https://forcesoperations.com/des-radars-gm200-mm-a-pour-la-suisse/",
+      "pubDate": "2026-11-20T07:51:02.000Z",
+      "description": "Après la Belgique la semaine dernière et la Roumanie le mois dernier, au tour de la Suisse de se tourner vers Thales pour muscler ses moyens de surveillance de l'espace aérien. \nThe post Des radars GM200 MM/A pour la Suisse appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "Koalicja 26.2 : Catherine Vautrin attendue en Pologne pour l’entraînement de la force Ukraine",
+      "link": "https://armees.com/koalicja-26-2-vautrin-pologne-force-ukraine-20-novembre-2026-0833/",
+      "pubDate": "2026-11-20T07:43:46.000Z",
+      "description": "La ministre des Armées doit assister ce vendredi 20 novembre à une journée de démonstrations de l’exercice Koalicja 26.2 en Pologne. Onze nations y préparent, sous direction franco-britannique, une force multinationale qui ne serait déployée en Ukraine qu’après l’arrêt des hostilités.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "OTAN : 2,7 milliards d’euros de besoins technologiques annoncés aux industriels",
+      "link": "https://armees.com/otan-ncia-27-milliards-besoins-technologiques-nato-edge-2026/",
+      "pubDate": "2026-11-20T07:23:57.000Z",
+      "description": "À NATO Edge 26, l’agence numérique de l’OTAN a présenté quelque 2,7 milliards d’euros de besoins prévisionnels sur deux ans, de la cyberdéfense aux communications satellitaires. Ces montants ne correspondent pas à des contrats déjà attribués.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’Argentine envisage trois corvettes italiennes, mais aussi des navires déjà en service",
+      "link": "https://armees.com/argentine-corvettes-fcx20-navires-italiens-2026/",
+      "pubDate": "2026-11-20T07:21:00.000Z",
+      "description": "La marine argentine pourrait engager une modernisation bien plus large que l'achat de trois corvettes FCX20. Les discussions ouvertes avec l'Italie portent également sur des patrouilleurs et des moyens amphibies, avec l'objectif de renouveler plusieurs capacités de sa flotte.",
       "sourceKey": "armees_com"
     },
     {
       "title": "Utilisé par la Marine nationale, le Camcopter S100 peut aussi être configuré en «porte-drones»",
       "link": "https://www.opex360.com/2026/11/19/utilise-par-la-marine-nationale-le-camcopter-s100-peut-aussi-etre-configure-en-porte-drones/",
       "pubDate": "2026-11-19T18:40:57.000Z",
-      "description": "En janvier, la Direction générale de l’armement [DGA] fit savoir qu’elle avait notifié la commande cinq systèmes de drones à décollage vertical Camcopter S-100 supplémentaires auprès de l’industriel autrichien Schiebel [via Naval Group] afin de les intégrer à bord des frégates multimissions [FREMM] de la Marine nationale. Et cela alors que ce type d’appareil, appelé...\nCet article Utilisé par la Marine nationale, le Camcopter S100 peut aussi être configuré en «porte-drones» est apparu en premier sur Zone Militaire.",
+      "description": "En janvier, la Direction générale de l’armement [DGA] fit savoir qu’elle avait notifié la commande de cinq systèmes de drones à décollage vertical Camcopter S-100 supplémentaires auprès de l’industriel autrichien Schiebel [via Naval Group] afin de les intégrer à bord des frégates multimissions [FREMM] de la Marine nationale. Et cela alors que ce type d’appareil,...\nCet article Utilisé par la Marine nationale, le Camcopter S100 peut aussi être configuré en «porte-drones» est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -122,32 +171,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "L’armée française commande 72 000 nouveaux fusils d’assaut à Heckler & Koch",
-      "link": "https://armees.com/dga-commande-72000-fusils-hk416f-heckler-koch-19-novembre-2026-1733/",
-      "pubDate": "2026-11-19T16:44:49.000Z",
-      "description": "La Direction générale de l’armement annonce une nouvelle commande de 72 000 fusils d’assaut auprès de Heckler & Koch France. Cette décision prolonge le renouvellement de l’armement individuel des forces françaises.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La France et la Suède ont mené leur premier exercice aérien de dissuasion nucléaire avancée",
       "link": "https://www.opex360.com/2026/11/19/la-france-et-la-suede-ont-mene-leur-premier-exercice-aerien-de-dissuasion-nucleaire-avancee/",
       "pubDate": "2026-11-19T16:16:14.000Z",
       "description": "Avec le Royaume-Uni, l’Allemagne, la Pologne, la Belgique, la Grèce, les Pays-Bas et le Danemark, la Suède a été l’un des premiers pays européens à adhérer au concept de «dissuasion avancée» que le président Macron a défini lors d’un discours prononcé à l’Île-Longue, le 2 mars. Pour rappel, il s’agit d’associer les partenaires européens qui...\nCet article La France et la Suède ont mené leur premier exercice aérien de dissuasion nucléaire avancée est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "F5 NGINX : l’ANSSI alerte sur deux failles critiques exposant les serveurs web",
-      "link": "https://armees.com/f5-nginx-anssi-failles-http2-cve-2026-123007-123633/",
-      "pubDate": "2026-11-19T16:09:00.000Z",
-      "description": "Le CERT-FR a publié le 18 novembre une alerte sur deux vulnérabilités critiques de NGINX, susceptibles de permettre une exécution de code à distance sans authentification lorsque HTTP/2 est activé. L’agence recommande d’appliquer les correctifs et, dans l’intervalle, de désactiver ce protocole sur les installations concernées.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Défense européenne : Michel Barnier veut un conseil ouvert à Londres et Kyiv",
-      "link": "https://armees.com/conseil-europeen-securite-defense-michel-barnier-ukraine/",
-      "pubDate": "2026-11-19T14:23:58.000Z",
-      "description": "Sur franceinfo le 19 novembre 2026, Michel Barnier propose un conseil européen de sécurité et de défense associant le Royaume-Uni, l’Ukraine et d’autres alliés.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "L’Europe valide le rapprochement entre Thales et Kongsberg",
@@ -157,17 +185,10 @@
       "sourceKey": "fob"
     },
     {
-      "title": "Cybersécurité : la DGE rappelle aux PME le recours aux prestataires ExpertCyber",
-      "link": "https://armees.com/cybersecurite-pme-dge-mon-expertcyber-prestataires-label-2026/",
-      "pubDate": "2026-11-19T14:03:00.000Z",
-      "description": "La Direction générale des Entreprises a détaillé le 18 novembre le service Mon ExpertCyber, destiné à orienter les petites structures vers des prestataires informatiques labellisés. L'initiative répond à des fragilités mesurées par une enquête de 2025, sans constituer un nouveau programme de subventions.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Le ministère des Armées a commandé 72 000 fusils d’assaut HK416F supplémentaires auprès d’Heckler & Koch",
       "link": "https://www.opex360.com/2026/11/19/le-ministere-des-armees-a-commande-72-000-fusils-dassaut-hk416f-supplementaires-aupres-dheckler-koch/",
       "pubDate": "2026-11-19T12:04:20.000Z",
-      "description": "U En septembre 2016, après des polémiques sur les modalités de l’appel d’offres d’une valeur estimée à 350 millions d’euros qu’elle avait émis quelques mois plus tôt, la Direction générale de l’armement [DGA] annonça qu’elle venait de retenir le fusil d’assaut HK-416F de conception allemande afin de remplacer le célèbre FAMAS, dans le cadre du...\nCet article Le ministère des Armées a commandé 72 000 fusils d’assaut HK416F supplémentaires auprès d’Heckler & Koch est apparu en premier sur Zone Militaire.",
+      "description": "En septembre 2016, après des polémiques sur les modalités de l’appel d’offres d’une valeur estimée à 350 millions d’euros qu’elle avait émis quelques mois plus tôt, la Direction générale de l’armement [DGA] annonça qu’elle venait de retenir le fusil d’assaut HK-416F de conception allemande afin de remplacer le célèbre FAMAS, dans le cadre du programme...\nCet article Le ministère des Armées a commandé 72 000 fusils d’assaut HK416F supplémentaires auprès d’Heckler & Koch est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -211,20 +232,6 @@
       "pubDate": "2026-11-18T05:58:00.000Z",
       "description": "Chars à Gaza, blindés vendus au Qatar ou bombes larguées au Yémen. Une fuite de documents internes de la première banque allemande révèle comment elle multiplie les arrangements juridiques et éthiques pour continuer à financer les firmes de la défense, en contournant son propre département de contrôle des risques.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "La France réaffirme son soutien au projet européen HYDIS², dédié à la défense contre les missiles hypersoniques",
-      "link": "https://www.opex360.com/2026/11/17/la-france-reaffirme-son-soutien-au-projet-europeen-hydis%c2%b2-dedie-a-la-defense-contre-les-missiles-hypersoniques/",
-      "pubDate": "2026-11-17T18:27:48.000Z",
-      "description": "En 2022, la Commission européenne fit un choix qui en surprit plus d’un en confiant à l’espagnol SENER Aeroespacial la direction du programme EU HYDEF [European Hypersonic Defence Interceptor], alors que les travaux préliminaires menées dans le cadre du projet TWISTER [Timely Warning and Interception with Space-based TheatER surveillance] avaient été réalisés sous l’égide de...\nCet article La France réaffirme son soutien au projet européen HYDIS², dédié à la défense contre les missiles hypersoniques est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Un char Leopard 2 ukrainien a « survécu » à 45 impacts de drones FPV",
-      "link": "https://www.opex360.com/2026/11/17/un-char-leopard-2-ukrainien-a-survecu-a-45-impacts-de-drones-fpv/",
-      "pubDate": "2026-11-17T17:37:30.000Z",
-      "description": "L’idée selon laquelle il ne suffirait que d’un seul drone FPV [First Person View, c’est-à-dire à pilotage immersif] pour détruire un char de combat s’est largement répandue avec la diffusion abondante de vidéos prises sur les champs de bataille en Ukraine. D’ailleurs, c’est ce qui motive la mise en œuvre de cages antidrones, de systèmes...\nCet article Un char Leopard 2 ukrainien a « survécu » à 45 impacts de drones FPV est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "En Pologne, auprès d’un exercice militaire inédit de la coalition des volontaires, dirigé par la France et le Royaume-Uni",
@@ -372,13 +379,6 @@
       "pubDate": "2026-11-03T16:45:07.000Z",
       "description": "Déjà engagé dans deux projets de drones aériens, le constructeur automobile s’associe au groupe de blindés belge John Cockerill pour produire un robot terrestre.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Un accord-cadre et de la visibilité pour le VL MICA de MBDA",
-      "link": "https://forcesoperations.com/un-accord-cadre-et-de-la-visibilite-pour-le-vl-mica-de-mbda/",
-      "pubDate": "2026-11-02T10:25:35.000Z",
-      "description": "Le système de défense sol-air VL MICA a désormais son accord-cadre. Valorisé à plusieurs milliards d’euros, ce dernier devient le vecteur par lequel la France et ses partenaires pourront se fournir auprès de MBDA.\nThe post Un accord-cadre et de la visibilité pour le VL MICA de MBDA appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
     },
     {
       "title": "Industrie navale militaire : l’Allemagne affiche ses nouvelles ambitions",
