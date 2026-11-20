@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T17:53:18.990Z",
+  "generatedAt": "2026-11-20T00:08:22.847Z",
   "sources": [
     {
       "key": "opex",
@@ -24,11 +24,67 @@
   ],
   "items": [
     {
+      "title": "OTAN : les Alliés veulent coordonner les hôpitaux civils et militaires en cas de conflit",
+      "link": "https://armees.com/otan-cooperation-sante-civile-militaire-defense-collective-19-novembre-2026/",
+      "pubDate": "2026-11-19T23:18:46.000Z",
+      "description": "Réunis le 19 novembre à Bruxelles, les responsables sanitaires civils et militaires de l'OTAN ont examiné la préparation des soins à une crise majeure. Leur priorité : améliorer les dispositifs d'accueil des blessés, la coopération des pays hôtes et les exercices communs.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Opération Gigawatt : l’ANSSI étend la protection des réseaux énergétiques contre les cyberattaques",
+      "link": "https://armees.com/operation-gigawatt-anssi-cybersecurite-operateurs-energie-novembre-2026/",
+      "pubDate": "2026-11-19T22:37:26.000Z",
+      "description": "Le gouvernement a annoncé le 19 novembre le lancement de l’opération Gigawatt pour renforcer la cybersécurité du secteur énergétique. L’ANSSI doit accompagner davantage les opérateurs de taille intermédiaire, tandis que l’État veut mieux sécuriser les équipements industriels connectés.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cybersécurité : le CERT-FR alerte sur des vulnérabilités Cisco, avec des correctifs encore attendus",
+      "link": "https://armees.com/cert-fr-cisco-vulnerabilites-openjdk-clamav-novembre-2026/",
+      "pubDate": "2026-11-19T22:12:00.000Z",
+      "description": "Dans un avis publié le 19 novembre, le CERT-FR signale plusieurs vulnérabilités affectant des produits Cisco, dont des risques d’exécution de code à distance et d’interruption de service. L’éditeur distingue des correctifs déjà disponibles pour Secure Endpoint de ceux qui restent à préciser sur d’autres solutions.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Excalibur : Rafale français et Gripen suédois s’entraînent à la dissuasion avancée",
+      "link": "https://armees.com/excalibur-france-suede-rafale-gripen-exercice-dissuasion-novembre-2026/",
+      "pubDate": "2026-11-19T20:19:45.000Z",
+      "description": "Du 16 au 18 novembre 2026, la France et la Suède ont mené dans le nord de la Suède leur premier exercice conjoint de coopération stratégique lié à la dissuasion avancée. Baptisée Excalibur, la manœuvre a associé Rafale, Gripen et ravitailleur A330 MRTT, sans emport d’armement nucléaire.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Fusils HK416F : 72 000 armes supplémentaires commandées pour les forces françaises",
+      "link": "https://armees.com/hk416f-72000-fusils-supplementaires-commande-dga-novembre-2026/",
+      "pubDate": "2026-11-19T20:17:22.000Z",
+      "description": "La Direction générale de l’armement a notifié une commande de 72 000 HK416F supplémentaires à Heckler & Koch France, annoncée le 18 novembre 2026. Ce nouvel achat, accompagné de viseurs optiques et de silencieux, doit être livré sur dix ans et répond notamment à l’élargissement des besoins des armées et de leur réserve.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ukraine dans l’OTAN : Macron relance le débat après le sommet de Berlin",
+      "link": "https://armees.com/ukraine-otan-macron-sommet-berlin-19-novembre-2026-2033/",
+      "pubDate": "2026-11-19T19:46:52.000Z",
+      "description": "À l’issue de la réunion des alliés de l’Ukraine à Berlin, Emmanuel Macron propose de rouvrir la question de son entrée dans l’OTAN. L’initiative française relance un débat stratégique, sans décision d’adhésion à ce stade.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Utilisé par la Marine nationale, le Camcopter S100 peut aussi être configuré en «porte-drones»",
+      "link": "https://www.opex360.com/2026/11/19/utilise-par-la-marine-nationale-le-camcopter-s100-peut-aussi-etre-configure-en-porte-drones/",
+      "pubDate": "2026-11-19T18:40:57.000Z",
+      "description": "En janvier, la Direction générale de l’armement [DGA] fit savoir qu’elle avait notifié la commande cinq systèmes de drones à décollage vertical Camcopter S-100 supplémentaires auprès de l’industriel autrichien Schiebel [via Naval Group] afin de les intégrer à bord des frégates multimissions [FREMM] de la Marine nationale. Et cela alors que ce type d’appareil, appelé...\nCet article Utilisé par la Marine nationale, le Camcopter S100 peut aussi être configuré en «porte-drones» est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
       "title": "La Malaisie envisage de commander 36 canons LG1 de 105 mm supplémentaires à KNDS France",
       "link": "https://www.opex360.com/2026/11/19/la-malaisie-envisage-de-commander-36-canons-lg1-de-105-mm-supplementaires-a-knds-france/",
       "pubDate": "2026-11-19T17:34:27.000Z",
-      "description": "À l’occasion d’une visite officielle du président Macron à Kuala Lumpur, le 17 novembre, la France et la Malaisie ont affirmé leur volonté de renforcer leur coopération dans le domaine de la défense, avec la signature prochaine d’un accord sur le statut des forces [SOFA], lequel facilitera, entre autres la tenue d’exercices conjoints. Il est...\nCet article La Malaisie envisage de commander 36 canons LG1 de 105 mm supplémentaires à KNDS France est apparu en premier sur Zone Militaire.",
+      "description": "À l’occasion d’une visite officielle du président Macron à Kuala Lumpur, le 17 novembre, la France et la Malaisie ont affirmé leur volonté de renforcer leur coopération dans le domaine de la défense, avec la signature prochaine d’un accord sur le statut des forces [SOFA], lequel facilitera, entre autres, la tenue d’exercices conjoints. Il est...\nCet article La Malaisie envisage de commander 36 canons LG1 de 105 mm supplémentaires à KNDS France est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "L’armée française commande 72 000 nouveaux fusils d’assaut à Heckler & Koch",
+      "link": "https://armees.com/dga-commande-72000-fusils-hk416f-heckler-koch-19-novembre-2026-1733/",
+      "pubDate": "2026-11-19T16:44:49.000Z",
+      "description": "La Direction générale de l’armement annonce une nouvelle commande de 72 000 fusils d’assaut auprès de Heckler & Koch France. Cette décision prolonge le renouvellement de l’armement individuel des forces françaises.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "La France et la Suède ont mené leur premier exercice aérien de dissuasion nucléaire avancée",
@@ -36,6 +92,13 @@
       "pubDate": "2026-11-19T16:16:14.000Z",
       "description": "Avec le Royaume-Uni, l’Allemagne, la Pologne, la Belgique, la Grèce, les Pays-Bas et le Danemark, la Suède a été l’un des premiers pays européens à adhérer au concept de «dissuasion avancée» que le président Macron a défini lors d’un discours prononcé à l’Île-Longue, le 2 mars. Pour rappel, il s’agit d’associer les partenaires européens qui...\nCet article La France et la Suède ont mené leur premier exercice aérien de dissuasion nucléaire avancée est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "F5 NGINX : l’ANSSI alerte sur deux failles critiques exposant les serveurs web",
+      "link": "https://armees.com/f5-nginx-anssi-failles-http2-cve-2026-123007-123633/",
+      "pubDate": "2026-11-19T16:09:00.000Z",
+      "description": "Le CERT-FR a publié le 18 novembre une alerte sur deux vulnérabilités critiques de NGINX, susceptibles de permettre une exécution de code à distance sans authentification lorsque HTTP/2 est activé. L’agence recommande d’appliquer les correctifs et, dans l’intervalle, de désactiver ce protocole sur les installations concernées.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Défense européenne : Michel Barnier veut un conseil ouvert à Londres et Kyiv",
@@ -108,62 +171,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Contingent Volia en Ukraine : la France face au spectre de la cobelligérance",
-      "link": "https://armees.com/ukraine-contingent-volia-france-moscou-cobelligerance/",
-      "pubDate": "2026-11-19T09:33:00.000Z",
-      "description": "La révélation du déploiement du contingent militaire français « Volia » en Ukraine, composé de quelques dizaines de formateurs, ravive le débat sur la cobelligérance. Moscou accuse Paris de participation directe au conflit, tandis que les autorités françaises maintiennent qu'il s'agit d'un simple soutien logistique sans intentionnalité combattante.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Bases militaires : la sortie des mousses anti-incendie aux PFAS s’étalera sur plusieurs années",
-      "link": "https://armees.com/pfas-mousses-anti-incendie-bases-militaires-2026/",
-      "pubDate": "2026-11-19T09:30:00.000Z",
-      "description": "Les PFAS utilisés dans les mousses d’extinction font l’objet d’une restriction européenne, mais leur retrait est progressif. La Cour des comptes européenne rappelle que les bases militaires figurent parmi les sources possibles de contamination des eaux et des sols, tandis que les usages liés à la sécurité exigent des solutions de remplacement fiables.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "À Shenzhen, Vladimir Poutine expose la mallette nucléaire russe Cheget",
-      "link": "https://armees.com/mallette-nucleaire-cheget-strategie-russe-2026/",
-      "pubDate": "2026-11-19T09:15:43.000Z",
-      "description": "Le 19 novembre 2026, Vladimir Poutine expose délibérément la mallette nucléaire Cheget lors du sommet trilatéral de Shenzhen avec Donald Trump et Xi Jinping. Cette démonstration militaire inédite, filmée par les médias russes, marque une rupture avec les pratiques diplomatiques des autres puissances nucléaires et signale la volonté du Kremlin de négocier l'Ukraine en position de force.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : des Gripen armés de missiles Meteor attendus dès janvier 2027",
-      "link": "https://armees.com/gripen-meteor-doctrine-aerienne-ukraine-asymetrie/",
-      "pubDate": "2026-11-19T09:00:37.000Z",
-      "description": "À partir de janvier 2027, l'Ukraine déploiera 16 chasseurs Gripen armés du missile air-air Meteor, créant une asymétrie tactique majeure contre l'aviation de bombardement russe. La lettre d'intention signée hier à Bruxelles par les ministres de la Défense ukrainien, suédois et britannique synchronise la livraison des appareils et munitions. L'enjeu : transformer la doctrine aérienne ukrainienne pour contrer les bombardiers russes larguant des bombes planantes depuis l'espace aérien russe.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cybersécurité : l’ANSSI ouvre des subventions de 30 000 à 100 000 euros aux PME",
-      "link": "https://armees.com/anssi-subventions-pme-cybersecurite-ncc-fr-novembre-2026/",
-      "pubDate": "2026-11-19T08:46:11.000Z",
-      "description": "Le centre de coordination cyber français, incarné par l’ANSSI, lance un appel à projets pour les PME et les jeunes entreprises immatriculées en France. Les financements visent notamment la cryptographie post-quantique, la sécurité des logiciels et la montée en qualité de l’offre de cybersécurité.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ormuz : les méthaniers reprennent la mer alors que les attaques contre les navires continuent",
-      "link": "https://armees.com/ormuz-methaniers-attaques-securite-maritime-novembre-2026/",
-      "pubDate": "2026-11-19T07:30:00.000Z",
-      "description": "En octobre, 31 méthaniers chargés ont franchi le détroit d’Ormuz, un record depuis le début du conflit en février. Les attaques contre la navigation commerciale se poursuivent pourtant. Les États-Unis ont engagé des opérations de sécurisation, tandis que Paris et Londres préparent leur propre mission multinationale.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Menaces NRBC : six pays européens envisagent des achats communs de drones et capteurs",
-      "link": "https://armees.com/six-pays-europeens-achats-communs-drones-capteurs-nrbc-aed-2026/",
-      "pubDate": "2026-11-19T07:25:09.000Z",
-      "description": "Six pays européens ont signé une déclaration pour examiner l’achat commun de systèmes de surveillance des risques chimiques, biologiques, radiologiques et nucléaires. L’Agence européenne de défense prépare cette nouvelle étape, sans commande encore confirmée.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Les photos de la reine Máxima des Pays-Bas en lieutenant-colonel, elle termine sa formation militaire avec l’appui d’Amalia",
-      "link": "https://armees.com/les-photos-de-la-reine-maxima-des-pays-bas-en-lieutenant-colonel-elle-termine-sa-formation-militaire-avec-lappui-damalia/",
-      "pubDate": "2026-11-19T07:05:38.000Z",
-      "description": "Première reine consort des Pays-Bas formée militairement, Máxima a dû faire vite : la limite d'âge pour devenir réserviste tombait à 55 ans. Elle vient tout juste de franchir le pas.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Guerre en Ukraine : la présence de soldats français en Ukraine fait-elle de Paris un « cobelligérant » contre qui la Russie pourrait riposter ?",
       "link": "https://www.lemonde.fr/international/article/2026/11/19/guerre-en-ukraine-la-presence-de-soldats-francais-en-ukraine-fait-elle-de-paris-un-cobelligerant-contre-qui-la-russie-pourrait-riposter_6813225_3210.html",
       "pubDate": "2026-11-19T04:30:09.000Z",
@@ -217,13 +224,6 @@
       "link": "https://www.opex360.com/2026/11/17/un-char-leopard-2-ukrainien-a-survecu-a-45-impacts-de-drones-fpv/",
       "pubDate": "2026-11-17T17:37:30.000Z",
       "description": "L’idée selon laquelle il ne suffirait que d’un seul drone FPV [First Person View, c’est-à-dire à pilotage immersif] pour détruire un char de combat s’est largement répandue avec la diffusion abondante de vidéos prises sur les champs de bataille en Ukraine. D’ailleurs, c’est ce qui motive la mise en œuvre de cages antidrones, de systèmes...\nCet article Un char Leopard 2 ukrainien a « survécu » à 45 impacts de drones FPV est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Deux bombardiers stratégiques russes Tu-95 sont arrivés au Vietnam… après avoir violé l’espace aérien japonais",
-      "link": "https://www.opex360.com/2026/11/17/deux-bombardiers-strategiques-russes-tu-95-sont-arrives-au-vietnam-apres-avoir-viole-lespace-aerien-japonais/",
-      "pubDate": "2026-11-17T16:02:25.000Z",
-      "description": "Le mois dernier, le Japon a indiqué que l’activité des forces aériennes chinoises et russes dans sa zone d’identification de défense aérienne [ADIZ] avait augmenté de 67 % entre le 1er avril et le 30 septembre par rapport à la même période en 2025, avec 442 interceptions effectuées par ses avions de combat. Le ministère...\nCet article Deux bombardiers stratégiques russes Tu-95 sont arrivés au Vietnam… après avoir violé l’espace aérien japonais est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
