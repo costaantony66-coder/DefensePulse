@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T03:41:20.812Z",
+  "generatedAt": "2026-11-21T11:57:45.856Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,76 @@
     }
   ],
   "items": [
+    {
+      "title": "Le sous-marin nucléaire d’attaque De Grasse a été officiellement admis au service actif",
+      "link": "https://www.opex360.com/2026/11/21/le-sous-marin-nucleaire-dattaque-de-grasse-a-ete-officiellement-admis-au-service-actif/",
+      "pubDate": "2026-11-21T11:44:27.000Z",
+      "description": "Les trois premiers sous-marins nucléaires d’attaque [SNA] de la classe Suffren [ou Barracuda] furent admis au service actif environ sept mois après leur livraison à la Marine nationale, ce délai correspondant à la durée de leur déploiement de longue durée [DLD], étape indispensable pour vérifier leurs capacités et leurs caractéristiques militaires dans différents environnements. Plus...\nCet article Le sous-marin nucléaire d’attaque De Grasse a été officiellement admis au service actif est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Dans la défense, le rapprochement entre le Canada et l’Union européenne prend corps",
+      "link": "https://www.lemonde.fr/international/article/2026/11/21/dans-la-defense-le-rapprochement-entre-le-canada-et-l-union-europeenne-prend-corps_6814009_3210.html",
+      "pubDate": "2026-11-21T11:30:05.000Z",
+      "description": "Sur fond de tensions géopolitiques mondiales et d’incertitudes quant à l’engagement américain, Ottawa et Bruxelles coopèrent sur le soutien à l’Ukraine et le réarmement du Vieux Continent.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Allemagne : huit nouveaux bataillons pour protéger le territoire et renforcer la brigade en Lituanie",
+      "link": "https://armees.com/bundeswehr-huit-bataillons-heimatschutz-lituanie-21-novembre-2026-0933/",
+      "pubDate": "2026-11-21T08:45:31.000Z",
+      "description": "La Bundeswehr a officialisé le 19 novembre 2026 la création de six bataillons de protection territoriale et de deux unités destinées à sa brigade blindée en Lituanie. Deux compagnies supplémentaires et un centre de numérisation complètent cette réorganisation.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Obus de 155 mm : la France vise 150 000 unités par an en 2029",
+      "link": "https://armees.com/obus-155-mm-knds-france-capacite-150000-2029-commande-50000/",
+      "pubDate": "2026-11-21T07:14:01.000Z",
+      "description": "La DGA a commandé à KNDS Ammo France une augmentation de ses capacités industrielles dans le Cher, accompagnée de l’achat de 50 000 obus à livrer en 2029 et 2030. Une montée en puissance qui ne sera pas immédiate.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Ni la Chine ni la Corée du Nord : ces munitions retrouvées en Russie portent un marquage suisse, et Berne exige des explications",
+      "link": "https://armees.com/ni-la-chine-ni-la-coree-du-nord-ces-munitions-retrouvees-en-russie-portent-un-marquage-suisse-et-berne-exige-des-explications/",
+      "pubDate": "2026-11-21T07:05:14.000Z",
+      "description": "110 000 cartouches suisses fabriquées à Thoune ont fini dans les mains de soldats russes, via la Slovénie et le Kirghizistan. Comment Berne a-t-elle laissé filer son propre embargo ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Le Chili entame l’excavation de 12 km de tranchées supplémentaires à sa frontière nord",
+      "link": "https://armees.com/le-chili-entame-lexcavation-de-12-km-de-tranchees-supplementaires-a-sa-frontiere-nord/",
+      "pubDate": "2026-11-21T06:35:00.000Z",
+      "description": "Immigration irrégulière en baisse de 87,5 %, contrebande démantelée en hausse de 226 % : le Chili muscle sa frontière nord avec 12 kilomètres de tranchées supplémentaires. Les chiffres impressionnent.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "10 ans après la guerre des Malouines, les États-Unis ont envisagé de céder trois navires de débarquement à la Marine argentine",
+      "link": "https://armees.com/10-ans-apres-la-guerre-des-malouines-les-etats-unis-ont-envisage-de-ceder-trois-navires-de-debarquement-a-la-marine-argentine/",
+      "pubDate": "2026-11-21T06:05:35.000Z",
+      "description": "Trois navires américains promis à l'Argentine, trois échecs successifs. Retards budgétaires, refus du Sénat, coûts jugés trop lourds : comment Buenos Aires a-t-elle raté sa capacité amphibie pendant plus d'une décennie ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "AUKUS : le transfert de sous-marins à l’Australie pourrait réduire la flotte américaine pendant des années",
+      "link": "https://armees.com/aukus-virginia-cbo-flotte-americaine-21-novembre-2026-0633/",
+      "pubDate": "2026-11-21T05:44:34.000Z",
+      "description": "Le Bureau du budget du Congrès américain alerte sur les conséquences industrielles et militaires des ventes de sous-marins Virginia à l’Australie. Le calendrier AUKUS dépend d’une production encore inférieure aux besoins annoncés.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Tenable Security Center : le CERT-FR alerte sur des failles permettant l’exécution de code",
+      "link": "https://armees.com/tenable-security-center-cert-fr-vulnerabilites-correctif-novembre-2026/",
+      "pubDate": "2026-11-21T04:59:00.000Z",
+      "description": "Dans un avis du 20 novembre 2026, le CERT-FR signale plusieurs vulnérabilités dans Tenable Security Center. Les versions antérieures à 6.10.0 dépourvues du correctif SC-202611.1 sont concernées, avec des risques d’exécution de code à distance, d’injection SQL et de contournement des protections.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pologne : des Gripen suédois mobilisés avec les F-16 et un ravitailleur néerlandais",
+      "link": "https://armees.com/gripen-suedois-pologne-f16-ravitailleur-otan-21-novembre-2026-0433/",
+      "pubDate": "2026-11-21T03:36:22.000Z",
+      "description": "L’armée de l’air suédoise confirme sa participation aux opérations de défense du ciel polonais dans la nuit précédant le 20 novembre 2026. Ses chasseurs Gripen ont suivi plusieurs cibles, avec un ravitaillement en vol et un passage sur une base avancée en Pologne.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Ukraine : plus de 400 drones et 110 missiles russes, trois ponts de Kyiv touchés",
       "link": "https://armees.com/ukraine-frappes-missiles-drones-ponts-kyiv-21-novembre-2026-0233/",
@@ -108,67 +178,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "États-Unis : Sean Cairncross limogé après une série de pannes informatiques",
-      "link": "https://armees.com/etats-unis-cairncross-limogeage-cybersecurite-defense/",
-      "pubDate": "2026-11-20T13:51:59.000Z",
-      "description": "Sean Cairncross, directeur national de la cybersécurité de la Maison-Blanche, a été limogé le 19 novembre 2026 après une série de pannes informatiques majeures ayant paralysé 18 000 vols aériens et perturbé les systèmes critiques de la NSA. Kirsten Davies, directrice des systèmes d'information du Pentagone, assure l'intérim dans un contexte de transition politique complexe au Sénat américain.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Après les sabotages attribués à l’Iran, Londres protège les maillons fragiles de la chaîne du froid",
-      "link": "https://armees.com/sabotages-iran-londres-protection-chaine-du-froid/",
-      "pubDate": "2026-11-20T12:45:00.000Z",
-      "description": "Le Royaume-Uni a coordonné une opération pour sécuriser des contrôleurs frigorifiques utilisés dans la distribution et le stockage alimentaires. Cette intervention préventive intervient après des attaques en France, attribuées officiellement à une unité cyber des Gardiens de la révolution iraniens et responsables de dégâts matériels.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Trois engins russes entrent dans le ciel polonais : Varsovie identifie un missile Kh-101",
-      "link": "https://armees.com/missile-kh101-incursions-russes-pologne-defense-aerienne/",
-      "pubDate": "2026-11-20T12:45:00.000Z",
-      "description": "La Pologne affirme que trois engins venus de Russie ont violé son espace aérien dans la nuit du 19 au 20 novembre 2026. Alors que la défense aérienne était mobilisée face aux bombardements de l’Ukraine, la découverte d’un objet au sol a déclenché une enquête militaire et judiciaire.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Deux missiles et un drone d’attaque russes sont tombés en Pologne, près de la zone où se déroule l’exercice KOALICJA",
       "link": "https://www.opex360.com/2026/11/20/deux-missiles-et-un-drone-dattaque-russes-sont-tombes-en-pologne-pres-de-la-zone-ou-se-deroule-lexercice-koalicja/",
       "pubDate": "2026-11-20T12:04:17.000Z",
       "description": "Depuis le 9 novembre, la Pologne accueille l’exercice KOALICJA 26.2, organisé par la force militaire de la Coalition des volontaires [MNF-U / Force multinationale-Ukraine], sous commandement franco-britannique. Mobilisant 2 800 militaires [dont 1 000 Français] issus de onze pays, il vise à préparer un éventuel déploiement en Ukraine quand les hostilités avec la Russie seront...\nCet article Deux missiles et un drone d’attaque russes sont tombés en Pologne, près de la zone où se déroule l’exercice KOALICJA est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "EUROGUARD : l’Europe finance à hauteur de 65 millions d’euros un prototype naval semi-autonome",
-      "link": "https://armees.com/euroguard-navire-semi-autonome-estonie-financement-europeen-2026/",
-      "pubDate": "2026-11-20T11:41:00.000Z",
-      "description": "Mis à l’eau en Estonie le 18 novembre, EUROGUARD est un navire expérimental de 45 mètres destiné à tester surveillance maritime, missions antimines et protection des infrastructures sous-marines. Les essais sont prévus en 2027.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Groenland : le Parlement danois approuve l’accord de défense avec les États-Unis",
-      "link": "https://armees.com/groenland-parlement-danois-accord-defense-etats-unis-19-novembre-2026/",
-      "pubDate": "2026-11-20T11:29:15.000Z",
-      "description": "Le Folketing a approuvé le 19 novembre 2026 l'accord de défense signé en septembre avec les États-Unis et le Groenland. Les deux parlements concernés ont désormais voté ; une notification officielle doit encore rendre le texte juridiquement contraignant.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cybersécurité américaine : la responsable informatique du Pentagone appelée à la Maison-Blanche",
-      "link": "https://armees.com/cybersecurite-etats-unis-kirsten-davies-pentagone-maison-blanche-2026-1133/",
-      "pubDate": "2026-11-20T10:56:15.000Z",
-      "description": "Kirsten Davies, jusque-là directrice des systèmes d’information du département américain de la Défense, est appelée à assurer l’intérim de la coordination fédérale de la cybersécurité après le départ de Sean Cairncross annoncé le 19 novembre 2026. La décision intervient dans un contexte de pannes informatiques, sans preuve d’une attaque coordonnée.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cargo échoué dans les Landes : l’armée de l’air mobilisée dans un secours franco-espagnol",
-      "link": "https://armees.com/cargo-miro-g-landes-sauvetage-helicoptere-cazaux-20-novembre-2026-1033/",
-      "pubDate": "2026-11-20T09:52:41.000Z",
-      "description": "Après l’échouement du cargo MIRO G à Lit-et-Mixe le 20 novembre 2026, un hélicoptère militaire stationné à Cazaux a participé à l’évacuation de l’équipage. Les autorités ont mobilisé le dispositif ORSEC maritime et la coopération franco-espagnole.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Bénin : les armes anciennes du Quai-Branly au cœur d’une demande de restitution",
-      "link": "https://armees.com/armes-anciennes-benin-patrimoine-militaire-colonisation/",
-      "pubDate": "2026-11-20T09:08:09.000Z",
-      "description": "Le Bénin réclame 35 biens culturels au Quai-Branly, dont des armes anciennes saisies lors de la conquête coloniale française entre 1890 et 1900. Ces artefacts militaires, témoins des campagnes d'Afrique de l'Ouest, posent des défis techniques de conservation et testent la nouvelle loi-cadre française sur les restitutions adoptée en mai 2026.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Des radars GM200 MM/A pour la Suisse",
@@ -224,13 +238,6 @@
       "link": "https://www.opex360.com/2026/11/18/grace-au-bic-larmee-de-terre-entraine-ses-artilleurs-sans-tirer-un-seul-obus/",
       "pubDate": "2026-11-18T18:47:25.000Z",
       "description": "Former et entraîner les servants d’un CAESAr [Camion équipé d’un système d’artillerie] sans tirer d’obus et à moindre coût : tel est l’intérêt du BIC [pour «Banc d’Instruction au Chargement] que KNDS France a récemment livré à l’École d’artillerie. Selon les explications données par l’armée de Terre, le BIC est un simulateur qui reproduit la...\nCet article Grâce au BIC, l’armée de Terre entraîne ses artilleurs sans tirer un seul obus est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Le coût des douze futurs avions PATMAR de la Marine nationale serait aussi élevé que celui du porte-avions France Libre",
-      "link": "https://www.opex360.com/2026/11/18/le-cout-des-douze-futurs-avions-patmar-de-la-marine-nationale-serait-aussi-eleve-que-celui-du-porte-avions-france-libre/",
-      "pubDate": "2026-11-18T17:37:47.000Z",
-      "description": "Selon un rapport récemment publié par la commission des Finances de l’Assemblée nationale, la Marine nationale anticipe une possible rupture temporaire de capacité pour sa composante «Patrouille maritime» [PATMAR], laquelle repose actuellement sur dix-huit avions Atlantique 2, récemment portés au Standard 6. En clair, il n’est pas impossible que ces appareils soient maintenus en service...\nCet article Le coût des douze futurs avions PATMAR de la Marine nationale serait aussi élevé que celui du porte-avions France Libre est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/10/31/cedric-chetaille-contre-amiral-nous-assistons-a-une-forme-de-nouvelle-guerre-des-etoiles-sous-marine_6803715_3210.html",
       "pubDate": "2026-10-31T16:00:09.000Z",
       "description": "Le fond des océans fait l’objet d’une inédite compétition militaire. La multiplication de réseaux de capteurs à des fins de surveillance ou d’espionnage risque de bouleverser les tactiques navales, explique l’ancien commandant de sous-marins nucléaires dans un entretien au « Monde ».",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Le général Christian Piquemal, qui avait signé en 2021 une tribune controversée de militaires, est mort",
-      "link": "https://www.lemonde.fr/disparitions/article/2026/10/29/le-general-christian-piquemal-qui-avait-signe-en-2021-une-tribune-controversee-de-militaires-est-mort_6802303_3382.html",
-      "pubDate": "2026-10-29T09:39:10.000Z",
-      "description": "Radié des cadres de l’armée en 2016 pour avoir participé à une manifestation interdite organisée par un groupuscule islamophobe allemand, l’ancien légionnaire s’est éteint le 23 octobre, à 85 ans.",
       "sourceKey": "geo"
     }
   ]
