@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T18:46:22.438Z",
+  "generatedAt": "2026-11-21T23:40:04.955Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,20 @@
     }
   ],
   "items": [
+    {
+      "title": "Ukraine, le rôle de l’OTAN et de la coalition dans les garanties de sécurité",
+      "link": "https://armees.com/garanties-securite-ukraine-otan-coalition-force-multinationale/",
+      "pubDate": "2026-11-21T18:39:07.000Z",
+      "description": "Sur LCI, Dominique Trinquand a distingué la force de réassurance envisagée pour l’Ukraine de la défense collective de l’OTAN. Ce que prévoit la coalition des volontaires.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Sous-marin De Grasse : le quatrième Barracuda entre en service actif",
+      "link": "https://armees.com/de-grasse-admission-service-actif-quatrieme-sous-marin-barracuda-20261121/",
+      "pubDate": "2026-11-21T18:36:23.000Z",
+      "description": "La Marine nationale a admis au service actif, le 20 novembre 2026, le sous-marin nucléaire d’attaque De Grasse. Livré en juin par la DGA, ce quatrième bâtiment de la classe Suffren renforce la flotte française pendant que deux autres unités restent à achever.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Garde républicaine : un poste d’altiste à pourvoir, candidatures jusqu’au 21 novembre",
       "link": "https://armees.com/garde-republicaine-concours-altiste-candidatures-21-novembre-2026-1833/",
@@ -154,20 +168,6 @@
       "link": "https://armees.com/ukraine-frappes-missiles-drones-ponts-kyiv-21-novembre-2026-0233/",
       "pubDate": "2026-11-21T01:38:59.000Z",
       "description": "La Russie a mené le 20 novembre une attaque aérienne massive contre l’Ukraine. Selon Volodymyr Zelensky, plus de 400 drones et 110 missiles ont été lancés ; trois ponts sur le Dnipro à Kyiv ont été touchés et huit morts ont été signalés par les autorités.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cybersécurité des communes : l’ANSSI reconnaît les limites de ses aides",
-      "link": "https://armees.com/cybersecurite-communes-anssi-limites-aides-senat-novembre-2026/",
-      "pubDate": "2026-11-20T22:35:03.000Z",
-      "description": "Entendus au Sénat le 19 novembre, l’ANSSI et Cybermalveillance.gouv.fr ont exposé les difficultés d’accompagnement des petites collectivités. Une enquête de 2026 montre aussi que 28 % des répondants ne se jugent pas concernés par les cyberattaques.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Financement européen de la défense : ce que les 23,9 milliards d’euros de STEP couvrent vraiment",
-      "link": "https://armees.com/defense-step-bilan-2025-239-milliards-financement-technologies-20-novembre-2026/",
-      "pubDate": "2026-11-20T20:12:04.000Z",
-      "description": "Dans son bilan publié le 19 novembre 2026, la Commission européenne recense 23,9 milliards d’euros de financements mobilisés par STEP à la fin de 2025. La défense a rejoint les secteurs éligibles, mais le total ne représente pas un budget militaire.",
       "sourceKey": "armees_com"
     },
     {
