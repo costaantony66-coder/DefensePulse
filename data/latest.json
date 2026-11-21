@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T11:57:45.856Z",
+  "generatedAt": "2026-11-21T18:46:22.438Z",
   "sources": [
     {
       "key": "opex",
@@ -24,6 +24,48 @@
   ],
   "items": [
     {
+      "title": "Garde républicaine : un poste d’altiste à pourvoir, candidatures jusqu’au 21 novembre",
+      "link": "https://armees.com/garde-republicaine-concours-altiste-candidatures-21-novembre-2026-1833/",
+      "pubDate": "2026-11-21T17:34:17.000Z",
+      "description": "L’Orchestre de la Garde républicaine recherche un altiste. La date limite de candidature est fixée au samedi 21 novembre 2026, avant un concours annoncé pour le 18 décembre à Paris. Voici les pièces demandées et le programme des épreuves.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La France et le Royaume-Uni préparent une «feuille de route» pour développer le successeur du missile air-air METEOR",
+      "link": "https://www.opex360.com/2026/11/21/la-france-et-le-royaume-uni-preparent-une-feuille-de-route-pour-developper-le-successeur-du-missile-air-air-meteor/",
+      "pubDate": "2026-11-21T15:27:51.000Z",
+      "description": "Pour contrer les capacités d’interdiction et de déni d’accès [A2/AD] adverses, l’une des solutions consiste à frapper de loin afin d’éviter de se mettre sous la menace de systèmes de défense aérienne dont la portée ne cesse d’augmenter. Aussi, aux États-Unis, au moins quatre projets de missiles air-air de type BVR [Beyond Visual Range –...\nCet article La France et le Royaume-Uni préparent une «feuille de route» pour développer le successeur du missile air-air METEOR est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Golfe de Finlande : un cargo russe touché par des drones, Helsinki informe l’OTAN",
+      "link": "https://armees.com/cargo-russe-drones-golfe-finlande-21-novembre-2026-1533/",
+      "pubDate": "2026-11-21T14:42:16.000Z",
+      "description": "Le 21 novembre 2026, les forces finlandaises ont détecté une attaque de drone contre un cargo russe près de Suursaari. Le navire a pris feu avant de dériver vers les eaux finlandaises. Helsinki a restreint temporairement le trafic aérien et maritime ; l’auteur de l’attaque n’est pas établi.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Des F-35 néerlandais atterrissent sur une autoroute en Finlande",
+      "link": "https://armees.com/f35-neerlandais-autoroute-finlande-protective-fence-21-novembre-2026-1433/",
+      "pubDate": "2026-11-21T13:45:25.000Z",
+      "description": "Le 20 novembre 2026, plusieurs F-35 néerlandais ont atterri sur la route 9 près de Kuopio, lors de Protective Fence 26. Une manœuvre destinée à éprouver l'emploi des chasseurs depuis des bases dispersées.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La Belgique valide sa participation au programme d’Engin du génie de combat, lancé par la France",
+      "link": "https://www.opex360.com/2026/11/21/la-belgique-valide-sa-participation-au-programme-dengin-du-genie-de-combat-lance-par-la-france/",
+      "pubDate": "2026-11-21T12:55:30.000Z",
+      "description": "Le programme SCORPION [Synergie du Contact Renforcée par la polyvalence et l’infovalorisation] s’est jusqu’à présent concentré sur le remplacement des blindés médians de l’armée de Terre, avec le développement des Griffon, Serval et autres Jaguar. Dans un second temps, il doit aussi permettre de renouveler les capacités de l’arme du Génie, notamment via le programme...\nCet article La Belgique valide sa participation au programme d’Engin du génie de combat, lancé par la France est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "A Genève, la communauté internationale échoue à interdire les robots tueurs",
+      "link": "https://www.lemonde.fr/international/article/2026/11/21/a-geneve-la-communaute-internationale-echoue-a-interdire-les-robots-tueurs_6814012_3210.html",
+      "pubDate": "2026-11-21T12:36:49.000Z",
+      "description": "Alors que la menace des systèmes d’armes létales autonomes, désormais assistées par l’intelligence artificielle, se fait chaque jour plus précise dans les zones de combat, la Russie, les Etats-Unis et Israël se sont opposés à l’ouverture de négociations pour un traité international sur ce type d’armes.",
+      "sourceKey": "geo"
+    },
+    {
       "title": "Le sous-marin nucléaire d’attaque De Grasse a été officiellement admis au service actif",
       "link": "https://www.opex360.com/2026/11/21/le-sous-marin-nucleaire-dattaque-de-grasse-a-ete-officiellement-admis-au-service-actif/",
       "pubDate": "2026-11-21T11:44:27.000Z",
@@ -31,11 +73,25 @@
       "sourceKey": "opex"
     },
     {
+      "title": "Frégates MEKO A-200 : l’Allemagne signe pour quatre navires supplémentaires",
+      "link": "https://armees.com/allemagne-meko-a200-deu-contrat-quatre-fregates-21-novembre-2026-1233/",
+      "pubDate": "2026-11-21T11:35:49.000Z",
+      "description": "L’Allemagne a signé le 17 novembre 2026 la commande d’un second lot de quatre frégates MEKO A-200 DEU auprès de TKMS, portant le programme à huit bâtiments. Les deux premières sont en construction, pour une première livraison annoncée fin 2029.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "Dans la défense, le rapprochement entre le Canada et l’Union européenne prend corps",
       "link": "https://www.lemonde.fr/international/article/2026/11/21/dans-la-defense-le-rapprochement-entre-le-canada-et-l-union-europeenne-prend-corps_6814009_3210.html",
       "pubDate": "2026-11-21T11:30:05.000Z",
       "description": "Sur fond de tensions géopolitiques mondiales et d’incertitudes quant à l’engagement américain, Ottawa et Bruxelles coopèrent sur le soutien à l’Ukraine et le réarmement du Vieux Continent.",
       "sourceKey": "geo"
+    },
+    {
+      "title": "VMware vCenter : une faille critique déjà exploitée, le CERT-FR alerte",
+      "link": "https://armees.com/vmware-vcenter-faille-critique-exploitee-cert-fr-novembre-2026/",
+      "pubDate": "2026-11-21T10:34:04.000Z",
+      "description": "Le CERT-FR signale une vulnérabilité critique dans VMware vCenter, exploitée avant sa divulgation. Broadcom publie des correctifs selon les versions, tandis que Google et Mandiant décrivent une intrusion remontant à septembre 2026.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Allemagne : huit nouveaux bataillons pour protéger le territoire et renforcer la brigade en Lituanie",
@@ -115,25 +171,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Taranis 26 : 400 militaires et 30 aéronefs mobilisés pour tester le transport aérien de combat",
-      "link": "https://armees.com/taranis-26-400-militaires-30-aeronefs-transport-haute-intensite/",
-      "pubDate": "2026-11-20T19:17:51.000Z",
-      "description": "Du 30 novembre au 10 décembre, l’armée de l’Air et de l’Espace doit entraîner ses équipages sur trois plateformes françaises. Évacuations sous menace de drones, cyberattaques simulées et réparations en conditions dégradées sont au programme.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Comme prévu, la Marine nationale a reçu son troisième avion de surveillance maritime «Albatros» en 2026",
       "link": "https://www.opex360.com/2026/11/20/comme-prevu-la-marine-nationale-a-recu-son-troisieme-avion-de-surveillance-maritime-albatros-en-2026/",
       "pubDate": "2026-11-20T18:34:50.000Z",
       "description": "Comme prévu au moment de la notification du programme AVSIMAR [Avion de Surveillance et d’Intervention MARitime] à Dassault Aviation par la Direction générale de l’armement [DGA] l’Aéronautique navale peut désormais compter sur trois Falcon Albatros dès cette année, sur les sept qui avaient été commandés en 2020. En effet, après que les deux premiers exemplaires...\nCet article Comme prévu, la Marine nationale a reçu son troisième avion de surveillance maritime «Albatros» en 2026 est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Ariane 6 : 36 satellites Amazon Leo doivent décoller de Kourou le 23 novembre avec quatre propulseurs",
-      "link": "https://armees.com/ariane-6-va271-amazon-leo-kourou-23-novembre-2026-1833/",
-      "pubDate": "2026-11-20T17:49:45.000Z",
-      "description": "Le CNES annonce pour le 23 novembre 2026 la mission VA271 d’Ariane 6, qui doit emporter 36 satellites Amazon Leo. Le lanceur européen utilisera sa configuration lourde Ariane 64, à quatre propulseurs d’appoint, pour poursuivre la montée en cadence du programme spatial.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "L’Argentine envisage l’achat de trois corvettes FCX20 auprès de l’Italie",
@@ -143,32 +185,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "GitLab : le CERT-FR signale une faille permettant l’exécution de code à distance",
-      "link": "https://armees.com/gitlab-cert-fr-faille-execution-code-distance-cve-2026-132825/",
-      "pubDate": "2026-11-20T16:43:56.000Z",
-      "description": "Le 20 novembre 2026, le CERT-FR alerte sur une vulnérabilité de GitLab Community et Enterprise Edition, référencée CVE-2026-132825. Plusieurs branches du logiciel sont concernées et doivent être mises à jour selon les recommandations de l’éditeur.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’engin du génie de combat validé à Bruxelles",
       "link": "https://forcesoperations.com/lengin-du-genie-de-combat-valide-a-bruxelles/",
       "pubDate": "2026-11-20T16:24:24.000Z",
       "description": "Comme pressenti, le gouvernement belge a donné ce vendredi son aval au projet de développement d'un engin du génie de combat (EGC) en collaboration avec la France. \nThe post L’engin du génie de combat validé à Bruxelles appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "Ukraine : Pistorius s’excuse auprès du Pentagone, sans changer d’avis sur les frappes en Russie",
-      "link": "https://armees.com/pistorius-colby-excuses-frappes-ukraine-russie-20-novembre-2026-1633/",
-      "pubDate": "2026-11-20T16:00:49.000Z",
-      "description": "Le ministre allemand de la Défense reconnaît avoir employé une formule déplacée à l’égard d’Elbridge Colby. Mais leur désaccord sur l’efficacité et la légitimité des frappes ukrainiennes en profondeur demeure.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cyberopérations : Londres confirme viser la Russie, la Chine, l’Iran et la Corée du Nord",
-      "link": "https://armees.com/royaume-uni-cyberoperations-offensives-quatre-etats-20-novembre-2026-1633/",
-      "pubDate": "2026-11-20T15:46:07.000Z",
-      "description": "Le général britannique Rob Magowan a confirmé le 20 novembre que la National Cyber Force mène des opérations offensives contre quatre États. Ses déclarations éclairent la stratégie de Londres, sans dévoiler les opérations classifiées.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Le ministère des Armées veut porter la production française d’obus de 155 mm à 150 000 unités par an d’ici 2029",
@@ -220,25 +241,11 @@
       "sourceKey": "fob"
     },
     {
-      "title": "Le ministère des Armées a commandé 72 000 fusils d’assaut HK416F supplémentaires auprès d’Heckler & Koch",
-      "link": "https://www.opex360.com/2026/11/19/le-ministere-des-armees-a-commande-72-000-fusils-dassaut-hk416f-supplementaires-aupres-dheckler-koch/",
-      "pubDate": "2026-11-19T12:04:20.000Z",
-      "description": "En septembre 2016, après des polémiques sur les modalités de l’appel d’offres d’une valeur estimée à 350 millions d’euros qu’elle avait émis quelques mois plus tôt, la Direction générale de l’armement [DGA] annonça qu’elle venait de retenir le fusil d’assaut HK-416F de conception allemande afin de remplacer le célèbre FAMAS, dans le cadre du programme...\nCet article Le ministère des Armées a commandé 72 000 fusils d’assaut HK416F supplémentaires auprès d’Heckler & Koch est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
       "title": "Guerre en Ukraine : la présence de soldats français en Ukraine fait-elle de Paris un « cobelligérant » contre qui la Russie pourrait riposter ?",
       "link": "https://www.lemonde.fr/international/article/2026/11/19/guerre-en-ukraine-la-presence-de-soldats-francais-en-ukraine-fait-elle-de-paris-un-cobelligerant-contre-qui-la-russie-pourrait-riposter_6813225_3210.html",
       "pubDate": "2026-11-19T04:30:09.000Z",
       "description": "Le gouvernement a reconnu avoir déployé des militaires sur le territoire ukrainien dans le cadre de missions de formation et de maintenance, ravivant le débat sur les risques de voir Moscou prendre la France pour cible ou sur la nécessité d’une consultation du Parlement.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Grâce au BIC, l’armée de Terre entraîne ses artilleurs sans tirer un seul obus",
-      "link": "https://www.opex360.com/2026/11/18/grace-au-bic-larmee-de-terre-entraine-ses-artilleurs-sans-tirer-un-seul-obus/",
-      "pubDate": "2026-11-18T18:47:25.000Z",
-      "description": "Former et entraîner les servants d’un CAESAr [Camion équipé d’un système d’artillerie] sans tirer d’obus et à moindre coût : tel est l’intérêt du BIC [pour «Banc d’Instruction au Chargement] que KNDS France a récemment livré à l’École d’artillerie. Selon les explications données par l’armée de Terre, le BIC est un simulateur qui reproduit la...\nCet article Grâce au BIC, l’armée de Terre entraîne ses artilleurs sans tirer un seul obus est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "« Inside Deutsche Bank » : les contorsions du géant bancaire pour financer les marchands d’armes",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/11/01/guerre-hybride-une-expression-consideree-comme-un-euphemisme-et-pretexte-a-l-inaction-par-de-nombreux-europeens_6804510_3210.html",
       "pubDate": "2026-11-01T15:07:30.000Z",
       "description": "Sabotages, ingérences, survols de drones : face à la multiplication des opérations attribuées à Moscou, de plus en plus de responsables européens contestent l’emploi de l’expression « guerre hybride », jugée trop floue et bien commode pour justifier l’inaction.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Cédric Chetaille, contre-amiral : « Nous assistons à une forme de nouvelle “guerre des étoiles” sous-marine »",
-      "link": "https://www.lemonde.fr/international/article/2026/10/31/cedric-chetaille-contre-amiral-nous-assistons-a-une-forme-de-nouvelle-guerre-des-etoiles-sous-marine_6803715_3210.html",
-      "pubDate": "2026-10-31T16:00:09.000Z",
-      "description": "Le fond des océans fait l’objet d’une inédite compétition militaire. La multiplication de réseaux de capteurs à des fins de surveillance ou d’espionnage risque de bouleverser les tactiques navales, explique l’ancien commandant de sous-marins nucléaires dans un entretien au « Monde ».",
       "sourceKey": "geo"
     }
   ]
