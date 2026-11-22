@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T11:56:11.855Z",
+  "generatedAt": "2026-11-22T18:59:00.349Z",
   "sources": [
     {
       "key": "opex",
@@ -24,11 +24,53 @@
   ],
   "items": [
     {
-      "title": "L’armée de l’Air & de l’Espace teste à la capacité du Rafale à être mis en œuvre depuis une autoroute",
+      "title": "A400M : l’armée de l’Air reçoit son 27e Atlas à Orléans-Bricy",
+      "link": "https://armees.com/a400m-27e-atlas-orleans-bricy-22-novembre-2026-1833/",
+      "pubDate": "2026-11-22T17:38:24.000Z",
+      "description": "Réceptionné le 18 novembre 2026, un nouvel A400M Atlas rejoint l’escadron « Béarn » à Orléans-Bricy. L’armée de l’Air vise une flotte de 34 appareils d’ici 2027.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Lituanie : l’armée allemande teste des drones explosifs et un logiciel d’IA",
+      "link": "https://armees.com/lituanie-bundeswehr-essais-drones-explosifs-ia-freedom-shield-22-novembre-2026/",
+      "pubDate": "2026-11-22T16:09:02.000Z",
+      "description": "Le 22 novembre 2026, la Bundeswehr a réalisé en Lituanie ses premiers essais tactiques de munitions rôdeuses fabriquées par Helsing et Stark. Un outil d’aide à la décision fondé sur l’IA a également été expérimenté durant l’exercice Freedom Shield.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Algérie-Maroc : Alger annonce la mort de deux hommes lors d’une opération à la frontière",
+      "link": "https://armees.com/algerie-maroc-naama-deux-morts-gardes-frontieres-20-novembre-2026-1533/",
+      "pubDate": "2026-11-22T14:36:24.000Z",
+      "description": "L’armée algérienne affirme que ses gardes-frontières ont tué deux ressortissants marocains le 20 novembre 2026 dans le secteur de Naâma. Elle les accuse de trafic de cannabis, mais les circonstances exactes des tirs restent peu documentées.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La Pologne confirme son intérêt pour l’hélicoptère de transport lourd américain CH-47 Chinook",
+      "link": "https://www.opex360.com/2026/11/22/la-pologne-confirme-son-interet-pour-lhelicoptere-de-transport-lourd-americain-ch-47-chinook/",
+      "pubDate": "2026-11-22T12:32:10.000Z",
+      "description": "Comme l’a récemment souligné une note du Commandement du combat futur de l’armée de Terre [CFAT], la vulnérabilité d’un hélicoptère de reconnaissance et d’attaque «concerne un ensemble et pas seulement l’appareil dans le ciel» mais aussi tout ce qui le fait voler, c’est-à-dire sa chaîne de soutien logistique [maintenance, carburant, etc.]. C’est d’ailleurs pour cette...\nCet article La Pologne confirme son intérêt pour l’hélicoptère de transport lourd américain CH-47 Chinook est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Drones Shrike : SkyFall et Auterion préparent une usine en Allemagne",
+      "link": "https://armees.com/skyfall-auterion-usine-drones-shrike-allemagne-20-novembre-2026/",
+      "pubDate": "2026-11-22T12:11:02.000Z",
+      "description": "SkyFall et Auterion ont annoncé le 20 novembre un projet de coentreprise pour produire en Allemagne des drones Shrike destinés à l’Ukraine. Plus de 50 000 appareils ont déjà été livrés, mais la future usine n’a pas encore de date d’ouverture annoncée.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’armée de l’Air & de l’Espace teste la capacité du Rafale à être mis en œuvre depuis une autoroute",
       "link": "https://www.opex360.com/2026/11/22/larmee-de-lair-de-lespace-teste-a-la-capacite-du-rafale-a-etre-mis-en-oeuvre-depuis-une-autoroute/",
       "pubDate": "2026-11-22T11:43:57.000Z",
-      "description": "En 2023, alors à la tête du Commandement de la défense aérienne et des opérations aériennes [CDAOA] de l’armée de l’Air & de l’Espace [AAE], le général Philippe Moralès avait souligné la nécessité de retrouver les «anciens réflexes» consistant à «disperser» les aéronefs afin de les préserver d’une éventuelle attaque. «Nos territoires ne doivent plus...\nCet article L’armée de l’Air & de l’Espace teste à la capacité du Rafale à être mis en œuvre depuis une autoroute est apparu en premier sur Zone Militaire.",
+      "description": "En 2023, alors à la tête du Commandement de la défense aérienne et des opérations aériennes [CDAOA] de l’armée de l’Air & de l’Espace [AAE], le général Philippe Moralès avait souligné la nécessité de retrouver les «anciens réflexes» consistant à «disperser» les aéronefs afin de les préserver d’une éventuelle attaque. «Nos territoires ne doivent plus...\nCet article L’armée de l’Air & de l’Espace teste la capacité du Rafale à être mis en œuvre depuis une autoroute est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
+    },
+    {
+      "title": "Ukraine : l’UE mobilise 1 milliard d’euros pour des achats communs de drones et de défense aérienne",
+      "link": "https://armees.com/ukraine-ue-milliard-achats-communs-drones-defense-aerienne-novembre-2026/",
+      "pubDate": "2026-11-22T10:44:50.000Z",
+      "description": "Le Conseil de l’Union européenne a adopté le 20 novembre deux décisions mobilisant 1 milliard d’euros pour l’achat groupé d’équipements militaires destinés à l’Ukraine. Les livraisons sont prévues d’ici fin 2027, sans contrat industriel annoncé à ce stade.",
+      "sourceKey": "armees_com"
     },
     {
       "title": "Ukraine : Londres va fabriquer des drones de frappe conçus par Kyiv",
@@ -115,13 +157,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Des F-35 néerlandais atterrissent sur une autoroute en Finlande",
-      "link": "https://armees.com/f35-neerlandais-autoroute-finlande-protective-fence-21-novembre-2026-1433/",
-      "pubDate": "2026-11-21T13:45:25.000Z",
-      "description": "Le 20 novembre 2026, plusieurs F-35 néerlandais ont atterri sur la route 9 près de Kuopio, lors de Protective Fence 26. Une manœuvre destinée à éprouver l'emploi des chasseurs depuis des bases dispersées.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La Belgique valide sa participation au programme d’Engin du génie de combat, lancé par la France",
       "link": "https://www.opex360.com/2026/11/21/la-belgique-valide-sa-participation-au-programme-dengin-du-genie-de-combat-lance-par-la-france/",
       "pubDate": "2026-11-21T12:55:30.000Z",
@@ -143,39 +178,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Frégates MEKO A-200 : l’Allemagne signe pour quatre navires supplémentaires",
-      "link": "https://armees.com/allemagne-meko-a200-deu-contrat-quatre-fregates-21-novembre-2026-1233/",
-      "pubDate": "2026-11-21T11:35:49.000Z",
-      "description": "L’Allemagne a signé le 17 novembre 2026 la commande d’un second lot de quatre frégates MEKO A-200 DEU auprès de TKMS, portant le programme à huit bâtiments. Les deux premières sont en construction, pour une première livraison annoncée fin 2029.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Dans la défense, le rapprochement entre le Canada et l’Union européenne prend corps",
       "link": "https://www.lemonde.fr/international/article/2026/11/21/dans-la-defense-le-rapprochement-entre-le-canada-et-l-union-europeenne-prend-corps_6814009_3210.html",
-      "pubDate": "2026-11-21T11:30:05.000Z",
+      "pubDate": "2026-11-21T11:30:03.000Z",
       "description": "Sur fond de tensions géopolitiques mondiales et d’incertitudes quant à l’engagement américain, Ottawa et Bruxelles coopèrent sur le soutien à l’Ukraine et le réarmement du Vieux Continent.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "VMware vCenter : une faille critique déjà exploitée, le CERT-FR alerte",
-      "link": "https://armees.com/vmware-vcenter-faille-critique-exploitee-cert-fr-novembre-2026/",
-      "pubDate": "2026-11-21T10:34:04.000Z",
-      "description": "Le CERT-FR signale une vulnérabilité critique dans VMware vCenter, exploitée avant sa divulgation. Broadcom publie des correctifs selon les versions, tandis que Google et Mandiant décrivent une intrusion remontant à septembre 2026.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Allemagne : huit nouveaux bataillons pour protéger le territoire et renforcer la brigade en Lituanie",
-      "link": "https://armees.com/bundeswehr-huit-bataillons-heimatschutz-lituanie-21-novembre-2026-0933/",
-      "pubDate": "2026-11-21T08:45:31.000Z",
-      "description": "La Bundeswehr a officialisé le 19 novembre 2026 la création de six bataillons de protection territoriale et de deux unités destinées à sa brigade blindée en Lituanie. Deux compagnies supplémentaires et un centre de numérisation complètent cette réorganisation.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Obus de 155 mm : la France vise 150 000 unités par an en 2029",
-      "link": "https://armees.com/obus-155-mm-knds-france-capacite-150000-2029-commande-50000/",
-      "pubDate": "2026-11-21T07:14:01.000Z",
-      "description": "La DGA a commandé à KNDS Ammo France une augmentation de ses capacités industrielles dans le Cher, accompagnée de l’achat de 50 000 obus à livrer en 2029 et 2030. Une montée en puissance qui ne sera pas immédiate.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Comme prévu, la Marine nationale a reçu son troisième avion de surveillance maritime «Albatros» en 2026",
@@ -224,13 +231,6 @@
       "link": "https://www.opex360.com/2026/11/19/utilise-par-la-marine-nationale-le-camcopter-s100-peut-aussi-etre-configure-en-porte-drones/",
       "pubDate": "2026-11-19T18:40:57.000Z",
       "description": "En janvier, la Direction générale de l’armement [DGA] fit savoir qu’elle avait notifié la commande de cinq systèmes de drones à décollage vertical Camcopter S-100 supplémentaires auprès de l’industriel autrichien Schiebel [via Naval Group] afin de les intégrer à bord des frégates multimissions [FREMM] de la Marine nationale. Et cela alors que ce type d’appareil,...\nCet article Utilisé par la Marine nationale, le Camcopter S100 peut aussi être configuré en «porte-drones» est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "La Malaisie envisage de commander 36 canons LG1 de 105 mm supplémentaires à KNDS France",
-      "link": "https://www.opex360.com/2026/11/19/la-malaisie-envisage-de-commander-36-canons-lg1-de-105-mm-supplementaires-a-knds-france/",
-      "pubDate": "2026-11-19T17:34:27.000Z",
-      "description": "À l’occasion d’une visite officielle du président Macron à Kuala Lumpur, le 17 novembre, la France et la Malaisie ont affirmé leur volonté de renforcer leur coopération dans le domaine de la défense, avec la signature prochaine d’un accord sur le statut des forces [SOFA], lequel facilitera, entre autres, la tenue d’exercices conjoints. Il est...\nCet article La Malaisie envisage de commander 36 canons LG1 de 105 mm supplémentaires à KNDS France est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
