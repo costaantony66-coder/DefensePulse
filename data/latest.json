@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T00:04:45.977Z",
+  "generatedAt": "2026-11-23T07:45:41.236Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Nous savons enfin comment les lumières se sont allumées à l’aube des temps : les astronomes confirment une théorie vieille de 30 ans",
+      "link": "https://armees.com/nous-savons-enfin-comment-les-lumieres-se-sont-allumees-a-laube-des-temps-les-astronomes-confirment-une-theorie-vieille-de-30-ans/",
+      "pubDate": "2026-11-23T06:05:52.000Z",
+      "description": "Des galaxies naines, cent fois plus nombreuses que prévu, bousculent tout ce qu'on croyait savoir sur la naissance de l'Univers. Leur rayonnement dépasse quatre fois les estimations. Une découverte qui change la donne.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Libye : la corvette russe Merkury en partie coulée à Benghazi, des drones suspectés",
+      "link": "https://armees.com/libye-corvette-russe-merkury-benghazi-drones-23-novembre-2026-0433/",
+      "pubDate": "2026-11-23T03:42:11.000Z",
+      "description": "Une explosion survenue le 22 novembre 2026 à la base navale de Benghazi a frappé la corvette russe Merkury. Les autorités de l'est de la Libye évoquent une attaque de drones, sans auteur confirmé. Un navire marchand a également été visé au large du port.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pologne : le parquet identifie trois missiles Kh-101 après les incursions du 20 novembre",
+      "link": "https://armees.com/pologne-trois-missiles-kh101-parquet-lublin-22-novembre-2026/",
+      "pubDate": "2026-11-23T03:13:11.000Z",
+      "description": "Les enquêteurs polonais ont retrouvé des débris de Kh-101 sur trois lieux de chute, et non les traces de deux missiles et d’un drone comme envisagé vendredi. Le parquet souligne que ses conclusions restent préliminaires.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Baltic Sentry : les Marines américains ont engagé un drone Stalker au large de la Finlande",
+      "link": "https://armees.com/baltic-sentry-marines-americains-drone-stalker-finlande-22-novembre-2026-2333/",
+      "pubDate": "2026-11-22T22:42:10.000Z",
+      "description": "Des Marines américains ont mené début novembre des opérations de reconnaissance en embarcation et avec un drone Stalker VXE-30 au large de la Finlande. Des séquences diffusées les 16 et 19 novembre documentent leur contribution à Baltic Sentry, le dispositif de surveillance maritime de l’OTAN.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "A400M : l’armée de l’Air reçoit son 27e Atlas à Orléans-Bricy",
       "link": "https://armees.com/a400m-27e-atlas-orleans-bricy-22-novembre-2026-1833/",
@@ -122,39 +150,11 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Ukraine, le rôle de l’OTAN et de la coalition dans les garanties de sécurité",
-      "link": "https://armees.com/garanties-securite-ukraine-otan-coalition-force-multinationale/",
-      "pubDate": "2026-11-21T18:39:07.000Z",
-      "description": "Sur LCI, Dominique Trinquand a distingué la force de réassurance envisagée pour l’Ukraine de la défense collective de l’OTAN. Ce que prévoit la coalition des volontaires.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Sous-marin De Grasse : le quatrième Barracuda entre en service actif",
-      "link": "https://armees.com/de-grasse-admission-service-actif-quatrieme-sous-marin-barracuda-20261121/",
-      "pubDate": "2026-11-21T18:36:23.000Z",
-      "description": "La Marine nationale a admis au service actif, le 20 novembre 2026, le sous-marin nucléaire d’attaque De Grasse. Livré en juin par la DGA, ce quatrième bâtiment de la classe Suffren renforce la flotte française pendant que deux autres unités restent à achever.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Garde républicaine : un poste d’altiste à pourvoir, candidatures jusqu’au 21 novembre",
-      "link": "https://armees.com/garde-republicaine-concours-altiste-candidatures-21-novembre-2026-1833/",
-      "pubDate": "2026-11-21T17:34:17.000Z",
-      "description": "L’Orchestre de la Garde républicaine recherche un altiste. La date limite de candidature est fixée au samedi 21 novembre 2026, avant un concours annoncé pour le 18 décembre à Paris. Voici les pièces demandées et le programme des épreuves.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La France et le Royaume-Uni préparent une «feuille de route» pour développer le successeur du missile air-air METEOR",
       "link": "https://www.opex360.com/2026/11/21/la-france-et-le-royaume-uni-preparent-une-feuille-de-route-pour-developper-le-successeur-du-missile-air-air-meteor/",
       "pubDate": "2026-11-21T15:27:51.000Z",
       "description": "Pour contrer les capacités d’interdiction et de déni d’accès [A2/AD] adverses, l’une des solutions consiste à frapper de loin afin d’éviter de se mettre sous la menace de systèmes de défense aérienne dont la portée ne cesse d’augmenter. Aussi, aux États-Unis, au moins quatre projets de missiles air-air de type BVR [Beyond Visual Range –...\nCet article La France et le Royaume-Uni préparent une «feuille de route» pour développer le successeur du missile air-air METEOR est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Golfe de Finlande : un cargo russe touché par des drones, Helsinki informe l’OTAN",
-      "link": "https://armees.com/cargo-russe-drones-golfe-finlande-21-novembre-2026-1533/",
-      "pubDate": "2026-11-21T14:42:16.000Z",
-      "description": "Le 21 novembre 2026, les forces finlandaises ont détecté une attaque de drone contre un cargo russe près de Suursaari. Le navire a pris feu avant de dériver vers les eaux finlandaises. Helsinki a restreint temporairement le trafic aérien et maritime ; l’auteur de l’attaque n’est pas établi.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "La Belgique valide sa participation au programme d’Engin du génie de combat, lancé par la France",
