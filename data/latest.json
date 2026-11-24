@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:13:33.593Z",
+  "generatedAt": "2026-11-24T23:55:05.675Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,48 @@
     }
   ],
   "items": [
+    {
+      "title": "L’armée ukrainienne a mis en service le véhicule de combat d’infanterie KF-41 Lynx de Rheinmetall",
+      "link": "https://www.opex360.com/2026/11/24/larmee-ukrainienne-a-mis-en-service-le-vehicule-de-combat-dinfanterie-kf-41-lynx-de-rheinmetall/",
+      "pubDate": "2026-11-24T18:51:03.000Z",
+      "description": "En 2023, le PDG du groupe allemand Rheinmetall, Armin Papperger, avait assuré que l’armée ukrainienne s’intéressait de près au char de combat KF-51 «Panther», dévoilé un an plus tôt, à la surprise générale, lors du salon de l’armement aéroterrestre EuroSatory, ainsi qu’au véhicule de combat d’infanterie [VCI] KF-41 Lynx. Seulement, l’état-major ukrainien n’a jamais confirmé...\nCet article L’armée ukrainienne a mis en service le véhicule de combat d’infanterie KF-41 Lynx de Rheinmetall est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Les Pays-Bas commandent des missiles antiaériens portatifs Piorun auprès de la Pologne",
+      "link": "https://www.opex360.com/2026/11/24/les-pays-bas-commandent-des-missiles-antiaeriens-portatifs-piorun-aupres-de-la-pologne/",
+      "pubDate": "2026-11-24T17:11:36.000Z",
+      "description": "Le 24 août, la Pologne, la Lituanie, la Lettonie et la Norvège ont signé un accord-cadre d’une valeur de plus de 1,7 milliard d’euros pour acquérir conjointement plusieurs milliers de missiles antiaériens portatifs Pioriun [de type MANPADS, pour MAN-Portable Air-Defense System] auprès de MESKO SA, filiale du groupe public polonais Polska Grupa Zbrojeniowa [PGZ]. Et...\nCet article Les Pays-Bas commandent des missiles antiaériens portatifs Piorun auprès de la Pologne est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Derrière les commandes, le plan de KNDS pour muscler sa filiale munitionnaire française",
+      "link": "https://forcesoperations.com/derriere-les-commandes-le-plan-de-knds-pour-muscler-sa-filiale-munitionnaire-francaise/",
+      "pubDate": "2026-11-24T16:55:16.000Z",
+      "description": "Tranche après tranche, les armées françaises remettent à niveau leurs stocks d'obus de 155 mm pour mieux se préparer à encaisser un éventuel choc. La dernière en date, notifiée mi-décembre, s'accompagne d'une vaste dynamique d'extension du site industriel concerné, celui de La Chapelle-Saint-Ursin (Cher).  La dynamique de recomplètement se poursuit au profit des artilleurs français. […]\nThe post Derrière les commandes, le plan de KNDS pour muscler sa filiale munitionnaire française appeared first on FOB - Forces Operations Blog.",
+      "sourceKey": "fob"
+    },
+    {
+      "title": "La Section technique de l’armée de Terre évalue de nouveaux équipements de protection contre les menaces NRBC",
+      "link": "https://www.opex360.com/2026/11/24/la-section-technique-de-larmee-de-terre-evalue-de-nouveaux-equipements-de-protection-contre-les-menaces-nrbc/",
+      "pubDate": "2026-11-24T15:56:46.000Z",
+      "description": "Qu’elles émanent d’acteurs non étatiques, comme les groupes terroristes, ou d’États, y compris ceux ayant signé des traités visant à les empêcher, les menaces NRBC [pour nucléaire, radiologique, biologique et chimique] n’ont cessé de prendre de l’ampleur au cours de ces dernières années. «Depuis une dizaine d’années, l’évolution de la situation internationale se traduit par...\nCet article La Section technique de l’armée de Terre évalue de nouveaux équipements de protection contre les menaces NRBC est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Cybersécurité : l’ANSSI propose deux parcours pour aider les organisations à se protéger",
+      "link": "https://armees.com/anssi-messervicescyber-parcours-cybersecurite-nis2/",
+      "pubDate": "2026-11-24T15:32:43.000Z",
+      "description": "Le 23 novembre 2026, l’ANSSI a présenté son nouveau parcours gratuit sur MesServicesCyber. De quoi aider les entreprises, y compris les sous-traitants de la défense, à organiser leur protection numérique sans attendre la fin de la transposition de NIS 2.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Cyberdéfense : l’Italie observe des attaques par IA menées à grande échelle en quelques heures",
+      "link": "https://armees.com/cyberdefense-italie-attaques-ia-agentique/",
+      "pubDate": "2026-11-24T15:00:00.000Z",
+      "description": "L'Italie a confirmé, le 23 novembre 2026, avoir observé sur son territoire des campagnes informatiques offensives exécutées à l'aide d'agents autonomes d'intelligence artificielle. La capacité à multiplier les opérations sans mobiliser davantage de spécialistes humains est un enjeu majeur pour la défense des infrastructures stratégiques.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Les deux satellites patrouilleurs français «YODA» vont-ils être lancés par les américains SpaceX et Impulse Space ?",
       "link": "https://www.opex360.com/2026/11/24/les-deux-satellites-patrouilleurs-francais-yoda-vont-ils-etre-lances-par-les-americains-spacex-et-impulse-space/",
@@ -164,20 +206,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Armes autonomes : à Genève, les États n’ont pas réussi à s’entendre sur le contrôle des machines",
-      "link": "https://armees.com/armes-autonomes-geneve-echec-negociations-controle-machines/",
-      "pubDate": "2026-11-23T13:38:00.000Z",
-      "description": "La conférence internationale consacrée aux armes conventionnelles s'est achevée le 20 novembre 2026 sans accord pour lancer immédiatement la négociation d'un traité sur les systèmes d'armes autonomes. Trois jours plus tard, les inquiétudes restent entières. D'autant qu'une étude scientifique récente défend l'idée qu'une intelligence artificielle suffisamment avancée ne pourrait jamais être contrôlée parfaitement. Sur un champ de bataille, cette limite théorique prend une dimension autrement plus inquiétante.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Allemagne et Danemark : les écoles menacées par courriel, les auteurs toujours introuvables",
-      "link": "https://armees.com/allemagne-danemark-ecoles-menacees-courriel-auteurs-introuvables/",
-      "pubDate": "2026-11-23T12:55:00.000Z",
-      "description": "Le 23 novembre 2026, des établissements scolaires allemands et danois ont reçu des menaces à la bombe en série. Les policiers n'ont pas identifié de danger concret, mais la nouvelle vague prolonge une campagne européenne dont les enquêteurs cherchent encore les auteurs et les éventuelles connexions.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Les forces ukrainiennes ont coulé une corvette russe dans le port de Benghazi, en Libye",
       "link": "https://www.opex360.com/2026/11/23/les-forces-ukrainiennes-ont-coule-une-corvette-russe-dans-le-port-de-benghazi-en-libye/",
       "pubDate": "2026-11-23T11:55:38.000Z",
@@ -199,32 +227,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "La France et le Royaume-Uni préparent une «feuille de route» pour développer le successeur du missile air-air METEOR",
-      "link": "https://www.opex360.com/2026/11/21/la-france-et-le-royaume-uni-preparent-une-feuille-de-route-pour-developper-le-successeur-du-missile-air-air-meteor/",
-      "pubDate": "2026-11-21T15:27:51.000Z",
-      "description": "Pour contrer les capacités d’interdiction et de déni d’accès [A2/AD] adverses, l’une des solutions consiste à frapper de loin afin d’éviter de se mettre sous la menace de systèmes de défense aérienne dont la portée ne cesse d’augmenter. Aussi, aux États-Unis, au moins quatre projets de missiles air-air de type BVR [Beyond Visual Range –...\nCet article La France et le Royaume-Uni préparent une «feuille de route» pour développer le successeur du missile air-air METEOR est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "La Belgique valide sa participation au programme d’Engin du génie de combat, lancé par la France",
-      "link": "https://www.opex360.com/2026/11/21/la-belgique-valide-sa-participation-au-programme-dengin-du-genie-de-combat-lance-par-la-france/",
-      "pubDate": "2026-11-21T12:55:30.000Z",
-      "description": "Le programme SCORPION [Synergie du Contact Renforcée par la polyvalence et l’infovalorisation] s’est jusqu’à présent concentré sur le remplacement des blindés médians de l’armée de Terre, avec le développement des Griffon, Serval et autres Jaguar. Dans un second temps, il doit aussi permettre de renouveler les capacités de l’arme du Génie, notamment via le programme...\nCet article La Belgique valide sa participation au programme d’Engin du génie de combat, lancé par la France est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
       "title": "A Genève, la communauté internationale échoue à interdire les robots tueurs",
       "link": "https://www.lemonde.fr/international/article/2026/11/21/a-geneve-la-communaute-internationale-echoue-a-interdire-les-robots-tueurs_6814012_3210.html",
       "pubDate": "2026-11-21T12:36:49.000Z",
       "description": "Alors que la menace des systèmes d’armes létales autonomes, désormais assistées par l’intelligence artificielle, se fait chaque jour plus précise dans les zones de combat, la Russie, les Etats-Unis et Israël se sont opposés à l’ouverture de négociations pour un traité international sur ce type d’armes.",
       "sourceKey": "geo"
-    },
-    {
-      "title": "Le sous-marin nucléaire d’attaque De Grasse a été officiellement admis au service actif",
-      "link": "https://www.opex360.com/2026/11/21/le-sous-marin-nucleaire-dattaque-de-grasse-a-ete-officiellement-admis-au-service-actif/",
-      "pubDate": "2026-11-21T11:44:27.000Z",
-      "description": "Les trois premiers sous-marins nucléaires d’attaque [SNA] de la classe Suffren [ou Barracuda] furent admis au service actif environ sept mois après leur livraison à la Marine nationale, ce délai correspondant à la durée de leur déploiement de longue durée [DLD], étape indispensable pour vérifier leurs capacités et leurs caractéristiques militaires dans différents environnements. Plus...\nCet article Le sous-marin nucléaire d’attaque De Grasse a été officiellement admis au service actif est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "Dans la défense, le rapprochement entre le Canada et l’Union européenne prend corps",
@@ -364,13 +371,6 @@
       "link": "https://forcesoperations.com/koalijca-26-2-premier-test-grandeur-nature-pour-la-coalition-des-volontaires/",
       "pubDate": "2026-11-09T14:33:13.000Z",
       "description": "C'est l'heure de vérité pour une dizaine de pays de la Coalition des volontaires. L'exercice Koalicja 26.2 démarre aujourd’hui, un premier exercice grandeur nature pour cette force multinationale chargée de garantir l'intégrité de l'Ukraine en cas d'arrêt des hostilités avec la Russie. \nThe post Koalijca 26.2 : premier test grandeur nature pour la Coalition des volontaires appeared first on FOB - Forces Operations Blog.",
-      "sourceKey": "fob"
-    },
-    {
-      "title": "Contrat record pour les équipes belges de Thales",
-      "link": "https://forcesoperations.com/contrat-record-pour-les-equipes-belges-de-thales/",
-      "pubDate": "2026-11-07T11:08:36.000Z",
-      "description": "Thales Belgium livrera plusieurs centaines de paniers de roquettes supplémentaires à l'Inde, une commande au volume record pour une filiale également en passe d'y localiser une capacité de production. \nThe post Contrat record pour les équipes belges de Thales appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
     },
     {
