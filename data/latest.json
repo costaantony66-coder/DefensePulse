@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:55:05.675Z",
+  "generatedAt": "2026-11-25T06:28:33.490Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,55 @@
     }
   ],
   "items": [
+    {
+      "title": "La Marine veut renommer un porte-avions dédié à un héros de guerre noir pour l’appeler Trump : « c’est une insulte à sa mémoire »",
+      "link": "https://armees.com/la-marine-veut-renommer-un-porte-avions-dedie-a-un-heros-de-guerre-noir-pour-lappeler-trump-cest-une-insulte-a-sa-memoire/",
+      "pubDate": "2026-11-25T06:05:25.000Z",
+      "description": "Pearl Harbor, héroïsme, hommage effacé : le porte-avions dédié à Doris Miller pourrait bientôt porter un tout autre nom. Une première historique qui divise jusqu'au sein même de la Navy.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Sabotages russes : le MI5 alerte les industriels de défense qui arment l’Ukraine",
+      "link": "https://armees.com/mi5-sabotages-russes-industrie-defense-ukraine/",
+      "pubDate": "2026-11-25T06:00:00.000Z",
+      "description": "Le 24 novembre 2026, le renseignement intérieur britannique et le ministère de la Défense ont appelé les entreprises qui fournissent du matériel aux forces ukrainiennes à renforcer leur sécurité. L'alerte intervient trois jours après l'annonce d'accords permettant à l'Ukraine de produire des drones sur le sol britannique.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Essais nucléaires : le Royaume-Uni va enquêter sur les dossiers médicaux de ses vétérans",
+      "link": "https://armees.com/essais-nucleaires-royaume-uni-dossiers-medicaux-veterans/",
+      "pubDate": "2026-11-25T06:00:00.000Z",
+      "description": "Andy Burnham a annoncé le 24 novembre 2026 la création d’une commission indépendante chargée d’examiner les conséquences des essais nucléaires britanniques pour les vétérans et leurs familles. Les archives des forces armées, dont certaines ont été détruites jusqu’en 2025, devraient occuper une place importante dans ses travaux.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Prise d’otages en Colombie : l’armée et les forces spéciales mobilisées à Carthagène",
+      "link": "https://armees.com/prise-otages-colombie-armee-forces-speciales-carthagene/",
+      "pubDate": "2026-11-25T05:30:00.000Z",
+      "description": "Les forces armées colombiennes ont été mobilisées aux côtés de la police nationale le 24 novembre 2026 pour faire face à une prise d'otages dans un supermarché de Carthagène. Le ministre de la Défense, Jorge Mora, et les hauts responsables militaires et policiers participent à la gestion de la crise. Une vingtaine de civils restaient retenus selon le dernier bilan de la police.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "C4 contrefait : comment une fraude sur les explosifs menace les drones ukrainiens",
+      "link": "https://armees.com/explosifs-contrefaits-drones-ukraine-risques-operationnels/",
+      "pubDate": "2026-11-25T05:23:00.000Z",
+      "description": "Le ministère britannique de la Défense a fourni pendant trois ans à l'Ukraine des explosifs EDC-4 dont la composition divergeait des spécifications annoncées. Les tests ont révélé du PETN pur au lieu du mélange RDX-PETN promis, créant des risques opérationnels pour les drones d'attaque ukrainiens. Malgré la détection de cette fraude, les achats ont continué, soulevant des questions sur le contrôle qualité des chaînes d'approvisionnement militaires accélérées.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Guerre électronique : un navire russe soupçonné d’avoir brouillé le GPS de 140 avions en mer du Nord",
+      "link": "https://armees.com/guerre-electronique-navire-russe-brouillage-gps-140-avions-mer-du-nord/",
+      "pubDate": "2026-11-25T05:20:00.000Z",
+      "description": "Le passage d'un convoi russe en mer du Nord, le 9 novembre 2026, intrigue les spécialistes de la guerre électronique. Ce soir-là, quelque 140 avions ont subi des perturbations de leur navigation par satellite. La piste militaire est prise au sérieux au Royaume-Uni, où l'affaire a fait réagir le Parlement le 24 novembre.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Shenzhou 24 : la Chine consolide son influence spatiale avec le Pakistan",
+      "link": "https://armees.com/shenzhou-24-chine-pakistan-strategie-spatiale-geopolitique/",
+      "pubDate": "2026-11-25T05:00:52.000Z",
+      "description": "Le lancement de Shenzhou 24 ce 25 novembre 2026 marque un tournant géopolitique majeur : pour la première fois, la Chine envoie un astronaute étranger, le Pakistanais Muhammad Zeeshan Ali, à bord de sa station Tiangong.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "L’armée ukrainienne a mis en service le véhicule de combat d’infanterie KF-41 Lynx de Rheinmetall",
       "link": "https://www.opex360.com/2026/11/24/larmee-ukrainienne-a-mis-en-service-le-vehicule-de-combat-dinfanterie-kf-41-lynx-de-rheinmetall/",
@@ -129,41 +178,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Des images satellites dévoilent le destin du navire de guerre russe frappé par des drones ukrainiens en Libye",
-      "link": "https://armees.com/des-images-satellites-devoilent-le-destin-du-navire-de-guerre-russe-frappe-par-des-drones-ukrainiens-en-libye/",
-      "pubDate": "2026-11-24T06:35:57.000Z",
-      "description": "À plus de 2 400 km du front, des drones ukrainiens coulent une corvette russe flambant neuve en Libye. Un hélicoptère et un cargo d'armes visés aussi. Comment Kyiv a-t-elle frappé si loin ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Minerais critiques : la riposte française à l’emprise chinoise",
-      "link": "https://armees.com/minerais-critiques-france-2027-emmanuel-macron-pilotee-strategiques-stocks/",
-      "pubDate": "2026-11-24T06:33:00.000Z",
-      "description": "Emmanuel Macron a annoncé lundi 23 novembre 2026 la création de stocks stratégiques de minerais critiques, inspirés des réserves pétrolières.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’Armée américaine dévoile un plan pour disperser des tonnes de poussière de plomb dans l’atmosphère, obligeant des centaines de personnes à évacuer",
-      "link": "https://armees.com/larmee-americaine-devoile-un-plan-pour-disperser-des-tonnes-de-poussiere-de-plomb-dans-latmosphere-obligeant-des-centaines-de-personnes-a-evacuer/",
-      "pubDate": "2026-11-24T06:05:18.000Z",
-      "description": "4,5 tonnes d'azoture de plomb instable, 400 habitants évacués, écoles fermées... En Iowa, une détonation sous haute tension divise l'armée, la justice et les riverains. Aura-t-elle vraiment lieu mercredi ?",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La Russie veut-elle mettre une arme nucléaire sur orbite ?",
-      "link": "https://armees.com/sputnik-s-arme-nucleaire-orbite-menace-otan/",
-      "pubDate": "2026-11-24T04:55:06.000Z",
-      "description": "Les services de renseignement occidentaux alertent sur le lancement imminent d'un satellite nucléaire armé russe, Sputnik-S, potentiellement prévu avant fin décembre 2026.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Industrie de défense : ce que l’Europe simplifie dès maintenant, et ce qui attendra 2028",
-      "link": "https://armees.com/industrie-defense-ue-simplification-calendrier-2026-2028/",
-      "pubDate": "2026-11-23T22:28:01.000Z",
-      "description": "Trois textes européens entrent en vigueur le 23 novembre 2026. Mais entre les règles de financement, les autorisations industrielles et les marchés publics de défense, les échéances ne sont pas les mêmes.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "Thales va livrer des radars d’approche primaires et secondaires à la force aérienne néerlandaise",
       "link": "https://www.opex360.com/2026/11/23/thales-va-livrer-des-radars-dapproche-primaires-et-secondaires-a-la-force-aerienne-neerlandaise/",
       "pubDate": "2026-11-23T18:09:12.000Z",
@@ -190,20 +204,6 @@
       "pubDate": "2026-11-23T16:05:22.000Z",
       "description": "En octobre, la France et les Émirats arabes unis ont signé un accord intergouvernemental portant sur le développement du standard F5 du Rafale. Ce qui était inespéré il y a encore quelques mois, les discussions sur une possible participation financière émirienne dans ce programme n’ayant pas abouti, faute de consensus sur un éventuel accès aux...\nCet article L’accord signé par la France et les Émirats arabes unis sur le Rafale F5 se concentrera sur le moteur T-REX et les capteurs est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Rafale sur autoroute : en Finlande, l’armée se fait aussi observer depuis l’espace",
-      "link": "https://armees.com/rafale-sur-autoroute-finlande-satellites-iceye/",
-      "pubDate": "2026-11-23T14:30:00.000Z",
-      "description": "Des Rafale français qui atterrissent sur une route nationale, c'est déjà inhabituel. Mais pendant que les pilotes apprennent à utiliser ces pistes de secours, l'armée finlandaise reçoit des images satellites de ses propres déploiements. L'objectif est de comprendre ce qu'un adversaire pourrait voir depuis l'espace.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Pétrole : les cours baissent malgré les attaques dans le Golfe",
-      "link": "https://armees.com/petrole-cours-baissent-malgre-attaques-golfe-23-novembre-2026/",
-      "pubDate": "2026-11-23T13:50:00.000Z",
-      "description": "Le prix du Brent a reculé à 90,95 dollars le baril ce lundi 23 novembre 2026, alors même que les attaques contre les navires et les infrastructures énergétiques se poursuivent au Moyen-Orient. Le marché pétrolier retrouve progressivement davantage de volumes disponibles, sans que la menace militaire pesant sur les routes maritimes ait disparu.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Les forces ukrainiennes ont coulé une corvette russe dans le port de Benghazi, en Libye",
