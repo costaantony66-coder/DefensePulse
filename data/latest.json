@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T17:34:56.694Z",
+  "generatedAt": "2026-11-26T01:07:50.969Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Industrie de défense : pourquoi plus de commandes ne signifie pas plus de livraisons",
+      "link": "https://armees.com/kpmg-deal-defense-commandes-tresorerie-production/",
+      "pubDate": "2026-11-25T18:33:57.000Z",
+      "description": "Dans son étude Deal in Défense, présentée le 20 novembre 2026, KPMG met en lumière un paradoxe industriel : la hausse des commandes peut fragiliser la trésorerie des entreprises qui doivent les honorer.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Armée de Terre : Le Véhicule blindé d’aide à l’engagement vient de franchir une étape… mais sans garantie sur son avenir",
+      "link": "https://www.opex360.com/2026/11/25/armee-de-terre-le-vehicule-blinde-daide-a-lengagement-vient-de-franchir-une-etape-mais-sans-garantie-sur-son-avenir/",
+      "pubDate": "2026-11-25T18:30:01.000Z",
+      "description": "Quand il était encore chef d’état-major de l’armée de Terre [CEMAT], en avril dernier, le général Pierre Schill avait confié, lors d’une audition à l’Assemblée nationale, que le programme franco-belge de Véhicule blindé d’aide à l’engagement [VBAE], lancé pour remplacer le Véhicule blindé léger [VBL], ne satisfaisait pas en l’état. «La proposition qui nous est...\nCet article Armée de Terre : Le Véhicule blindé d’aide à l’engagement vient de franchir une étape… mais sans garantie sur son avenir est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
+    {
+      "title": "Huawei reconnu coupable de vol de secrets industriels aux États-Unis",
+      "link": "https://armees.com/huawei-espionnage-secrets-telecoms-securite-nationale/",
+      "pubDate": "2026-11-25T17:56:42.000Z",
+      "description": "Un jury fédéral de Brooklyn a reconnu Huawei coupable de 10 chefs d'accusation après 11 semaines de procès révélant 20 ans d'espionnage industriel systématique. Plus de 60 témoins ont exposé les méthodes d'infiltration du géant chinois contre T-Mobile, Cisco et Motorola, ainsi que son rôle dans la censure iranienne. Le verdict dévoile les vulnérabilités des infrastructures télécoms américaines et impose un durcissement des protocoles de sécurité face aux menaces hybrides chinoises.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "L’Aviation royale canadienne mise sur le F-35 associé à des drones… et non sur le Gripen E/F",
+      "link": "https://www.opex360.com/2026/11/25/laviation-royale-canadienne-mise-sur-le-f-35-associe-a-des-drones-et-non-sur-le-gripen-e-f/",
+      "pubDate": "2026-11-25T17:38:00.000Z",
+      "description": "En mars 2025, ses relations avec l’administration Trump étant glaciales, le gouvernement canadien fit savoir qu’il allait «reconsidérer» son plan visant à acquérir 88 chasseurs-bombardiers F-35A auprès de Lockheed Martin et étudier «activement les alternatives potentielles» en ouvrant des discussions avec des «constructeurs d’avions rivaux». En clair, il s’agissait de remettre le suédois Saab dans...\nCet article L’Aviation royale canadienne mise sur le F-35 associé à des drones… et non sur le Gripen E/F est apparu en premier sur Zone Militaire.",
+      "sourceKey": "opex"
+    },
     {
       "title": "L’armée américaine fait exploser des tonnes de matériel militaire vieillissant et toxique ; des habitants appelés à évacuer face aux risques de pollution",
       "link": "https://www.lemonde.fr/international/article/2026/11/25/l-armee-americaine-fait-exploser-des-tonnes-de-materiel-militaire-vieillissant-et-toxique_6815143_3210.html",
@@ -55,7 +83,7 @@
       "title": "Une frégate française intercepte un importante cargaison de méthamphétamines près de l’atoll de Clipperton",
       "link": "https://www.opex360.com/2026/11/25/une-fregate-francaise-intercepte-un-importante-cargaison-de-methamphetamines-pres-de-latoll-de-clipperton/",
       "pubDate": "2026-11-25T12:01:58.000Z",
-      "description": "Quelques jours après avoir arraisonné un semi-submersible transportant de la cocaïne de type SPSS [Self-Propelled Semi-Submersible] transportant «plusieurs tonnes» de cocaïne dans l’océan Atlantique, la Marine nationale vient de porter un nouveau coup aux narcotrafiquants en interceptant un pétrolier léger avec 3,3 tonnes de méthamphétamines à son bord, alors qu’il naviguait dans les environs de...\nCet article Une frégate française intercepte un importante cargaison de méthamphétamines près de l’atoll de Clipperton est apparu en premier sur Zone Militaire.",
+      "description": "Quelques jours après avoir arraisonné un semi-submersible de type SPSS [Self-Propelled Semi-Submersible] transportant «plusieurs tonnes» de cocaïne dans l’océan Atlantique, la Marine nationale vient de porter un nouveau coup aux narcotrafiquants en interceptant un pétrolier léger avec 3,3 tonnes de méthamphétamines à son bord, alors qu’il naviguait dans les environs de l’atoll de Clipperton, possession...\nCet article Une frégate française intercepte un importante cargaison de méthamphétamines près de l’atoll de Clipperton est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
     },
     {
@@ -185,20 +213,6 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Ukraine : une soixantaine de missiles Patriot toujours suspendus à une décision du Pentagone",
-      "link": "https://armees.com/ukraine-patriot-missiles-autorisation-pentagone-novembre-2026/",
-      "pubDate": "2026-11-24T10:30:00.000Z",
-      "description": "L’Ukraine ne demande pas seulement aux pays occidentaux de lui fournir davantage de missiles Patriot. Elle attend aussi ceux dont la livraison était déjà prévue : selon le Financial Times, une soixantaine d’intercepteurs n’ont toujours pas reçu le feu vert du Pentagone.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "L’UE présente son 22e paquet de sanctions contre la Russie",
-      "link": "https://armees.com/sanctions-paquet-union-europeenne-russie/",
-      "pubDate": "2026-11-24T09:36:23.000Z",
-      "description": "Le 22e paquet de sanctions de l'UE contre la Russie, présenté le 23 novembre 2026, introduit une dimension inédite : interdiction de visas aux anciens combattants et bannissement des athlètes russes des compétitions européennes. Ces mesures visent à isoler et démobiliser les forces armées russes par des instruments de guerre asymétrique, en réaction à la tentative d'attaque au drone sur l'aéroport de Leipzig.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "La difficile quête de souveraineté de la filière drones, dépendante de composants critiques chinois",
       "link": "https://www.lemonde.fr/economie/article/2026/11/24/la-difficile-quete-de-souverainete-de-la-filiere-drones-dependante-de-composants-critiques-chinois_6814731_3234.html",
       "pubDate": "2026-11-24T09:30:05.000Z",
@@ -225,20 +239,6 @@
       "pubDate": "2026-11-23T17:13:09.000Z",
       "description": "La Force Terrestre belge n'a plus le temps d'attendre. Plutôt que d'aborder le sujet après 2030, elle engagera dès l'an prochain la transformation de l'une de ses deux brigades en brigade légère, pour un surplus cohérence et, surtout, pour répondre au plus vite aux caps fixés avec l'OTAN.  S'adapter sans attendre « Nos adversaires deviennent plus […]\nThe post Robots, infanterie légère et changement de braquet pour la Force Terrestre belge appeared first on FOB - Forces Operations Blog.",
       "sourceKey": "fob"
-    },
-    {
-      "title": "L’accord signé par la France et les Émirats arabes unis sur le Rafale F5 se concentrera sur le moteur T-REX et les capteurs",
-      "link": "https://www.opex360.com/2026/11/23/laccord-signe-par-la-france-et-les-emirats-arabes-unis-sur-le-rafale-f5-se-concentrera-sur-le-moteur-t-rex-et-les-capteurs/",
-      "pubDate": "2026-11-23T16:05:22.000Z",
-      "description": "En octobre, la France et les Émirats arabes unis ont signé un accord intergouvernemental portant sur le développement du standard F5 du Rafale. Ce qui était inespéré il y a encore quelques mois, les discussions sur une possible participation financière émirienne dans ce programme n’ayant pas abouti, faute de consensus sur un éventuel accès aux...\nCet article L’accord signé par la France et les Émirats arabes unis sur le Rafale F5 se concentrera sur le moteur T-REX et les capteurs est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
-    },
-    {
-      "title": "Les forces ukrainiennes ont coulé une corvette russe dans le port de Benghazi, en Libye",
-      "link": "https://www.opex360.com/2026/11/23/les-forces-ukrainiennes-ont-coule-une-corvette-russe-dans-le-port-de-benghazi-en-libye/",
-      "pubDate": "2026-11-23T11:55:38.000Z",
-      "description": "Le 21 novembre, comme la corvette Naro-Fominsk une semaine plus tôt, le cargo Sparta II, exploité par la société Oboronlogistika, liée au ministère russe de la Défense, a été touché par des drones d’attaque alors qu’il naviguait dans les eaux internationales du golfe de Finlande. Un incendie s’étant déclaré à son bord, le navire a...\nCet article Les forces ukrainiennes ont coulé une corvette russe dans le port de Benghazi, en Libye est apparu en premier sur Zone Militaire.",
-      "sourceKey": "opex"
     },
     {
       "title": "A Genève, la communauté internationale échoue à interdire les robots tueurs",
