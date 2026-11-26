@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T01:07:50.969Z",
+  "generatedAt": "2026-11-26T09:35:15.397Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,62 @@
     }
   ],
   "items": [
+    {
+      "title": "Réseaux privés : l’ANSSI rappelle que le chiffrement ne va pas de soi",
+      "link": "https://armees.com/anssi-reseaux-prives-chiffrement-liaisons-inter-sites-20261125/",
+      "pubDate": "2026-11-26T07:37:10.000Z",
+      "description": "Le 25 novembre 2026, le CERT-FR a publié des recommandations à l’intention des clients des réseaux privés. Le contrat passé avec l’opérateur mérite une relecture : la confidentialité des échanges et la disponibilité du réseau sont deux questions différentes.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Après avoir franchi un jalon historique, Voyager 1 pourrait rencontrer des difficultés",
+      "link": "https://armees.com/apres-avoir-franchi-un-jalon-historique-voyager-1-pourrait-rencontrer-des-difficultes/",
+      "pubDate": "2026-11-26T07:05:59.000Z",
+      "description": "A 26 milliards de kilomètres, Voyager 1 vient de franchir un cap historique... mais reste étrangement silencieuse. Panne mystérieuse, signal vide, instruments éteints : la NASA cherche encore ce qui cloche vraiment là-haut.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La guerre de Poutine dérape complètement, il doit faire face à un jugement",
+      "link": "https://armees.com/la-guerre-de-poutine-derape-completement-il-doit-faire-face-a-un-jugement/",
+      "pubDate": "2026-11-26T06:35:31.000Z",
+      "description": "Une tentative de sabotage, un pont surnommé « l'Amitié », et des familles séparées en urgence. L'Estonie ferme sa frontière avec la Russie : six mois qui bousculent déjà des milliers de vies.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Un soldat russe tué toutes les quatre minutes 720 000 pertes depuis le début de la guerre en Ukraine, selon de nouvelles données",
+      "link": "https://armees.com/un-soldat-russe-tue-toutes-les-quatre-minutes-720-000-pertes-depuis-le-debut-de-la-guerre-en-ukraine-selon-de-nouvelles-donnees/",
+      "pubDate": "2026-11-26T06:05:41.000Z",
+      "description": "Près de 720 000 soldats russes tués, un décès toutes les quatre minutes : des données piratées révèlent l'ampleur réelle d'un bilan que le Kremlin cachait depuis des années. Les chiffres détaillés vont vous glacer.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pologne : une zone d’exclusion aérienne pour contrer les violations russes",
+      "link": "https://armees.com/zone-exclusion-aerienne-pologne-defenses-techniques-2026/",
+      "pubDate": "2026-11-26T06:04:00.000Z",
+      "description": "Face aux violations aériennes russes répétées, la Pologne instaure une zone d'exclusion aérienne le long de sa frontière orientale avec l'Ukraine. Opérationnelle fin décembre 2026, elle permettra l'interception automatique de tout projectile hostile sur plusieurs dizaines de kilomètres. Une réponse technique et stratégique après la chute de trois missiles Ch-101 sur le territoire polonais le 21 novembre.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Mobilité militaire : les chefs d’état-major européens veulent lever les obstacles administratifs d’ici 2027",
+      "link": "https://armees.com/ue-mobilite-militaire-chefs-etat-major-2027/",
+      "pubDate": "2026-11-26T05:33:30.000Z",
+      "description": "Réunis à Bruxelles le 25 novembre 2026, les chefs d’état-major des armées de l’Union européenne ont demandé d’accélérer la préparation de la défense commune, notamment en matière de mobilité militaire. Un objectif administratif pour 2027 qui ne doit pas être confondu avec les investissements envisagés dans le prochain budget européen.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Datacenters spatiaux : la FCC autorise la constellation de SpaceX",
+      "link": "https://armees.com/satellites-commission-starmind-spacex-deployer-million-autorisee/",
+      "pubDate": "2026-11-26T04:56:00.000Z",
+      "description": "La Commission fédérale des communications autorise SpaceX à déployer jusqu'à un million de satellites pour créer des centres de données orbitaux. Cette constellation baptisée Starmind vise à traiter les données d'intelligence artificielle depuis l'espace en exploitant l'énergie solaire constante, malgré les vives critiques d'organisations scientifiques inquiètes des impacts environnementaux et astronomiques.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Nvidia : le Pentagone aurait envisagé une loi de guerre pour réinstaller Jensen Huang",
+      "link": "https://armees.com/nvidia-pentagone-loi-guerre-jensen-huang/",
+      "pubDate": "2026-11-26T04:45:00.000Z",
+      "description": "Jusqu'où les États-Unis sont-ils prêts à aller pour préserver leur avance dans l'intelligence artificielle ? Selon une enquête publiée le 25 novembre 2026 par le Washington Post, des responsables du Pentagone auraient envisagé de recourir à une loi datant de la guerre de Corée pour favoriser le retour de Jensen Huang à la tête de Nvidia.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Industrie de défense : pourquoi plus de commandes ne signifie pas plus de livraisons",
       "link": "https://armees.com/kpmg-deal-defense-commandes-tresorerie-production/",
@@ -122,48 +178,6 @@
       "sourceKey": "armees_com"
     },
     {
-      "title": "Essais nucléaires : le Royaume-Uni va enquêter sur les dossiers médicaux de ses vétérans",
-      "link": "https://armees.com/essais-nucleaires-royaume-uni-dossiers-medicaux-veterans/",
-      "pubDate": "2026-11-25T06:00:00.000Z",
-      "description": "Andy Burnham a annoncé le 24 novembre 2026 la création d’une commission indépendante chargée d’examiner les conséquences des essais nucléaires britanniques pour les vétérans et leurs familles. Les archives des forces armées, dont certaines ont été détruites jusqu’en 2025, devraient occuper une place importante dans ses travaux.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Sabotages russes : le MI5 alerte les industriels de défense qui arment l’Ukraine",
-      "link": "https://armees.com/mi5-sabotages-russes-industrie-defense-ukraine/",
-      "pubDate": "2026-11-25T06:00:00.000Z",
-      "description": "Le 24 novembre 2026, le renseignement intérieur britannique et le ministère de la Défense ont appelé les entreprises qui fournissent du matériel aux forces ukrainiennes à renforcer leur sécurité. L'alerte intervient trois jours après l'annonce d'accords permettant à l'Ukraine de produire des drones sur le sol britannique.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Prise d’otages en Colombie : l’armée et les forces spéciales mobilisées à Carthagène",
-      "link": "https://armees.com/prise-otages-colombie-armee-forces-speciales-carthagene/",
-      "pubDate": "2026-11-25T05:30:00.000Z",
-      "description": "Les forces armées colombiennes ont été mobilisées aux côtés de la police nationale le 24 novembre 2026 pour faire face à une prise d'otages dans un supermarché de Carthagène. Le ministre de la Défense, Jorge Mora, et les hauts responsables militaires et policiers participent à la gestion de la crise. Une vingtaine de civils restaient retenus selon le dernier bilan de la police.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "C4 contrefait : comment une fraude sur les explosifs menace les drones ukrainiens",
-      "link": "https://armees.com/explosifs-contrefaits-drones-ukraine-risques-operationnels/",
-      "pubDate": "2026-11-25T05:23:00.000Z",
-      "description": "Le ministère britannique de la Défense a fourni pendant trois ans à l'Ukraine des explosifs EDC-4 dont la composition divergeait des spécifications annoncées. Les tests ont révélé du PETN pur au lieu du mélange RDX-PETN promis, créant des risques opérationnels pour les drones d'attaque ukrainiens. Malgré la détection de cette fraude, les achats ont continué, soulevant des questions sur le contrôle qualité des chaînes d'approvisionnement militaires accélérées.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Guerre électronique : un navire russe soupçonné d’avoir brouillé le GPS de 140 avions en mer du Nord",
-      "link": "https://armees.com/guerre-electronique-navire-russe-brouillage-gps-140-avions-mer-du-nord/",
-      "pubDate": "2026-11-25T05:20:00.000Z",
-      "description": "Le passage d'un convoi russe en mer du Nord, le 9 novembre 2026, intrigue les spécialistes de la guerre électronique. Ce soir-là, quelque 140 avions ont subi des perturbations de leur navigation par satellite. La piste militaire est prise au sérieux au Royaume-Uni, où l'affaire a fait réagir le Parlement le 24 novembre.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Shenzhou 24 : la Chine consolide son influence spatiale avec le Pakistan",
-      "link": "https://armees.com/shenzhou-24-chine-pakistan-strategie-spatiale-geopolitique/",
-      "pubDate": "2026-11-25T05:00:52.000Z",
-      "description": "Le lancement de Shenzhou 24 ce 25 novembre 2026 marque un tournant géopolitique majeur : pour la première fois, la Chine envoie un astronaute étranger, le Pakistanais Muhammad Zeeshan Ali, à bord de sa station Tiangong.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’armée ukrainienne a mis en service le véhicule de combat d’infanterie KF-41 Lynx de Rheinmetall",
       "link": "https://www.opex360.com/2026/11/24/larmee-ukrainienne-a-mis-en-service-le-vehicule-de-combat-dinfanterie-kf-41-lynx-de-rheinmetall/",
       "pubDate": "2026-11-24T18:51:03.000Z",
@@ -190,20 +204,6 @@
       "pubDate": "2026-11-24T15:56:46.000Z",
       "description": "Qu’elles émanent d’acteurs non étatiques, comme les groupes terroristes, ou d’États, y compris ceux ayant signé des traités visant à les empêcher, les menaces NRBC [pour nucléaire, radiologique, biologique et chimique] n’ont cessé de prendre de l’ampleur au cours de ces dernières années. «Depuis une dizaine d’années, l’évolution de la situation internationale se traduit par...\nCet article La Section technique de l’armée de Terre évalue de nouveaux équipements de protection contre les menaces NRBC est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Cybersécurité : l’ANSSI propose deux parcours pour aider les organisations à se protéger",
-      "link": "https://armees.com/anssi-messervicescyber-parcours-cybersecurite-nis2/",
-      "pubDate": "2026-11-24T15:32:43.000Z",
-      "description": "Le 23 novembre 2026, l’ANSSI a présenté son nouveau parcours gratuit sur MesServicesCyber. De quoi aider les entreprises, y compris les sous-traitants de la défense, à organiser leur protection numérique sans attendre la fin de la transposition de NIS 2.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Cyberdéfense : l’Italie observe des attaques par IA menées à grande échelle en quelques heures",
-      "link": "https://armees.com/cyberdefense-italie-attaques-ia-agentique/",
-      "pubDate": "2026-11-24T15:00:00.000Z",
-      "description": "L'Italie a confirmé, le 23 novembre 2026, avoir observé sur son territoire des campagnes informatiques offensives exécutées à l'aide d'agents autonomes d'intelligence artificielle. La capacité à multiplier les opérations sans mobiliser davantage de spécialistes humains est un enjeu majeur pour la défense des infrastructures stratégiques.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Les deux satellites patrouilleurs français «YODA» vont-ils être lancés par les américains SpaceX et Impulse Space ?",
