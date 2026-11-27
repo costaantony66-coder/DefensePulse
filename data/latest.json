@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T02:14:11.131Z",
+  "generatedAt": "2026-11-27T10:55:52.205Z",
   "sources": [
     {
       "key": "opex",
@@ -24,10 +24,80 @@
   ],
   "items": [
     {
+      "title": "Un drone entre brièvement en Lettonie, l’alerte levée après 25 minutes",
+      "link": "https://armees.com/otan-police-ciel-lettonie-interception-drone-2026/",
+      "pubDate": "2026-11-27T09:16:32.000Z",
+      "description": "Un drone non identifié a pénétré l'espace aérien letton dans la nuit du 27 novembre 2026. Chasseurs OTAN et intercepteur letton ont réagi en 25 minutes. Le bilan opérationnel révèle autant les capacités que les limites de la défense aérienne aux frontières orientales de l'Alliance atlantique, dans un contexte d'escalade liée à la guerre en Ukraine.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Aide militaire à l’Ukraine, Manon Aubry veut la maintenir jusqu’à un accord de paix",
+      "link": "https://armees.com/armes-longue-portee-ukraine-strategie-militaire-lfi/",
+      "pubDate": "2026-11-27T09:05:43.000Z",
+      "description": "Sur franceinfo, Manon Aubry dit que LFI maintiendrait l’aide militaire à l'Ukraine jusqu’à un accord de paix, avec une limite sur les armes de longue portée.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La Finlande commande 160 CV90 MKIV pour remplacer ses blindés soviétiques",
+      "link": "https://armees.com/cv90-mkiv-nordic-edition-specifications-armement/",
+      "pubDate": "2026-11-27T08:53:05.000Z",
+      "description": "La Finlande acquiert 160 véhicules de combat CV90 MKIV Nordic Edition pour 2,8 milliards d'euros, remplaçant définitivement ses 110 blindés BMP-2MD d'origine soviétique. Doté d'un moteur Scania de 1.000 chevaux et de capacités antidrones, ce blindé de 38 tonnes marque l'intégration opérationnelle complète du pays dans l'OTAN, trois ans après son adhésion.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Frecce Tricolori : après 44 ans, l’Italie dévoile le successeur du MB-339",
+      "link": "https://armees.com/frecce-tricolori-leonardo-m346-pan-mb339/",
+      "pubDate": "2026-11-27T08:00:00.000Z",
+      "description": "Le jeudi 26 novembre 2026, Leonardo a présenté le premier M-346 PAN, l’avion qui équipera la patrouille acrobatique italienne. Plus puissant que son prédécesseur, il doit également permettre aux pilotes de revoir une partie de leur programme de voltige. Mais le MB-339 n’a pas encore terminé sa carrière.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Trois Rafale français se posent sur une route finlandaise : les pilotes racontent pourquoi cet exercice change tout pour l’OTAN",
+      "link": "https://armees.com/trois-rafale-francais-se-posent-sur-une-route-finlandaise-les-pilotes-racontent-pourquoi-cet-exercice-change-tout-pour-lotan/",
+      "pubDate": "2026-11-27T07:05:05.000Z",
+      "description": "Neige, route fermée, chasseurs sans armes : des Rafale français viennent de réussir un pari jamais tenté en Finlande. Neuf ans après les Mirage 2000, la France réapprend à disperser son armée de l'air.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Le Japon vient de tirer 10 coups de railgun alimenté par batterie : les ingénieurs militaires confirment que c’est une première mondiale",
+      "link": "https://armees.com/le-japon-vient-de-tirer-10-coups-de-railgun-alimente-par-batterie-les-ingenieurs-militaires-confirment-que-cest-une-premiere-mondiale/",
+      "pubDate": "2026-11-27T06:35:01.000Z",
+      "description": "Dix tirs, une seconde dix fois sur batteries seulement : le Japon résout ce que les États-Unis ont abandonné après 500 millions de dollars. Son secret électrique pourrait changer la donne navale mondiale.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "En Suisse, une industrie du drone de défense bridée par la neutralité",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/27/en-suisse-une-industrie-du-drone-de-defense-bridee-par-la-neutralite_6815811_3234.html",
+      "pubDate": "2026-11-27T06:30:10.000Z",
+      "description": "Les électeurs de la Confédération doivent se prononcer dimanche sur un assouplissement de la loi sur le matériel de guerre qui limite les exportations. L’issue du scrutin intéresse particulièrement les 80 start-up helvétiques actives dans le secteur des drones, en plein développement depuis l’invasion russe en Ukraine.",
+      "sourceKey": "geo"
+    },
+    {
+      "title": "Deux espèces inédites de tardigrades trouvées sur une montagne sous-marine proche de l’Afrique, où 20 variétés ont été recensées par les chercheurs",
+      "link": "https://armees.com/deux-especes-inedites-de-tardigrades-trouvees-sur-une-montagne-sous-marine-proche-de-lafrique-ou-20-varietes-ont-ete-recensees-par-les-chercheurs/",
+      "pubDate": "2026-11-27T06:05:47.000Z",
+      "description": "Deux créatures microscopiques viennent d'être découvertes sur un volcan englouti au large du Cap-Vert. L'une d'elles bat un record de profondeur jamais observé chez son espèce. Une simple montagne sous-marine cacherait-elle un véritable trésor de biodiversité ?",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Koweït : deux techniciens de Rheinmetall tués alors qu’ils entretenaient la défense antiaérienne",
+      "link": "https://armees.com/koweit-deux-techniciens-rheinmetall-tues-defense-antiaerienne/",
+      "pubDate": "2026-11-27T06:03:00.000Z",
+      "description": "Deux salariés italiens de Rheinmetall sont morts le 26 novembre 2026 au Koweït. Ils intervenaient pour la maintenance d'un système de défense antiaérienne des forces armées du pays. Rome et Koweït attribuent l'attaque à l'Iran, qui dément.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "F-16 ukrainiens : comment 621,9 millions vont restaurer la disponibilité opérationnelle",
+      "link": "https://armees.com/f16-maintenance-disponibilite-flotte-ukraine-defense-aerienne/",
+      "pubDate": "2026-11-27T05:49:12.000Z",
+      "description": "Plus de 50% de la flotte F-16 ukrainienne est immobilisée pour maintenance depuis octobre 2026. Washington a approuvé le 25 novembre la vente de 621,9 millions de dollars en pièces détachées et équipements d'entretien, financée par quatre pays européens via le programme JUMPSTART. Ce package vise à restaurer la capacité de défense aérienne face aux frappes russes massives.",
+      "sourceKey": "armees_com"
+    },
+    {
       "title": "En Europe, seules la France et la Pologne s’inquiètent du réarmement allemand",
       "link": "https://www.lemonde.fr/international/article/2026/11/26/en-europe-seules-la-france-et-la-pologne-s-inquietent-du-rearmement-allemand_6815598_3210.html",
-      "pubDate": "2026-11-26T20:02:57.000Z",
-      "description": "Selon une étude du German Marshall Fund, publiée jeudi et intitulée « la question allemande revisitée », la grande majorité des pays européens soutiennent, voire encouragent, les ambitions de Berlin en matière de défense.",
+      "pubDate": "2026-11-26T20:02:54.000Z",
+      "description": "Selon une étude du German Marshall Fund, publiée jeudi et intitulée « La Question allemande revisitée », la grande majorité des pays européens soutiennent, voire encouragent, les ambitions de Berlin en matière de défense.",
       "sourceKey": "geo"
     },
     {
@@ -119,69 +189,6 @@
       "link": "https://armees.com/iowa-plomb-destruction-munitions-obsoletes-armees/",
       "pubDate": "2026-11-26T08:54:20.000Z",
       "description": "L'armée américaine a procédé le 25 novembre 2026 à l'explosion contrôlée de 68 barils d'azoture de plomb stockés depuis 15 ans dans l'Iowa, totalisant plus de 4 tonnes de matériel militaire obsolète. Cette opération, rendue nécessaire par la dégradation critique du composé utilisé jadis dans les détonateurs, a forcé l'évacuation de 350 habitants et mobilisé un dispositif de confinement sans précédent. L'incident soulève la question de la gestion des stocks pyrotechniques vieillissants aux États-Unis.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Ukraine : le laser Blysk abat un drone Geran en conditions de combat",
-      "link": "https://armees.com/laser-antidrone-blysk-geran-doctrine-defense-aerienne/",
-      "pubDate": "2026-11-26T08:28:04.000Z",
-      "description": "Le 25 novembre 2026, le système laser ukrainien Blysk a détruit pour la première fois au monde un drone russe Geran en conditions opérationnelles. Développé par Carmine Sky, ce système de 4 kilowatts marque un tournant tactique dans la défense antiaérienne face aux menaces drones, malgré des limitations techniques et une production en série encore prématurée.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Réseaux privés : l’ANSSI rappelle que le chiffrement ne va pas de soi",
-      "link": "https://armees.com/anssi-reseaux-prives-chiffrement-liaisons-inter-sites-20261125/",
-      "pubDate": "2026-11-26T07:37:10.000Z",
-      "description": "Le 25 novembre 2026, le CERT-FR a publié des recommandations à l’intention des clients des réseaux privés. Le contrat passé avec l’opérateur mérite une relecture : la confidentialité des échanges et la disponibilité du réseau sont deux questions différentes.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Après avoir franchi un jalon historique, Voyager 1 pourrait rencontrer des difficultés",
-      "link": "https://armees.com/apres-avoir-franchi-un-jalon-historique-voyager-1-pourrait-rencontrer-des-difficultes/",
-      "pubDate": "2026-11-26T07:05:59.000Z",
-      "description": "A 26 milliards de kilomètres, Voyager 1 vient de franchir un cap historique... mais reste étrangement silencieuse. Panne mystérieuse, signal vide, instruments éteints : la NASA cherche encore ce qui cloche vraiment là-haut.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "La guerre de Poutine dérape complètement, il doit faire face à un jugement",
-      "link": "https://armees.com/la-guerre-de-poutine-derape-completement-il-doit-faire-face-a-un-jugement/",
-      "pubDate": "2026-11-26T06:35:31.000Z",
-      "description": "Une tentative de sabotage, un pont surnommé « l'Amitié », et des familles séparées en urgence. L'Estonie ferme sa frontière avec la Russie : six mois qui bousculent déjà des milliers de vies.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Un soldat russe tué toutes les quatre minutes 720 000 pertes depuis le début de la guerre en Ukraine, selon de nouvelles données",
-      "link": "https://armees.com/un-soldat-russe-tue-toutes-les-quatre-minutes-720-000-pertes-depuis-le-debut-de-la-guerre-en-ukraine-selon-de-nouvelles-donnees/",
-      "pubDate": "2026-11-26T06:05:41.000Z",
-      "description": "Près de 720 000 soldats russes tués, un décès toutes les quatre minutes : des données piratées révèlent l'ampleur réelle d'un bilan que le Kremlin cachait depuis des années. Les chiffres détaillés vont vous glacer.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Pologne : une zone d’exclusion aérienne pour contrer les violations russes",
-      "link": "https://armees.com/zone-exclusion-aerienne-pologne-defenses-techniques-2026/",
-      "pubDate": "2026-11-26T06:04:00.000Z",
-      "description": "Face aux violations aériennes russes répétées, la Pologne instaure une zone d'exclusion aérienne le long de sa frontière orientale avec l'Ukraine. Opérationnelle fin décembre 2026, elle permettra l'interception automatique de tout projectile hostile sur plusieurs dizaines de kilomètres. Une réponse technique et stratégique après la chute de trois missiles Ch-101 sur le territoire polonais le 21 novembre.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Mobilité militaire : les chefs d’état-major européens veulent lever les obstacles administratifs d’ici 2027",
-      "link": "https://armees.com/ue-mobilite-militaire-chefs-etat-major-2027/",
-      "pubDate": "2026-11-26T05:33:30.000Z",
-      "description": "Réunis à Bruxelles le 25 novembre 2026, les chefs d’état-major des armées de l’Union européenne ont demandé d’accélérer la préparation de la défense commune, notamment en matière de mobilité militaire. Un objectif administratif pour 2027 qui ne doit pas être confondu avec les investissements envisagés dans le prochain budget européen.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Datacenters spatiaux : la FCC autorise la constellation de SpaceX",
-      "link": "https://armees.com/satellites-commission-starmind-spacex-deployer-million-autorisee/",
-      "pubDate": "2026-11-26T04:56:00.000Z",
-      "description": "La Commission fédérale des communications autorise SpaceX à déployer jusqu'à un million de satellites pour créer des centres de données orbitaux. Cette constellation baptisée Starmind vise à traiter les données d'intelligence artificielle depuis l'espace en exploitant l'énergie solaire constante, malgré les vives critiques d'organisations scientifiques inquiètes des impacts environnementaux et astronomiques.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Nvidia : le Pentagone aurait envisagé une loi de guerre pour réinstaller Jensen Huang",
-      "link": "https://armees.com/nvidia-pentagone-loi-guerre-jensen-huang/",
-      "pubDate": "2026-11-26T04:45:00.000Z",
-      "description": "Jusqu'où les États-Unis sont-ils prêts à aller pour préserver leur avance dans l'intelligence artificielle ? Selon une enquête publiée le 25 novembre 2026 par le Washington Post, des responsables du Pentagone auraient envisagé de recourir à une loi datant de la guerre de Corée pour favoriser le retour de Jensen Huang à la tête de Nvidia.",
       "sourceKey": "armees_com"
     },
     {
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/economie/article/2026/11/06/l-allemagne-va-entrer-au-capital-de-knds-et-controlera-le-geant-de-l-armement-terrestre-a-parite-avec-la-france_6807842_3234.html",
       "pubDate": "2026-11-06T17:14:29.000Z",
       "description": "Berlin a trouvé un accord de principe avec la famille copropriétaire du groupe d’armement franco-allemand pour lui acheter la participation de 50 % qu’elle détient dans l’entreprise. L’Etat allemand rejoint donc l’Etat français, déjà propriétaire de la moitié du capital de KNDS.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Une nouvelle vague d’alertes à la bombe vise des vols commerciaux en Europe ainsi que des médias",
-      "link": "https://www.lemonde.fr/international/article/2026/11/06/alertes-a-la-bombe-quatre-vols-commerciaux-survolant-la-france-se-sont-poses-sans-encombre_6807787_3210.html",
-      "pubDate": "2026-11-06T12:41:25.000Z",
-      "description": "Au moins vingt vols, principalement exploités par des compagnies à bas coût, avaient déjà été visés jeudi, après plusieurs fausses alertes en début de semaine.",
       "sourceKey": "geo"
     }
   ]
