@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T19:15:23.417Z",
+  "generatedAt": "2026-11-27T02:14:11.131Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,13 @@
     }
   ],
   "items": [
+    {
+      "title": "En Europe, seules la France et la Pologne s’inquiètent du réarmement allemand",
+      "link": "https://www.lemonde.fr/international/article/2026/11/26/en-europe-seules-la-france-et-la-pologne-s-inquietent-du-rearmement-allemand_6815598_3210.html",
+      "pubDate": "2026-11-26T20:02:57.000Z",
+      "description": "Selon une étude du German Marshall Fund, publiée jeudi et intitulée « la question allemande revisitée », la grande majorité des pays européens soutiennent, voire encouragent, les ambitions de Berlin en matière de défense.",
+      "sourceKey": "geo"
+    },
     {
       "title": "Les forces françaises ont reçu leurs premiers drones intercepteurs GOBI Zephyr, commandés il y a deux mois",
       "link": "https://www.opex360.com/2026/11/26/les-forces-francaises-ont-recu-leurs-premiers-drones-intercepteurs-gobi-zephyr/",
@@ -406,13 +413,6 @@
       "link": "https://www.lemonde.fr/international/article/2026/11/06/alertes-a-la-bombe-quatre-vols-commerciaux-survolant-la-france-se-sont-poses-sans-encombre_6807787_3210.html",
       "pubDate": "2026-11-06T12:41:25.000Z",
       "description": "Au moins vingt vols, principalement exploités par des compagnies à bas coût, avaient déjà été visés jeudi, après plusieurs fausses alertes en début de semaine.",
-      "sourceKey": "geo"
-    },
-    {
-      "title": "Ce que l’on sait des alertes à la bombe qui ont perturbé le trafic aérien en Europe",
-      "link": "https://www.lemonde.fr/international/article/2026/11/05/ce-que-l-on-sait-des-alertes-a-la-bombe-qui-ont-perturbe-le-trafic-aerien-en-europe_6806848_3211.html",
-      "pubDate": "2026-11-05T14:29:47.000Z",
-      "description": "A midi jeudi, douze vols avaient été visés par des alertes à la bombe, ont signalé plusieurs autorités et compagnies. Tous les vols se sont posés en sécurité, ont-elles confirmé.",
       "sourceKey": "geo"
     }
   ]
