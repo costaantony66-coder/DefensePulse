@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T02:25:42.175Z",
+  "generatedAt": "2026-11-28T10:49:33.079Z",
   "sources": [
     {
       "key": "opex",
@@ -23,6 +23,34 @@
     }
   ],
   "items": [
+    {
+      "title": "Vite, vite une usine… !",
+      "link": "https://armees.com/bonnes-feuilles-sophie-de-menthon-vite-une-usine/",
+      "pubDate": "2026-11-28T08:24:00.000Z",
+      "description": "Bonnes feuilles — Dans cet extrait de son livre « Mais qui a bien pu décider ça ? » (VA Éditions, pages 33 à 35 du manuscrit de référence), Sophie de Menthon revient sur la souveraineté industrielle et les capacités de production stratégique à travers l’exemple d’une usine de masques sanitaires.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "En 1693, un fermier labourant un champ a trouvé un ornement médiéval en or : cet objet demeure aujourd’hui l’un des plus précieux de la monarchie anglaise",
+      "link": "https://armees.com/en-1693-un-fermier-labourant-un-champ-a-trouve-un-ornement-medieval-en-or-cet-objet-demeure-aujourdhui-lun-des-plus-precieux-de-la-monarchie-anglaise/",
+      "pubDate": "2026-11-28T07:05:00.000Z",
+      "description": "Un bijou d'or vieux de plus de mille ans, retrouvé sous une charrue en 1693, cache le secret d'un roi résistant aux Vikings. Son usage réel ? Bien plus surprenant qu'un simple ornement.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "La Finlande, la Lituanie, les Pays-Bas, la Norvège et la Suède débloquent 6 milliards de dollars pour 400 véhicules de combat",
+      "link": "https://armees.com/la-finlande-la-lituanie-les-pays-bas-la-norvege-et-la-suede-debloquent-6-milliards-de-dollars-pour-400-vehicules-de-combat/",
+      "pubDate": "2026-11-28T06:35:20.000Z",
+      "description": "6 milliards de dollars, 430 blindés, cinq pays unis. Derrière ce contrat record avec BAE Systems se cache une stratégie militaire qui redessine la défense du Grand Nord face à la Russie.",
+      "sourceKey": "armees_com"
+    },
+    {
+      "title": "Pour persuader la Suisse d’acquérir son bouclier antimissile au lieu de celui d’Israël, la France lui offre la possibilité de co-développer le système",
+      "link": "https://armees.com/pour-persuader-la-suisse-dacquerir-son-bouclier-antimissile-au-lieu-de-celui-disrael-la-france-lui-offre-la-possibilite-de-co-developper-le-systeme/",
+      "pubDate": "2026-11-28T06:05:03.000Z",
+      "description": "Franco-israélien, Patriot en retard, référendum décisif dans deux jours : la Suisse joue gros sur sa défense aérienne. Paris met la pression pour décrocher le contrat du SAMP/T NG avant 2029.",
+      "sourceKey": "armees_com"
+    },
     {
       "title": "Le ministère néerlandais de la Défense veut commander deux hélicoptères NH90 NFH supplémentaires",
       "link": "https://www.opex360.com/2026/11/27/le-ministere-neerlandais-de-la-defense-veut-commander-deux-helicopteres-nh90-nfh-supplementaires/",
@@ -199,39 +227,11 @@
       "sourceKey": "opex"
     },
     {
-      "title": "Corée du Nord : 400 millions de dollars volés en cryptomonnaies au moyen d’appels vidéo truqués",
-      "link": "https://armees.com/coree-du-nord-cyberattaque-400-millions-dollars-voles/",
-      "pubDate": "2026-11-26T15:23:28.000Z",
-      "description": "Des hackers nord-coréens ont dérobé 400 millions de dollars en cryptomonnaies via des appels vidéo truqués générés par intelligence artificielle, selon le FBI. Bien au-delà d'un simple braquage numérique, cette offensive révèle une stratégie de guerre économique orchestrée par Pyongyang pour contourner l'embargo international et financer son programme militaire. Les deepfakes vidéo deviennent une arme géopolitique qui menace l'intégrité des systèmes d'authentification occidentaux.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Sous-marins nucléaires : Londres engage 8,7 milliards de livres pour accélérer leur maintenance",
-      "link": "https://armees.com/sous-marins-nucleaires-babcock-contrat-maintenance-royal-navy/",
-      "pubDate": "2026-11-26T13:01:00.000Z",
-      "description": "Le Royaume-Uni prépare de nouveaux sous-marins, mais il doit aussi parvenir à remettre plus rapidement en service ceux dont il dispose. Le 26 novembre 2026, Babcock a annoncé la signature d'un accord historique destiné à améliorer la disponibilité de la flotte nucléaire de la Royal Navy.",
-      "sourceKey": "armees_com"
-    },
-    {
-      "title": "Libye : l’Italie envisage de renforcer la sécurité de ses 200 militaires",
-      "link": "https://armees.com/libye-italie-renforcement-securite-200-militaires-miasit/",
-      "pubDate": "2026-11-26T12:05:32.000Z",
-      "description": "L'Italie pourrait renforcer les mesures de protection de ses militaires déployés en Libye. Les attaques ukrainiennes contre des navires russes à Benghazi, le 22 novembre 2026, conduisent Rome à réexaminer les conditions de sécurité de la mission bilatérale MIASIT.",
-      "sourceKey": "armees_com"
-    },
-    {
       "title": "L’Ukraine souhaiterait obtenir entre dix et vingt anciens Eurofighter F-2000 auprès de l’Italie",
       "link": "https://www.opex360.com/2026/11/26/lukraine-souhaiterait-obtenir-entre-dix-et-vingt-anciens-eurofighter-f-2000-aupres-de-litalie/",
       "pubDate": "2026-11-26T12:01:34.000Z",
       "description": "La semaine passée, lors d’une d’une réunion du groupe de contact sur la défense de l’Ukraine [UDCG, encore appelé «groupe de Ramstein»], lequel comprend un quarantaine de pays, le président ukrainien, Volodymyr Zelenski a demandé la livraison rapide d’au moins quarante chasseurs-bombardiers F-16 supplémentaires pour renforcer sa force aérienne. Et cela alors que celle-ci n’en...\nCet article L’Ukraine souhaiterait obtenir entre dix et vingt anciens Eurofighter F-2000 auprès de l’Italie est apparu en premier sur Zone Militaire.",
       "sourceKey": "opex"
-    },
-    {
-      "title": "Aide militaire à l’Ukraine, qui finance le matériel ?",
-      "link": "https://armees.com/aide-militaire-ukraine-financement-materiels-formation-piliers/",
-      "pubDate": "2026-11-26T11:22:55.000Z",
-      "description": "L'aide militaire à l'Ukraine se finance par plusieurs canaux. Voici comment la France et l’Union européenne prennent en charge le matériel et la formation.",
-      "sourceKey": "armees_com"
     },
     {
       "title": "Un missile balistique « manoeuvrant » et « à coût raisonnable » dans le viseur de la DGA",
